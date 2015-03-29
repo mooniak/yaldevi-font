@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1426958788
-ModificationTime: 1427391600
+ModificationTime: 1427391626
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -39,6 +39,7 @@ OS2XHeight: 0
 OS2Vendor: 'PfEd'
 DEI: 91125
 Encoding: Custom
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -96
@@ -63,7 +64,7 @@ Grid
 -803.138671875 1300 m 0
  -803.138671875 -700 l 1024
 EndSplineSet
-BeginChars: 73 23
+BeginChars: 73 22
 
 StartChar: si_Ta
 Encoding: 0 -1 0
@@ -327,24 +328,24 @@ StartChar: ta_Pa
 Encoding: 6 -1 6
 Width: 560
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 Fore
 SplineSet
-424 540 m 1
+412 540 m 1
  512 540 l 1
  512 0 l 1
- 424 0 l 1
- 424 540 l 1
+ 412 0 l 1
+ 412 540 l 1
 49 0 m 1
- 49 88 l 1
- 512 88 l 1
+ 49 101 l 5
+ 512 101 l 5
  512 0 l 1
  49 0 l 1
 45 540 m 1
- 133 540 l 1
- 133 0 l 1
+ 146 540 l 1
+ 146 0 l 1
  45 0 l 1
  45 540 l 1
 EndSplineSet
@@ -731,35 +732,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.28
-Encoding: 28 -1 18
-Width: 560
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-412 540 m 1
- 512 540 l 1
- 512 0 l 1
- 412 0 l 1
- 412 540 l 1
-49 0 m 1
- 49 101 l 5
- 512 101 l 5
- 512 0 l 1
- 49 0 l 1
-45 540 m 1
- 146 540 l 1
- 146 0 l 1
- 45 0 l 1
- 45 540 l 1
-EndSplineSet
-EndChar
-
 StartChar: ta_Va
-Encoding: 29 -1 19
+Encoding: 29 -1 18
 Width: 754
 VWidth: 0
 Flags: HW
@@ -794,7 +768,7 @@ EndSplineSet
 EndChar
 
 StartChar: NameMe.30
-Encoding: 30 -1 20
+Encoding: 30 -1 19
 Width: 369
 VWidth: 0
 Flags: HW
@@ -825,7 +799,7 @@ EndSplineSet
 EndChar
 
 StartChar: NameMe.31
-Encoding: 31 -1 21
+Encoding: 31 -1 20
 Width: 551
 VWidth: 0
 Flags: HW
@@ -873,7 +847,7 @@ EndSplineSet
 EndChar
 
 StartChar: NameMe.31
-Encoding: 31 -1 22
+Encoding: 31 -1 21
 Width: 525
 VWidth: 0
 Flags: HW
