@@ -38,7 +38,6 @@ OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: Original
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
@@ -85,7 +84,7 @@ Grid
 -1024 546 m 0,38,-1
  4339 546 l 1024
 EndSplineSet
-BeginChars: 21 19
+BeginChars: 19 19
 
 StartChar: glyph11
 Encoding: 0 105 0
@@ -110,7 +109,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_A
-Encoding: 2 3461 1
+Encoding: 1 3461 1
 Width: 605
 VWidth: 0
 Flags: HW
@@ -149,7 +148,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_U
-Encoding: 3 3467 2
+Encoding: 2 3467 2
 Width: 561
 VWidth: 0
 Flags: HW
@@ -171,7 +170,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0DCA
-Encoding: 4 3530 3
+Encoding: 3 3530 3
 Width: 6
 VWidth: 0
 Flags: W
@@ -190,7 +189,7 @@ EndSplineSet
 EndChar
 
 StartChar: W
-Encoding: 5 87 4
+Encoding: 4 87 4
 Width: 560
 VWidth: 0
 Flags: HMW
@@ -219,7 +218,7 @@ EndSplineSet
 EndChar
 
 StartChar: X
-Encoding: 6 88 5
+Encoding: 5 88 5
 Width: 690
 VWidth: 0
 Flags: HMW
@@ -251,7 +250,7 @@ EndSplineSet
 EndChar
 
 StartChar: Y
-Encoding: 7 89 6
+Encoding: 6 89 6
 Width: 741
 VWidth: 0
 Flags: HMW
@@ -289,7 +288,7 @@ EndSplineSet
 EndChar
 
 StartChar: Z
-Encoding: 8 90 7
+Encoding: 7 90 7
 Width: 774
 VWidth: 0
 Flags: HW
@@ -359,7 +358,7 @@ EndSplineSet
 EndChar
 
 StartChar: V
-Encoding: 9 86 8
+Encoding: 8 86 8
 Width: 587
 VWidth: 0
 Flags: HW
@@ -401,7 +400,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D82
-Encoding: 11 3458 9
+Encoding: 9 3458 9
 Width: 564
 VWidth: 0
 Flags: W
@@ -425,7 +424,7 @@ EndSplineSet
 EndChar
 
 StartChar: B
-Encoding: 12 66 10
+Encoding: 10 66 10
 Width: 714
 VWidth: 0
 Flags: HW
@@ -461,7 +460,7 @@ EndSplineSet
 EndChar
 
 StartChar: C
-Encoding: 13 67 11
+Encoding: 11 67 11
 Width: 565
 VWidth: 0
 Flags: HW
@@ -492,10 +491,10 @@ EndSplineSet
 EndChar
 
 StartChar: D
-Encoding: 14 68 12
+Encoding: 12 68 12
 Width: 624
 VWidth: 0
-Flags: HW
+Flags: HWO
 HStem: 0 122<166.584 243.473 378.94 460.147> 307.551 84.4473<21.0146 75.1465 174.183 246.655>
 VStem: 47.0146 106.338<134.908 289.206> 263.649 95.9104<140.379 249.5>
 LayerCount: 2
@@ -598,7 +597,7 @@ EndSplineSet
 EndChar
 
 StartChar: E
-Encoding: 15 69 13
+Encoding: 13 69 13
 Width: 843
 VWidth: 0
 Flags: HMW
@@ -785,7 +784,7 @@ EndSplineSet
 EndChar
 
 StartChar: F
-Encoding: 16 70 14
+Encoding: 14 70 14
 Width: 401
 VWidth: 0
 Flags: HW
@@ -820,7 +819,7 @@ EndSplineSet
 EndChar
 
 StartChar: G
-Encoding: 17 71 15
+Encoding: 15 71 15
 Width: 590
 VWidth: 0
 Flags: HW
@@ -858,7 +857,7 @@ EndSplineSet
 EndChar
 
 StartChar: I
-Encoding: 18 73 16
+Encoding: 16 73 16
 Width: 623
 VWidth: 0
 Flags: HW
@@ -907,7 +906,7 @@ EndSplineSet
 EndChar
 
 StartChar: U
-Encoding: 19 85 17
+Encoding: 17 85 17
 Width: 893
 VWidth: 0
 Flags: HW
@@ -1033,7 +1032,7 @@ EndSplineSet
 EndChar
 
 StartChar: NameMe.17
-Encoding: 20 -1 18
+Encoding: 18 -1 18
 Width: 666
 VWidth: 0
 Flags: HW
