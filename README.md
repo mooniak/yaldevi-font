@@ -7,7 +7,7 @@ Ayanna Narrow Font
 ===================
 
 Still developing :) But the idea is to make a bit narrow title font family for Sinhala and Tamil
-
+See [Milestones](https://github.com/mooniak/ayanna-narrow/milestones) and [Timeline Doc](https://docs.google.com/spreadsheets/d/12LgQqddWW1LMT8-frl6HvcehzbF9l0qVn4VNqxoZT8Q/edit?usp=sharing) for development plans.
 
 ## Repository Structure
 
