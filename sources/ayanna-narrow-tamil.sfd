@@ -1,9 +1,9 @@
 SplineFontDB: 3.0
-FontName: ayanna-tamil
-FullName: ayanna-tamil
-FamilyName: ayanna-tamil
+FontName: AyannaNarrowTamil-Bold
+FullName: AyannaNarrowTamil
+FamilyName: AyannaNarrowTamil
 OS2StyleName: "regular"
-Weight: Regular
+Weight: Bold
 Copyright: Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
 Version: 0.0
 ItalicAngle: 0
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435073185
+ModificationTime: 1435073308
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -65,6 +65,7 @@ Lookup: 1 0 0 "ss04" { "ss04-0"  } ['ss04' ('latn' <'dflt' > ) ]
 Lookup: 1 0 0 "ss03" { "ss03-0"  } ['ss03' ('latn' <'dflt' > ) ]
 Lookup: 1 0 0 "ss02" { "ss02-0"  } ['ss02' ('latn' <'dflt' > ) ]
 Lookup: 1 0 0 "ss01" { "ss01-0"  } ['ss01' ('latn' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "Licensed under the SIL Open Font License 1.1 (see file OFL.txt)" "" "" "" "" "Version 2.5.0" "" "" "" "" "" "" "" "" "" "" "ayanna-tamil" "tamil"
 PickledDataWithLists: "(dp1
@@ -149,13 +150,13 @@ aS'tm_Naal'
 p41
 aS'tm_VowelAa'
 p42
-asS'com.schriftgestaltung.fontMasterID'
+asS'com.schriftgestaltung.useNiceNames'
 p43
-S'D3669537-663F-4203-8192-BEB274270EE9'
-p44
-sS'com.schriftgestaltung.useNiceNames'
-p45
 I00
+sS'com.schriftgestaltung.fontMasterID'
+p44
+S'D3669537-663F-4203-8192-BEB274270EE9'
+p45
 s."
 Encoding: Custom
 Compacted: 1
@@ -165,6 +166,8 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 10 10 3
+BeginPrivate: 0
+EndPrivate
 Grid
 -1024 521.003112793 m 0
  2048 521.003112793 l 1024
@@ -1710,7 +1713,7 @@ Encoding: 33 2997 33
 GlifName: tm_V_a
 Width: 760
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Back
 Fore
