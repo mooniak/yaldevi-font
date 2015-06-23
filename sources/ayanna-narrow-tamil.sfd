@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435062596
+ModificationTime: 1435062861
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -1282,6 +1282,17 @@ Flags: HW
 LayerCount: 3
 Back
 Fore
+SplineSet
+415 520 m 257
+ 415 103 l 261
+ 155 103 l 261
+ 155 520 l 257
+ 50 520 l 257
+ 50 0 l 257
+ 520 0 l 257
+ 520 520 l 257
+ 415 520 l 257
+EndSplineSet
 PickledDataWithLists: "(dp1
 S'com.schriftgestaltung.Glyphs.ColorIndex'
 p2
@@ -1293,15 +1304,15 @@ p4
 s."
 Layer: 2
 SplineSet
-455 520 m 257
- 455 35 l 257
- 106 35 l 257
- 106 520 l 257
- 70 520 l 257
- 70 0 l 257
- 491 0 l 257
- 491 520 l 257
- 455 520 l 257
+455 520 m 261
+ 455 35 l 261
+ 106 35 l 261
+ 106 520 l 261
+ 70 520 l 261
+ 70 0 l 261
+ 491 0 l 261
+ 491 520 l 261
+ 455 520 l 261
 EndSplineSet
 EndChar
 
@@ -1699,7 +1710,7 @@ Encoding: 33 2997 33
 GlifName: tm_V_a
 Width: 756
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Back
 Fore
