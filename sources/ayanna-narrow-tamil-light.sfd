@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435154163
+ModificationTime: 1435154322
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -523,36 +523,36 @@ EndChar
 StartChar: tm_E
 Encoding: 5 2958 5
 GlifName: tm_E_
-Width: 750
+Width: 694
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 3
 Back
 Fore
 SplineSet
 299 521 m 256
- 134.361702128 520.04778157 34 402.924914676 34 242 c 256
- 34 92 92 -17 197 -17 c 256
- 268 -17 320 43 320 126 c 256
- 320 209 260 269 184 269 c 256
- 128 269 74 238 43 187 c 257
- 60 165 l 257
- 89 199 125 233 182 233 c 256
- 239 233 283 188 283 126 c 256
- 283 64 246 19 196 19 c 256
- 114 19 71 113 71 242 c 256
- 71 384.042801556 156.155778894 487 300 487 c 256
- 299 521 l 256
-725 521 m 257
- 725 487 l 257
- 300 487 l 257
+ 300 486 l 260
+ 156.155778894 486 71 383.463035019 71 242 c 256
+ 71 113 114 19 196 19 c 256
+ 246 19 283 64 283 126 c 256
+ 283 188 239 233 182 233 c 256
+ 125 233 89 199 60 165 c 257
+ 43 187 l 257
+ 74 238 128 269 184 269 c 256
+ 260 269 320 209 320 126 c 256
+ 320 43 268 -17 197 -17 c 256
+ 92 -17 34 92 34 242 c 256
+ 34 402.924914676 134.361702128 520.04778157 299 521 c 256
+668 521 m 257
+ 668 486 l 261
+ 300 486 l 261
  280 521 l 257
- 428.333333333 521 576.666666667 521 725 521 c 257
-575 1 m 257
- 539 1 l 257
- 539 521 l 257
- 575 521 l 257
- 575 1 l 257
+ 409.333333333 521 538.666666667 521 668 521 c 257
+568 1 m 257
+ 532 1 l 257
+ 532 521 l 257
+ 568 521 l 257
+ 568 1 l 257
 EndSplineSet
 PickledDataWithLists: "(dp1
 S'com.schriftgestaltung.Glyphs.ColorIndex'
@@ -596,7 +596,7 @@ EndChar
 StartChar: tm_Ee
 Encoding: 6 2959 6
 GlifName: tm_E_e
-Width: 750
+Width: 694
 VWidth: 0
 Flags: HW
 LayerCount: 3
@@ -2311,7 +2311,7 @@ Encoding: 33 2997 33
 GlifName: tm_V_a
 Width: 760
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
