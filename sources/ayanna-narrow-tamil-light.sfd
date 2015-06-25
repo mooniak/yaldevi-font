@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435236167
+ModificationTime: 1435236190
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -180,7 +180,7 @@ BeginChars: 69 36
 StartChar: tm_A
 Encoding: 0 2949 0
 GlifName: tm_A_
-Width: 726
+Width: 758
 VWidth: 0
 Flags: HWO
 LayerCount: 3
@@ -226,11 +226,11 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-677 -129 m 257
- 641 -129 l 257
- 641 521 l 257
- 677 521 l 257
- 677 -129 l 257
+707 -129 m 257
+ 671 -129 l 257
+ 671 521 l 257
+ 707 521 l 257
+ 707 -129 l 257
 542 152 m 24
  547 312 486 485 309 488 c 0
  262 489 216 451 217 395 c 0
@@ -244,8 +244,8 @@ SplineSet
  576 -12 441 -134 290 -134 c 256
  138 -134 60 -66 60 26 c 256
  60 109 120 165 206 165 c 257
- 649 165 l 257
- 649 126 l 257
+ 679 165 l 257
+ 679 126 l 257
  206 126 l 256
  137.747663551 126 97 79 97 26 c 256
  97 -72 217.246073298 -97 290 -97 c 256
@@ -355,7 +355,7 @@ EndChar
 StartChar: tm_Aa
 Encoding: 1 2950 1
 GlifName: tm_A_a
-Width: 726
+Width: 758
 VWidth: 0
 Flags: HW
 LayerCount: 3
