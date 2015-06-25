@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435236495
+ModificationTime: 1435236521
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -249,7 +249,7 @@ SplineSet
  186 126 l 256
  117.748046875 126 77 79 77 26 c 256
  77 -72 197.24609375 -97 270 -97 c 256
- 390 -97 518 15 522 152 c 24
+ 398 -97 518 15 522 152 c 24
 EndSplineSet
 PickledDataWithLists: "(dp1
 S'com.fontlab.hintData'
