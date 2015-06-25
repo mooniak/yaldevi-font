@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435154596
+ModificationTime: 1435233533
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -150,13 +150,13 @@ aS'tm_Naal'
 p41
 aS'tm_VowelAa'
 p42
-asS'com.schriftgestaltung.fontMasterID'
+asS'com.schriftgestaltung.useNiceNames'
 p43
-S'D3669537-663F-4203-8192-BEB274270EE9'
-p44
-sS'com.schriftgestaltung.useNiceNames'
-p45
 I00
+sS'com.schriftgestaltung.fontMasterID'
+p44
+S'D3669537-663F-4203-8192-BEB274270EE9'
+p45
 s."
 Encoding: Custom
 Compacted: 1
@@ -165,7 +165,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 10 5
+WinInfo: 0 8 2
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -182,20 +182,50 @@ Encoding: 0 2949 0
 GlifName: tm_A_
 Width: 1024
 VWidth: 0
-Flags: H
+Flags: HWO
 LayerCount: 3
 Back
 SplineSet
-220 363 m 256
- 220 313 261 272 311 272 c 256
- 361 272 402 313 402 363 c 256
- 402 413 361 454 311 454 c 256
- 261 454 220 413 220 363 c 256
-188 363 m 256
- 188 431 243 486 311 486 c 256
- 379 486 434 431 434 363 c 256
- 434 295 380 240 312 240 c 256
- 244 240 188 295 188 363 c 256
+220 363 m 260
+ 220 313 261 272 311 272 c 260
+ 361 272 402 313 402 363 c 260
+ 402 413 361 454 311 454 c 260
+ 261 454 220 413 220 363 c 260
+188 363 m 260
+ 188 431 243 486 311 486 c 260
+ 379 486 434 431 434 363 c 260
+ 434 295 380 240 312 240 c 260
+ 244 240 188 295 188 363 c 260
+638 501 m 261
+ 671 501 l 261
+ 671 -129 l 261
+ 638 -129 l 261
+ 638 501 l 261
+60 25 m 260
+ 60 108 120 165 206 165 c 262
+ 497 165 l 261
+ 490 147 l 261
+ 491 183 482 242 468 289 c 260
+ 442 378 381 451 300 466 c 261
+ 311 486 l 261
+ 423 486 476 375 499 297 c 260
+ 513 249 521 187 520 149 c 261
+ 506 165 l 261
+ 649 165 l 261
+ 649 132 l 261
+ 503 132 l 261
+ 519 146 l 261
+ 519 3 464 -134 290 -134 c 260
+ 138 -134 60 -67 60 25 c 260
+206 132 m 262
+ 141 132 92 89 92 27 c 260
+ 92 -77 200 -103 288 -103 c 260
+ 428 -103 489 13 490 143 c 261
+ 496 132 l 261
+ 206 132 l 262
+EndSplineSet
+Fore
+SplineSet
 638 501 m 257
  671 501 l 257
  671 -129 l 257
@@ -224,7 +254,6 @@ SplineSet
  496 132 l 257
  206 132 l 258
 EndSplineSet
-Fore
 PickledDataWithLists: "(dp1
 S'com.fontlab.hintData'
 p2
