@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435273244
+ModificationTime: 1435273496
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -561,7 +561,7 @@ Back
 Fore
 SplineSet
 568 0 m 257
- 288 -241 l 257
+ 290 -238 l 261
  266 -212 l 257
  532 15 l 257
  568 0 l 257
