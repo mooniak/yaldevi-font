@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435686983
+ModificationTime: 1435687084
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -2014,21 +2014,9 @@ Encoding: 563 2975 27
 GlifName: tm_T_ta
 Width: 723
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Back
-SplineSet
-85 0 m 257
- 85 35 l 257
- 692 35 l 257
- 692 0 l 257
- 85 0 l 257
-81 520 m 257
- 113 520 l 257
- 113 0 l 257
- 81 0 l 257
- 81 520 l 257
-EndSplineSet
 Fore
 SplineSet
 693 35 m 257
