@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435687432
+ModificationTime: 1435687495
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -164,7 +164,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 540 9 4
+WinInfo: 576 9 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1305,12 +1305,34 @@ EndChar
 StartChar: uni0BF3
 Encoding: 608 3059 14
 GlifName: tm_N_aal
-Width: 600
+Width: 772
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 3
 Back
 Fore
+SplineSet
+188 233 m 256
+ 245 233 289 188 289 126 c 256
+ 289 64 252 19 202 19 c 256
+ 120 19 77 113 77 242 c 256
+ 77 391 151 499 276 499 c 256
+ 399 499 471 395 471 251 c 256
+ 471 191 458 99 403 33 c 257
+ 403 0 l 257
+ 702 0 l 261
+ 666 35 l 261
+ 448 35 l 257
+ 500 111 508 202 508 251 c 256
+ 510 417 422 536 275 535 c 256
+ 129 534 40 411 40 242 c 256
+ 40 92 98 -17 203 -17 c 256
+ 274 -17 326 43 326 126 c 256
+ 326 209 266 269 190 269 c 256
+ 134 269 80 238 49 187 c 257
+ 66 165 l 257
+ 95 199 131 233 188 233 c 256
+EndSplineSet
 PickledDataWithLists: "(dp1
 S'com.schriftgestaltung.Glyphs.ColorIndex'
 p2
