@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435688021
+ModificationTime: 1435688083
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -163,7 +163,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 540 9 4
+WinInfo: 594 9 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -928,7 +928,7 @@ EndChar
 StartChar: uni0BF3
 Encoding: 608 3059 13
 GlifName: tm_N_aal
-Width: 654
+Width: 674
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -943,10 +943,10 @@ SplineSet
  399 499 471 400.451612903 471 264 c 256
  471 200.422018349 458 102.935779817 403 33 c 257
  403 0 l 257
- 634 0 l 257
- 634 35 l 257
+ 654 0 l 257
+ 654 35 l 257
  448 35 l 257
- 500.866666667 115.574074074 509 212.050925926 509 264 c 260
+ 500.866666667 115.574074074 509 212.050925926 509 264 c 256
  511.008583691 422.401408451 422.630901288 535.954225352 275 535 c 256
  129 534 40 411 40 242 c 256
  40 92 98 -17 203 -17 c 256
