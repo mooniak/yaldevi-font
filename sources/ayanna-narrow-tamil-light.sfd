@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435687495
+ModificationTime: 1435687855
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -1305,7 +1305,7 @@ EndChar
 StartChar: uni0BF3
 Encoding: 608 3059 14
 GlifName: tm_N_aal
-Width: 772
+Width: 654
 VWidth: 0
 Flags: HWO
 LayerCount: 3
@@ -1320,8 +1320,8 @@ SplineSet
  399 499 471 395 471 251 c 256
  471 191 458 99 403 33 c 257
  403 0 l 257
- 702 0 l 261
- 666 35 l 261
+ 634 0 l 257
+ 634 35 l 257
  448 35 l 257
  500 111 508 202 508 251 c 256
  510 417 422 536 275 535 c 256
