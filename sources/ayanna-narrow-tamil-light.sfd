@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435273600
+ModificationTime: 1435642954
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -150,22 +150,21 @@ aS'tm_Naal'
 p41
 aS'tm_VowelAa'
 p42
-asS'com.schriftgestaltung.useNiceNames'
+asS'com.schriftgestaltung.fontMasterID'
 p43
-I00
-sS'com.schriftgestaltung.fontMasterID'
-p44
 S'D3669537-663F-4203-8192-BEB274270EE9'
+p44
+sS'com.schriftgestaltung.useNiceNames'
 p45
+I00
 s."
 Encoding: sinhala-final
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 8 2
+WinInfo: 540 9 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -175,7 +174,7 @@ Grid
  2048 261.333333333 l 1024
 EndSplineSet
 AnchorClass2: "Anchor-4" "" "Anchor-0" "" "Anchor-1" "" 
-BeginChars: 65549 36
+BeginChars: 65538 36
 
 StartChar: uni0B85
 Encoding: 546 2949 0
@@ -1722,9 +1721,9 @@ EndChar
 StartChar: uni0BB0
 Encoding: 571 2992 22
 GlifName: tm_R_a
-Width: 1024
+Width: 600
 VWidth: 0
-Flags: H
+Flags: HWO
 LayerCount: 3
 Back
 SplineSet
@@ -1750,6 +1749,22 @@ SplineSet
  502 0 l 257
 EndSplineSet
 Fore
+SplineSet
+197 520 m 257
+ 197 485 l 257
+ 572 485 l 1
+ 572 520 l 257
+ 197 520 l 257
+106 0 m 257
+ 107 485 l 257
+ 376 485 l 257
+ 375 0 l 257
+ 411 0 l 257
+ 412 520 l 257
+ 71 520 l 257
+ 70 0 l 257
+ 106 0 l 257
+EndSplineSet
 PickledDataWithLists: "(dp1
 S'com.schriftgestaltung.Glyphs.ColorIndex'
 p2
@@ -1791,28 +1806,6 @@ sg11
 I35
 sass."
 Layer: 2
-SplineSet
-476 25 m 257
- 502 0 l 257
- 206 -295 l 257
- 181 -270 l 257
- 476 25 l 257
-113 0 m 257
- 80 0 l 257
- 80 520 l 257
- 113 520 l 257
- 113 0 l 257
-497 520 m 257
- 497 485 l 257
- 80 485 l 257
- 80 520 l 257
- 497 520 l 257
-502 0 m 257
- 469 0 l 257
- 469 520 l 257
- 502 520 l 257
- 502 0 l 257
-EndSplineSet
 EndChar
 
 StartChar: uni0BB1
