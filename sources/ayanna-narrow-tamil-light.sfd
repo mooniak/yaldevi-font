@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
 FontName: AyannaNarrowTamil-Light
-FullName: AyannaNarrowTamil
-FamilyName: AyannaNarrowTamil
+FullName: AyannaNarrowTamil-Light
+FamilyName: AyannaNarrowTamil-Light
 OS2StyleName: "regular"
 Weight: Light
 Copyright: Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435642996
+ModificationTime: 1435686883
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -67,7 +67,7 @@ Lookup: 1 0 0 "ss02" { "ss02-0"  } ['ss02' ('latn' <'dflt' > ) ]
 Lookup: 1 0 0 "ss01" { "ss01-0"  } ['ss01' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "Licensed under the SIL Open Font License 1.1 (see file OFL.txt)" "" "" "" "" "Version 2.5.0" "" "" "" "" "" "" "" "" "" "" "ayanna-tamil" "tamil"
+LangName: 1033 "Licensed under the SIL Open Font License 1.1 (see file OFL.txt)" "" "Medium" "" "" "Version 2.5.0" "" "" "" "" "" "" "" "" "" "" "ayanna-tamil" "tamil"
 PickledDataWithLists: "(dp1
 S'com.schriftgestaltung.weight'
 p2
@@ -150,13 +150,13 @@ aS'tm_Naal'
 p41
 aS'tm_VowelAa'
 p42
-asS'com.schriftgestaltung.useNiceNames'
+asS'com.schriftgestaltung.fontMasterID'
 p43
-I00
-sS'com.schriftgestaltung.fontMasterID'
-p44
 S'D3669537-663F-4203-8192-BEB274270EE9'
+p44
+sS'com.schriftgestaltung.useNiceNames'
 p45
+I00
 s."
 Encoding: sinhala-final
 UnicodeInterp: none
@@ -164,7 +164,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 540 9 4
+WinInfo: 531 9 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -181,7 +181,7 @@ Encoding: 546 2949 0
 GlifName: tm_A_
 Width: 776
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 3
 Back
 SplineSet
@@ -232,12 +232,12 @@ SplineSet
  706 -129 l 257
 524 176 m 0
  529.397992323 318.355441531 460.954357874 489.178571429 286 492 c 0
- 237.976127932 492.784148828 190.97826087 459.376344086 192 410 c 4
- 192.82 373.688888889 218.431067961 334.844444444 274 334 c 0
- 349.718981778 332.845332413 374.092592593 425.658959538 368 491 c 257
+ 237.976127932 492.784148828 190.97826087 459.376344086 192 410 c 0
+ 192.82 373.211111111 218.431067961 333.855555555 274 333 c 4
+ 349.718981778 331.837977842 374.092592593 425.242774567 368 491 c 257
  396 488 l 257
  418.368421053 398.428571429 362.894736842 298.904761905 277 298 c 0
- 207.041958042 297.138461538 155 346.246153846 155 410 c 4
+ 207.041958042 297.138461538 155 346.246153846 155 410 c 0
  154.014925373 477.613636364 219.030719585 528.699636063 287 529 c 0
  485.343283582 529.941333333 565.089552239 341.674666667 561 176 c 24
  557.979238754 -1.76223776224 422.044982699 -134 270 -134 c 256
@@ -1750,24 +1750,24 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-412 0 m 261
- 134 -238 l 261
- 110 -212 l 261
- 376 15 l 261
- 412 0 l 261
+411 0 m 261
+ 133 -238 l 261
+ 109 -212 l 261
+ 375 15 l 261
+ 411 0 l 261
 197 520 m 257
- 197 485 l 257
- 572 485 l 1
  572 520 l 257
+ 572 485 l 1
+ 197 485 l 257
  197 520 l 257
 106 0 m 257
- 107 485 l 257
- 376 485 l 257
- 375 0 l 257
- 411 0 l 257
- 412 520 l 257
- 71 520 l 257
  70 0 l 257
+ 71 520 l 257
+ 412 520 l 257
+ 411 0 l 257
+ 375 0 l 257
+ 376 485 l 257
+ 107 485 l 257
  106 0 l 257
 EndSplineSet
 PickledDataWithLists: "(dp1
