@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435642954
+ModificationTime: 1435642996
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -560,11 +560,11 @@ LayerCount: 3
 Back
 Fore
 SplineSet
-568 0 m 257
+568 0 m 261
  290 -238 l 261
- 266 -212 l 257
- 532 15 l 257
- 568 0 l 257
+ 266 -212 l 261
+ 532 15 l 261
+ 568 0 l 261
 EndSplineSet
 Refer: 3 2958 N 1 0 0 1 0 -1 2
 PickledDataWithLists: "(dp1
@@ -1750,6 +1750,11 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
+412 0 m 261
+ 134 -238 l 261
+ 110 -212 l 261
+ 376 15 l 261
+ 412 0 l 261
 197 520 m 257
  197 485 l 257
  572 485 l 1
