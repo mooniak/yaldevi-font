@@ -4625,7 +4625,7 @@ unicode = 0BAF;
 {
 color = 6;
 glyphname = uni0B88;
-lastChange = "2015-06-30 19:48:37 +0000";
+lastChange = "2015-06-30 19:56:01 +0000";
 layers = (
 {
 layerId = "D3669537-663F-4203-8192-BEB274270EE9";
@@ -4703,9 +4703,14 @@ public.markColor = "0,0.67,0.91,1";
 },
 {
 color = 6;
-glyphname = "ii-tamil.001";
-lastChange = "2015-06-30 19:49:49 +0000";
+glyphname = uni0B88;
+lastChange = "2015-06-30 19:56:17 +0000";
 layers = (
+{
+layerId = "87B562BD-1D1E-41FF-8F85-6D1C99B2B712";
+name = Bold;
+width = 600;
+},
 {
 layerId = "D3669537-663F-4203-8192-BEB274270EE9";
 name = Light;
@@ -4768,13 +4773,9 @@ nodes = (
 }
 );
 width = 602;
-},
-{
-layerId = "87B562BD-1D1E-41FF-8F85-6D1C99B2B712";
-name = Bold;
-width = 600;
 }
 );
+unicode = 0B88;
 userData = {
 public.markColor = "0,0.67,0.91,1";
 };
