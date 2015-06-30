@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435687408
+ModificationTime: 1435687432
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -174,7 +174,7 @@ Grid
  2048 261.333333333 l 1024
 EndSplineSet
 AnchorClass2: "Anchor-4" "" "Anchor-0" "" "Anchor-1" "" 
-BeginChars: 65538 36
+BeginChars: 65545 36
 
 StartChar: uni0B85
 Encoding: 546 2949 0
@@ -793,36 +793,9 @@ Encoding: 549 2952 6
 GlifName: tm_I_i
 Width: 602
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Back
-SplineSet
-563 287 m 260
- 563 307 580 324 600 324 c 260
- 620 324 637 307 637 287 c 260
- 637 267 620 250 600 250 c 260
- 580 250 563 267 563 287 c 260
-313 287 m 260
- 313 307 330 324 350 324 c 260
- 370 324 387 307 387 287 c 260
- 387 267 370 250 350 250 c 260
- 330 250 313 267 313 287 c 260
-165 1 m 257
- 132 1 l 257
- 132 521 l 257
- 165 521 l 257
- 165 1 l 257
-699 521 m 257
- 699 486 l 257
- 132 486 l 257
- 132 521 l 257
- 699 521 l 257
-503 1 m 257
- 471 1 l 257
- 471 521 l 257
- 503 521 l 257
- 503 1 l 257
-EndSplineSet
 Fore
 SplineSet
 474.200195312 277 m 256
@@ -860,33 +833,6 @@ S'0,0.67,0.91,1'
 p4
 s."
 Layer: 2
-SplineSet
-563 287 m 256
- 563 307 580 324 600 324 c 256
- 620 324 637 307 637 287 c 256
- 637 267 620 250 600 250 c 256
- 580 250 563 267 563 287 c 256
-313 287 m 256
- 313 307 330 324 350 324 c 256
- 370 324 387 307 387 287 c 256
- 387 267 370 250 350 250 c 256
- 330 250 313 267 313 287 c 256
-165 1 m 257
- 132 1 l 257
- 132 521 l 257
- 165 521 l 257
- 165 1 l 257
-699 521 m 257
- 699 486 l 257
- 132 486 l 257
- 132 521 l 257
- 699 521 l 257
-503 1 m 257
- 471 1 l 257
- 471 521 l 257
- 503 521 l 257
- 503 1 l 257
-EndSplineSet
 EndChar
 
 StartChar: uni0B9C
