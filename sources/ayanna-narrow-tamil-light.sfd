@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1435688130
+ModificationTime: 1435688175
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -158,12 +158,13 @@ p45
 I00
 s."
 Encoding: sinhala-final
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 549 9 4
+WinInfo: 0 9 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -353,16 +354,16 @@ SplineSet
  320 43 268 -17 197 -17 c 260
  92 -17 34 92 34 242 c 260
  34 402.924914676 134.361702128 520.04778157 299 521 c 260
-668 521 m 257
- 668 486 l 257
- 300 486 l 257
- 280 521 l 257
- 409.333333333 521 538.666666667 521 668 521 c 257
-568 1 m 257
- 532 1 l 257
- 532 521 l 257
- 568 521 l 257
- 568 1 l 257
+668 521 m 261
+ 668 486 l 261
+ 300 486 l 261
+ 295 521 l 261
+ 419.333333333 521 543.666666667 521 668 521 c 261
+568 1 m 261
+ 532 1 l 261
+ 532 521 l 261
+ 568 521 l 261
+ 568 1 l 261
 EndSplineSet
 PickledDataWithLists: "(dp1
 S'com.schriftgestaltung.Glyphs.ColorIndex'
@@ -706,7 +707,7 @@ Encoding: 574 2995 9
 GlifName: tm_L_la
 Width: 694
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 SplineSet
