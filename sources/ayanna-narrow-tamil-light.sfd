@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1436110685
+ModificationTime: 1436117575
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -150,30 +150,30 @@ aS'tm_Naal'
 p41
 aS'tm_VowelAa'
 p42
-asS'com.schriftgestaltung.fontMasterID'
+asS'com.schriftgestaltung.useNiceNames'
 p43
-S'D3669537-663F-4203-8192-BEB274270EE9'
-p44
-sS'com.schriftgestaltung.useNiceNames'
-p45
 I00
+sS'com.schriftgestaltung.fontMasterID'
+p44
+S'D3669537-663F-4203-8192-BEB274270EE9'
+p45
 s."
-Encoding: sinhala-final
+Encoding: Custom
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 14 7
+WinInfo: 0 12 6
 BeginPrivate: 0
 EndPrivate
 Grid
-1467 822 m 4
- -90 -636 l 1028
+1399 888 m 0
+ -158 -570 l 1024
   Named: "1"
-1327 821 m 0
- -230 -637 l 1024
+1259 887 m 0
+ -298 -571 l 1024
   Named: "1"
 -1024 535 m 0
  2048 535 l 1024
@@ -190,10 +190,10 @@ Grid
  2048 261.333333333 l 1024
 EndSplineSet
 AnchorClass2: "Anchor-4" "" "Anchor-0" "" "Anchor-1" "" 
-BeginChars: 65567 34
+BeginChars: 291 33
 
 StartChar: uni0B85
-Encoding: 546 2949 0
+Encoding: 256 2949 0
 GlifName: tm_A_
 Width: 776
 VWidth: 0
@@ -291,7 +291,7 @@ sass."
 EndChar
 
 StartChar: uni0B86
-Encoding: 547 2950 1
+Encoding: 257 2950 1
 GlifName: tm_A_a
 Width: 758
 VWidth: 0
@@ -336,10 +336,11 @@ sass."
 EndChar
 
 StartChar: uni0B8E
-Encoding: 552 2958 2
+Encoding: 258 2958 2
 GlifName: tm_E_
 Width: 694
 VWidth: 0
+InSpiro: 1
 Flags: W
 HStem: -17 36<142.421 244.433> 1 21G<532 568> 233 36<117.148 238.159> 486 35<208.872 668>
 VStem: 34 37<115.107 346.148> 283 37<58.919 187.892> 532 36<1 521>
@@ -373,29 +374,78 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-299 521 m 260xbe
- 300 486 l 260
- 156.155778894 486 71 383.463035019 71 242 c 260
- 71 113 114 19 196 19 c 260
- 246 19 283 64 283 126 c 260
- 283 188 239 233 182 233 c 260
- 125 233 89 199 60 165 c 261
- 43 187 l 261
- 74 238 128 269 184 269 c 260
- 260 269 320 209 320 126 c 260
- 320 43 268 -17 197 -17 c 260
- 92 -17 34 92 34 242 c 260
- 34 402.924914676 134.361702128 520.04778157 299 521 c 260xbe
-668 521 m 261
- 668 486 l 261
- 300 486 l 261
- 295 521 l 261
- 419.333333333 521 543.666666667 521 668 521 c 261
-568 1 m 261x7e
- 532 1 l 261
- 532 521 l 261
- 568 521 l 261
- 568 1 l 261x7e
+299 521 m 256xbe
+ 300 486 l 256
+ 156.155778894 486 71 383.463035019 71 242 c 256
+ 71 113 114 19 196 19 c 256
+ 246 19 283 64 283 126 c 256
+ 283 188 239 233 182 233 c 256
+ 125 233 89 199 60 165 c 257
+ 43 187 l 257
+ 74 238 128 269 184 269 c 256
+ 260 269 320 209 320 126 c 256
+ 320 43 268 -17 197 -17 c 256
+ 92 -17 34 92 34 242 c 256
+ 34 402.924914676 134.361702128 520.04778157 299 521 c 256xbe
+  Spiro
+    299 521 o
+    300 486 o
+    176.801 454.238 o
+    98.3512 368.023 o
+    71 242 o
+    85.157 126.951 o
+    127.204 48.0921 o
+    196 19 o
+    240.739 32.9361 o
+    271.578 70.7513 o
+    283 126 o
+    269.507 181.249 o
+    233.474 219.064 o
+    182 233 o
+    131.526 222.945 o
+    91.8166 197.711 o
+    60 165 v
+    43 187 v
+    80.8449 230.889 o
+    129.497 259.094 o
+    184 269 o
+    252.977 250.406 o
+    301.665 199.899 o
+    320 126 o
+    303.92 52.1006 o
+    260.39 1.59376 o
+    197 -17 o
+    108.147 16.7497 o
+    52.8885 108.3 o
+    34 242 o
+    66.0545 385.52 o
+    157.242 484.075 o
+    0 0 z
+  EndSpiro
+668 521 m 257
+ 668 486 l 257
+ 300 486 l 257
+ 295 521 l 257
+ 419.333333333 521 543.666666667 521 668 521 c 257
+  Spiro
+    668 521 v
+    668 486 v
+    300 486 v
+    295 521 v
+    0 0 z
+  EndSpiro
+568 1 m 257x7e
+ 532 1 l 257
+ 532 521 l 257
+ 568 521 l 257
+ 568 1 l 257x7e
+  Spiro
+    568 1 v
+    532 1 v
+    532 521 v
+    568 521 v
+    0 0 z
+  EndSpiro
 EndSplineSet
 PickledDataWithLists: "(dp1
 S'com.schriftgestaltung.Glyphs.ColorIndex'
@@ -409,21 +459,21 @@ s."
 EndChar
 
 StartChar: uni0B8F
-Encoding: 553 2959 3
+Encoding: 259 2959 3
 GlifName: tm_E_e
 Width: 694
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -18 36<142.421 244.433> 0 21G<532 568> 232 36<117.148 238.159> 485 35<208.872 668>
 VStem: 34 37<114.107 345.148> 283 37<57.919 186.892> 532 36<0 520>
 LayerCount: 2
 Back
 SplineSet
-589 0 m 257x7e
- 362 -213 l 257
- 296 -145 l 257
- 484 33 l 257
- 589 0 l 257x7e
+589 0 m 261x7e
+ 334 -238.46875 l 261
+ 268 -170.46875 l 261
+ 484 32 l 261
+ 589 0 l 261x7e
 298 520 m 1
  676 520 l 1
  676 417 l 1
@@ -452,8 +502,8 @@ EndSplineSet
 Fore
 SplineSet
 568 0 m 257x7e
- 290 -238 l 257
- 266 -212 l 257
+ 336 -221 l 257
+ 313 -197 l 257
  532 15 l 257
  568 0 l 257x7e
 EndSplineSet
@@ -470,7 +520,7 @@ s."
 EndChar
 
 StartChar: uni0B87
-Encoding: 548 2951 4
+Encoding: 260 2951 4
 GlifName: tm_I_
 Width: 1024
 VWidth: 0
@@ -609,7 +659,7 @@ sass."
 EndChar
 
 StartChar: uni0B88
-Encoding: 549 2952 5
+Encoding: 261 2952 5
 GlifName: tm_I_i
 Width: 602
 VWidth: 0
@@ -683,7 +733,7 @@ s."
 EndChar
 
 StartChar: uni0B9C
-Encoding: 561 2972 6
+Encoding: 262 2972 6
 GlifName: tm_J_a
 Width: 854
 VWidth: 0
@@ -694,7 +744,7 @@ Fore
 EndChar
 
 StartChar: uni0B95
-Encoding: 558 2965 7
+Encoding: 263 2965 7
 GlifName: tm_K_a
 Width: 655
 VWidth: 0
@@ -705,7 +755,7 @@ Fore
 EndChar
 
 StartChar: uni0BB2
-Encoding: 573 2994 8
+Encoding: 264 2994 8
 GlifName: tm_L_a
 Width: 1024
 VWidth: 0
@@ -794,32 +844,32 @@ sass."
 EndChar
 
 StartChar: uni0BB3
-Encoding: 574 2995 9
+Encoding: 265 2995 9
 GlifName: tm_L_la
 Width: 892
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -17 36<148.421 250.433> 233 36<123.148 244.159> 499 36<185.399 330.208>
 VStem: 40 37<115.107 363.81> 289 37<58.919 187.892>
 LayerCount: 2
 Back
 SplineSet
-65 180 m 257
- 98.4179402372 240.329125675 140.107721259 277 217 277 c 256
- 298.588992011 277 363 213.642578125 363 126 c 256
- 363 41.8395046658 308.313217625 -19 212 -19 c 256
+65 172 m 257
+ 98.4179402372 232.304723669 146.107721259 277 217 277 c 256
+ 298.588992011 277 363 221.541830505 363 131 c 256
+ 363 43.9374186198 308.313217625 -19 212 -19 c 256
  97.9817482035 -19 35 90.8417480469 35 242 c 256
- 35 411 128.544558938 534 282 535 c 256
- 447.295555811 536.077156696 545.751916782 416.20969484 544 249 c 256
- 439 251 l 256
- 439 346.075481912 384.073396382 429 283 429 c 256
- 188.151337595 429 132 350.415944786 132 242 c 256
+ 35 411 127.037181189 533.161328667 278 535 c 256
+ 469.880220785 537.343613348 543.748129252 368.086989177 544 179 c 256
+ 439 224 l 256
+ 439.025641026 324.575741681 393.280406546 429 279 429 c 256
+ 186.663884943 429 132 350.415944786 132 242 c 256
  132 145.972815225 159.519755747 76 212 76 c 256
  244.18359375 76 268 97.8692079741 268 128 c 256
  268 161.607421875 244.911223235 186 215 186 c 256
- 158.214445347 186 124.722997607 140.423076923 109 107 c 257
- 65 180 l 257
-439 1 m 5
+ 164.214445347 186 124.722997607 140.423076923 109 107 c 257
+ 65 172 l 257
+439 1 m 1
  439 521 l 1
  897 521 l 1
  897 418 l 1
@@ -829,7 +879,7 @@ SplineSet
  705 418 l 1
  544 418 l 1
  544 1 l 1
- 439 1 l 5
+ 439 1 l 1
 EndSplineSet
 Fore
 SplineSet
@@ -847,7 +897,7 @@ SplineSet
  441 520 l 257
  440 0 l 257
  476 0 l 257
-49 187 m 261
+49 187 m 257
  66 165 l 257
  95 199 131 233 188 233 c 256
  245 233 289 188 289 126 c 256
@@ -861,7 +911,7 @@ SplineSet
  40 92 98 -17 203 -17 c 256
  274 -17 326 43 326 126 c 256
  326 209 266 269 190 269 c 256
- 134 269 80 238 49 187 c 261
+ 134 269 80 238 49 187 c 257
 EndSplineSet
 PickledDataWithLists: "(dp1
 S'com.schriftgestaltung.Glyphs.ColorIndex'
@@ -875,7 +925,7 @@ s."
 EndChar
 
 StartChar: uni0BB4
-Encoding: 575 2996 10
+Encoding: 266 2996 10
 GlifName: tm_L_lla
 Width: 1024
 VWidth: 0
@@ -959,7 +1009,7 @@ sass."
 EndChar
 
 StartChar: uni0BAE
-Encoding: 569 2990 11
+Encoding: 267 2990 11
 GlifName: tm_M_a
 Width: 682
 VWidth: 0
@@ -1008,7 +1058,7 @@ sass."
 EndChar
 
 StartChar: uni0BA8
-Encoding: 566 2984 12
+Encoding: 268 2984 12
 GlifName: tm_N_a
 Width: 657
 VWidth: 0
@@ -1019,7 +1069,7 @@ Fore
 EndChar
 
 StartChar: uni0BF3
-Encoding: 608 3059 13
+Encoding: 269 3059 13
 GlifName: tm_N_aal
 Width: 674
 VWidth: 0
@@ -1085,7 +1135,7 @@ s."
 EndChar
 
 StartChar: uni0B99
-Encoding: 559 2969 14
+Encoding: 270 2969 14
 GlifName: tm_N_ga
 Width: 897
 VWidth: 0
@@ -1096,7 +1146,7 @@ Fore
 EndChar
 
 StartChar: uni0BA3
-Encoding: 564 2979 15
+Encoding: 271 2979 15
 GlifName: tm_N_na
 Width: 1303
 VWidth: 0
@@ -1107,7 +1157,7 @@ Fore
 EndChar
 
 StartChar: uni0BA9
-Encoding: 567 2985 16
+Encoding: 272 2985 16
 GlifName: tm_N_nna
 Width: 993
 VWidth: 0
@@ -1118,7 +1168,7 @@ Fore
 EndChar
 
 StartChar: uni0B9E
-Encoding: 562 2974 17
+Encoding: 273 2974 17
 GlifName: tm_N_ya
 Width: 1100
 VWidth: 0
@@ -1129,7 +1179,7 @@ Fore
 EndChar
 
 StartChar: uni0B92
-Encoding: 555 2962 18
+Encoding: 274 2962 18
 GlifName: tm_O_
 Width: 1024
 VWidth: 0
@@ -1229,7 +1279,7 @@ sass."
 EndChar
 
 StartChar: uni0B93
-Encoding: 556 2963 19
+Encoding: 275 2963 19
 GlifName: tm_O_o
 Width: 1024
 VWidth: 0
@@ -1284,7 +1334,7 @@ Fore
 EndChar
 
 StartChar: uni0BAA
-Encoding: 568 2986 20
+Encoding: 276 2986 20
 GlifName: tm_P_a
 Width: 561
 VWidth: 0
@@ -1326,7 +1376,7 @@ s."
 EndChar
 
 StartChar: uni0BB0
-Encoding: 571 2992 21
+Encoding: 277 2992 21
 GlifName: tm_R_a
 Width: 532
 VWidth: 0
@@ -1337,9 +1387,9 @@ LayerCount: 2
 Back
 SplineSet
 451 0 m 261
- 230 -215 l 261
- 158 -145 l 261
- 346 33 l 261
+ 196 -238.46875 l 261
+ 130 -170.46875 l 261
+ 346 32 l 261
  451 0 l 261
 165 0 m 1
  60 0 l 1
@@ -1356,21 +1406,21 @@ EndSplineSet
 Fore
 SplineSet
 411 0 m 261
- 187 -231 l 261
- 163 -208 l 261
+ 179 -221 l 261
+ 156 -197 l 261
  375 15 l 261
  411 0 l 261
-106 0 m 5
- 70 0 l 5
- 71 520 l 5
- 512 520 l 5
- 512 485 l 5
- 411.932692308 485 l 5
- 411 0 l 5
- 375 0 l 5
- 376 485 l 5
- 107 485 l 5
- 106 0 l 5
+106 0 m 1
+ 70 0 l 1
+ 71 520 l 1
+ 512 520 l 1
+ 512 485 l 1
+ 411.932692308 485 l 1
+ 411 0 l 1
+ 375 0 l 1
+ 376 485 l 1
+ 107 485 l 1
+ 106 0 l 1
 EndSplineSet
 PickledDataWithLists: "(dp1
 S'com.schriftgestaltung.Glyphs.ColorIndex'
@@ -1415,7 +1465,7 @@ sass."
 EndChar
 
 StartChar: uni0BB1
-Encoding: 572 2993 22
+Encoding: 278 2993 22
 GlifName: tm_R_ra
 Width: 1024
 VWidth: 0
@@ -1462,7 +1512,7 @@ Fore
 EndChar
 
 StartChar: uni0BB6
-Encoding: 577 2998 23
+Encoding: 279 2998 23
 GlifName: tm_S_ha
 Width: 1024
 VWidth: 0
@@ -1509,7 +1559,7 @@ Fore
 EndChar
 
 StartChar: uni0BB7
-Encoding: 578 2999 24
+Encoding: 280 2999 24
 GlifName: tm_S_sa
 Width: 1146
 VWidth: 0
@@ -1520,7 +1570,7 @@ Fore
 EndChar
 
 StartChar: uni0BA4
-Encoding: 565 2980 25
+Encoding: 281 2980 25
 GlifName: tm_T_a
 Width: 667
 VWidth: 0
@@ -1531,31 +1581,31 @@ Fore
 EndChar
 
 StartChar: uni0B9F
-Encoding: 563 2975 26
+Encoding: 282 2975 26
 GlifName: tm_T_ta
-Width: 723
+Width: 703
 VWidth: 0
 Flags: W
 LayerCount: 2
 Back
 SplineSet
-693 103 m 261
- 175 103 l 261
+673 103 m 257
+ 175 103 l 257
  175 520 l 257
  70 520 l 257
  70 0 l 257
- 693 0 l 257
- 693 103 l 261
+ 673 0 l 257
+ 673 103 l 257
 EndSplineSet
 Fore
 SplineSet
-693 35 m 261
- 106 35 l 261
- 106 520 l 261
- 70 520 l 261
- 70 0 l 261
- 693 0 l 261
- 693 35 l 261
+673 35 m 257
+ 106 35 l 257
+ 106 520 l 257
+ 70 520 l 257
+ 70 0 l 257
+ 673 0 l 257
+ 673 35 l 257
 EndSplineSet
 PickledDataWithLists: "(dp1
 S'com.schriftgestaltung.Glyphs.ColorIndex'
@@ -1569,7 +1619,7 @@ s."
 EndChar
 
 StartChar: uni0B8A
-Encoding: 551 2954 27
+Encoding: 283 2954 27
 GlifName: tm_U_u
 Width: 1024
 VWidth: 0
@@ -1615,24 +1665,24 @@ Fore
 EndChar
 
 StartChar: uni0BB5
-Encoding: 576 2997 28
+Encoding: 284 2997 28
 GlifName: tm_V_a
 Width: 771
 VWidth: 0
-Flags: HWO
+Flags: W
 HStem: -17 36<148.421 250.433> 233 36<123.148 244.159> 499 36<199.098 353.809>
 VStem: 40 37<115.107 357.718> 289 37<58.919 187.892> 471 37<129.698 365.548>
 LayerCount: 2
 Back
 SplineSet
-61 222 m 257
- 105 142 l 257
- 120.256418532 169.560096154 155.023942049 192 193 192 c 256
- 230.81230107 192 260 168.448545259 260 136 c 256
- 260 104.710331358 233.740174411 82 207 82 c 256
- 148.03147833 82 132 149.443677326 132 242 c 256
- 132 353.633824482 184.663884943 438 279 438 c 256
- 382.017115543 438 438 350.882669201 438 251 c 256
+65 216 m 257
+ 105 132 l 257
+ 120.776523709 165.072115385 156.72930371 192 196 192 c 256
+ 232.119212962 192 260 168.925175108 260 130 c 256
+ 260 96.0280845907 233.740174411 80 207 80 c 256
+ 146.993157174 80 128 148.286723293 128 242 c 256
+ 128 353.633824482 184.191556538 438 282 438 c 256
+ 383.073396382 438 438 350.882669201 438 251 c 256
  438 199.197459724 420.107208807 137.429833075 392 93 c 257
  392 0 l 257
  728 0 l 257
@@ -1645,8 +1695,8 @@ SplineSet
  122.059450581 539.972696245 27 409.614334471 27 240 c 256
  27 87.6834472656 91.0492354612 -23 207 -23 c 256
  303.951053504 -23 359 39.517835829 359 126 c 256
- 359 218.866307947 288.412593985 286 199 286 c 256
- 141.102584253 286 89.5241825838 257.186227249 61 222 c 257
+ 359 234.757551221 285.679857848 289 202 289 c 256
+ 144.522130744 289 93.3174856086 256.134290456 65 216 c 257
 EndSplineSet
 Fore
 SplineSet
@@ -1692,7 +1742,7 @@ Substitution2: "ss01-0" uni0BB5.ss01
 EndChar
 
 StartChar: uni0B83
-Encoding: 545 2947 29
+Encoding: 285 2947 29
 GlifName: tm_V_isarga
 Width: 1024
 VWidth: 0
@@ -1734,47 +1784,41 @@ Fore
 EndChar
 
 StartChar: uni0BBE
-Encoding: 581 3006 30
+Encoding: 286 3006 30
 GlifName: tm_V_owelA_a
-Width: 532
+Width: 642
 VWidth: 0
 Flags: W
-HStem: 0 21G<70 106.041 375 411.038> 485 35<107 512>
-VStem: 70 36<0 485> 375 36<0 485>
+HStem: 0 21G<180 216.041 485 521.038> 485 35<217 486 521.933 622>
+VStem: 180 36<0 485> 485 36<0 485>
 LayerCount: 2
 Back
 SplineSet
-187 520 m 261
- 538 520 l 261
- 538 420 l 5
- 187 420 l 261
- 187 520 l 261
-165 0 m 261
- 60 0 l 261
- 60 520 l 261
- 451 520 l 261
- 451 0 l 261
- 346 0 l 261
- 346 420 l 261
- 165 420 l 261
- 165 0 l 261
+165 0 m 1
+ 60 0 l 1
+ 60 520 l 1
+ 538 520 l 1
+ 538 420 l 1
+ 451 420 l 1
+ 451 0 l 1
+ 346 0 l 1
+ 346 420 l 1
+ 165 420 l 1
+ 165 0 l 1
 EndSplineSet
 Fore
 SplineSet
-197 520 m 257
- 512 520 l 257
- 512 485 l 5
- 197 485 l 261
- 197 520 l 257
-106 0 m 257
- 70 0 l 257
- 71 520 l 257
- 412 520 l 257
- 411 0 l 257
- 375 0 l 257
- 376 485 l 261
- 107 485 l 261
- 106 0 l 257
+216 0 m 1
+ 180 0 l 1
+ 181 520 l 1
+ 622 520 l 1
+ 622 485 l 1
+ 521.932617188 485 l 1
+ 521 0 l 1
+ 485 0 l 1
+ 486 485 l 1
+ 217 485 l 1
+ 216 0 l 1
 EndSplineSet
 PickledDataWithLists: "(dp1
 S'com.schriftgestaltung.Glyphs.ColorIndex'
@@ -1788,7 +1832,7 @@ s."
 EndChar
 
 StartChar: uni0BAF
-Encoding: 570 2991 31
+Encoding: 287 2991 31
 GlifName: tm_Y_a
 Width: 1024
 VWidth: 0
@@ -1826,7 +1870,7 @@ Fore
 EndChar
 
 StartChar: uni0BED
-Encoding: 602 3053 32
+Encoding: 288 3053 32
 Width: 694
 VWidth: 0
 Flags: W
@@ -1883,41 +1927,6 @@ SplineSet
  532 521 l 257x7d
  568 521 l 257
  568 1 l 261x7e
-EndSplineSet
-EndChar
-
-StartChar: NameMe.23
-Encoding: 65566 -1 33
-Width: 771
-Flags: W
-HStem: -17 36 233 36 499 36
-VStem: 40 37 289 37 471 37
-LayerCount: 2
-Back
-Fore
-SplineSet
-193 192 m 0
- 231 192 260 168 260 136 c 0
- 260 105 234 82 207 82 c 0
- 150 82 132 149 132 242 c 0
- 132 354 187 435 279 435 c 0
- 382 435 438 349 438 251 c 0
- 438 199 420 137 392 93 c 1
- 392 0 l 1
- 728 0 l 1
- 728 521 l 1
- 623 521 l 1
- 623 103 l 1
- 512 103 l 1
- 532 143 542 202 542 249 c 0
- 544 420 445 542 278 541 c 0
- 122 540 27 414 27 242 c 0
- 27 89 91 -23 207 -23 c 0
- 304 -23 359 40 359 126 c 0
- 359 218 288 285 199 285 c 0
- 141 285 90 257 61 222 c 1
- 105 142 l 1
- 120 170 155 192 193 192 c 0
 EndSplineSet
 EndChar
 EndChars
