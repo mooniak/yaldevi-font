@@ -45,7 +45,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 10 4
+WinInfo: 0 9 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1141,7 +1141,7 @@ StartChar: si_TI
 Encoding: 13 -1 13
 Width: 506
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Back
 SplineSet
@@ -1261,7 +1261,7 @@ StartChar: NameMe.15
 Encoding: 15 -1 15
 Width: 548
 VWidth: 0
-Flags: HWO
+Flags: HW
 HStem: -1.16211 30<199.755 357.988> 394.06 20<155.697 316.257> 566.062 30<172.58 274.201 417.662 466>
 VStem: 43.2549 32<157.085 304.027> 101.468 32<405.627 526.125> 347.306 32<331.227 374 464.185 501.014> 452.338 32<422.441 562.287> 465.587 32<408.251 517.788>
 LayerCount: 2
