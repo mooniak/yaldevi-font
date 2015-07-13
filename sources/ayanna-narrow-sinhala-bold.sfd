@@ -1,11 +1,11 @@
 SplineFontDB: 3.0
-FontName: AyannaNarrowSinhala
+FontName: AyannaNarrowSinhala-ExtraBold
 FullName: AyannaNarrow
 FamilyName: AyannaNarrow
 Weight: ExtraBold
 Copyright: Copyright (c) 2015, mooniak
 UComments: "2015-3-5: Created with FontForge (http://fontforge.org)"
-Version: 001
+Version: pre
 ItalicAngle: 0
 UnderlinePosition: -102
 UnderlineWidth: 51
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425560291
-ModificationTime: 1436704102
+ModificationTime: 1436810630
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,7 +46,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 154
-WinInfo: 0 14 5
+WinInfo: 0 8 2
 BeginPrivate: 0
 EndPrivate
 Grid
