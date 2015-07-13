@@ -1,5 +1,5 @@
 script: bash ./deploy-gh-pages.sh
 env:
   global:
-  - GH_REF: github.com/mooniak/stick-no-bills-font.git
-  - secure: K6psI//4UKQZsJula80W86CkyyzZQLGewiyxaYTovd9FkEEOzgqL3SA8oyOyEqD1tGlBl7/58COlN/tVEur5C8GTT2bX94iiomS26tfEM2Nha7V59vAcIR/mXlM+mn8didYxipc4TFlTAduXHKd0WGVlh1kYX18uS4h72Yer4Fg=
+  - GH_REF: github.com/mooniak/ayanna-narrow.git
+  - secure: kGxu2vz6vSIPzDnKT9rigVam9PqBpyPRKhBDkGh2b+pypF1i3Gq34L++brcDNBgtNL0VsV47KX588VVRzLW1CDWgamQTvjUeHBjLPPmQheOyoEYGehP0ETE5E16aOBCkMM0eK4OW/XwpGpJCh2uvkkS2alYNUHm6sKrZs4WDbME=
