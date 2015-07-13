@@ -6,7 +6,7 @@ Weight: ExtraBold
 Copyright: Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
 Version: pre
 ItalicAngle: 0
-UnderlinePosition: 0
+UnderlinePosition: -102
 UnderlineWidth: 0
 Ascent: 819
 Descent: 205
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1435046519
-ModificationTime: 1436816324
+ModificationTime: 1436816566
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -385,7 +385,7 @@ LayerCount: 3
 Back
 Fore
 SplineSet
-210 -23 m 256
+210 -23 m 256x7e
  94 -23 30 88 30 240 c 256
  30 414 130 540 291 541 c 256
  450 542 547 419 545 249 c 256
@@ -404,7 +404,7 @@ SplineSet
  68 216 l 257
  98 258 156 289 205 289 c 256
  296 289 362 225 362 136 c 256
- 362 44 298 -23 210 -23 c 256
+ 362 44 298 -23 210 -23 c 256x7e
 EndSplineSet
 Layer: 2
 SplineSet
@@ -469,7 +469,7 @@ EndChar
 StartChar: uni0BB0
 Encoding: 16 2992 6
 Width: 532
-Flags: MW
+Flags: HMW
 HStem: 0 21G<60 165 60 60 346 346 346 451 451 451> 485 35
 VStem: 70 36 376 36
 LayerCount: 3
@@ -478,8 +478,8 @@ Fore
 SplineSet
 451 0 m 1
  196 -238 l 1
- 130 -170 l 1
- 346 32 l 1
+ 124 -163 l 1
+ 346 42 l 1
  451 0 l 1
 165 0 m 1
  60 0 l 1
