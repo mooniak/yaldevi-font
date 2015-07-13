@@ -23,7 +23,7 @@ body {
 
 .grid {
 	width: 100%;
-	max-width: 1140px;
+	max-width: 95%;
 	min-width: 755px;
 	margin: 0 auto;
 	overflow: hidden;
@@ -182,7 +182,7 @@ body {
 		padding-left: 20px; /* grid-space to left */
 		padding-right: 10px; /* grid-space to right: (grid-space-left - column-space) e.g. 20px-10px=10px */
 	}
-	
+
 	[class*='col-'] {
 		width: auto;
 		float: none;
@@ -193,10 +193,10 @@ body {
 		padding-left: 0px;
 		padding-right: 10px; /* column-space */
 	}
-	
-	
+
+
 	/* Mobile Layout */
-	
+
 	[class*='mobile-col-'] {
 		float: left;
 		margin-left: 0px;
@@ -207,7 +207,7 @@ body {
 		padding-right: 10px; /* column-space */
 		padding-bottom: 0px;
 	}
-	
+
 	.mobile-col-1-1 {
 		width: 100%;
 	}
@@ -280,7 +280,7 @@ body {
 	.mobile-col-7-12 {
 		width: 58.33%
 	}
-	
+
 	.hide-on-mobile {
 		display: none !important;
 		width: 0;
