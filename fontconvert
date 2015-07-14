@@ -6,38 +6,38 @@ import optparse
 
 # print 'ARGV      :', sys.argv[1:]
 parser = optparse.OptionParser()
-parser.add_option('-w', '--woff', 
-                  dest="woff", 
+parser.add_option('-w', '--woff',
+                  dest="woff",
                   action="store_true",
                   default=False,
                   help='Save in WOFF format (.woff)'
                   )
-parser.add_option('-o', '--otf', 
-                  dest="otf", 
+parser.add_option('-o', '--otf',
+                  dest="otf",
                   action="store_true",
                   default=False,
                   help='Save in OpenType format (.otf)'
                   )
-parser.add_option('-t', '--ttf', 
-                  dest="ttf", 
+parser.add_option('-t', '--ttf',
+                  dest="ttf",
                   action="store_true",
                   default=False,
                   help='Save in TrueType format (.ttf)'
                   )
-parser.add_option('-s', '--svg', 
-                  dest="svg", 
+parser.add_option('-s', '--svg',
+                  dest="svg",
                   action="store_true",
                   default=False,
                   help='Save in SVG Font format (.svg)'
                   )
-parser.add_option('-e', '--eot', 
-                  dest="eot", 
+parser.add_option('-e', '--eot',
+                  dest="eot",
                   action="store_true",
                   default=False,
                   help='Save in Embedded OpenType format (.eot)'
                   )
-parser.add_option('-u', '--ufo', 
-                  dest="ufo", 
+parser.add_option('-u', '--ufo',
+                  dest="ufo",
                   action="store_true",
                   default=False,
                   help='Save in UFO format (.ufo)'
