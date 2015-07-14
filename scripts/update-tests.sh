@@ -1,7 +1,5 @@
 #!/bin/bash
-
-
-cd ../sources/
+cd ../sources
 
 fontforge ../scripts/fontconvert AyannaNarrowSinhala-Light.sfd --tests/otf
 fontforge ../scripts/fontconvert AyannaNarrowSinhala-ExtraBold.sfd --otf
