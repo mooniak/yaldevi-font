@@ -2,7 +2,7 @@ before_script:
   - sudo add-apt-repository --yes ppa:fontforge/fontforge
   - sudo apt-get update -q
   - sudo apt-get install fontforge python-fontforge
-script: bash ./deploy-gh-pages.sh
+script: bash ./scripts/deploy-gh-pages.sh
 env:
   global:
   - GH_REF: github.com/mooniak/ayanna-narrow.git
