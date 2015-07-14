@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1436859539
+ModificationTime: 1436899035
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -150,13 +150,13 @@ aS'tm_Naal'
 p41
 aS'tm_VowelAa'
 p42
-asS'com.schriftgestaltung.fontMasterID'
+asS'com.schriftgestaltung.useNiceNames'
 p43
-S'D3669537-663F-4203-8192-BEB274270EE9'
-p44
-sS'com.schriftgestaltung.useNiceNames'
-p45
 I00
+sS'com.schriftgestaltung.fontMasterID'
+p44
+S'D3669537-663F-4203-8192-BEB274270EE9'
+p45
 s."
 Encoding: tamil
 Compacted: 1
@@ -1755,7 +1755,7 @@ StartChar: uni0BED
 Encoding: 59 3053 21
 Width: 694
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -17 36<142.421 244.433> 1 21G<532 568> 233 36<117.148 238.159>
 VStem: 34 37<115.107 346.148> 283 37<58.919 187.892> 532 36<1 486> 558 10<486 521>
 LayerCount: 2
@@ -1800,14 +1800,14 @@ SplineSet
  92 -17 34 92 34 242 c 256
  34 402.924914676 134.361702128 520.04778157 299 521 c 256xb8
 558 521 m 257x3a
- 295 521 l 257
- 300 486 l 257
  558 486 l 257
+ 300 486 l 257
+ 295 521 l 257
  558 521 l 257x3a
 568 1 m 261x7c
  532 1 l 261
- 532 521 l 257x7c
- 568 521 l 257x7a
+ 532 521 l 261x7c
+ 568 521 l 261x7a
  568 1 l 261x7c
 EndSplineSet
 EndChar
