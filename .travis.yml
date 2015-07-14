@@ -1,3 +1,7 @@
+before_script:
+  - sudo add-apt-repository --yes ppa:fontforge/fontforge
+  - sudo apt-get update -q
+  - sudo apt-get install fontforge python-fontforge
 script: bash ./scripts/deploy-gh-pages.sh
 env:
   global:
