@@ -1,9 +1,7 @@
-language: python
 before_script:
   - sudo add-apt-repository --yes ppa:fontforge/fontforge
   - sudo apt-get update -q
-  - sudo apt-get install python-fontforge
-  - python fontconvert ayanna-narrow-sinhala-bold.sfd --otf
+  - sudo apt-get install fontforge python-fontforge
 script: bash ./deploy-gh-pages.sh
 env:
   global:
