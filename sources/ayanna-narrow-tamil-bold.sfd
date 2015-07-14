@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1435046519
-ModificationTime: 1436870528
+ModificationTime: 1436875120
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -468,7 +468,7 @@ EndChar
 
 StartChar: uni0BB0
 Encoding: 5 2992 6
-Width: 558
+Width: 561
 Flags: HMW
 HStem: 0 21G<60 165 60 60 346 346 346 451 451 451> 485 35
 VStem: 70 36 376 36
@@ -484,8 +484,8 @@ SplineSet
 165 0 m 1
  60 0 l 1
  60 520 l 1
- 538 520 l 5
- 538 417 l 5
+ 541 520 l 1
+ 541 417 l 1
  451 417 l 1
  451 0 l 1
  346 0 l 1
