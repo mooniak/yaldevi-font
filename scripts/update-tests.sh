@@ -1,8 +1,9 @@
 #!/bin/bash
 
+
 cd ../sources/
 
-fontforge ../scripts/fontconvert AyannaNarrowSinhala-Light.sfd --otf
+fontforge ../scripts/fontconvert AyannaNarrowSinhala-Light.sfd --tests/otf
 fontforge ../scripts/fontconvert AyannaNarrowSinhala-ExtraBold.sfd --otf
 fontforge ../scripts/fontconvert AyannaNarrowTamil-ExtraBold.sfd --otf
 fontforge ../scripts/fontconvert AyannaNarrowTamil-Light.sfd --otf
