@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1435046519
-ModificationTime: 1436899887
+ModificationTime: 1436900016
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -111,8 +111,8 @@ SplineSet
  474 417 l 1
  393 417 l 1
  288 520 l 1
- 665 520 l 5
- 665 417 l 5
+ 665 520 l 1
+ 665 417 l 1
  579 417 l 1
  579 0 l 1
  474 0 l 1x3e
