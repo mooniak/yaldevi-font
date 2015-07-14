@@ -2,10 +2,10 @@
 
 cd ../sources/
 
-fontforge fontconvert ayanna-narrow-sinhala-light.sfd --otf
-fontforge fontconvert ayanna-narrow-sinhala-bold.sfd --otf
-fontforge fontconvert ayanna-narrow-tamil-light.sfd --otf
-fontforge fontconvert ayanna-narrow-tamil-bold.sfd  --otf
+fontforge ../scripts/fontconvert AyannaNarrowSinhala-Light.sfd --otf
+fontforge ../scripts/fontconvert AyannaNarrowSinhala-ExtraBold.sfd --otf
+fontforge ../scripts/fontconvert AyannaNarrowTamil-Light.sfd --otf
+fontforge ../scripts/fontconvert AyannaNarrowTamil-ExtraBold.sfd --otf
 
 mv *otf ../tests/fonts
 cd ../tests/
