@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425560291
-ModificationTime: 1436810453
+ModificationTime: 1436982190
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,16 +37,16 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2CapHeight: 0
 OS2XHeight: 0
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
-Encoding: sinhala_final
-Compacted: 1
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 9 7
+WinInfo: 0 8 2
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -66,10 +66,10 @@ Grid
  2048 93 l 1024
   Named: "Spike bottom"
 EndSplineSet
-BeginChars: 65540 11
+BeginChars: 11 11
 
 StartChar: uni0DA7
-Encoding: 33 3495 0
+Encoding: 1 3495 0
 Width: 506
 VWidth: 0
 Flags: W
@@ -79,26 +79,26 @@ LayerCount: 2
 Back
 Fore
 SplineSet
-39 596 m 1xec
- 60 673 122 744 220 744 c 0
- 424 744 449 491 449 377 c 0
+39 596 m 5xec
+ 60 673 122 744 220 744 c 4
+ 424 744 449 491 449 377 c 4
  449 263 445 0 221 0 c 0
  77 0 27 132 27 247 c 0
- 27 389 85 448 170 448 c 0
- 196 448 219 443 242 432 c 1
- 233 403 l 1
- 218 410 198 418 170 418 c 0
+ 27 389 85 448 170 448 c 4
+ 196 448 219 443 242 432 c 5
+ 233 403 l 5
+ 218 410 198 418 170 418 c 4
  86 417 59 341 59 247 c 0xf4
  59 158 94 30 225 30 c 0
- 395 30 417 237 417 377 c 0
- 417 512 381 714 221 714 c 0
- 117 714 81 627 68 586 c 1
- 39 596 l 1xec
+ 395 30 417 237 417 377 c 4
+ 417 512 381 714 221 714 c 4
+ 117 714 81 627 68 586 c 5
+ 39 596 l 5xec
 EndSplineSet
 EndChar
 
 StartChar: uni0DC3
-Encoding: 57 3523 1
+Encoding: 6 3523 1
 Width: 569
 VWidth: 0
 Flags: W
@@ -147,7 +147,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0DBD
-Encoding: 53 3517 2
+Encoding: 5 3517 2
 Width: 590
 VWidth: 0
 Flags: W
@@ -183,10 +183,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni0DAA
-Encoding: 36 3498 3
+Encoding: 2 3498 3
 Width: 607
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 30<137.215 225.532 360.456 450.057> 353 30.998<34.8633 87.9375 118.367 275.478> 499 30<143.61 216.567 352.265 471.866> 713 29.7793<212 240.887>
 VStem: 48.8633 32.0537<99.1087 286.177> 273.863 32<108 238.5> 525.803 32.1973<158.641 447.937>
 LayerCount: 2
@@ -210,7 +210,7 @@ SplineSet
  206.228515625 742.779296875 l 1
  218.8359375 744.673828125 228.661132812 745.529296875 242 745.55078125 c 0
  315.526367188 745.669921875 385.327148438 719.036132812 433.86328125 670.5 c 0
- 497.36328125 607 558.248046875 484.34375 558 300 c 0
+ 497.36328125 607 558.248046875 484.34375 558 300 c 4
  557.798828125 150.307617188 527.883789062 0 402.487304688 0 c 0
  341.499023438 0 308.141601562 41.08984375 292.477539062 87.58203125 c 1
  277.885742188 41.3505859375 246.272460938 0 186.487304688 0 c 0
@@ -236,7 +236,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0DAB
-Encoding: 37 3499 4
+Encoding: 3 3499 4
 Width: 879
 VWidth: 0
 Flags: HMW
@@ -313,7 +313,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uni0D85
-Encoding: 2 3461 5
+Encoding: 0 3461 5
 Width: 548
 VWidth: 0
 Flags: HMW
@@ -370,10 +370,12 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D82
-Encoding: 0 -1 6
-Width: 1024
+Encoding: 8 -1 6
+Width: 607
 VWidth: 0
-Flags: HM
+Flags: HMW
+HStem: -223.221 30.167<227.214 407.879> 0 30<153.32 240.847 376.456 466.057> 353 30.998<50.8633 103.938 134.367 291.478> 499 30<159.61 232.567 368.265 487.866> 713 29.7793<228 256.887>
+VStem: 64.8633 32.0537<99.1087 286.177> 95.6221 29.6885<-113.65 -15.0153> 289.863 32<108 238.5> 526.368 31.3701<-99.0804 29.1995> 541.803 32.1973<158.641 447.937>
 LayerCount: 2
 Back
 SplineSet
@@ -400,19 +402,6 @@ SplineSet
  246 38.8984375 l 5
  169 4.8984375 l 5
 EndSplineSet
-Fore
-Colour: ff0000
-EndChar
-
-StartChar: si_Dda.rakar
-Encoding: 65536 -1 7
-Width: 607
-VWidth: 0
-Flags: W
-HStem: -223.221 30.167<227.214 407.879> 0 30<153.32 240.847 376.456 466.057> 353 30.998<50.8633 103.938 134.367 291.478> 499 30<159.61 232.567 368.265 487.866> 713 29.7793<228 256.887>
-VStem: 64.8633 32.0537<99.1087 286.177> 95.6221 29.6885<-113.65 -15.0153> 289.863 32<108 238.5> 526.368 31.3701<-99.0804 29.1995> 541.803 32.1973<158.641 447.937>
-LayerCount: 2
-Back
 Fore
 SplineSet
 506 68 m 5xfb80
@@ -470,7 +459,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_TI
-Encoding: 248 -1 8
+Encoding: 7 -1 7
 Width: 506
 VWidth: 0
 Flags: W
@@ -507,7 +496,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_TI.rakar
-Encoding: 65537 -1 9
+Encoding: 9 -1 8
 Width: 506
 VWidth: 0
 Flags: W
@@ -556,7 +545,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0DAF
-Encoding: 41 3503 10
+Encoding: 4 3503 9
 Width: 419
 VWidth: 0
 Flags: W
@@ -595,6 +584,27 @@ SplineSet
  179.028320312 -9.6806640625 214 20 214 20 c 1
  204 27 l 1
  183 25.8984375 l 1
+EndSplineSet
+EndChar
+
+StartChar: NameMe.10
+Encoding: 10 49 10
+Width: 226
+Flags: W
+HStem: 0 21G<53 158>
+VStem: 53 105<0 377>
+LayerCount: 2
+Back
+Fore
+SplineSet
+31 503 m 1
+ 16 535 l 1
+ 122 590 l 1
+ 154 590 l 5
+ 154 0 l 5
+ 120 0 l 1
+ 120 548 l 1
+ 31 503 l 1
 EndSplineSet
 EndChar
 EndChars
