@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1435046519
-ModificationTime: 1437310740
+ModificationTime: 1437420560
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,212 +57,9 @@ OS2XHeight: 0
 OS2Vendor: 'ACE '
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80108003.00002042.00000000.00000000
-Lookup: 4 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-'akhn' Akhand lookup 0" { "AyannaNarrowTamil-Light-Lohit-Tamil-'akhn' Akhand lookup 0 subtable"  } ['akhn' ('taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 6 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-'abvs' Above Base Substitutions lookup 2" { "AyannaNarrowTamil-Light-Lohit-Tamil-'abvs' Above Base Substitutions lookup 2 subtable"  } ['abvs' ('taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 6 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 5" { "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 5 subtable"  } ['psts' ('taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 6 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 6" { "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 6 subtable"  } ['psts' ('taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 6 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 7" { "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 7 subtable"  } ['psts' ('taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 6 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 8" { "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 8 subtable"  } ['psts' ('taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 6 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 9" { "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 9 subtable"  } ['psts' ('taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 6 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 10" { "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 10 subtable"  } ['psts' ('taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 6 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 11" { "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 11 subtable"  } ['psts' ('taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 6 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 12" { "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 12 subtable"  } ['psts' ('taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 6 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-'ss01' Style Set 1 lookup 13" { "AyannaNarrowTamil-Light-Lohit-Tamil-'ss01' Style Set 1 lookup 13 contextual 0"  "AyannaNarrowTamil-Light-Lohit-Tamil-'ss01' Style Set 1 lookup 13 contextual 1"  "AyannaNarrowTamil-Light-Lohit-Tamil-'ss01' Style Set 1 lookup 13 contextual 2"  "AyannaNarrowTamil-Light-Lohit-Tamil-'ss01' Style Set 1 lookup 13 contextual 3"  } ['salt' ('taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 6 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15" { "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 0"  "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 1"  "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 2"  "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 3"  "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 4"  "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 5"  "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 6"  "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 7"  "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 8"  } ['salt' ('taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 6 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-'ss04' Style Set 4 lookup 16" { "AyannaNarrowTamil-Light-Lohit-Tamil-'ss04' Style Set 4 lookup 16 contextual 0"  "AyannaNarrowTamil-Light-Lohit-Tamil-'ss04' Style Set 4 lookup 16 contextual 1"  "AyannaNarrowTamil-Light-Lohit-Tamil-'ss04' Style Set 4 lookup 16 contextual 2"  "AyannaNarrowTamil-Light-Lohit-Tamil-'ss04' Style Set 4 lookup 16 contextual 3"  } ['salt' ('taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 1 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 17" { "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 17 subtable"  } []
-Lookup: 1 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 18" { "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 18 subtable"  } []
-Lookup: 1 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 19" { "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 19 subtable"  } []
-Lookup: 1 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 20" { "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 20 subtable"  } []
-Lookup: 1 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 21" { "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 21 subtable"  } []
-Lookup: 1 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 22" { "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 22 subtable"  } []
-Lookup: 1 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 23" { "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 23 subtable"  } []
-Lookup: 1 0 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24" { "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24 subtable"  } []
-Lookup: 260 0 0 "AyannaNarrowTamil-Light-'abvm' Above Base Mark lookup 1" { "AyannaNarrowTamil-Light-'abvm' Above Base Mark lookup 1-1"  } ['abvm' ('DFLT' <'dflt' > 'latn' <'dflt' > 'taml' <'dflt' > ) ]
+Lookup: 260 0 0 "Mark to base attachment in Tamil lookup 0" { "Mark to base attachment in Tamil lookup 0-1"  } ['abvm' ('DFLT' <'dflt' > 'taml' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss04' Style Set 4 lookup 16 contextual 3" 0 0 0 1
- 1 0 1
-  Coverage: 11 tml_MatraAi
-  FCoverage: 7 tml_Lla
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss04' Style Set 4 lookup 16 contextual 2" 0 0 0 1
- 1 0 1
-  Coverage: 11 tml_MatraAi
-  FCoverage: 6 tml_La
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss04' Style Set 4 lookup 16 contextual 1" 0 0 0 1
- 1 0 1
-  Coverage: 11 tml_MatraAi
-  FCoverage: 8 tml_Nnna
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss04' Style Set 4 lookup 16 contextual 0" 0 0 0 1
- 1 0 1
-  Coverage: 11 tml_MatraAi
-  FCoverage: 7 tml_Nna
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 8" 0 0 0 1
- 1 1 0
-  Coverage: 11 tml_MatraIi
-  BCoverage: 6 tml_Ca
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 7" 0 0 0 1
- 1 1 0
-  Coverage: 11 tml_MatraIi
-  BCoverage: 6 tml_Ta
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 6" 0 0 0 1
- 1 1 0
-  Coverage: 11 tml_MatraIi
-  BCoverage: 6 tml_Ka
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 5" 0 0 0 1
- 1 1 0
-  Coverage: 15 tml_MatraI.alt4
-  BCoverage: 6 tml_Ca
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 4" 0 0 0 1
- 1 1 0
-  Coverage: 15 tml_MatraI.alt5
-  BCoverage: 6 tml_Ta
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 3" 0 0 0 1
- 1 1 0
-  Coverage: 15 tml_MatraI.alt5
-  BCoverage: 6 tml_Ka
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 2" 0 0 0 1
- 1 1 0
-  Coverage: 10 tml_MatraI
-  BCoverage: 6 tml_Ca
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 10 tml_MatraI
-  BCoverage: 6 tml_Ta
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss03' Style Set 3 lookup 15 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 10 tml_MatraI
-  BCoverage: 6 tml_Ka
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss01' Style Set 1 lookup 13 contextual 3" 0 0 0 1
- 1 0 1
-  Coverage: 6 tml_Ra
-  FCoverage: 11 tml_MatraIi
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 23"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss01' Style Set 1 lookup 13 contextual 2" 0 0 0 1
- 1 0 1
-  Coverage: 6 tml_Ra
-  FCoverage: 10 tml_MatraI
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 23"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss01' Style Set 1 lookup 13 contextual 1" 0 0 0 1
- 1 0 1
-  Coverage: 6 tml_Ra
-  FCoverage: 12 tml_Anusvara
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 23"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'ss01' Style Set 1 lookup 13 contextual 0" 0 0 0 1
- 1 0 1
-  Coverage: 6 tml_Ra
-  FCoverage: 10 tml_Virama
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 23"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 12 subtable" 0 0 0 1
- 1 1 0
-  Coverage: 10 tml_MatraU
-  BCoverage: 28 tml_Nga tml_Pa tml_Ya tml_Va
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 23"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 11 subtable" 0 0 0 1
- 1 1 0
-  Coverage: 10 tml_MatraI
-  BCoverage: 28 tml_Nga tml_Pa tml_Ya tml_Va
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 23"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 10 subtable" 0 0 0 1
- 1 1 0
-  Coverage: 10 tml_MatraI
-  BCoverage: 14 tml_Nya tml_Na
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 22"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 9 subtable" 0 0 0 1
- 1 1 0
-  Coverage: 10 tml_MatraI
-  BCoverage: 13 tml_Ka tml_Ta
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 21"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 8 subtable" 0 0 0 1
- 1 1 0
-  Coverage: 10 tml_MatraI
-  BCoverage: 6 tml_Ca
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 20"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 7 subtable" 0 0 0 1
- 1 1 0
-  Coverage: 10 tml_MatraI
-  BCoverage: 13 tml_La tml_Sa
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 19"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 6 subtable" 0 0 0 1
- 1 1 0
-  Coverage: 10 tml_MatraI
-  BCoverage: 45 tml_Ja tml_Ma tml_Rra tml_Llla tml_Sha tml_Ha
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 18"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'psts' Post Base Substitutions lookup 5 subtable" 0 0 0 1
- 1 1 0
-  Coverage: 10 tml_MatraI
-  BCoverage: 16 tml_Ssa tml_KSsa
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 17"
-EndFPST
-ChainSub2: coverage "AyannaNarrowTamil-Light-Lohit-Tamil-'abvs' Above Base Substitutions lookup 2 subtable" 0 0 0 1
- 1 1 0
-  Coverage: 11 tml_MatraIi
-  BCoverage: 13 tml_La tml_Sa
- 1
-  SeqLookup: 0 "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 17"
-EndFPST
 LangName: 1033 "" "" "Medium" "" "" "Version 2.5.0" "" "" "" "" "" "" "" "" "" "" "ayanna-tamil" "tamil"
 Encoding: tamil
 Compacted: 1
@@ -271,7 +68,7 @@ NameList: Lohit-Tamil
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 8 6
+WinInfo: 0 10 7
 BeginPrivate: 5
 BlueShift 1 0
 StdHW 4 [35]
@@ -280,24 +77,22 @@ StemSnapH 13 [35 36 37 66]
 StemSnapV 21 [8 10 35 36 37 38 66]
 EndPrivate
 Grid
--1024 550 m 0
- 2048 550 l 1024
+-1024 555 m 0
+ 2048 555 l 1024
 1399 888 m 1
  -158 -570 l 1025
   Named: "1"
 1259 887 m 1
  -298 -571 l 1025
   Named: "1"
--1024 543 m 1
- 2048 543 l 1025
+-1024 545 m 1
+ 2048 545 l 1025
   Named: "tamil_overshoot"
--1024 521.00390625 m 1
- 2048 521.00390625 l 1025
 -1024 261.33203125 m 1
  2048 261.33203125 l 1025
 EndSplineSet
-AnchorClass2: "tml_virama" "AyannaNarrowTamil-Light-'abvm' Above Base Mark lookup 1-1" "Anchor-4" "" "Anchor-0" "" "Anchor-1" "" "virama-anchor" "" "Anchor-3" "" 
-BeginChars: 263 132
+AnchorClass2: "tml_virama" "Mark to base attachment in Tamil lookup 0-1" "Anchor-4" "" "Anchor-0" "" "Anchor-1" "" "virama-anchor" "" "Anchor-3" "" 
+BeginChars: 264 132
 
 StartChar: tml_E
 Encoding: 9 2958 0
@@ -632,7 +427,7 @@ Width: 561
 Flags: HMW
 HStem: 0 21G<60 165 60 60 346 346 346 451 451 451> 485 35
 VStem: 70 36 376 36
-AnchorPoint: "tml_virama" 276 0 basechar 0
+AnchorPoint: "tml_virama" 263 0 basechar 0
 LayerCount: 3
 Back
 Fore
@@ -983,7 +778,7 @@ EndChar
 
 StartChar: tml_A
 Encoding: 3 2949 14
-Width: 776
+Width: 796
 VWidth: 0
 Flags: HW
 HStem: -134 36<166.706 355.432> 160 35<141.354 678> 298 35<219.933 321.795> 492 37<228.107 385.381>
@@ -992,39 +787,39 @@ LayerCount: 3
 Back
 Fore
 SplineSet
-640 -129 m 261
- 640 550 l 261
- 745 550 l 261
- 745 -129 l 261xfe
- 640 -129 l 261
-30 67 m 260
- 29.3825103778 167.459228656 90.4752090164 235 206 235 c 262
- 658 235 l 261
- 658 135 l 261xfd
- 209 135 l 262
- 157.654493979 135 128.340920417 104.14373846 127 70 c 260
- 125.766939451 -17.9098964639 220.152283031 -39 283 -39 c 260
- 376.968253968 -39 466.60122797 48.3194387784 468 176 c 4
- 469.413605425 303.577027099 419.799882244 457.240353965 286 459 c 4
- 251.259326589 459.48770232 217.594101206 438.716439371 218 408 c 4
- 218.49 382.573160173 233.790230421 360.397277618 267 360 c 4
- 333.608456705 358.860041554 348.990740741 450.49132948 344 515 c 261
- 417 502 l 261
- 432.374975902 391.344003056 399.277492973 276.339895716 267 275 c 4
- 177.424177845 274.092647905 126.12936372 335.317033763 125 415 c 4
- 123.8645323 495.113636364 197.65380375 555.628127786 276 556 c 4
- 489.489497964 557.013333333 570.965148201 354.401806035 572 176 c 4
- 573.067195779 -1.76223776224 440.657439447 -134 276 -134 c 260
- 112.401086956 -134 30.4420465941 -48.6797437149 30 67 c 260
+660 -129 m 261
+ 660 545 l 261
+ 765 545 l 261
+ 765 -129 l 261xfe
+ 660 -129 l 261
+30 67 m 256
+ 29.3825103778 167.459228656 90.4752090164 235 206 235 c 258
+ 678 235 l 261
+ 678 135 l 261xfd
+ 209 135 l 258
+ 157.654493979 135 128.340920417 104.14373846 127 70 c 256
+ 125.766939451 -17.9098964639 220.152283031 -39 283 -39 c 256
+ 376.968253968 -39 466.60122797 48.3194387784 468 176 c 0
+ 469.413605425 303.577027099 419.799882244 457.240353965 286 459 c 0
+ 251.259326589 459.48770232 217.594101206 438.716439371 218 408 c 0
+ 218.49 382.573160173 233.790230421 360.397277618 267 360 c 0
+ 333.608456705 358.860041554 348.990740741 450.49132948 344 515 c 257
+ 417 502 l 257
+ 432.374975902 391.344003056 399.277492973 276.339895716 267 275 c 0
+ 177.424177845 274.092647905 126.12936372 335.317033763 125 415 c 0
+ 123.8645323 495.113636364 197.65380375 555.628127786 276 556 c 0
+ 489.489497964 557.013333333 570.965148201 354.401806035 572 176 c 0
+ 573.067195779 -1.76223776224 440.657439447 -134 276 -134 c 256
+ 112.401086956 -134 30.4420465941 -48.6797437149 30 67 c 256
 EndSplineSet
 Layer: 2
 EndChar
 
 StartChar: tml_Aa
 Encoding: 4 2950 15
-Width: 1044
+Width: 1064
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 HStem: -134 36<166.706 355.432> 160 35<141.354 678> 298 35<219.933 321.795> 492 37<228.107 385.381>
 LayerCount: 3
 Back
@@ -1068,15 +863,15 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-640 -129 m 257
- 640 550 l 257
- 745 550 l 257
- 745 -129 l 257xfe
- 640 -129 l 257
+660 -129 m 261
+ 660 550 l 261
+ 765 550 l 261
+ 765 -129 l 261xfe
+ 660 -129 l 261
 30 67 m 256
  29.3828125 167.458984375 90.4755859375 235 206 235 c 258
- 658 235 l 257
- 658 135 l 257xfd
+ 678 235 l 261
+ 678 135 l 261xfd
  209 135 l 258
  157.654296875 135 127.479363484 104.166508989 127 70 c 256
  125.766601562 -17.91015625 220.15234375 -39 283 -39 c 256
@@ -1086,23 +881,23 @@ SplineSet
  218.490234375 382.573242188 233.792520959 360.568169368 267 360 c 0
  333.608398438 358.860351562 348.991210938 450.491210938 344 515 c 257
  417 502 l 257
- 432.375 391.34375 399.277345169 276.339703613 267 275 c 0
- 177.423828125 274.092773438 126.129636645 335.317393163 125 415 c 0
- 123.864257812 495.11328125 197.653319974 555.628000833 276 556 c 0
+ 432.375 391.34375 399.279227646 276.138764277 267 275 c 0
+ 177.423828125 274.228857422 125.825470659 326.265527202 125 394 c 0
+ 123.864257812 487.193982713 197.653041116 555.627999509 276 556 c 0
  489.489257812 557.013671875 570.928783537 354.401154308 572 176 c 0
  573.067382812 -1.7626953125 440.657226562 -134 276 -134 c 256
  112.401367188 -134 30.7106903604 -48.6783502729 30 67 c 256
-503 -130 m 1
- 598 -115 l 1
- 615.403711025 -237.290147783 677.738561019 -287.230524467 794 -278 c 0
- 881.016666339 -269.756725691 920 -182.527324127 920 -91 c 4
- 920 6.59803921569 898.266943334 90 829 90 c 0
- 749.65691498 90 745.773508856 18.7867556214 745 -41 c 1
- 640 -98 l 1
- 637.265512265 93.5551751913 702.900133217 194 830 194 c 0
- 977.165047286 194 1024 46.5204914357 1024 -98 c 0
- 1024 -260.085518852 940.235350551 -362.333249998 798 -375 c 0
- 676.79243792 -384.986346894 533.823720883 -357.087708806 503 -130 c 1
+503 -138 m 5
+ 602 -124 l 5
+ 620.432003277 -236.612648424 671.559829897 -287.277381985 785 -288 c 4
+ 902.044278913 -288.765219781 940 -187.421833439 940 -91 c 4
+ 940 -6.3431372549 915.401045752 66 837 66 c 4
+ 786.134498554 66 765.663007591 30.8012796364 765 6 c 5
+ 660 -58 l 5
+ 657.438216754 77.1945227547 731.927493224 174 838 174 c 4
+ 994.268039902 174 1044 40.6420948793 1044 -94 c 4
+ 1044 -267.788444401 949.681635264 -391.382421764 789 -391 c 4
+ 681.720717491 -390.749040178 526.594946665 -362.581249038 503 -138 c 5
 EndSplineSet
 Layer: 2
 EndChar
@@ -1113,6 +908,7 @@ Width: 1006
 Flags: HW
 HStem: -17 36<143.421 245.433> 1 21G<533 569> 233 36<118.148 239.159> 486 35<209.872 533 569 669>
 VStem: 35 37<115.107 346.148> 284 37<58.919 187.892> 533 36<1 486>
+AnchorPoint: "tml_virama" 530 0 basechar 0
 LayerCount: 3
 Back
 SplineSet
@@ -1155,7 +951,7 @@ EndSplineSet
 Fore
 SplineSet
 723 442 m 1
- 718 545 l 1
+ 727 545 l 1
  976 545 l 1
  976 442 l 1
  889 442 l 1
@@ -1169,11 +965,11 @@ SplineSet
  707 69.2830188679 643 -23 555 -23 c 256
  451.888888889 -23 395 75.3384030418 395 210 c 256
  395 403.65448505 520.616972469 543.872145064 733 545 c 256
- 737 442 l 256
- 582.701219512 442 496 341.591836734 496 202 c 256
+ 729 442 l 256
+ 578.856365752 442 496 341.591836734 496 202 c 256
  496 131.209876543 520.189873418 80 555 80 c 256
- 586 80 608 128.090909091 608 195 c 256
- 608 343 490.390078445 447 340 447 c 256
+ 584.830188679 80 606 128.090909091 606 195 c 256
+ 606 338 498.267764427 447 340 447 c 256
  322.593406593 447 304.21978022 447 296 448 c 257
  293 526 l 257
 35 240 m 256
@@ -1199,23 +995,11 @@ Width: 1336
 Flags: HW
 HStem: -17 36<143.421 245.433> 1 21G<533 569> 233 36<118.148 239.159> 486 35<209.872 533 569 669>
 VStem: 35 37<115.107 346.148> 284 37<58.919 187.892> 533 36<1 486>
+AnchorPoint: "tml_virama" 586 0 basechar 0
 LayerCount: 3
 Back
 Fore
 SplineSet
-655 526 m 257
- 672.080291971 538.657534247 705.102189781 548 733 548 c 256
- 927.751592357 548 1069 400.758169935 1069 196 c 256
- 1069 69.2830188679 1005 -23 917 -23 c 256
- 813.888888889 -23 757 75.3384030418 757 210 c 256
- 757 403.65448505 882.616972469 543.872145064 1095 545 c 256
- 1099 442 l 256
- 944.701219512 442 858 341.591836734 858 202 c 256
- 858 131.209876543 882.189873418 80 917 80 c 256
- 948 80 970 128.090909091 970 195 c 256
- 970 340.063492063 847.749583126 442 737 442 c 256
- 705.747252747 442 672.758241758 442 658 448 c 257
- 655 526 l 257
 1063 442 m 1
  1088 545 l 1
  1316 545 l 1
@@ -1225,23 +1009,24 @@ SplineSet
  1124 0 l 1x3e
  1124 442 l 1
  1063 442 l 1
-293 526 m 257
- 304.824817518 538.657534247 327.686131387 548 347 548 c 256
- 555.662420382 548 707 400.758169935 707 196 c 256
- 707 69.2830188679 643 -23 555 -23 c 256
- 451.888888889 -23 395 75.3384030418 395 210 c 256
- 395 405.388704319 520.616972469 546.862044871 733 548 c 256
- 737 442 l 256
- 582.701219512 442 496 341.591836734 496 202 c 256
+707 202 m 256
+ 707 75.2830188679 643 -23 555 -23 c 256
+ 451.888888889 -23 395 67.3384030418 395 202 c 256
+ 395 488.719014287 627.848486374 555 724 555 c 256
+ 923.968152867 555 1069 410.900676263 1069 202 c 256
+ 1069 75.2830188679 1005 -23 917 -23 c 256
+ 813.888888889 -23 757 67.3384030418 757 202 c 256
+ 757 395.65448505 882.616972469 543.872145064 1095 545 c 256
+ 1099 442 l 256
+ 944.701219512 442 858 341.591836734 858 202 c 256
+ 858 131.209876543 882.189873418 80 917 80 c 256
+ 948 80 970 135.090909091 970 202 c 256
+ 970 351.294510582 861 449 728 449 c 256
+ 598 449 496 362.578064092 496 202 c 256
  496 131.209876543 520.189873418 80 555 80 c 256
- 586 80 608 128.090909091 608 195 c 256
- 608 343 490.390078445 447 340 447 c 256
- 322.593406593 447 304.21978022 447 296 448 c 257
- 293 526 l 257
-35 240 m 256
- 35 418.046511628 157.222222222 547.976744186 354 548 c 256
- 352 447 l 256
- 226.707317073 447 136 361.234693877 136 242 c 256
+ 586 80 608 135.090909091 608 202 c 256
+ 608 398.993364548 460.528385327 454 364 454 c 256
+ 243 454 136 365.306122448 136 242 c 256
  136 148 155 80 215 80 c 256
  246 80 268 103 268 135 c 256
  268 172 242 198 207 198 c 256
@@ -1251,6 +1036,8 @@ SplineSet
  301 289 367 225 367 136 c 256
  367 44 303 -23 215 -23 c 256
  99 -23 35 88 35 240 c 256
+ 35 422.093023256 188 555 366 555 c 256
+ 457.316491709 555 707 517.704223767 707 202 c 256
 EndSplineSet
 Layer: 2
 EndChar
@@ -1312,11 +1099,11 @@ LayerCount: 3
 Back
 Fore
 SplineSet
--40.560546875 682 m 0
- -40.560546875 703.970296224 -21.970296224 722.560546875 0 722.560546875 c 0
- 21.970296224 722.560546875 40.560546875 703.970296224 40.560546875 682 c 0
- 40.560546875 660.029703776 21.970296224 641.439453125 0 641.439453125 c 0
- -21.970296224 641.439453125 -40.560546875 660.029703776 -40.560546875 682 c 0
+-60.8408203125 682 m 0
+ -60.8408203125 714.955444336 -32.955444336 742.840820312 0 742.840820312 c 0
+ 32.955444336 742.840820312 60.8408203125 714.955444336 60.8408203125 682 c 0
+ 60.8408203125 649.044555664 32.955444336 621.159179688 0 621.159179688 c 0
+ -32.955444336 621.159179688 -60.8408203125 649.044555664 -60.8408203125 682 c 0
 EndSplineSet
 Layer: 2
 EndChar
@@ -1533,14 +1320,126 @@ EndChar
 
 StartChar: tml_Nya
 Encoding: 19 2974 32
-Width: 1022
-VWidth: 0
+Width: 1098
 Flags: HW
-HStem: -231 33<423.012 695.204> -17 36<338.921 440.933> 1 21G<705.5 741.5> 233 36<313.648 434.659> 300 34<798.436 902.493> 510 35<410.804 705.5 741.5 841.5>
-VStem: 64.3232 33.4268<112.783 369.057> 230.5 37<115.107 355.745> 479.5 37<58.919 187.892> 705.5 36<1 510> 952.5 34<33.7131 238.418>
+HStem: -17 36 1 21G 233 36 486 35
+VStem: 159 37 408 37 657 36
 LayerCount: 3
 Back
+SplineSet
+4.3232421875 242 m 4x9fe0
+ 3.9318468835 333.450195312 28.8385934195 428.994140625 86.5 531.002929688 c 5
+ 116.5 517 l 5
+ 60.546548437 421.07930621 37.7040604076 332.503892427 37.75 244 c 4
+ 37.9230806556 -82.7558854122 252.992030364 -200.700404648 518.5 -198 c 4
+ 776.793563179 -195.40835041 892.5 -26.4551741804 892.5 138 c 4
+ 892.5 225.352844238 866.411132812 300 791.5 300 c 4
+ 700.048171322 300 681.52259057 193.451970881 680.5 104 c 5
+ 647.5 107 l 5
+ 645.441870959 255.914875654 704.702889278 334 790.5 334 c 4
+ 893.666992188 334 926.5 237.027027027 926.5 142 c 4
+ 926.5 -76.2594581359 777.199001822 -222.078444662 524.5 -231 c 4
+ 358.895454044 -236.846679688 6.186196635 -193.28255532 4.3232421875 242 c 4x9fe0
+170.5 242 m 260
+ 170.5 416.767578125 270.861328125 543.965820312 435.5 545 c 260
+ 436.5 510 l 260
+ 292.65625 510 207.5 397.376953125 207.5 242 c 260
+ 207.5 113 250.5 19 332.5 19 c 260
+ 382.5 19 419.5 64 419.5 126 c 260
+ 419.5 188 375.5 233 318.5 233 c 260
+ 261.5 233 225.5 199 196.5 165 c 261
+ 179.5 187 l 261
+ 210.5 238 264.5 269 320.5 269 c 260
+ 396.5 269 456.5 209 456.5 126 c 260
+ 456.5 43 404.5 -17 333.5 -17 c 260xdfe0
+ 228.5 -17 170.5 92 170.5 242 c 260
+431.5 545 m 5
+ 781.5 545 l 5
+ 781.5 510 l 5
+ 681.5 510 l 5
+ 681.5 1 l 5
+ 645.5 1 l 5xbfe0
+ 645.5 510 l 5
+ 436.5 510 l 5
+ 431.5 545 l 5
+EndSplineSet
 Fore
+SplineSet
+710.419921875 82.71875 m 1
+ 612.580078125 91.28125 l 1
+ 599.675411488 173.204684168 631.152169949 236.640451846 663.5 282.061523438 c 0
+ 702.103033576 336.265813151 747.228481001 368.057421508 805.999997257 366.969591806 c 0
+ 927.980576553 364.711795755 988.086590911 253.40287661 988.435890607 136.000005589 c 0
+ 988.667713542 58.0821646279 963.854703183 -19.2590547145 919.852539062 -83.53125 c 0
+ 839.456102784 -204.964503541 695.077089859 -270.433622901 509 -269.951171875 c 0
+ 191.484251807 -269.192480205 -6.71884807601 -96.8528407883 -7.505859375 209 c 0
+ -7.81865043716 347.157029095 36.9034247301 454.324337449 87.5439453125 547.782226562 c 1
+ 177 504 l 1
+ 129.619766566 410.512905072 98.5351665185 336.130731437 98.439453125 203 c 0
+ 98.2486932388 -42.9978783084 263.090153061 -174.128721727 519 -173.374023438 c 0
+ 662.065521596 -172.9183174 774.380953259 -122.675350243 836.1484375 -28.46875 c 0
+ 867.95624615 17.9929433382 886.000763525 74.8740834947 885.87067596 130.999996386 c 0
+ 885.713660609 198.743826796 859.892960212 265.974164613 793.00000151 265.753262871 c 4
+ 752.841490695 265.620646746 709.249469713 230.053416169 710 152 c 4
+ 710.356864729 130.251211989 710.424830006 106.091092774 710.419921875 82.71875 c 1
+180 240 m 256
+ 180 416.3125 280 543.986328125 441 545 c 257
+ 445 442 l 257
+ 340 442 281 358.326171875 281 242 c 256
+ 281 148 300 80 360 80 c 256
+ 391 80 413 103 413 135 c 256
+ 413 172 387 198 352 198 c 256
+ 316 198 278 173 261 138 c 257
+ 218 216 l 257
+ 248 258 306 289 355 289 c 256
+ 446 289 512 225 512 136 c 256
+ 512 44 448 -23 360 -23 c 256
+ 244 -23 180 88 180 240 c 256
+  Spiro
+    180 240 o
+    211.827 397.075 o
+    301.894 504.733 o
+    441 545 o
+    445 442 o
+    355.888 416.048 o
+    300.147 345.463 o
+    281 242 o
+    288.133 158.294 o
+    312.887 101.07 o
+    360 80 o
+    387.495 87.1344 o
+    406.161 106.543 o
+    413 135 o
+    404.978 167.75 o
+    383.343 189.905 o
+    352 198 o
+    316.22 190.237 o
+    284.12 169.084 o
+    261 138 v
+    218 216 v
+    255.918 253.56 o
+    304.421 279.426 o
+    355 289 o
+    436.078 269.149 o
+    491.558 215.154 o
+    512 136 o
+    492.186 53.9596 o
+    438.451 -2.2622 o
+    360 -23 o
+    261.858 11.3412 o
+    200.848 104.376 o
+    0 0 z
+  EndSpiro
+433 545 m 1
+ 801 545 l 1
+ 801 442 l 1
+ 711 442 l 1
+ 711 0 l 1
+ 606 0 l 1x3e
+ 606 442 l 1
+ 438 442 l 1
+ 433 545 l 1
+EndSplineSet
 Layer: 2
 EndChar
 
@@ -1694,14 +1593,6 @@ LayerCount: 3
 Back
 Fore
 Layer: 2
-Substitution2: "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24 subtable" tml_MatraI.stylalt1
-Substitution2: "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 23 subtable" tml_MatraI.alt7
-Substitution2: "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 22 subtable" tml_MatraI.alt6
-Substitution2: "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 21 subtable" tml_MatraI.alt5
-Substitution2: "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 20 subtable" tml_MatraI.alt4
-Substitution2: "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 19 subtable" tml_MatraI.alt3
-Substitution2: "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 18 subtable" tml_MatraI.alt2
-Substitution2: "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 17 subtable" tml_MatraI.alt1
 EndChar
 
 StartChar: tml_MatraIi
@@ -1713,8 +1604,6 @@ LayerCount: 3
 Back
 Fore
 Layer: 2
-Substitution2: "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24 subtable" tml_MatraIi.stylalt1
-Substitution2: "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 17 subtable" tml_MatraIi.alt1
 EndChar
 
 StartChar: tml_MatraU
@@ -1725,7 +1614,6 @@ LayerCount: 3
 Back
 Fore
 Layer: 2
-Substitution2: "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 23 subtable" tml_MatraU.alt1
 EndChar
 
 StartChar: tml_MatraUu
@@ -1766,7 +1654,6 @@ LayerCount: 3
 Back
 Fore
 Layer: 2
-Substitution2: "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24 subtable" tml_MatraAi.alt
 EndChar
 
 StartChar: tml_MatraO
@@ -2348,7 +2235,6 @@ LayerCount: 3
 Back
 Fore
 Layer: 2
-Ligature2: "AyannaNarrowTamil-Light-Lohit-Tamil-'akhn' Akhand lookup 0 subtable" tml_Sha tml_Virama tml_Ra tml_MatraIi
 EndChar
 
 StartChar: space
@@ -2618,7 +2504,6 @@ LayerCount: 3
 Back
 Fore
 Layer: 2
-Substitution2: "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24 subtable" tml_MatraI.stylalt1
 EndChar
 
 StartChar: tml_MatraI.alt5
@@ -2629,7 +2514,6 @@ LayerCount: 3
 Back
 Fore
 Layer: 2
-Substitution2: "AyannaNarrowTamil-Light-Lohit-Tamil-Single Substitution lookup 24 subtable" tml_MatraI.stylalt1
 EndChar
 
 StartChar: tml_MatraI.alt6
