@@ -1,0 +1,12 @@
+#!opentype
+
+# `FontMenuNameDB` must be synced to this file.
+# Key `IsBold` has nothing to do with style-linking.
+
+#KEYS:FamilyName	FontName	FullName	Weight	Coords	IsBold
+
+AbhayaLibreTamil	AbhayaLibreTamil-Regular	AbhayaLibreTamil	Regular	(0)	0
+AbhayaLibreTamil	AbhayaLibreTamil-Medium	AbhayaLibreTamil Medium	Medium	(186)	0
+AbhayaLibreTamil	AbhayaLibreTamil-SemiBold	AbhayaLibreTamil SemiBold	SemiBold	(413)	0
+AbhayaLibreTamil	AbhayaLibreTamil-Bold	AbhayaLibreTamil Bold	Bold	(679)	0
+AbhayaLibreTamil	AbhayaLibreTamil-ExtraBold	AbhayaLibreTamil ExtraBold	ExtraBold	(1000)	0
