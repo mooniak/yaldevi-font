@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_Ii" format="1">
+  <advance width="542"/>
+  <unicode hex="0B88"/>
+  <outline>
+    <contour>
+      <point x="207.2" y="277" type="curve" smooth="yes"/>
+      <point x="207.2" y="259"/>
+      <point x="222.5" y="243.7"/>
+      <point x="240.5" y="243.7" type="curve" smooth="yes"/>
+      <point x="258.5" y="243.7"/>
+      <point x="273.8" y="259"/>
+      <point x="273.8" y="277" type="curve" smooth="yes"/>
+      <point x="273.8" y="295"/>
+      <point x="258.5" y="310.3"/>
+      <point x="240.5" y="310.3" type="curve" smooth="yes"/>
+      <point x="222.5" y="310.3"/>
+      <point x="207.2" y="295"/>
+    </contour>
+    <contour>
+      <point x="422.2" y="277" type="curve" smooth="yes"/>
+      <point x="422.2" y="259"/>
+      <point x="437.5" y="243.7"/>
+      <point x="455.5" y="243.7" type="curve" smooth="yes"/>
+      <point x="473.5" y="243.7"/>
+      <point x="488.8" y="259"/>
+      <point x="488.8" y="277" type="curve" smooth="yes"/>
+      <point x="488.8" y="295"/>
+      <point x="473.5" y="310.3"/>
+      <point x="455.5" y="310.3" type="curve" smooth="yes"/>
+      <point x="437.5" y="310.3"/>
+      <point x="422.2" y="295"/>
+    </contour>
+    <contour>
+      <point x="338" y="0" type="line"/>
+      <point x="339" y="530" type="line"/>
+      <point x="375" y="530" type="line"/>
+      <point x="374" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="71" y="550" type="line"/>
+      <point x="512" y="550" type="line"/>
+      <point x="512" y="515" type="line"/>
+      <point x="107" y="515" type="line"/>
+      <point x="106" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>204</integer>
+            <key>width</key>
+            <integer>67</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>485</integer>
+            <key>width</key>
+            <integer>35</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>70</integer>
+            <key>width</key>
+            <integer>36</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>219</integer>
+            <key>width</key>
+            <integer>67</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>375</integer>
+            <key>width</key>
+            <integer>36</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>484</integer>
+            <key>width</key>
+            <integer>67</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_Virama" format="1">
+  <advance width="0"/>
+  <unicode hex="0BCD"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="move" name="_tml_virama"/>
+    </contour>
+    <contour>
+      <point x="-60.8408" y="682" type="curve" smooth="yes"/>
+      <point x="-60.8408" y="714.955"/>
+      <point x="-32.9554" y="742.841"/>
+      <point x="0" y="742.841" type="curve" smooth="yes"/>
+      <point x="32.9554" y="742.841"/>
+      <point x="60.8408" y="714.955"/>
+      <point x="60.8408" y="682" type="curve" smooth="yes"/>
+      <point x="60.8408" y="649.045"/>
+      <point x="32.9554" y="621.159"/>
+      <point x="0" y="621.159" type="curve" smooth="yes"/>
+      <point x="-32.9554" y="621.159"/>
+      <point x="-60.8408" y="649.045"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>658</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-24</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
