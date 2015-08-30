@@ -12,7 +12,7 @@ lookup MarktobaseattachmentinTamillook {
   pos base [\tml_Ee ] <anchor 314 1> mark @tml_virama;
   pos base [\tml_Day ] <anchor 413 1> mark @tml_virama;
   pos base [\tml_Pa ] <anchor 266 0> mark @tml_virama;
-  pos base [\tml_Ra ] <anchor 220 0> mark @tml_virama;
+  pos base [\tml_Ra \tml_Na ] <anchor 220 0> mark @tml_virama;
   pos base [\tml_Tta ] <anchor 346 0> mark @tml_virama;
   pos base [\tml_Va ] <anchor 427 1> mark @tml_virama;
   pos base [\tml_Nna ] <anchor 476 0> mark @tml_virama;

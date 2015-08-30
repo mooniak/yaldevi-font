@@ -11,11 +11,11 @@ lookup Marktobaseattachmentlookup0 {
   markClass [\tml_Virama ] <anchor 0 -0> @tml_virama;
   pos base [\tml_Lla ] <anchor 449 0> mark @tml_virama;
   pos base [\tml_Day ] <anchor 395 0> mark @tml_virama;
-  pos base [\tml_Pa ] <anchor 220 0> mark @tml_virama;
+  pos base [\tml_Pa \tml_Na ] <anchor 220 0> mark @tml_virama;
   pos base [\tml_Ra ] <anchor 206 0> mark @tml_virama;
   pos base [\tml_Tta ] <anchor 340 0> mark @tml_virama;
   pos base [\tml_Va ] <anchor 447 0> mark @tml_virama;
-  pos base [\tml_Ya ] <anchor 296 0> mark @tml_virama;
+  pos base [\tml_Ya ] <anchor 336 0> mark @tml_virama;
   pos base [\tml_Nnna ] <anchor 404 0> mark @tml_virama;
   pos base [\tml_Ma ] <anchor 253 -10> mark @tml_virama;
   pos base [\.notdef ] <anchor 0 0> mark @tml_virama;
