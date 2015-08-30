@@ -2,7 +2,6 @@ SplineFontDB: 3.0
 FontName: AyannaNarrowTamil-Light
 FullName: AyannaNarrow
 FamilyName: AyannaNarrow
-OS2StyleName: "regular"
 Weight: Light
 Copyright: Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
 Version: pre
@@ -18,12 +17,13 @@ LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 PreferredKerning: 4
+StyleMap: 0x0040
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1435046519
-ModificationTime: 1440919283
+ModificationTime: 1440929830
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -144,21 +144,21 @@ aS'tm_Naal'
 p41
 aS'tm_VowelAa'
 p42
-asS'com.schriftgestaltung.useNiceNames'
+asS'com.schriftgestaltung.fontMasterID'
 p43
-I00
-sS'com.schriftgestaltung.fontMasterID'
-p44
 S'D3669537-663F-4203-8192-BEB274270EE9'
+p44
+sS'com.schriftgestaltung.useNiceNames'
 p45
+I00
 s."
-Encoding: tamil
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 10 7
+WinInfo: 20 5 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -184,7 +184,6 @@ Width: 796
 VWidth: 0
 Flags: HMW
 LayerCount: 2
-Back
 Fore
 SplineSet
 690 -119 m 257
@@ -561,17 +560,11 @@ Width: 698
 VWidth: 0
 GlyphClass: 2
 Flags: HMWO
-AnchorPoint: "tml_virama" 305 0 basechar 0
+AnchorPoint: "tml_virama" 331 -60 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
-41 248 m 256
- 41 426 102 555 235 555 c 0
- 366 555 393 433 393 260 c 0
- 393 254 393 249 393 243 c 257
- 356 257 l 256
- 356 409 340 520 234 520 c 256
+234 520 m 256
  124 520 78 406 78 248 c 256
  78 116 109 18 182 18 c 256
  246 18 269 93 269 170 c 256
@@ -582,15 +575,18 @@ SplineSet
  258 347 305 265 305 170 c 256
  305 65 267 -17 182 -17 c 256
  86 -17 41 95 41 248 c 256
-474 -13 m 256
- 332 -13 356 198 356 261 c 256
- 393 251 l 256
- 393 202 383 25 472 25 c 256
- 575.853515625 25 582 127.192382812 582 249 c 256
- 582 388 503 545 503 545 c 257
+ 41 426 102 555.000000097 235 555 c 0
+ 373.148501309 554.9999999 412.586914062 462 413 323 c 256
+ 413.13671875 277.157226562 396.340820312 209.927734375 395.73828125 162 c 0
+ 395.053710938 107.482421875 414.147287688 25 482 25 c 256
+ 585.853515625 25 582 135.192382812 582 257 c 256
+ 582 396 503 545 503 545 c 257
  539 545 l 257
  539 545 618 406 618 254 c 256
- 618 129.544921875 608.176757812 -13 474 -13 c 256
+ 618 129.544921875 618.176757812 -13 484 -13 c 256
+ 385.483991216 -13 357.9765625 79.8916015625 357.139648438 148 c 0
+ 356.4296875 205.715820312 376 284.358398438 376 341 c 256
+ 376 437 346.246579108 520 234 520 c 256
 EndSplineSet
 EndChar
 
@@ -813,8 +809,6 @@ Encoding: 12 2962 9
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Oo
@@ -822,8 +816,6 @@ Encoding: 13 2963 10
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Pa
@@ -963,8 +955,6 @@ Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Sha
@@ -1080,8 +1070,6 @@ Encoding: 8 2954 16
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Va
@@ -1165,8 +1153,6 @@ Encoding: 2 2947 18
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraAa
@@ -1331,7 +1317,6 @@ Encoding: 256 49 22
 Width: 226
 Flags: HMW
 LayerCount: 2
-Back
 Fore
 SplineSet
 16 535 m 1
@@ -1351,7 +1336,6 @@ Width: 432
 VWidth: 0
 Flags: HMW
 LayerCount: 2
-Back
 Fore
 SplineSet
 20 449 m 5
@@ -1375,7 +1359,6 @@ Width: 419
 VWidth: 0
 Flags: HMW
 LayerCount: 2
-Back
 Fore
 SplineSet
 20 131 m 1
@@ -1403,7 +1386,6 @@ Width: 1024
 VWidth: 0
 Flags: HMW
 LayerCount: 2
-Back
 Fore
 SplineSet
 553 -130 m 1
@@ -1427,7 +1409,6 @@ Width: 774
 VWidth: 0
 Flags: HMW
 LayerCount: 2
-Back
 Fore
 SplineSet
 152 248 m 256
@@ -1477,7 +1458,6 @@ VWidth: 0
 Flags: HMW
 AnchorPoint: "tml_virama" 0 -0 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -31 682 m 0
@@ -1579,7 +1559,6 @@ Width: 1115
 VWidth: 0
 Flags: HMW
 LayerCount: 2
-Back
 Fore
 SplineSet
 100 248 m 256
@@ -1685,8 +1664,6 @@ Width: 300
 Flags: HMW
 AnchorPoint: "tml_virama" 0 0 basechar 0
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_U
@@ -1694,8 +1671,6 @@ Encoding: 7 2953 32
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Ai
@@ -1703,8 +1678,6 @@ Encoding: 11 2960 33
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Au
@@ -1712,8 +1685,6 @@ Encoding: 14 2964 34
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Ka
@@ -1722,8 +1693,6 @@ Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Nga
@@ -1813,8 +1782,6 @@ Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Ja
@@ -1823,8 +1790,6 @@ Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Ta
@@ -1833,8 +1798,6 @@ Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Na
@@ -1908,7 +1871,6 @@ GlyphClass: 2
 Flags: HMW
 AnchorPoint: "tml_virama" 422 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 38 248 m 256
@@ -1962,8 +1924,6 @@ Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Ha
@@ -1972,8 +1932,6 @@ Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraI
@@ -1981,8 +1939,6 @@ Encoding: 39 3007 44
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraIi
@@ -1991,8 +1947,6 @@ Width: 0
 GlyphClass: 4
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraU
@@ -2000,8 +1954,6 @@ Encoding: 41 3009 46
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraUu
@@ -2009,8 +1961,6 @@ Encoding: 42 3010 47
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraE
@@ -2018,8 +1968,6 @@ Encoding: 43 3014 48
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraEe
@@ -2027,8 +1975,6 @@ Encoding: 44 3015 49
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraAi
@@ -2036,8 +1982,6 @@ Encoding: 45 3016 50
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraO
@@ -2045,8 +1989,6 @@ Encoding: 46 3018 51
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraOo
@@ -2054,8 +1996,6 @@ Encoding: 47 3019 52
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraAu
@@ -2063,8 +2003,6 @@ Encoding: 48 3020 53
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Om
@@ -2072,8 +2010,6 @@ Encoding: 50 3024 54
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_AuLengthmark
@@ -2081,8 +2017,6 @@ Encoding: 51 3031 55
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Zero
@@ -2090,8 +2024,6 @@ Encoding: 52 3046 56
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_One
@@ -2099,8 +2031,6 @@ Encoding: 53 3047 57
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Two
@@ -2108,8 +2038,6 @@ Encoding: 54 3048 58
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Three
@@ -2117,8 +2045,6 @@ Encoding: 55 3049 59
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Four
@@ -2126,8 +2052,6 @@ Encoding: 56 3050 60
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Five
@@ -2135,8 +2059,6 @@ Encoding: 57 3051 61
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Six
@@ -2144,8 +2066,6 @@ Encoding: 58 3052 62
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Eight
@@ -2153,8 +2073,6 @@ Encoding: 60 3054 63
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Nine
@@ -2162,8 +2080,6 @@ Encoding: 61 3055 64
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Ten
@@ -2171,8 +2087,6 @@ Encoding: 62 3056 65
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Hundred
@@ -2180,8 +2094,6 @@ Encoding: 63 3057 66
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Thousand
@@ -2189,8 +2101,6 @@ Encoding: 64 3058 67
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Month
@@ -2198,8 +2108,6 @@ Encoding: 66 3060 68
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Year
@@ -2207,8 +2115,6 @@ Encoding: 67 3061 69
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Debit
@@ -2216,8 +2122,6 @@ Encoding: 68 3062 70
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Credit
@@ -2225,8 +2129,6 @@ Encoding: 69 3063 71
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Above
@@ -2234,8 +2136,6 @@ Encoding: 70 3064 72
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Rupee
@@ -2243,8 +2143,6 @@ Encoding: 71 3065 73
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Number
@@ -2252,8 +2150,6 @@ Encoding: 72 3066 74
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_TtI
@@ -2261,8 +2157,6 @@ Encoding: 77 -1 75
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_KU
@@ -2270,8 +2164,6 @@ Encoding: 78 -1 76
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_CU
@@ -2279,8 +2171,6 @@ Encoding: 79 -1 77
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_NyU
@@ -2288,8 +2178,6 @@ Encoding: 80 -1 78
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_TtU
@@ -2297,8 +2185,6 @@ Encoding: 81 -1 79
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_NnU
@@ -2306,8 +2192,6 @@ Encoding: 82 -1 80
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_TU
@@ -2315,8 +2199,6 @@ Encoding: 83 -1 81
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_NU
@@ -2324,8 +2206,6 @@ Encoding: 84 -1 82
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_NnnU
@@ -2333,8 +2213,6 @@ Encoding: 85 -1 83
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MU
@@ -2342,8 +2220,6 @@ Encoding: 86 -1 84
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_RU
@@ -2351,8 +2227,6 @@ Encoding: 87 -1 85
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_RrU
@@ -2360,8 +2234,6 @@ Encoding: 88 -1 86
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_LU
@@ -2369,8 +2241,6 @@ Encoding: 89 -1 87
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_LlU
@@ -2378,8 +2248,6 @@ Encoding: 90 -1 88
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_LllU
@@ -2387,8 +2255,6 @@ Encoding: 91 -1 89
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_KUu
@@ -2396,8 +2262,6 @@ Encoding: 92 -1 90
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_NgUu
@@ -2405,8 +2269,6 @@ Encoding: 93 -1 91
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_CUu
@@ -2414,8 +2276,6 @@ Encoding: 94 -1 92
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_NyUu
@@ -2423,8 +2283,6 @@ Encoding: 95 -1 93
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_TtUu
@@ -2432,8 +2290,6 @@ Encoding: 96 -1 94
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_NnUu
@@ -2441,8 +2297,6 @@ Encoding: 97 -1 95
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_TUu
@@ -2450,8 +2304,6 @@ Encoding: 98 -1 96
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_NUu
@@ -2459,8 +2311,6 @@ Encoding: 99 -1 97
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_NnnUu
@@ -2468,8 +2318,6 @@ Encoding: 100 -1 98
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_PUu
@@ -2477,8 +2325,6 @@ Encoding: 101 -1 99
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MUu
@@ -2486,8 +2332,6 @@ Encoding: 102 -1 100
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_YUu
@@ -2495,8 +2339,6 @@ Encoding: 103 -1 101
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_RUu
@@ -2504,8 +2346,6 @@ Encoding: 104 -1 102
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_RrUu
@@ -2513,8 +2353,6 @@ Encoding: 105 -1 103
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_LUu
@@ -2522,8 +2360,6 @@ Encoding: 106 -1 104
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_LlUu
@@ -2531,8 +2367,6 @@ Encoding: 107 -1 105
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_LllUu
@@ -2540,8 +2374,6 @@ Encoding: 108 -1 106
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_KSsa
@@ -2550,8 +2382,6 @@ Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Shree
@@ -2559,8 +2389,6 @@ Encoding: 110 -1 108
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: space
@@ -2568,8 +2396,6 @@ Encoding: 0 32 109
 Width: 200
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_Anusvara
@@ -2578,8 +2404,6 @@ Width: 0
 GlyphClass: 4
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: dottedcircle
@@ -2587,7 +2411,6 @@ Encoding: 74 9676 111
 Width: 761
 Flags: HMW
 LayerCount: 2
-Back
 Fore
 SplineSet
 348 501 m 4
@@ -2742,8 +2565,6 @@ Encoding: 75 65279 112
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: zerowidthnonjoiner
@@ -2751,8 +2572,6 @@ Encoding: 73 8204 113
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_NnAa.alt
@@ -2760,8 +2579,6 @@ Encoding: 111 -1 114
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_NnnAa.alt
@@ -2769,8 +2586,6 @@ Encoding: 112 -1 115
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_RrAa.alt
@@ -2778,8 +2593,6 @@ Encoding: 113 -1 116
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraI.alt1
@@ -2787,8 +2600,6 @@ Encoding: 114 -1 117
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraI.alt2
@@ -2796,8 +2607,6 @@ Encoding: 115 -1 118
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraI.alt3
@@ -2805,8 +2614,6 @@ Encoding: 116 -1 119
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraI.alt4
@@ -2814,8 +2621,6 @@ Encoding: 117 -1 120
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraI.alt5
@@ -2823,8 +2628,6 @@ Encoding: 118 -1 121
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraI.alt6
@@ -2832,8 +2635,6 @@ Encoding: 119 -1 122
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraI.alt7
@@ -2841,8 +2642,6 @@ Encoding: 120 -1 123
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraIi.alt1
@@ -2851,8 +2650,6 @@ Width: 0
 GlyphClass: 4
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraU.alt1
@@ -2861,8 +2658,6 @@ Width: 0
 GlyphClass: 4
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraI.stylalt1
@@ -2870,8 +2665,6 @@ Encoding: 123 -1 126
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraIi.stylalt1
@@ -2880,8 +2673,6 @@ Width: 0
 GlyphClass: 4
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_MatraAi.alt
@@ -2889,8 +2680,6 @@ Encoding: 125 -1 128
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: tml_TtIi
@@ -2898,8 +2687,6 @@ Encoding: 126 -1 129
 Width: 0
 Flags: HMW
 LayerCount: 2
-Back
-Fore
 EndChar
 EndChars
 EndSplineFont
