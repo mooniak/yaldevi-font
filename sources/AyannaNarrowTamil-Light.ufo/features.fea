@@ -9,16 +9,20 @@ languagesystem taml dflt;
 lookup Marktobaseattachmentlookup0 {
   lookupflag 0;
   markClass [\tml_Virama ] <anchor 0 -0> @tml_virama;
+  pos base [\tml_La ] <anchor 305 0> mark @tml_virama;
   pos base [\tml_Lla ] <anchor 449 0> mark @tml_virama;
+  pos base [\tml_Llla ] <anchor 254 0> mark @tml_virama;
   pos base [\tml_Day ] <anchor 395 0> mark @tml_virama;
   pos base [\tml_Pa \tml_Na ] <anchor 220 0> mark @tml_virama;
   pos base [\tml_Ra ] <anchor 206 0> mark @tml_virama;
+  pos base [\tml_Sha ] <anchor 383 0> mark @tml_virama;
   pos base [\tml_Tta ] <anchor 340 0> mark @tml_virama;
-  pos base [\tml_Va ] <anchor 447 0> mark @tml_virama;
+  pos base [\tml_Va ] <anchor 393 0> mark @tml_virama;
   pos base [\tml_Ya ] <anchor 336 0> mark @tml_virama;
   pos base [\tml_Nnna ] <anchor 404 0> mark @tml_virama;
   pos base [\tml_Ma ] <anchor 253 -10> mark @tml_virama;
   pos base [\.notdef ] <anchor 0 0> mark @tml_virama;
+  pos base [\tml_Nga ] <anchor 260 0> mark @tml_virama;
   pos base [\tml_Ssa ] <anchor 422 0> mark @tml_virama;
 } Marktobaseattachmentlookup0;
 

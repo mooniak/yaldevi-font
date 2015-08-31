@@ -12,12 +12,16 @@ lookup MarktobaseattachmentinTamillook {
   pos base [\tml_Ee ] <anchor 314 1> mark @tml_virama;
   pos base [\tml_Day ] <anchor 413 1> mark @tml_virama;
   pos base [\tml_Pa ] <anchor 266 0> mark @tml_virama;
-  pos base [\tml_Ra \tml_Na ] <anchor 220 0> mark @tml_virama;
+  pos base [\tml_Ra ] <anchor 220 0> mark @tml_virama;
   pos base [\tml_Tta ] <anchor 346 0> mark @tml_virama;
   pos base [\tml_Va ] <anchor 427 1> mark @tml_virama;
   pos base [\tml_Nna ] <anchor 476 0> mark @tml_virama;
   pos base [\tml_Ma ] <anchor 286 0> mark @tml_virama;
+  pos base [\tml_Sha ] <anchor 383 0> mark @tml_virama;
   pos base [\tml_Ya ] <anchor 348 0> mark @tml_virama;
+  pos base [\tml_Nga ] <anchor 381 0> mark @tml_virama;
+  pos base [\tml_Ta ] <anchor 300 0> mark @tml_virama;
+  pos base [\tml_Na ] <anchor 250 0> mark @tml_virama;
   pos base [\tml_Ssa ] <anchor 455 0> mark @tml_virama;
 } MarktobaseattachmentinTamillook;
 
@@ -31,7 +35,6 @@ feature abvm {
      language dflt ;
       lookup MarktobaseattachmentinTamillook;
 } abvm;
-#Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\tml_E \tml_Ee \tml_Ii \tml_Lla \tml_Day \tml_Pa \tml_Ra \tml_Tta 
 	\tml_Va \tml_MatraAa \tml_Seven \uni0031 \uni0032 \NameMe.13 \tml_A \tml_Aa 

@@ -4,46 +4,21 @@
   <unicode hex="0BCD"/>
   <outline>
     <contour>
-      <point x="0" y="-0.299805" type="move" name="_tml_virama"/>
+      <point x="0" y="-0" type="move" name="_tml_virama"/>
     </contour>
     <contour>
-      <point x="-31.2002" y="682" type="curve" smooth="yes"/>
-      <point x="-31.2002" y="698.9"/>
-      <point x="-16.9001" y="713.2"/>
-      <point x="0" y="713.2" type="curve" smooth="yes"/>
-      <point x="16.9001" y="713.2"/>
-      <point x="31.2002" y="698.9"/>
-      <point x="31.2002" y="682" type="curve" smooth="yes"/>
-      <point x="31.2002" y="665.1"/>
-      <point x="16.9001" y="650.8"/>
-      <point x="0" y="650.8" type="curve" smooth="yes"/>
-      <point x="-16.9001" y="650.8"/>
-      <point x="-31.2002" y="665.1"/>
+      <point x="-31" y="682" type="curve" smooth="yes"/>
+      <point x="-31" y="699"/>
+      <point x="-17" y="713"/>
+      <point x="0" y="713" type="curve" smooth="yes"/>
+      <point x="17" y="713"/>
+      <point x="31" y="699"/>
+      <point x="31" y="682" type="curve" smooth="yes"/>
+      <point x="31" y="665"/>
+      <point x="17" y="651"/>
+      <point x="0" y="651" type="curve" smooth="yes"/>
+      <point x="-17" y="651"/>
+      <point x="-31" y="665"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>658</integer>
-            <key>width</key>
-            <integer>48</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-24</integer>
-            <key>width</key>
-            <integer>48</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

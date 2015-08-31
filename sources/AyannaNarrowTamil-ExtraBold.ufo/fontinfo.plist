@@ -10,6 +10,10 @@
     <string>ayanna-tamil tamil</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
+    <key>versionMajor</key>
+    <integer>2</integer>
+    <key>versionMinor</key>
+    <integer>5</integer>
     <key>copyright</key>
     <string>Licensed under the SIL Open Font License 1.1 (see file OFL.txt)</string>
     <key>unitsPerEm</key>
@@ -23,7 +27,7 @@
     <key>note</key>
     <string></string>
     <key>openTypeHeadCreated</key>
-    <string>2015/06/23 08:01:59</string>
+    <string>2015/08/30 06:30:00</string>
     <key>openTypeHheaAscender</key>
     <integer>541</integer>
     <key>openTypeHheaDescender</key>

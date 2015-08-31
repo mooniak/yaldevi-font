@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_Pa" format="1">
-  <advance width="448"/>
+  <advance width="486"/>
   <unicode hex="0BAA"/>
   <outline>
     <contour>
@@ -19,33 +19,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>35</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>28</integer>
-            <key>width</key>
-            <integer>36</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>413</integer>
-            <key>width</key>
-            <integer>36</integer>
-          </dict>
-        </array>
-      </dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>5</integer>
       <key>public.markColor</key>

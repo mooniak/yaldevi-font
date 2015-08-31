@@ -8,7 +8,7 @@
       <point x="61" y="545" type="line"/>
       <point x="465" y="545" type="line"/>
       <point x="465" y="510" type="line"/>
-      <point x="354.933" y="510" type="line"/>
+      <point x="355" y="510" type="line"/>
       <point x="354" y="0" type="line"/>
       <point x="318" y="0" type="line"/>
       <point x="319" y="510" type="line"/>
@@ -18,39 +18,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>510</integer>
-            <key>width</key>
-            <integer>35</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>60</integer>
-            <key>width</key>
-            <integer>36</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>365</integer>
-            <key>width</key>
-            <integer>36</integer>
-          </dict>
-        </array>
-      </dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>6</integer>
       <key>public.markColor</key>

@@ -5,12 +5,12 @@
   <outline>
     <contour>
       <point x="40" y="248" type="curve" smooth="yes"/>
-      <point x="40" y="419.119"/>
+      <point x="40" y="419"/>
       <point x="119" y="545"/>
       <point x="292" y="545" type="curve" smooth="yes"/>
       <point x="291" y="510" type="line" smooth="yes"/>
       <point x="140" y="510"/>
-      <point x="77" y="399.684"/>
+      <point x="77" y="400"/>
       <point x="77" y="248" type="curve" smooth="yes"/>
       <point x="77" y="116"/>
       <point x="108" y="18"/>
@@ -42,7 +42,7 @@
       <point x="283" y="545" type="line"/>
       <point x="556" y="545" type="line"/>
       <point x="556" y="510" type="line"/>
-      <point x="445.933" y="510" type="line"/>
+      <point x="446" y="510" type="line"/>
       <point x="445" y="0" type="line"/>
       <point x="409" y="0" type="line"/>
       <point x="410" y="510" type="line"/>
@@ -56,39 +56,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>510</integer>
-            <key>width</key>
-            <integer>35</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>60</integer>
-            <key>width</key>
-            <integer>36</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>365</integer>
-            <key>width</key>
-            <integer>36</integer>
-          </dict>
-        </array>
-      </dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>6</integer>
       <key>public.markColor</key>

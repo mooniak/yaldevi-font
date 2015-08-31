@@ -7,18 +7,18 @@
       <point x="0" y="0" type="move" name="_tml_virama"/>
     </contour>
     <contour>
-      <point x="-60.8408" y="682" type="curve" smooth="yes"/>
-      <point x="-60.8408" y="714.955"/>
-      <point x="-32.9554" y="742.841"/>
-      <point x="0" y="742.841" type="curve" smooth="yes"/>
-      <point x="32.9554" y="742.841"/>
-      <point x="60.8408" y="714.955"/>
-      <point x="60.8408" y="682" type="curve" smooth="yes"/>
-      <point x="60.8408" y="649.045"/>
-      <point x="32.9554" y="621.159"/>
-      <point x="0" y="621.159" type="curve" smooth="yes"/>
-      <point x="-32.9554" y="621.159"/>
-      <point x="-60.8408" y="649.045"/>
+      <point x="-61" y="682" type="curve" smooth="yes"/>
+      <point x="-61" y="715"/>
+      <point x="-33" y="743"/>
+      <point x="0" y="743" type="curve" smooth="yes"/>
+      <point x="33" y="743"/>
+      <point x="61" y="715"/>
+      <point x="61" y="682" type="curve" smooth="yes"/>
+      <point x="61" y="649"/>
+      <point x="33" y="621"/>
+      <point x="0" y="621" type="curve" smooth="yes"/>
+      <point x="-33" y="621"/>
+      <point x="-61" y="649"/>
     </contour>
   </outline>
   <lib>
