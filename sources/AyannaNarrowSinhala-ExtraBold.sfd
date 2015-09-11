@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425560291
-ModificationTime: 1441621256
+ModificationTime: 1441868516
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -38,16 +38,17 @@ HheadDOffset: 1
 OS2CapHeight: 0
 OS2XHeight: 0
 OS2Vendor: 'PfEd'
+Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 0" { "'abvs' Above Base Substitutions lookup 0-1"  } ['abvs' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'sinh' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-Encoding: Custom
+Encoding: sinhala_final
 UnicodeInterp: none
-NameList: AGL For New Fonts
+NameList: sinhala
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 154
-WinInfo: 0 18 7
+WinInfo: 0 15 12
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -80,7 +81,7 @@ Grid
 -1032 405 m 0,48,-1
  4331 405 l 1024
 EndSplineSet
-BeginChars: 65550 556
+BeginChars: 65546 924
 
 StartChar: si_Tta
 Encoding: 34 3495 0
@@ -465,19 +466,19 @@ StartChar: si_Va
 Encoding: 55 3520 9
 Width: 522
 VWidth: 0
-Flags: HW
-HStem: 0 115<172.612 326.262> 306 85<170.969 232.753 249.188 256.248> 444 87.5635<151.355 224.396> 639.885 115.115<172.387 313.278>
-VStem: 19 110.676<154.911 291.862> 58.7246 89.4805<389.062 441.95> 395.188 115<199.266 524.68>
+Flags: W
+HStem: 0 115<172.612 326.262> 306 85<149.321 234.048> 444 87.5635<151.355 224.376> 639.885 115.115<172.387 313.278>
+VStem: 19 110.676<154.911 292.589> 58.7246 89.4805<391.283 441.95> 395.188 115<199.266 524.68>
 LayerCount: 2
 Back
 Fore
 SplineSet
-240.04296875 755 m 0
+240.04296875 755 m 0xfa
  379.514648438 755 510.188476562 675.859375 510.188476562 354 c 0
  510.188476562 118 429.188476562 0 249.188476562 0 c 0
- 71.1884765625 0 19 137 19 218.826171875 c 0
+ 71.1884765625 0 19 137 19 218.826171875 c 0xfa
  19 278.475885298 38.324953336 334.025590215 68.0573592058 360.834159793 c 1
- 61.8869028167 377.477481932 58.724609375 393.521207216 58.724609375 409.272460938 c 0
+ 61.8869028167 377.477481932 58.724609375 393.521207216 58.724609375 409.272460938 c 0xf6
  58.724609375 481.53515625 107.6953125 531.563476562 181.997070312 531.563476562 c 0
  258.983398438 531.563476562 330.381835938 474.899414062 330.381835938 365.563476562 c 0
  330.381835938 351 327.188476562 325 323.1328125 306 c 1
@@ -488,10 +489,10 @@ SplineSet
  395.188476562 583 322.868164062 639.884765625 240.04296875 639.884765625 c 0
  198.939453125 639.884765625 158.854492188 618.959960938 141.798828125 576.85546875 c 1
  32.7666015625 613.029296875 l 1
- 68.7509765625 707.868164062 153.322265625 755 240.04296875 755 c 0
+ 68.7509765625 707.868164062 153.322265625 755 240.04296875 755 c 0xfa
 234.047949222 391 m 1
  232.485838935 418.791444991 215.631889456 444 181.997070312 444 c 0
- 157.197265625 444 148.205078125 426.133789062 148.205078125 404.787109375 c 0
+ 157.197265625 444 148.205078125 426.133789062 148.205078125 404.787109375 c 0xf6
  148.205078125 400.0630246 149.051825442 395.444143804 150.458114216 390.941617353 c 0
  151.982161731 390.980449509 153.521476814 391 155.076171875 391 c 2
  234.047949222 391 l 1
@@ -499,8 +500,8 @@ EndSplineSet
 EndChar
 
 StartChar: uni0044
-Encoding: 65537 68 10
-Width: 154
+Encoding: 583 68 10
+Width: 0
 VWidth: 0
 Flags: HMW
 HStem: 0 122<389.834 466.723 602.19 683.397> 307.551 84.4473<244.265 298.397 397.433 469.905>
@@ -508,40 +509,36 @@ VStem: 270.265 106.338<134.908 289.206> 486.899 95.9104<140.379 249.5>
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: uni0046
-Encoding: 65538 70 11
-Width: 154
+Encoding: 597 70 11
+Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: uni0047
-Encoding: 65539 71 12
-Width: 154
+Encoding: 598 71 12
+Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: uni0049
-Encoding: 65540 73 13
-Width: 154
+Encoding: 601 73 13
+Width: 0
 VWidth: 0
 Flags: W
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ca
@@ -700,13 +697,12 @@ EndChar
 
 StartChar: uni0020
 Encoding: 0 32 18
-Width: 250
+Width: 200
 VWidth: 0
-Flags: W
+Flags: HWO
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ka
@@ -882,7 +878,7 @@ SplineSet
  121 9 l 1
  151 41 198.549804688 8.947265625 250 8.947265625 c 0
  352.154013805 8.947265625 429.959170549 47.7142045835 474.030816738 122.671703102 c 1
- 491.392403354 43.7956865013 570.248150519 2.40649218955e-009 651 0 c 0
+ 491.392403354 43.7956865013 570.248150519 2.40649218955e-09 651 0 c 0
  845.578125 0 853.840820312 166 853.840820312 277 c 0
  853.840820312 386 847.842773438 520 712 520 c 0
  673 520 634.943359375 491.129882812 625.45703125 468 c 1
@@ -1062,7 +1058,7 @@ SplineSet
  38.0075053479 337.197514517 19 284.258407628 19 225.309570312 c 0
  19 67.8115234375 129.291015625 0 223.291015625 0 c 0
  279.711714397 0 320.994075758 14.0064990995 350.543918824 35.1014272211 c 1
- 371.829281307 15.3200620161 403.279343457 -6.51301929055e-015 445.291015625 0 c 0
+ 371.829281307 15.3200620161 403.279343457 -6.51301929055e-15 445.291015625 0 c 0
 154.125698221 412.302956653 m 1
  146.518204399 421.789920173 140.337890604 440.402504331 140.337890625 452.037109375 c 0
  140.337890625 475.873046875 156.166015625 496.873046875 185.521484375 496.873046875 c 0
@@ -1429,7 +1425,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.1
-Encoding: 65541 -1 51
+Encoding: 65537 -1 51
 Width: 0
 VWidth: 0
 Flags: W
@@ -2153,7 +2149,7 @@ SplineSet
  388.461448382 417.874397775 470.087890625 367.351100508 470.087890625 231 c 0
  470.087890625 188.079866938 463.635781012 151.687657114 451.861498774 121.377047415 c 1
 391.20203991 39.7763423473 m 1
- 354.708246612 12.6321224198 307.750379549 2.19086901398e-014 255.087890625 0 c 0
+ 354.708246612 12.6321224198 307.750379549 2.19086901398e-14 255.087890625 0 c 0
  67.202156222 0 68.5152734248 117.33967239 78.5817336877 168.970929188 c 1
  49.0033311172 138.343669553 28.2777215948 116.987054784 26.087890625 115 c 2
  23.087890625 249 l 1
@@ -2267,7 +2263,7 @@ SplineSet
  577.038085938 594 714.0390625 513.375 714.0390625 279 c 0
  714.0390625 56.42578125 620.266601562 0 516.666992188 0 c 0
  464.938952531 0 429.222789386 23.225450647 408.777601067 49.4075310671 c 1
- 366.365791143 15.6084672441 310.577799289 2.36850469792e-014 252.0390625 0 c 0
+ 366.365791143 15.6084672441 310.577799289 2.36850469792e-14 252.0390625 0 c 0
  120.0390625 0 -1.9609375 97 22.0390625 286 c 1
 300.343118848 327.148412066 m 1
  284.020124335 292.269008688 266.064783888 256.242426159 242.891601562 226 c 0
@@ -2312,7 +2308,7 @@ SplineSet
  208.518554688 107.364257812 190.885742188 89.4404296875 168.997070312 89.4404296875 c 0
  147.108398438 89.4404296875 129.475585938 107.364257812 129.475585938 129.615234375 c 0
 168 0 m 0
- 202.054133244 4.14512174585e-015 232.976403857 12.9748594669 256.111329538 34.269096098 c 1
+ 202.054133244 4.14512174585e-15 232.976403857 12.9748594669 256.111329538 34.269096098 c 1
  279.369882096 13.0644967323 361.125 0 361.125 0 c 0
  518.880859375 0 550.755859375 181.99609375 550.755859375 293 c 0
  550.755859375 599.055664062 448.44921875 755 247.666015625 755 c 0
@@ -2360,7 +2356,7 @@ SplineSet
  45.81640625 294 34.333984375 248.30078125 34.333984375 207 c 0
  34.333984375 103.764648438 109 0 233 0 c 0
  292.54323096 0 337.274583823 15.599743954 369.570937239 38.6678048969 c 1
- 390.842921595 17.1922139157 423.495327517 2.96117297349e-015 468 0 c 0
+ 390.842921595 17.1922139157 423.495327517 2.96117297349e-15 468 0 c 0
 275.075915932 318.576826157 m 1
  265.946888542 292.584408129 252.455620745 270.237742648 230 255 c 1
  289 181 l 1
@@ -3012,106 +3008,97 @@ StartChar: si_GhUu
 Encoding: 122 -1 128
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Gha.reph
 Encoding: 123 -1 129
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_GhRI
-Encoding: 124 -1 130
+Encoding: 125 -1 130
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_GhRIi
-Encoding: 125 -1 131
+Encoding: 126 -1 131
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_GhRa
-Encoding: 126 -1 132
+Encoding: 127 -1 132
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ng.halant
-Encoding: 127 -1 133
+Encoding: 128 -1 133
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NgI
-Encoding: 128 -1 134
+Encoding: 129 -1 134
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NgIi
-Encoding: 129 -1 135
+Encoding: 130 -1 135
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Nng.halant
-Encoding: 130 -1 136
+Encoding: 131 -1 136
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NngI
-Encoding: 131 -1 137
+Encoding: 132 -1 137
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Validated: 1
@@ -3119,1495 +3106,1360 @@ Fore
 EndChar
 
 StartChar: si_NngIi
-Encoding: 132 -1 138
+Encoding: 133 -1 138
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NngU
-Encoding: 133 -1 139
+Encoding: 134 -1 139
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NngUu
-Encoding: 134 -1 140
+Encoding: 135 -1 140
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_C.halant
-Encoding: 135 -1 141
+Encoding: 136 -1 141
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_CI
-Encoding: 136 -1 142
+Encoding: 137 -1 142
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_CIi
-Encoding: 137 -1 143
+Encoding: 138 -1 143
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_CU
-Encoding: 138 -1 144
+Encoding: 139 -1 144
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_CUu
-Encoding: 139 -1 145
+Encoding: 140 -1 145
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ca.reph
-Encoding: 140 -1 146
+Encoding: 141 -1 146
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_CRa
-Encoding: 141 -1 147
+Encoding: 143 -1 147
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_CRI
-Encoding: 142 -1 148
+Encoding: 144 -1 148
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_CRIi
-Encoding: 143 -1 149
+Encoding: 145 -1 149
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ch.halant
-Encoding: 144 -1 150
+Encoding: 146 -1 150
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_ChI
-Encoding: 145 -1 151
+Encoding: 147 -1 151
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_ChIi
-Encoding: 146 -1 152
+Encoding: 148 -1 152
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_ChU
-Encoding: 147 -1 153
+Encoding: 149 -1 153
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_ChUu
-Encoding: 148 -1 154
+Encoding: 150 -1 154
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_J.halant
-Encoding: 149 -1 155
+Encoding: 151 -1 155
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JI
-Encoding: 150 -1 156
+Encoding: 152 -1 156
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JIi
-Encoding: 151 -1 157
+Encoding: 153 -1 157
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JU
-Encoding: 152 -1 158
+Encoding: 154 -1 158
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JUu
-Encoding: 153 -1 159
+Encoding: 155 -1 159
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ja.reph
-Encoding: 154 -1 160
+Encoding: 156 -1 160
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JRa
-Encoding: 155 -1 161
+Encoding: 158 -1 161
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JRI
-Encoding: 156 -1 162
+Encoding: 159 -1 162
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JRIi
-Encoding: 157 -1 163
+Encoding: 160 -1 163
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Jh.halant
-Encoding: 158 -1 164
+Encoding: 161 -1 164
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JhI
-Encoding: 159 -1 165
+Encoding: 162 -1 165
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JhIi
-Encoding: 160 -1 166
+Encoding: 163 -1 166
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JhU
-Encoding: 161 -1 167
+Encoding: 164 -1 167
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JhUu
-Encoding: 162 -1 168
+Encoding: 165 -1 168
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Jha.reph
-Encoding: 163 -1 169
+Encoding: 166 -1 169
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JhU.reph
-Encoding: 164 -1 170
+Encoding: 167 -1 170
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JhUu.reph
-Encoding: 165 -1 171
+Encoding: 168 -1 171
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JhRa
-Encoding: 166 -1 172
+Encoding: 170 -1 172
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JhRI
-Encoding: 167 -1 173
+Encoding: 171 -1 173
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JhRIi
-Encoding: 168 -1 174
+Encoding: 172 -1 174
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ny.halant
-Encoding: 169 -1 175
+Encoding: 173 -1 175
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NyAa
-Encoding: 170 -1 176
+Encoding: 174 -1 176
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NyAe
-Encoding: 171 -1 177
+Encoding: 175 -1 177
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NyAee
-Encoding: 172 -1 178
+Encoding: 176 -1 178
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NyAa.halant
-Encoding: 173 -1 179
+Encoding: 177 -1 179
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NyI
-Encoding: 174 -1 180
+Encoding: 178 -1 180
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NyIi
-Encoding: 175 -1 181
+Encoding: 179 -1 181
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NyU
-Encoding: 176 -1 182
+Encoding: 180 -1 182
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NyUu
-Encoding: 177 -1 183
+Encoding: 181 -1 183
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NyRa
-Encoding: 178 -1 184
+Encoding: 183 -1 184
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NyRI
-Encoding: 179 -1 185
+Encoding: 184 -1 185
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NyRIi
-Encoding: 180 -1 186
+Encoding: 185 -1 186
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Jny.halant
-Encoding: 181 -1 187
+Encoding: 186 -1 187
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JnyAa
-Encoding: 182 -1 188
+Encoding: 187 -1 188
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JnyAe
-Encoding: 183 -1 189
+Encoding: 188 -1 189
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JnyAee
-Encoding: 184 -1 190
+Encoding: 189 -1 190
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JnyAa.halant
-Encoding: 185 -1 191
+Encoding: 190 -1 191
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JnyI
-Encoding: 186 -1 192
+Encoding: 191 -1 192
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JnyIi
-Encoding: 187 -1 193
+Encoding: 192 -1 193
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JnyU
-Encoding: 188 -1 194
+Encoding: 193 -1 194
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JnyUu
-Encoding: 189 -1 195
+Encoding: 194 -1 195
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JnyRa
-Encoding: 190 -1 196
+Encoding: 196 -1 196
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JnyRI
-Encoding: 191 -1 197
+Encoding: 197 -1 197
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_JnyRIi
-Encoding: 192 -1 198
+Encoding: 198 -1 198
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ndj.halant
-Encoding: 193 -1 199
+Encoding: 199 -1 199
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NdjI
-Encoding: 194 -1 200
+Encoding: 200 -1 200
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NdjIi
-Encoding: 195 -1 201
+Encoding: 201 -1 201
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NdjU
-Encoding: 196 -1 202
+Encoding: 202 -1 202
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NdjUu
-Encoding: 197 -1 203
+Encoding: 203 -1 203
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NdjRa
-Encoding: 198 -1 204
+Encoding: 205 -1 204
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Tt.halant
-Encoding: 199 -1 205
+Encoding: 206 -1 205
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TtI
-Encoding: 200 -1 206
+Encoding: 207 -1 206
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TtIi
-Encoding: 201 -1 207
+Encoding: 208 -1 207
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TtU
-Encoding: 202 -1 208
+Encoding: 209 -1 208
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TtUu
-Encoding: 203 -1 209
+Encoding: 210 -1 209
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Tta.reph
-Encoding: 204 -1 210
+Encoding: 211 -1 210
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TtRa
-Encoding: 205 -1 211
+Encoding: 213 -1 211
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TtRI
-Encoding: 206 -1 212
+Encoding: 214 -1 212
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TtRIi
-Encoding: 207 -1 213
+Encoding: 215 -1 213
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Tth.halant
-Encoding: 208 -1 214
+Encoding: 216 -1 214
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TthI
-Encoding: 209 -1 215
+Encoding: 217 -1 215
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TthIi
-Encoding: 210 -1 216
+Encoding: 218 -1 216
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TthU
-Encoding: 211 -1 217
+Encoding: 219 -1 217
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TthUu
-Encoding: 212 -1 218
+Encoding: 220 -1 218
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Dd.halant
-Encoding: 213 -1 219
+Encoding: 221 -1 219
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DdI
-Encoding: 214 -1 220
+Encoding: 222 -1 220
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DdIi
-Encoding: 215 -1 221
+Encoding: 223 -1 221
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DdU
-Encoding: 216 -1 222
+Encoding: 224 -1 222
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DdUu
-Encoding: 217 -1 223
+Encoding: 225 -1 223
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Dda.reph
-Encoding: 218 -1 224
+Encoding: 226 -1 224
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DdRa
-Encoding: 219 -1 225
+Encoding: 228 -1 225
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DdRI
-Encoding: 220 -1 226
+Encoding: 229 -1 226
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DdRIi
-Encoding: 221 -1 227
+Encoding: 230 -1 227
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ddh.halant
-Encoding: 222 -1 228
+Encoding: 231 -1 228
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DdhI
-Encoding: 223 -1 229
+Encoding: 232 -1 229
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DdhIi
-Encoding: 224 -1 230
+Encoding: 233 -1 230
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DdhU
-Encoding: 225 -1 231
+Encoding: 234 -1 231
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DdhUu
-Encoding: 226 -1 232
+Encoding: 235 -1 232
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Nn.halant
-Encoding: 227 -1 233
+Encoding: 236 -1 233
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NnI
-Encoding: 228 -1 234
+Encoding: 237 -1 234
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NnIi
-Encoding: 229 -1 235
+Encoding: 238 -1 235
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NnU
-Encoding: 230 -1 236
+Encoding: 239 -1 236
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NnUu
-Encoding: 231 -1 237
+Encoding: 240 -1 237
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Nna.reph
-Encoding: 232 -1 238
+Encoding: 241 -1 238
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Nndd.halant
-Encoding: 233 -1 239
+Encoding: 242 -1 239
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NnddI
-Encoding: 234 -1 240
+Encoding: 243 -1 240
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NnddIi
-Encoding: 235 -1 241
+Encoding: 244 -1 241
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NnddU
-Encoding: 236 -1 242
+Encoding: 245 -1 242
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NnddUu
-Encoding: 237 -1 243
+Encoding: 246 -1 243
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_T.halant
-Encoding: 238 -1 244
+Encoding: 247 -1 244
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TI
-Encoding: 239 -1 245
+Encoding: 248 -1 245
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TIi
-Encoding: 240 -1 246
+Encoding: 249 -1 246
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TU
-Encoding: 241 -1 247
+Encoding: 250 -1 247
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TUu
-Encoding: 242 -1 248
+Encoding: 251 -1 248
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ta.reph
-Encoding: 243 -1 249
+Encoding: 252 -1 249
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TRa
-Encoding: 244 -1 250
+Encoding: 254 -1 250
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TRI
-Encoding: 245 -1 251
+Encoding: 255 -1 251
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_TRIi
-Encoding: 246 -1 252
+Encoding: 256 -1 252
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Th.halant
-Encoding: 247 -1 253
+Encoding: 257 -1 253
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_ThI
-Encoding: 248 -1 254
+Encoding: 258 -1 254
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_ThIi
-Encoding: 249 -1 255
+Encoding: 259 -1 255
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_ThU
-Encoding: 250 -1 256
+Encoding: 260 -1 256
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_ThUu
-Encoding: 251 -1 257
+Encoding: 261 -1 257
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Tha.reph
-Encoding: 252 -1 258
+Encoding: 262 -1 258
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_D.halant
-Encoding: 253 -1 259
+Encoding: 263 -1 259
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DAa
-Encoding: 254 -1 260
+Encoding: 264 -1 260
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DAe
-Encoding: 255 -1 261
+Encoding: 265 -1 261
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DAae
-Encoding: 256 -1 262
+Encoding: 266 -1 262
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DI
-Encoding: 257 -1 263
+Encoding: 267 -1 263
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DIi
-Encoding: 258 -1 264
+Encoding: 268 -1 264
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DU
-Encoding: 259 -1 265
+Encoding: 269 -1 265
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DUu
-Encoding: 260 -1 266
+Encoding: 270 -1 266
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DvocR
-Encoding: 261 -1 267
+Encoding: 271 -1 267
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DvocRr
-Encoding: 262 -1 268
+Encoding: 272 -1 268
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DAa.halant
-Encoding: 263 -1 269
+Encoding: 273 -1 269
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Da.reph
-Encoding: 264 -1 270
+Encoding: 274 -1 270
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DRa
-Encoding: 265 -1 271
+Encoding: 276 -1 271
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DRI
-Encoding: 266 -1 272
+Encoding: 277 -1 272
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DRIi
-Encoding: 267 -1 273
+Encoding: 278 -1 273
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Validated: 1
@@ -4615,373 +4467,340 @@ Fore
 EndChar
 
 StartChar: si_DYa.post
-Encoding: 268 -1 274
+Encoding: 279 -1 274
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DYAa.post
-Encoding: 269 -1 275
+Encoding: 280 -1 275
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DYu.post
-Encoding: 270 -1 276
+Encoding: 281 -1 276
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DYUu.post
-Encoding: 271 -1 277
+Encoding: 282 -1 277
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DYOo.post
-Encoding: 272 -1 278
+Encoding: 283 -1 278
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Dh.halant
-Encoding: 273 -1 279
+Encoding: 284 -1 279
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DhI
-Encoding: 274 -1 280
+Encoding: 285 -1 280
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DhIi
-Encoding: 275 -1 281
+Encoding: 286 -1 281
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DhU
-Encoding: 276 -1 282
+Encoding: 287 -1 282
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DhUu
-Encoding: 277 -1 283
+Encoding: 288 -1 283
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Dha.reph
-Encoding: 278 -1 284
+Encoding: 289 -1 284
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DhRa
-Encoding: 279 -1 285
+Encoding: 291 -1 285
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DhRI
-Encoding: 280 -1 286
+Encoding: 292 -1 286
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_DhRIi
-Encoding: 281 -1 287
+Encoding: 293 -1 287
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_N.halant
-Encoding: 282 -1 288
+Encoding: 294 -1 288
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NI
-Encoding: 283 -1 289
+Encoding: 295 -1 289
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NIi
-Encoding: 284 -1 290
+Encoding: 296 -1 290
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NU
-Encoding: 285 -1 291
+Encoding: 297 -1 291
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NUu
-Encoding: 286 -1 292
+Encoding: 298 -1 292
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Na.reph
-Encoding: 287 -1 293
+Encoding: 299 -1 293
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Nd.halant
-Encoding: 288 -1 294
+Encoding: 300 -1 294
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NdAa
-Encoding: 289 -1 295
+Encoding: 301 -1 295
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NdAe
-Encoding: 290 -1 296
+Encoding: 302 -1 296
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NdAae
-Encoding: 291 -1 297
+Encoding: 303 -1 297
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NdAa.halant
-Encoding: 292 -1 298
+Encoding: 304 -1 298
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NdI
-Encoding: 293 -1 299
+Encoding: 305 -1 299
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NdIi
-Encoding: 294 -1 300
+Encoding: 306 -1 300
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NdU
-Encoding: 295 -1 301
+Encoding: 307 -1 301
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NdUu
-Encoding: 296 -1 302
+Encoding: 308 -1 302
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_NdRa
-Encoding: 297 -1 303
+Encoding: 309 -1 303
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_P.halant
-Encoding: 298 -1 304
+Encoding: 310 -1 304
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_PI
-Encoding: 299 -1 305
+Encoding: 311 -1 305
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_PIi
-Encoding: 300 -1 306
+Encoding: 312 -1 306
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_PU
-Encoding: 301 -1 307
+Encoding: 313 -1 307
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Validated: 1
@@ -4989,579 +4808,527 @@ Fore
 EndChar
 
 StartChar: si_PUu
-Encoding: 302 -1 308
+Encoding: 314 -1 308
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Pa.reph
-Encoding: 303 -1 309
+Encoding: 315 -1 309
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_PRa
-Encoding: 304 -1 310
+Encoding: 317 -1 310
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_PRI
-Encoding: 305 -1 311
+Encoding: 318 -1 311
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_PRIi
-Encoding: 306 -1 312
+Encoding: 319 -1 312
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ph.halant
-Encoding: 307 -1 313
+Encoding: 320 -1 313
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_PhI
-Encoding: 308 -1 314
+Encoding: 321 -1 314
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_PhIi
-Encoding: 309 -1 315
+Encoding: 322 -1 315
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_PhU
-Encoding: 310 -1 316
+Encoding: 323 -1 316
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_PhUu
-Encoding: 311 -1 317
+Encoding: 324 -1 317
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Pha.reph
-Encoding: 312 -1 318
+Encoding: 325 -1 318
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_B.halant
-Encoding: 313 -1 319
+Encoding: 326 -1 319
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_BI
-Encoding: 314 -1 320
+Encoding: 327 -1 320
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_BIi
-Encoding: 315 -1 321
+Encoding: 328 -1 321
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_BU
-Encoding: 316 -1 322
+Encoding: 329 -1 322
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_BUu
-Encoding: 317 -1 323
+Encoding: 330 -1 323
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ba.reph
-Encoding: 318 -1 324
+Encoding: 331 -1 324
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_BRa
-Encoding: 319 -1 325
+Encoding: 333 -1 325
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_BRI
-Encoding: 320 -1 326
+Encoding: 334 -1 326
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_BRIi
-Encoding: 321 -1 327
+Encoding: 335 -1 327
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Bh.halant
-Encoding: 322 -1 328
+Encoding: 336 -1 328
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_BhI
-Encoding: 323 -1 329
+Encoding: 337 -1 329
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_BhIi
-Encoding: 324 -1 330
+Encoding: 338 -1 330
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_BhU
-Encoding: 325 -1 331
+Encoding: 339 -1 331
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_BhUu
-Encoding: 326 -1 332
+Encoding: 340 -1 332
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Bha.reph
-Encoding: 327 -1 333
+Encoding: 341 -1 333
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_BhRa
-Encoding: 328 -1 334
+Encoding: 343 -1 334
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_BhRI
-Encoding: 329 -1 335
+Encoding: 344 -1 335
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_BhRIi
-Encoding: 330 -1 336
+Encoding: 345 -1 336
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_M.halant
-Encoding: 331 -1 337
+Encoding: 346 -1 337
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_MI
-Encoding: 332 -1 338
+Encoding: 347 -1 338
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_MIi
-Encoding: 333 -1 339
+Encoding: 348 -1 339
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_MU
-Encoding: 334 -1 340
+Encoding: 349 -1 340
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_MUu
-Encoding: 335 -1 341
+Encoding: 350 -1 341
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ma.reph
-Encoding: 336 -1 342
+Encoding: 351 -1 342
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_MRa
-Encoding: 337 -1 343
+Encoding: 353 -1 343
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_MRI
-Encoding: 338 -1 344
+Encoding: 354 -1 344
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_MRIi
-Encoding: 339 -1 345
+Encoding: 355 -1 345
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Mb.halant
-Encoding: 340 -1 346
+Encoding: 356 -1 346
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_MbI
-Encoding: 341 -1 347
+Encoding: 357 -1 347
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_MbIi
-Encoding: 342 -1 348
+Encoding: 358 -1 348
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_MbU
-Encoding: 343 -1 349
+Encoding: 359 -1 349
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_MbUu
-Encoding: 344 -1 350
+Encoding: 360 -1 350
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Y.halant
-Encoding: 345 -1 351
+Encoding: 361 -1 351
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_YI
-Encoding: 346 -1 352
+Encoding: 362 -1 352
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_YIi
-Encoding: 347 -1 353
+Encoding: 363 -1 353
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_YU
-Encoding: 348 -1 354
+Encoding: 364 -1 354
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_YUu
-Encoding: 349 -1 355
+Encoding: 365 -1 355
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ya.reph
-Encoding: 350 -1 356
+Encoding: 366 -1 356
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ya.post
-Encoding: 351 -1 357
+Encoding: 367 -1 357
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Y.post.halant
-Encoding: 352 -1 358
+Encoding: 368 -1 358
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_YU.post
-Encoding: 353 -1 359
+Encoding: 369 -1 359
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_YUu.post
-Encoding: 354 -1 360
+Encoding: 370 -1 360
 Width: 0
 VWidth: 0
 Flags: W
@@ -5572,7 +5339,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Ya.post.reph
-Encoding: 355 -1 361
+Encoding: 371 -1 361
 Width: 0
 VWidth: 0
 Flags: W
@@ -5583,7 +5350,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Yu.post.reph
-Encoding: 356 -1 362
+Encoding: 372 -1 362
 Width: 0
 VWidth: 0
 Flags: W
@@ -5594,7 +5361,7 @@ Validated: 1
 EndChar
 
 StartChar: si_YUu.post.reph
-Encoding: 357 -1 363
+Encoding: 373 -1 363
 Width: 0
 VWidth: 0
 Flags: W
@@ -5605,7 +5372,7 @@ Validated: 1
 EndChar
 
 StartChar: si_R.halant
-Encoding: 358 -1 364
+Encoding: 374 -1 364
 Width: 0
 VWidth: 0
 Flags: W
@@ -5616,7 +5383,7 @@ Validated: 1
 EndChar
 
 StartChar: si_RAe
-Encoding: 359 -1 365
+Encoding: 375 -1 365
 Width: 0
 VWidth: 0
 Flags: W
@@ -5627,7 +5394,7 @@ Validated: 1
 EndChar
 
 StartChar: si_RAae
-Encoding: 360 -1 366
+Encoding: 376 -1 366
 Width: 0
 VWidth: 0
 Flags: W
@@ -5638,7 +5405,7 @@ Validated: 1
 EndChar
 
 StartChar: si_RI
-Encoding: 361 -1 367
+Encoding: 377 -1 367
 Width: 0
 VWidth: 0
 Flags: W
@@ -5649,7 +5416,7 @@ Validated: 1
 EndChar
 
 StartChar: si_RIi
-Encoding: 362 -1 368
+Encoding: 378 -1 368
 Width: 0
 VWidth: 0
 Flags: W
@@ -5660,7 +5427,7 @@ Validated: 1
 EndChar
 
 StartChar: si_RU
-Encoding: 363 -1 369
+Encoding: 379 -1 369
 Width: 0
 VWidth: 0
 Flags: W
@@ -5671,7 +5438,7 @@ Validated: 1
 EndChar
 
 StartChar: si_RUu
-Encoding: 364 -1 370
+Encoding: 380 -1 370
 Width: 0
 VWidth: 0
 Flags: W
@@ -5682,7 +5449,7 @@ Validated: 1
 EndChar
 
 StartChar: si_L.halant
-Encoding: 365 -1 371
+Encoding: 381 -1 371
 Width: 0
 VWidth: 0
 Flags: W
@@ -5693,7 +5460,7 @@ Validated: 1
 EndChar
 
 StartChar: si_LI
-Encoding: 366 -1 372
+Encoding: 382 -1 372
 Width: 0
 VWidth: 0
 Flags: W
@@ -5704,7 +5471,7 @@ Validated: 1
 EndChar
 
 StartChar: si_LIi
-Encoding: 367 -1 373
+Encoding: 383 -1 373
 Width: 0
 VWidth: 0
 Flags: W
@@ -5715,7 +5482,7 @@ Validated: 1
 EndChar
 
 StartChar: si_LU
-Encoding: 368 -1 374
+Encoding: 384 -1 374
 Width: 0
 VWidth: 0
 Flags: W
@@ -5726,7 +5493,7 @@ Validated: 1
 EndChar
 
 StartChar: si_LUu
-Encoding: 369 -1 375
+Encoding: 385 -1 375
 Width: 0
 VWidth: 0
 Flags: W
@@ -5737,7 +5504,7 @@ Validated: 1
 EndChar
 
 StartChar: si_V.halant
-Encoding: 370 -1 376
+Encoding: 386 -1 376
 Width: 571
 VWidth: 0
 Flags: W
@@ -5786,10 +5553,11 @@ SplineSet
  54.1884765625 628 l 5
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" si_Va si_Halant
 EndChar
 
 StartChar: si_VI
-Encoding: 371 -1 377
+Encoding: 387 -1 377
 Width: 571
 VWidth: 0
 Flags: W
@@ -5840,10 +5608,11 @@ SplineSet
  266.188476562 675 l 5
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" si_Va si_MatraI
 EndChar
 
 StartChar: si_VIi
-Encoding: 372 -1 378
+Encoding: 388 -1 378
 Width: 571
 VWidth: 0
 Flags: W
@@ -5904,10 +5673,11 @@ SplineSet
  515.060546875 623 416.96875 590 366.31640625 590 c 5
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" si_Va si_MatraIi
 EndChar
 
 StartChar: si_VU
-Encoding: 373 -1 379
+Encoding: 389 -1 379
 Width: 0
 VWidth: 0
 Flags: W
@@ -5918,7 +5688,7 @@ Validated: 1
 EndChar
 
 StartChar: si_VUu
-Encoding: 374 -1 380
+Encoding: 390 -1 380
 Width: 0
 VWidth: 0
 Flags: W
@@ -5929,7 +5699,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Va.reph
-Encoding: 375 -1 381
+Encoding: 391 -1 381
 Width: 0
 VWidth: 0
 Flags: W
@@ -5940,7 +5710,7 @@ Validated: 1
 EndChar
 
 StartChar: si_VRa
-Encoding: 376 -1 382
+Encoding: 393 -1 382
 Width: 0
 VWidth: 0
 Flags: W
@@ -5951,7 +5721,7 @@ Validated: 1
 EndChar
 
 StartChar: si_VRI
-Encoding: 377 -1 383
+Encoding: 394 -1 383
 Width: 0
 VWidth: 0
 Flags: W
@@ -5962,7 +5732,7 @@ Validated: 1
 EndChar
 
 StartChar: si_VRIi
-Encoding: 378 -1 384
+Encoding: 395 -1 384
 Width: 0
 VWidth: 0
 Flags: W
@@ -5973,7 +5743,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Sh.halant
-Encoding: 379 -1 385
+Encoding: 396 -1 385
 Width: 0
 VWidth: 0
 Flags: W
@@ -5984,7 +5754,7 @@ Validated: 1
 EndChar
 
 StartChar: si_ShI
-Encoding: 380 -1 386
+Encoding: 397 -1 386
 Width: 0
 VWidth: 0
 Flags: W
@@ -5995,7 +5765,7 @@ Validated: 1
 EndChar
 
 StartChar: si_ShIi
-Encoding: 381 -1 387
+Encoding: 398 -1 387
 Width: 0
 VWidth: 0
 Flags: W
@@ -6006,7 +5776,7 @@ Validated: 1
 EndChar
 
 StartChar: si_ShU
-Encoding: 382 -1 388
+Encoding: 399 -1 388
 Width: 0
 VWidth: 0
 Flags: W
@@ -6017,7 +5787,7 @@ Validated: 1
 EndChar
 
 StartChar: si_ShUu
-Encoding: 383 -1 389
+Encoding: 400 -1 389
 Width: 0
 VWidth: 0
 Flags: W
@@ -6028,7 +5798,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Sha.reph
-Encoding: 384 -1 390
+Encoding: 401 -1 390
 Width: 0
 VWidth: 0
 Flags: W
@@ -6039,7 +5809,7 @@ Validated: 1
 EndChar
 
 StartChar: si_ShRa
-Encoding: 385 -1 391
+Encoding: 403 -1 391
 Width: 0
 VWidth: 0
 Flags: W
@@ -6050,7 +5820,7 @@ Validated: 1
 EndChar
 
 StartChar: si_ShRI
-Encoding: 386 -1 392
+Encoding: 404 -1 392
 Width: 0
 VWidth: 0
 Flags: W
@@ -6061,7 +5831,7 @@ Validated: 1
 EndChar
 
 StartChar: si_ShRIi
-Encoding: 387 -1 393
+Encoding: 405 -1 393
 Width: 0
 VWidth: 0
 Flags: W
@@ -6072,7 +5842,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Ss.halant
-Encoding: 388 -1 394
+Encoding: 406 -1 394
 Width: 0
 VWidth: 0
 Flags: W
@@ -6083,7 +5853,7 @@ Validated: 1
 EndChar
 
 StartChar: si_SsI
-Encoding: 389 -1 395
+Encoding: 407 -1 395
 Width: 0
 VWidth: 0
 Flags: W
@@ -6094,7 +5864,7 @@ Validated: 1
 EndChar
 
 StartChar: si_SsIi
-Encoding: 390 -1 396
+Encoding: 408 -1 396
 Width: 0
 VWidth: 0
 Flags: W
@@ -6105,7 +5875,7 @@ Validated: 1
 EndChar
 
 StartChar: si_SsU
-Encoding: 391 -1 397
+Encoding: 409 -1 397
 Width: 0
 VWidth: 0
 Flags: W
@@ -6116,7 +5886,7 @@ Validated: 1
 EndChar
 
 StartChar: si_SsUu
-Encoding: 392 -1 398
+Encoding: 410 -1 398
 Width: 0
 VWidth: 0
 Flags: W
@@ -6127,7 +5897,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Ssa.reph
-Encoding: 393 -1 399
+Encoding: 411 -1 399
 Width: 0
 VWidth: 0
 Flags: W
@@ -6138,7 +5908,7 @@ Validated: 1
 EndChar
 
 StartChar: si_SsRa
-Encoding: 394 -1 400
+Encoding: 413 -1 400
 Width: 0
 VWidth: 0
 Flags: W
@@ -6149,7 +5919,7 @@ Validated: 1
 EndChar
 
 StartChar: si_SsRI
-Encoding: 395 -1 401
+Encoding: 414 -1 401
 Width: 0
 VWidth: 0
 Flags: W
@@ -6160,7 +5930,7 @@ Validated: 1
 EndChar
 
 StartChar: si_SsRIi
-Encoding: 396 -1 402
+Encoding: 415 -1 402
 Width: 0
 VWidth: 0
 Flags: W
@@ -6171,7 +5941,7 @@ Validated: 1
 EndChar
 
 StartChar: si_S.halant
-Encoding: 397 -1 403
+Encoding: 416 -1 403
 Width: 0
 VWidth: 0
 Flags: W
@@ -6182,7 +5952,7 @@ Validated: 1
 EndChar
 
 StartChar: si_SI
-Encoding: 398 -1 404
+Encoding: 417 -1 404
 Width: 0
 VWidth: 0
 Flags: W
@@ -6193,7 +5963,7 @@ Validated: 1
 EndChar
 
 StartChar: si_SIi
-Encoding: 399 -1 405
+Encoding: 418 -1 405
 Width: 0
 VWidth: 0
 Flags: W
@@ -6204,7 +5974,7 @@ Validated: 1
 EndChar
 
 StartChar: si_SU
-Encoding: 400 -1 406
+Encoding: 419 -1 406
 Width: 0
 VWidth: 0
 Flags: W
@@ -6215,7 +5985,7 @@ Validated: 1
 EndChar
 
 StartChar: si_SUu
-Encoding: 401 -1 407
+Encoding: 420 -1 407
 Width: 0
 VWidth: 0
 Flags: W
@@ -6226,7 +5996,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Sa.reph
-Encoding: 402 -1 408
+Encoding: 421 -1 408
 Width: 0
 VWidth: 0
 Flags: W
@@ -6237,7 +6007,7 @@ Validated: 1
 EndChar
 
 StartChar: si_SRa
-Encoding: 403 -1 409
+Encoding: 423 -1 409
 Width: 0
 VWidth: 0
 Flags: W
@@ -6248,7 +6018,7 @@ Validated: 1
 EndChar
 
 StartChar: si_SRI
-Encoding: 404 -1 410
+Encoding: 424 -1 410
 Width: 0
 VWidth: 0
 Flags: W
@@ -6259,7 +6029,7 @@ Validated: 1
 EndChar
 
 StartChar: si_SRIi
-Encoding: 405 -1 411
+Encoding: 425 -1 411
 Width: 0
 VWidth: 0
 Flags: W
@@ -6270,7 +6040,7 @@ Validated: 1
 EndChar
 
 StartChar: si_H.halant
-Encoding: 406 -1 412
+Encoding: 426 -1 412
 Width: 0
 VWidth: 0
 Flags: W
@@ -6281,7 +6051,7 @@ Validated: 1
 EndChar
 
 StartChar: si_HI
-Encoding: 407 -1 413
+Encoding: 427 -1 413
 Width: 0
 VWidth: 0
 Flags: W
@@ -6292,7 +6062,7 @@ Validated: 1
 EndChar
 
 StartChar: si_HIi
-Encoding: 408 -1 414
+Encoding: 428 -1 414
 Width: 0
 VWidth: 0
 Flags: W
@@ -6303,7 +6073,7 @@ Validated: 1
 EndChar
 
 StartChar: si_HU
-Encoding: 409 -1 415
+Encoding: 429 -1 415
 Width: 0
 VWidth: 0
 Flags: W
@@ -6314,7 +6084,7 @@ Validated: 1
 EndChar
 
 StartChar: si_HUu
-Encoding: 410 -1 416
+Encoding: 430 -1 416
 Width: 0
 VWidth: 0
 Flags: W
@@ -6325,7 +6095,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Ha.reph
-Encoding: 411 -1 417
+Encoding: 431 -1 417
 Width: 0
 VWidth: 0
 Flags: W
@@ -6336,7 +6106,7 @@ Validated: 1
 EndChar
 
 StartChar: si_HRa
-Encoding: 412 -1 418
+Encoding: 433 -1 418
 Width: 0
 VWidth: 0
 Flags: W
@@ -6347,7 +6117,7 @@ Validated: 1
 EndChar
 
 StartChar: si_HRIi
-Encoding: 413 -1 419
+Encoding: 435 -1 419
 Width: 0
 VWidth: 0
 Flags: W
@@ -6358,7 +6128,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Ll.halant
-Encoding: 414 -1 420
+Encoding: 436 -1 420
 Width: 0
 VWidth: 0
 Flags: W
@@ -6369,7 +6139,7 @@ Validated: 1
 EndChar
 
 StartChar: si_LlI
-Encoding: 415 -1 421
+Encoding: 437 -1 421
 Width: 0
 VWidth: 0
 Flags: W
@@ -6380,7 +6150,7 @@ Validated: 1
 EndChar
 
 StartChar: si_LlIi
-Encoding: 416 -1 422
+Encoding: 438 -1 422
 Width: 0
 VWidth: 0
 Flags: W
@@ -6391,7 +6161,7 @@ Validated: 1
 EndChar
 
 StartChar: si_LlU
-Encoding: 417 -1 423
+Encoding: 439 -1 423
 Width: 0
 VWidth: 0
 Flags: W
@@ -6402,7 +6172,7 @@ Validated: 1
 EndChar
 
 StartChar: si_LlUu
-Encoding: 418 -1 424
+Encoding: 440 -1 424
 Width: 0
 VWidth: 0
 Flags: W
@@ -6413,7 +6183,7 @@ Validated: 1
 EndChar
 
 StartChar: si_F.halant
-Encoding: 419 -1 425
+Encoding: 441 -1 425
 Width: 0
 VWidth: 0
 Flags: W
@@ -6424,7 +6194,7 @@ Validated: 1
 EndChar
 
 StartChar: si_FI
-Encoding: 420 -1 426
+Encoding: 442 -1 426
 Width: 0
 VWidth: 0
 Flags: W
@@ -6435,7 +6205,7 @@ Validated: 1
 EndChar
 
 StartChar: si_FIi
-Encoding: 421 -1 427
+Encoding: 443 -1 427
 Width: 0
 VWidth: 0
 Flags: W
@@ -6446,7 +6216,7 @@ Validated: 1
 EndChar
 
 StartChar: si_FU
-Encoding: 422 -1 428
+Encoding: 444 -1 428
 Width: 0
 VWidth: 0
 Flags: W
@@ -6457,7 +6227,7 @@ Validated: 1
 EndChar
 
 StartChar: si_FUu
-Encoding: 423 -1 429
+Encoding: 445 -1 429
 Width: 0
 VWidth: 0
 Flags: W
@@ -6468,7 +6238,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Fa.reph
-Encoding: 424 -1 430
+Encoding: 446 -1 430
 Width: 0
 VWidth: 0
 Flags: W
@@ -6479,7 +6249,7 @@ Validated: 1
 EndChar
 
 StartChar: si_FRa
-Encoding: 425 -1 431
+Encoding: 448 -1 431
 Width: 0
 VWidth: 0
 Flags: W
@@ -6490,7 +6260,7 @@ Validated: 1
 EndChar
 
 StartChar: si_FRI
-Encoding: 426 -1 432
+Encoding: 449 -1 432
 Width: 0
 VWidth: 0
 Flags: W
@@ -6501,7 +6271,7 @@ Validated: 1
 EndChar
 
 StartChar: si_FRIi
-Encoding: 427 -1 433
+Encoding: 450 -1 433
 Width: 0
 VWidth: 0
 Flags: W
@@ -6512,7 +6282,7 @@ Validated: 1
 EndChar
 
 StartChar: si_KSsa
-Encoding: 428 -1 434
+Encoding: 451 -1 434
 Width: 0
 VWidth: 0
 Flags: W
@@ -6523,7 +6293,7 @@ Validated: 1
 EndChar
 
 StartChar: si_KVa
-Encoding: 429 -1 435
+Encoding: 452 -1 435
 Width: 0
 VWidth: 0
 Flags: W
@@ -6534,7 +6304,7 @@ Fore
 EndChar
 
 StartChar: si_NDha
-Encoding: 430 -1 436
+Encoding: 453 -1 436
 Width: 0
 VWidth: 0
 Flags: W
@@ -6545,7 +6315,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDa
-Encoding: 431 -1 437
+Encoding: 454 -1 437
 Width: 0
 VWidth: 0
 Flags: W
@@ -6556,7 +6326,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NTha
-Encoding: 432 -1 438
+Encoding: 455 -1 438
 Width: 0
 VWidth: 0
 Flags: W
@@ -6567,7 +6337,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NVa
-Encoding: 433 -1 439
+Encoding: 456 -1 439
 Width: 0
 VWidth: 0
 Flags: W
@@ -6578,7 +6348,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TtTha
-Encoding: 65542 -1 440
+Encoding: 65538 -1 440
 Width: 0
 VWidth: 0
 Flags: W
@@ -6589,7 +6359,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TVa
-Encoding: 480 -1 441
+Encoding: 504 -1 441
 Width: 0
 VWidth: 0
 Flags: W
@@ -6600,7 +6370,7 @@ Validated: 1
 EndChar
 
 StartChar: si_GDha
-Encoding: 436 -1 442
+Encoding: 459 -1 442
 Width: 0
 VWidth: 0
 Flags: W
@@ -6611,7 +6381,7 @@ Validated: 1
 EndChar
 
 StartChar: si_DDha
-Encoding: 437 -1 443
+Encoding: 460 -1 443
 Width: 0
 VWidth: 0
 Flags: W
@@ -6622,7 +6392,7 @@ Validated: 1
 EndChar
 
 StartChar: si_DVa
-Encoding: 438 -1 444
+Encoding: 461 -1 444
 Width: 0
 VWidth: 0
 Flags: W
@@ -6633,7 +6403,7 @@ Validated: 1
 EndChar
 
 StartChar: si_KSs.halant
-Encoding: 439 -1 445
+Encoding: 462 -1 445
 Width: 0
 VWidth: 0
 Flags: W
@@ -6644,7 +6414,7 @@ Validated: 1
 EndChar
 
 StartChar: si_KSsI
-Encoding: 440 -1 446
+Encoding: 463 -1 446
 Width: 0
 VWidth: 0
 Flags: W
@@ -6655,7 +6425,7 @@ Validated: 1
 EndChar
 
 StartChar: si_KSsIi
-Encoding: 441 -1 447
+Encoding: 464 -1 447
 Width: 0
 VWidth: 0
 Flags: W
@@ -6666,7 +6436,7 @@ Validated: 1
 EndChar
 
 StartChar: si_KSsU
-Encoding: 442 -1 448
+Encoding: 465 -1 448
 Width: 0
 VWidth: 0
 Flags: W
@@ -6677,7 +6447,7 @@ Validated: 1
 EndChar
 
 StartChar: si_KSsUu
-Encoding: 443 -1 449
+Encoding: 466 -1 449
 Width: 0
 VWidth: 0
 Flags: W
@@ -6688,7 +6458,7 @@ Validated: 1
 EndChar
 
 StartChar: si_KV.halant
-Encoding: 444 -1 450
+Encoding: 467 -1 450
 Width: 0
 VWidth: 0
 Flags: W
@@ -6699,7 +6469,7 @@ Validated: 1
 EndChar
 
 StartChar: si_KVI
-Encoding: 445 -1 451
+Encoding: 468 -1 451
 Width: 0
 VWidth: 0
 Flags: W
@@ -6710,7 +6480,7 @@ Validated: 1
 EndChar
 
 StartChar: si_KVIi
-Encoding: 446 -1 452
+Encoding: 469 -1 452
 Width: 0
 VWidth: 0
 Flags: W
@@ -6721,7 +6491,7 @@ Validated: 1
 EndChar
 
 StartChar: si_KVU
-Encoding: 447 -1 453
+Encoding: 470 -1 453
 Width: 0
 VWidth: 0
 Flags: W
@@ -6732,7 +6502,7 @@ Validated: 1
 EndChar
 
 StartChar: si_KVUu
-Encoding: 448 -1 454
+Encoding: 471 -1 454
 Width: 0
 VWidth: 0
 Flags: W
@@ -6743,7 +6513,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDha.halnt
-Encoding: 65543 -1 455
+Encoding: 65539 -1 455
 Width: 0
 VWidth: 0
 Flags: W
@@ -6754,7 +6524,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDhI
-Encoding: 450 -1 456
+Encoding: 473 -1 456
 Width: 0
 VWidth: 0
 Flags: W
@@ -6765,7 +6535,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDhIi
-Encoding: 451 -1 457
+Encoding: 474 -1 457
 Width: 0
 VWidth: 0
 Flags: W
@@ -6776,7 +6546,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDhU
-Encoding: 452 -1 458
+Encoding: 475 -1 458
 Width: 0
 VWidth: 0
 Flags: W
@@ -6787,7 +6557,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDhUu
-Encoding: 453 -1 459
+Encoding: 476 -1 459
 Width: 0
 VWidth: 0
 Flags: W
@@ -6798,7 +6568,7 @@ Validated: 1
 EndChar
 
 StartChar: si_ND.halant
-Encoding: 454 -1 460
+Encoding: 477 -1 460
 Width: 0
 VWidth: 0
 Flags: W
@@ -6809,7 +6579,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDAa
-Encoding: 455 -1 461
+Encoding: 478 -1 461
 Width: 0
 VWidth: 0
 Flags: W
@@ -6820,7 +6590,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDAe
-Encoding: 456 -1 462
+Encoding: 480 -1 462
 Width: 0
 VWidth: 0
 Flags: W
@@ -6831,7 +6601,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDAee
-Encoding: 457 -1 463
+Encoding: 481 -1 463
 Width: 0
 VWidth: 0
 Flags: W
@@ -6842,7 +6612,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDI
-Encoding: 458 -1 464
+Encoding: 482 -1 464
 Width: 0
 VWidth: 0
 Flags: W
@@ -6853,7 +6623,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDIi
-Encoding: 459 -1 465
+Encoding: 483 -1 465
 Width: 0
 VWidth: 0
 Flags: W
@@ -6864,7 +6634,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDU
-Encoding: 460 -1 466
+Encoding: 484 -1 466
 Width: 0
 VWidth: 0
 Flags: W
@@ -6875,7 +6645,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDUu
-Encoding: 461 -1 467
+Encoding: 485 -1 467
 Width: 0
 VWidth: 0
 Flags: W
@@ -6886,7 +6656,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDRa
-Encoding: 462 -1 468
+Encoding: 486 -1 468
 Width: 0
 VWidth: 0
 Flags: W
@@ -6897,7 +6667,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDRI
-Encoding: 463 -1 469
+Encoding: 487 -1 469
 Width: 0
 VWidth: 0
 Flags: W
@@ -6908,7 +6678,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDRIi
-Encoding: 464 -1 470
+Encoding: 488 -1 470
 Width: 0
 VWidth: 0
 Flags: W
@@ -6919,7 +6689,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NTh.halant
-Encoding: 465 -1 471
+Encoding: 489 -1 471
 Width: 0
 VWidth: 0
 Flags: W
@@ -6930,7 +6700,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NThI
-Encoding: 466 -1 472
+Encoding: 490 -1 472
 Width: 0
 VWidth: 0
 Flags: W
@@ -6941,7 +6711,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NThIi
-Encoding: 467 -1 473
+Encoding: 491 -1 473
 Width: 0
 VWidth: 0
 Flags: W
@@ -6952,7 +6722,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NThU
-Encoding: 468 -1 474
+Encoding: 492 -1 474
 Width: 0
 VWidth: 0
 Flags: W
@@ -6963,7 +6733,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NThUu
-Encoding: 469 -1 475
+Encoding: 493 -1 475
 Width: 0
 VWidth: 0
 Flags: W
@@ -6974,7 +6744,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NV.halant
-Encoding: 470 -1 476
+Encoding: 494 -1 476
 Width: 0
 VWidth: 0
 Flags: W
@@ -6985,7 +6755,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NVI
-Encoding: 471 -1 477
+Encoding: 495 -1 477
 Width: 0
 VWidth: 0
 Flags: W
@@ -6996,7 +6766,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NVIi
-Encoding: 472 -1 478
+Encoding: 496 -1 478
 Width: 0
 VWidth: 0
 Flags: W
@@ -7007,7 +6777,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NVU
-Encoding: 473 -1 479
+Encoding: 497 -1 479
 Width: 0
 VWidth: 0
 Flags: W
@@ -7018,7 +6788,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NVUu
-Encoding: 474 -1 480
+Encoding: 498 -1 480
 Width: 0
 VWidth: 0
 Flags: W
@@ -7029,7 +6799,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TTha
-Encoding: 434 -1 481
+Encoding: 457 -1 481
 Width: 0
 VWidth: 0
 Flags: W
@@ -7040,7 +6810,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TThI
-Encoding: 476 -1 482
+Encoding: 500 -1 482
 Width: 0
 VWidth: 0
 Flags: W
@@ -7051,7 +6821,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TThIi
-Encoding: 477 -1 483
+Encoding: 501 -1 483
 Width: 0
 VWidth: 0
 Flags: W
@@ -7062,7 +6832,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TThU
-Encoding: 478 -1 484
+Encoding: 502 -1 484
 Width: 0
 VWidth: 0
 Flags: W
@@ -7073,7 +6843,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TThUu
-Encoding: 479 -1 485
+Encoding: 503 -1 485
 Width: 0
 VWidth: 0
 Flags: W
@@ -7084,7 +6854,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TtVa
-Encoding: 65544 -1 486
+Encoding: 65540 -1 486
 Width: 0
 VWidth: 0
 Flags: W
@@ -7095,7 +6865,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TV.halant
-Encoding: 481 -1 487
+Encoding: 505 -1 487
 Width: 0
 VWidth: 0
 Flags: W
@@ -7106,7 +6876,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TVI
-Encoding: 482 -1 488
+Encoding: 506 -1 488
 Width: 0
 VWidth: 0
 Flags: W
@@ -7117,7 +6887,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TVIi
-Encoding: 483 -1 489
+Encoding: 507 -1 489
 Width: 0
 VWidth: 0
 Flags: W
@@ -7128,7 +6898,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TVU
-Encoding: 484 -1 490
+Encoding: 508 -1 490
 Width: 0
 VWidth: 0
 Flags: W
@@ -7139,7 +6909,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TVUu
-Encoding: 485 -1 491
+Encoding: 509 -1 491
 Width: 0
 VWidth: 0
 Flags: W
@@ -7150,7 +6920,7 @@ Validated: 1
 EndChar
 
 StartChar: si_DDdh.halant
-Encoding: 486 -1 492
+Encoding: 510 -1 492
 Width: 0
 VWidth: 0
 Flags: W
@@ -7161,7 +6931,7 @@ Validated: 1
 EndChar
 
 StartChar: si_DDhI
-Encoding: 487 -1 493
+Encoding: 511 -1 493
 Width: 0
 VWidth: 0
 Flags: W
@@ -7172,7 +6942,7 @@ Validated: 1
 EndChar
 
 StartChar: si_DDhIi
-Encoding: 488 -1 494
+Encoding: 512 -1 494
 Width: 0
 VWidth: 0
 Flags: W
@@ -7183,7 +6953,7 @@ Validated: 1
 EndChar
 
 StartChar: si_DDhU
-Encoding: 489 -1 495
+Encoding: 513 -1 495
 Width: 0
 VWidth: 0
 Flags: W
@@ -7194,7 +6964,7 @@ Validated: 1
 EndChar
 
 StartChar: si_DDhUu
-Encoding: 490 -1 496
+Encoding: 514 -1 496
 Width: 0
 VWidth: 0
 Flags: W
@@ -7205,7 +6975,7 @@ Validated: 1
 EndChar
 
 StartChar: si_DV.halant
-Encoding: 491 -1 497
+Encoding: 515 -1 497
 Width: 0
 VWidth: 0
 Flags: W
@@ -7216,7 +6986,7 @@ Validated: 1
 EndChar
 
 StartChar: si_DVI
-Encoding: 492 -1 498
+Encoding: 516 -1 498
 Width: 0
 VWidth: 0
 Flags: W
@@ -7227,7 +6997,7 @@ Validated: 1
 EndChar
 
 StartChar: si_DVIi
-Encoding: 493 -1 499
+Encoding: 517 -1 499
 Width: 0
 VWidth: 0
 Flags: W
@@ -7238,7 +7008,7 @@ Validated: 1
 EndChar
 
 StartChar: si_DVU
-Encoding: 494 -1 500
+Encoding: 518 -1 500
 Width: 0
 VWidth: 0
 Flags: W
@@ -7249,7 +7019,7 @@ Validated: 1
 EndChar
 
 StartChar: si_DVUu
-Encoding: 495 -1 501
+Encoding: 519 -1 501
 Width: 0
 VWidth: 0
 Flags: W
@@ -7260,7 +7030,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TtTh.halant
-Encoding: 65545 -1 502
+Encoding: 65541 -1 502
 Width: 0
 VWidth: 0
 Flags: W
@@ -7271,7 +7041,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TtThI
-Encoding: 65546 -1 503
+Encoding: 65542 -1 503
 Width: 0
 VWidth: 0
 Flags: W
@@ -7282,7 +7052,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TtThIi
-Encoding: 65547 -1 504
+Encoding: 65543 -1 504
 Width: 0
 VWidth: 0
 Flags: W
@@ -7293,7 +7063,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TtThU
-Encoding: 65548 -1 505
+Encoding: 65544 -1 505
 Width: 0
 VWidth: 0
 Flags: W
@@ -7304,7 +7074,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TtThUu
-Encoding: 65549 -1 506
+Encoding: 65545 -1 506
 Width: 0
 VWidth: 0
 Flags: W
@@ -7315,7 +7085,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TtTtha
-Encoding: 435 -1 507
+Encoding: 458 -1 507
 Width: 0
 VWidth: 0
 Flags: W
@@ -7326,7 +7096,7 @@ Validated: 1
 EndChar
 
 StartChar: si_NDh.halant
-Encoding: 449 -1 508
+Encoding: 472 -1 508
 Width: 0
 VWidth: 0
 Flags: W
@@ -7337,7 +7107,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TTh.halant
-Encoding: 475 -1 509
+Encoding: 499 -1 509
 Width: 0
 VWidth: 0
 Flags: W
@@ -7348,7 +7118,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TtTth.halant
-Encoding: 496 -1 510
+Encoding: 520 -1 510
 Width: 0
 VWidth: 0
 Flags: W
@@ -7359,7 +7129,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TtTthI
-Encoding: 497 -1 511
+Encoding: 521 -1 511
 Width: 0
 VWidth: 0
 Flags: W
@@ -7370,7 +7140,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TtTthIi
-Encoding: 498 -1 512
+Encoding: 522 -1 512
 Width: 0
 VWidth: 0
 Flags: W
@@ -7381,7 +7151,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TtTthU
-Encoding: 499 -1 513
+Encoding: 523 -1 513
 Width: 0
 VWidth: 0
 Flags: W
@@ -7392,7 +7162,7 @@ Validated: 1
 EndChar
 
 StartChar: si_TtTthUu
-Encoding: 500 -1 514
+Encoding: 524 -1 514
 Width: 0
 VWidth: 0
 Flags: W
@@ -7403,7 +7173,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Ka.touch
-Encoding: 501 -1 515
+Encoding: 525 -1 515
 Width: 0
 VWidth: 0
 Flags: W
@@ -7414,7 +7184,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Kha.touch
-Encoding: 502 -1 516
+Encoding: 526 -1 516
 Width: 0
 VWidth: 0
 Flags: W
@@ -7425,7 +7195,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Ga.touch
-Encoding: 503 -1 517
+Encoding: 527 -1 517
 Width: 0
 VWidth: 0
 Flags: W
@@ -7436,7 +7206,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Gha.touch
-Encoding: 504 -1 518
+Encoding: 528 -1 518
 Width: 0
 VWidth: 0
 Flags: W
@@ -7447,7 +7217,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Nga.touch
-Encoding: 505 -1 519
+Encoding: 529 -1 519
 Width: 0
 VWidth: 0
 Flags: W
@@ -7458,7 +7228,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Nnga.touch
-Encoding: 506 -1 520
+Encoding: 530 -1 520
 Width: 0
 VWidth: 0
 Flags: W
@@ -7469,7 +7239,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Ca.touch
-Encoding: 507 -1 521
+Encoding: 531 -1 521
 Width: 0
 VWidth: 0
 Flags: W
@@ -7480,7 +7250,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Cha.touch
-Encoding: 508 -1 522
+Encoding: 532 -1 522
 Width: 0
 VWidth: 0
 Flags: W
@@ -7491,7 +7261,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Ja.touch
-Encoding: 509 -1 523
+Encoding: 533 -1 523
 Width: 0
 VWidth: 0
 Flags: W
@@ -7502,7 +7272,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Jha.touch
-Encoding: 510 -1 524
+Encoding: 534 -1 524
 Width: 0
 VWidth: 0
 Flags: W
@@ -7513,7 +7283,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Nya.touch
-Encoding: 511 -1 525
+Encoding: 535 -1 525
 Width: 0
 VWidth: 0
 Flags: W
@@ -7524,7 +7294,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Jnya.touch
-Encoding: 512 -1 526
+Encoding: 536 -1 526
 Width: 0
 VWidth: 0
 Flags: W
@@ -7535,7 +7305,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Ndja.touch
-Encoding: 513 -1 527
+Encoding: 537 -1 527
 Width: 0
 VWidth: 0
 Flags: W
@@ -7546,7 +7316,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Tta.touch
-Encoding: 514 -1 528
+Encoding: 538 -1 528
 Width: 0
 VWidth: 0
 Flags: W
@@ -7557,7 +7327,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Ttha.touch
-Encoding: 515 -1 529
+Encoding: 539 -1 529
 Width: 0
 VWidth: 0
 Flags: W
@@ -7568,7 +7338,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Dda.touch
-Encoding: 516 -1 530
+Encoding: 540 -1 530
 Width: 0
 VWidth: 0
 Flags: W
@@ -7579,7 +7349,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Ddha.touch
-Encoding: 517 -1 531
+Encoding: 541 -1 531
 Width: 0
 VWidth: 0
 Flags: W
@@ -7590,7 +7360,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Nna.touch
-Encoding: 518 -1 532
+Encoding: 542 -1 532
 Width: 0
 VWidth: 0
 Flags: W
@@ -7601,7 +7371,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Ndda.touch
-Encoding: 519 -1 533
+Encoding: 543 -1 533
 Width: 0
 VWidth: 0
 Flags: W
@@ -7612,7 +7382,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Ta.touch
-Encoding: 520 -1 534
+Encoding: 544 -1 534
 Width: 0
 VWidth: 0
 Flags: W
@@ -7623,7 +7393,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Tha.touch
-Encoding: 521 -1 535
+Encoding: 545 -1 535
 Width: 0
 VWidth: 0
 Flags: W
@@ -7634,7 +7404,7 @@ Validated: 1
 EndChar
 
 StartChar: si_Da.touch
-Encoding: 522 -1 536
+Encoding: 546 -1 536
 Width: 0
 VWidth: 0
 Flags: W
@@ -7645,212 +7415,3873 @@ Validated: 1
 EndChar
 
 StartChar: si_Dha.touch
-Encoding: 523 -1 537
+Encoding: 547 -1 537
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Na.touch
-Encoding: 524 -1 538
+Encoding: 548 -1 538
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Nda.touch
-Encoding: 525 -1 539
+Encoding: 549 -1 539
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Pa.touch
-Encoding: 526 -1 540
+Encoding: 550 -1 540
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Pha.touch
-Encoding: 527 -1 541
+Encoding: 551 -1 541
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ba.touch
-Encoding: 528 -1 542
+Encoding: 552 -1 542
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Bha.touch
-Encoding: 529 -1 543
+Encoding: 553 -1 543
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ma.touch
-Encoding: 530 -1 544
+Encoding: 554 -1 544
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Mba.touch
-Encoding: 531 -1 545
+Encoding: 555 -1 545
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ya.touch
-Encoding: 532 -1 546
+Encoding: 556 -1 546
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ra.touch
-Encoding: 533 -1 547
+Encoding: 557 -1 547
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_La.touch
-Encoding: 534 -1 548
+Encoding: 558 -1 548
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Va.touch
-Encoding: 535 -1 549
+Encoding: 559 -1 549
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Sha.touch
-Encoding: 536 -1 550
+Encoding: 560 -1 550
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ssa.touch
-Encoding: 537 -1 551
+Encoding: 561 -1 551
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Sa.touch
-Encoding: 538 -1 552
+Encoding: 562 -1 552
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Ha.touch
-Encoding: 539 -1 553
+Encoding: 563 -1 553
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Lla.touch
-Encoding: 540 -1 554
+Encoding: 564 -1 554
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-Validated: 1
 EndChar
 
 StartChar: si_Fa.touch
-Encoding: 541 -1 555
+Encoding: 565 -1 555
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_GhR.halant
+Encoding: 124 -1 556
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_CR.halant
+Encoding: 142 -1 557
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_JR.halant
+Encoding: 157 -1 558
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_JhR.halant
+Encoding: 169 -1 559
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_NyR.halant
+Encoding: 182 -1 560
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_JnyR.halant
+Encoding: 195 -1 561
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_NdjR.halant
+Encoding: 204 -1 562
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_TtR.halant
+Encoding: 212 -1 563
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_DdR.halant
+Encoding: 227 -1 564
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_TR.halant
+Encoding: 253 -1 565
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_DR.halant
+Encoding: 275 -1 566
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_DhR.halant
+Encoding: 290 -1 567
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_PR.halant
+Encoding: 316 -1 568
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_BR.halant
+Encoding: 332 -1 569
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_BhRa.halant
+Encoding: 342 -1 570
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: si_MR.halant
+Encoding: 352 -1 571
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: NameMe.566
+Encoding: 566 -1 572
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0041
+Encoding: 567 65 573
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00C6
+Encoding: 568 198 574
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00C1
+Encoding: 569 193 575
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0102
+Encoding: 570 258 576
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00C2
+Encoding: 571 194 577
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00C4
+Encoding: 572 196 578
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00C0
+Encoding: 573 192 579
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0100
+Encoding: 574 256 580
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0104
+Encoding: 575 260 581
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00C5
+Encoding: 576 197 582
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00C3
+Encoding: 577 195 583
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0042
+Encoding: 578 66 584
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0043
+Encoding: 579 67 585
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0106
+Encoding: 580 262 586
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni010C
+Encoding: 581 268 587
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00C7
+Encoding: 582 199 588
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni010E
+Encoding: 584 270 589
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0110
+Encoding: 585 272 590
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0045
+Encoding: 586 69 591
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00C9
+Encoding: 587 201 592
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni011A
+Encoding: 588 282 593
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00CA
+Encoding: 589 202 594
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00CB
+Encoding: 590 203 595
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0116
+Encoding: 591 278 596
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00C8
+Encoding: 592 200 597
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0112
+Encoding: 593 274 598
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0118
+Encoding: 594 280 599
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00D0
+Encoding: 595 208 600
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni20AC
+Encoding: 596 8364 601
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni011E
+Encoding: 599 286 602
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0048
+Encoding: 600 72 603
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00CD
+Encoding: 602 205 604
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00CE
+Encoding: 603 206 605
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00CF
+Encoding: 604 207 606
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0130
+Encoding: 605 304 607
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00CC
+Encoding: 606 204 608
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni012A
+Encoding: 607 298 609
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni012E
+Encoding: 608 302 610
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni004A
+Encoding: 609 74 611
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni004B
+Encoding: 610 75 612
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni004C
+Encoding: 611 76 613
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0139
+Encoding: 612 313 614
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni013D
+Encoding: 613 317 615
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0141
+Encoding: 614 321 616
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni004D
+Encoding: 615 77 617
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni004E
+Encoding: 616 78 618
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0143
+Encoding: 617 323 619
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0147
+Encoding: 618 327 620
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00D1
+Encoding: 619 209 621
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni004F
+Encoding: 620 79 622
 Width: 0
 VWidth: 0
 Flags: W
 LayerCount: 2
 Back
 Fore
-Validated: 1
+EndChar
+
+StartChar: uni0152
+Encoding: 621 338 623
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00D3
+Encoding: 622 211 624
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00D4
+Encoding: 623 212 625
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00D6
+Encoding: 624 214 626
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00D2
+Encoding: 625 210 627
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0150
+Encoding: 626 336 628
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni014C
+Encoding: 627 332 629
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00D8
+Encoding: 628 216 630
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00D5
+Encoding: 629 213 631
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0050
+Encoding: 630 80 632
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0050.001
+Encoding: 631 -1 633
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0051
+Encoding: 632 81 634
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0052
+Encoding: 633 82 635
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0154
+Encoding: 634 340 636
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0158
+Encoding: 635 344 637
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0053
+Encoding: 636 83 638
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni015A
+Encoding: 637 346 639
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0160
+Encoding: 638 352 640
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0054
+Encoding: 639 84 641
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0164
+Encoding: 640 356 642
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00DE
+Encoding: 641 222 643
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0055
+Encoding: 642 85 644
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00DA
+Encoding: 643 218 645
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00DB
+Encoding: 644 219 646
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00DC
+Encoding: 645 220 647
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00D9
+Encoding: 646 217 648
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0170
+Encoding: 647 368 649
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni016A
+Encoding: 648 362 650
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0172
+Encoding: 649 370 651
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni016E
+Encoding: 650 366 652
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0056
+Encoding: 651 86 653
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0057
+Encoding: 652 87 654
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0058
+Encoding: 653 88 655
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0059
+Encoding: 654 89 656
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00DD
+Encoding: 655 221 657
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0178
+Encoding: 656 376 658
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni005A
+Encoding: 657 90 659
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0179
+Encoding: 658 377 660
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni017D
+Encoding: 659 381 661
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni017B
+Encoding: 660 379 662
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0061
+Encoding: 661 97 663
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00E1
+Encoding: 662 225 664
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0103
+Encoding: 663 259 665
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00E2
+Encoding: 664 226 666
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00B4
+Encoding: 665 180 667
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00E4
+Encoding: 666 228 668
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00E6
+Encoding: 667 230 669
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00E0
+Encoding: 668 224 670
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0101
+Encoding: 669 257 671
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0026
+Encoding: 670 38 672
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0105
+Encoding: 671 261 673
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2248
+Encoding: 672 8776 674
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00E5
+Encoding: 673 229 675
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni005E
+Encoding: 674 94 676
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni007E
+Encoding: 675 126 677
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni002A
+Encoding: 676 42 678
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0040
+Encoding: 677 64 679
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00E3
+Encoding: 678 227 680
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0062
+Encoding: 679 98 681
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni005C
+Encoding: 680 92 682
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni007C
+Encoding: 681 124 683
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni007B
+Encoding: 682 123 684
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni007D
+Encoding: 683 125 685
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni005B
+Encoding: 684 91 686
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni005D
+Encoding: 685 93 687
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni02D8
+Encoding: 686 728 688
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00A6
+Encoding: 687 166 689
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2022
+Encoding: 688 8226 690
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0063
+Encoding: 689 99 691
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0107
+Encoding: 690 263 692
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni02C7
+Encoding: 691 711 693
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni010D
+Encoding: 692 269 694
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00E7
+Encoding: 693 231 695
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00B8
+Encoding: 694 184 696
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00A2
+Encoding: 695 162 697
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni02C6
+Encoding: 696 710 698
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni003A
+Encoding: 697 58 699
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni002C
+Encoding: 698 44 700
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uniF6C3
+Encoding: 699 63171 701
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00A9
+Encoding: 700 169 702
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00A4
+Encoding: 701 164 703
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: czechcaron
+Encoding: 702 -1 704
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0064
+Encoding: 703 100 705
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2020
+Encoding: 704 8224 706
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2021
+Encoding: 705 8225 707
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni010F
+Encoding: 706 271 708
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0111
+Encoding: 707 273 709
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00B0
+Encoding: 708 176 710
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00A8
+Encoding: 709 168 711
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00F7
+Encoding: 710 247 712
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0024
+Encoding: 711 36 713
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni002E
+Encoding: 816 46 714
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni02D9
+Encoding: 713 729 715
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0131
+Encoding: 714 305 716
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0065
+Encoding: 715 101 717
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00E9
+Encoding: 716 233 718
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni011B
+Encoding: 717 283 719
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00EA
+Encoding: 718 234 720
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00EB
+Encoding: 719 235 721
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0117
+Encoding: 720 279 722
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00E8
+Encoding: 721 232 723
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0038
+Encoding: 722 56 724
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0038.numr
+Encoding: 723 -1 725
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0038.tf
+Encoding: 724 -1 726
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2026
+Encoding: 725 8230 727
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0113
+Encoding: 726 275 728
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2014
+Encoding: 727 8212 729
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2013
+Encoding: 728 8211 730
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0119
+Encoding: 729 281 731
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni003D
+Encoding: 730 61 732
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni212E
+Encoding: 731 8494 733
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00F0
+Encoding: 732 240 734
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0021
+Encoding: 733 33 735
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00A1
+Encoding: 734 161 736
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0066
+Encoding: 735 102 737
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uniFB01
+Encoding: 736 64257 738
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0035
+Encoding: 737 53 739
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0035.numr
+Encoding: 738 -1 740
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0035.tf
+Encoding: 739 -1 741
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uniFB02
+Encoding: 740 64258 742
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0192
+Encoding: 741 402 743
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0034
+Encoding: 742 52 744
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0034.numr
+Encoding: 743 -1 745
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0034.tf
+Encoding: 744 -1 746
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2044
+Encoding: 745 8260 747
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0067
+Encoding: 746 103 748
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni011F
+Encoding: 747 287 749
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00DF
+Encoding: 748 223 750
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0060
+Encoding: 749 96 751
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni003E
+Encoding: 750 62 752
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2265
+Encoding: 751 8805 753
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00AB
+Encoding: 752 171 754
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00BB
+Encoding: 753 187 755
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2039
+Encoding: 754 8249 756
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni203A
+Encoding: 755 8250 757
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0068
+Encoding: 756 104 758
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni02DD
+Encoding: 757 733 759
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni002D
+Encoding: 848 45 760
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0069
+Encoding: 759 105 761
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00ED
+Encoding: 760 237 762
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00EE
+Encoding: 761 238 763
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00EF
+Encoding: 762 239 764
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00EC
+Encoding: 763 236 765
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni012B
+Encoding: 764 299 766
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni221E
+Encoding: 765 8734 767
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni222B
+Encoding: 766 8747 768
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni012F
+Encoding: 767 303 769
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni006A
+Encoding: 768 106 770
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni006B
+Encoding: 769 107 771
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni006C
+Encoding: 770 108 772
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni013A
+Encoding: 771 314 773
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni013E
+Encoding: 772 318 774
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni003C
+Encoding: 773 60 775
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2264
+Encoding: 774 8804 776
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00AC
+Encoding: 775 172 777
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni25CA
+Encoding: 776 9674 778
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0142
+Encoding: 777 322 779
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni006D
+Encoding: 778 109 780
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00AF
+Encoding: 779 175 781
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2212
+Encoding: 780 8722 782
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00D7
+Encoding: 781 215 783
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni006E
+Encoding: 782 110 784
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0144
+Encoding: 783 324 785
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0148
+Encoding: 784 328 786
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0039
+Encoding: 785 57 787
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0039.numr
+Encoding: 786 -1 788
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0039.tf
+Encoding: 787 -1 789
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2260
+Encoding: 788 8800 790
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00F1
+Encoding: 789 241 791
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0023
+Encoding: 790 35 792
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni006F
+Encoding: 791 111 793
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00F3
+Encoding: 792 243 794
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00F4
+Encoding: 793 244 795
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00F6
+Encoding: 794 246 796
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0153
+Encoding: 795 339 797
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni02DB
+Encoding: 796 731 798
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00F2
+Encoding: 797 242 799
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0151
+Encoding: 798 337 800
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni014D
+Encoding: 799 333 801
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0031
+Encoding: 800 49 802
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0031.numr
+Encoding: 801 -1 803
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0031.tf
+Encoding: 802 -1 804
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00BD
+Encoding: 803 189 805
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00BC
+Encoding: 804 188 806
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00B9
+Encoding: 805 185 807
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00AA
+Encoding: 806 170 808
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00BA
+Encoding: 807 186 809
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00F8
+Encoding: 808 248 810
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00F5
+Encoding: 809 245 811
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0070
+Encoding: 810 112 812
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00B6
+Encoding: 811 182 813
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0028
+Encoding: 812 40 814
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0029
+Encoding: 813 41 815
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2202
+Encoding: 814 8706 816
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0025
+Encoding: 815 37 817
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00B7
+Encoding: 817 183 818
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2030
+Encoding: 818 8240 819
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni03C0
+Encoding: 819 960 820
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni002B
+Encoding: 820 43 821
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00B1
+Encoding: 821 177 822
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni220F
+Encoding: 822 8719 823
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0071
+Encoding: 823 113 824
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni003F
+Encoding: 824 63 825
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00BF
+Encoding: 825 191 826
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0022
+Encoding: 826 34 827
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni201E
+Encoding: 827 8222 828
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni201C
+Encoding: 828 8220 829
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni201D
+Encoding: 829 8221 830
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2018
+Encoding: 830 8216 831
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2019
+Encoding: 831 8217 832
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni201A
+Encoding: 832 8218 833
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0027
+Encoding: 833 39 834
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0072
+Encoding: 834 114 835
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0155
+Encoding: 835 341 836
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni221A
+Encoding: 836 8730 837
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0159
+Encoding: 837 345 838
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00AE
+Encoding: 838 174 839
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni02DA
+Encoding: 839 730 840
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0073
+Encoding: 840 115 841
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni015B
+Encoding: 841 347 842
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0161
+Encoding: 842 353 843
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00A7
+Encoding: 843 167 844
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni003B
+Encoding: 844 59 845
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0037
+Encoding: 845 55 846
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0037.numr
+Encoding: 846 -1 847
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0037.tf
+Encoding: 847 -1 848
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2010
+Encoding: 849 8208 849
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0036
+Encoding: 850 54 850
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0036.numr
+Encoding: 851 -1 851
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0036.tf
+Encoding: 852 -1 852
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni002F
+Encoding: 853 47 853
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00A3
+Encoding: 855 163 854
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2211
+Encoding: 856 8721 855
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0074
+Encoding: 857 116 856
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0165
+Encoding: 858 357 857
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00FE
+Encoding: 859 254 858
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0033
+Encoding: 860 51 859
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0033.numr
+Encoding: 861 -1 860
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0033.tf
+Encoding: 862 -1 861
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00BE
+Encoding: 863 190 862
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00B3
+Encoding: 864 179 863
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni02DC
+Encoding: 865 732 864
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2122
+Encoding: 866 8482 865
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0032
+Encoding: 867 50 866
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0032.numr
+Encoding: 868 -1 867
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0032.tf
+Encoding: 869 -1 868
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00B2
+Encoding: 870 178 869
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0075
+Encoding: 871 117 870
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00FA
+Encoding: 872 250 871
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00FB
+Encoding: 873 251 872
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00FC
+Encoding: 874 252 873
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00F9
+Encoding: 875 249 874
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0171
+Encoding: 876 369 875
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni016B
+Encoding: 877 363 876
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni005F
+Encoding: 878 95 877
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00A0
+Encoding: 879 160 878
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00AD
+Encoding: 880 173 879
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00B5
+Encoding: 881 181 880
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0122
+Encoding: 882 290 881
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0123
+Encoding: 883 291 882
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0136
+Encoding: 884 310 883
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0137
+Encoding: 885 311 884
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni013B
+Encoding: 886 315 885
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni013C
+Encoding: 887 316 886
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0145
+Encoding: 888 325 887
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0146
+Encoding: 889 326 888
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0156
+Encoding: 890 342 889
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0157
+Encoding: 891 343 890
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni015E
+Encoding: 892 350 891
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni015F
+Encoding: 893 351 892
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0162
+Encoding: 894 354 893
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0163
+Encoding: 895 355 894
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0218
+Encoding: 896 536 895
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0219
+Encoding: 897 537 896
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni021A
+Encoding: 898 538 897
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni021B
+Encoding: 899 539 898
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni02C9
+Encoding: 900 713 899
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni20BA
+Encoding: 901 8378 900
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni20BD
+Encoding: 902 8381 901
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2113
+Encoding: 903 8467 902
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2126
+Encoding: 904 8486 903
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2206
+Encoding: 905 8710 904
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2215
+Encoding: 906 8725 905
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni2219
+Encoding: 907 8729 906
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0173
+Encoding: 908 371 907
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni016F
+Encoding: 909 367 908
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0076
+Encoding: 910 118 909
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: vertical_stem_upper
+Encoding: 911 -1 910
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0077
+Encoding: 912 119 911
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0078
+Encoding: 913 120 912
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0079
+Encoding: 914 121 913
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00FD
+Encoding: 915 253 914
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00FF
+Encoding: 916 255 915
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni00A5
+Encoding: 917 165 916
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni007A
+Encoding: 918 122 917
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni017A
+Encoding: 919 378 918
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni017E
+Encoding: 920 382 919
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni017C
+Encoding: 921 380 920
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0030
+Encoding: 922 48 921
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0030.numr
+Encoding: 923 -1 922
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: uni0030.tf
+Encoding: 924 -1 923
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
 EndChar
 EndChars
 EndSplineFont
