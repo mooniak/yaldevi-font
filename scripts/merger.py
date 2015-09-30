@@ -1,3 +1,13 @@
+#
+# merger.py
+#
+# Copyright (c) 2015,
+# Mooniak <hello@mooniak.com>
+# Ayantha Randika <paarandika@gmail.com>
+#
+# Released under the GNU General Public License version 3 or later.
+# See accompanying LICENSE file for details.
+
 from robofab.world import NewFont, OpenFont
 from robofab import plistlib
 import sys, os
@@ -30,8 +40,8 @@ for font in fontList[1:]:
         print glyph_name,
         NewUFO.insertGlyph(glyph)
         NewUFO[glyphName].unicode = font_source[glyphName].unicode
-    newLib=[i for i in source.lib['public.glyphOrder'] if i not in NewUFO.lib['public.glyphOrder']]+NewUFO.lib['public.glyphOrder']
-    NewUFO.lib['public.glyphOrder']=newLib
+    # newLib=[i for i in source.lib['public.glyphOrder'] if i not in NewUFO.lib['public.glyphOrder']]+NewUFO.lib['public.glyphOrder']
+    # NewUFO.lib['public.glyphOrder']=newLib
 
 NewUFO.save(arguments[1])
 print "\nMerge complete!"
