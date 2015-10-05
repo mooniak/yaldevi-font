@@ -1,8 +1,8 @@
-FONTLOG for Ayanna Narrow
+FONTLOG for Ayanna
 -------------------
 
-This file provides detailed information on the Ayanna Narroaw font sowtware.
-This information should be distributed along with the Ayanna Narroaw fonts
+This file provides detailed information on the Ayanna font sowtware.
+This information should be distributed along with the Ayanna fonts
 and any derivative works.
 
 
@@ -19,7 +19,7 @@ Security and Integrity
 Information for Contributors
 ------------------------------
 
-Ayanna Narrow is released under the OFL 1.1 - http://scripts.sil.org/OFL
+Ayanna is released under the OFL 1.1 - http://scripts.sil.org/OFL
 
 For information on what you're allowed to change or modify, consult the
 OFL-1.1.txt and OFL-FAQ.txt files. The OFL-FAQ also gives a very general
@@ -34,8 +34,7 @@ https://github.com/mooniak/ayanna-narrow/
 ChangeLog
 ----------
 
-When you make modifications, be sure to add a description of your changes,
-following the format of the other entries, to the start of this section.
+
 
 
 
@@ -47,8 +46,12 @@ When you make modifications, be sure to add your name (N), email (E),
 web-address (W) and description (D). This list is sorted by last name in
 alphabetical order.
 
+N: Denzil Rajitha
+E: rajitha@mooniak.com
+W: http://mooniak.com
+D: Designer - Sinhala
 
 N: Pathum Egodawatta
 E: pathum@mooniak.com
 W: http://mooniak.com
-D: Designer - Tamil
+D: Designer - Tamil/Sinhala
