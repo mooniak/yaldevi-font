@@ -6,7 +6,7 @@ kit.confirm_version('0.2.1')
 # - - -
 
 family = kit.Family(
-    trademark = 'Stick No Bills',
+    trademark = 'Ayanna',
     script = 'Sinhala',
     hide_script_name = True,
 )
@@ -19,15 +19,16 @@ family.set_masters(
         # 'devanagari_matra_i_variants',
     ],
 )
-family.masters[0]._file_name = 'StickNoBills-Regular.ufo'
-family.masters[1]._file_name = 'StickNoBills-ExtraBold.ufo'
+family.masters[0]._file_name = 'Ayanna-Regular.ufo'
+family.masters[1]._file_name = 'Ayanna-ExtraBold.ufo'
 
 family.set_styles([
-    ('Regular',     0.0, 400),
-    ('Medium',     20, 500),
-    ('SemiBold',   41, 600),
-    ('Bold',       68, 700),
-    ('ExtraBold', 100.0, 800),
+    ('ExtraLight',     0.0, 400),
+    ('Light',     13, 500),
+    ('Regular',     28, 600),
+    ('Medium',     47, 700),
+    ('SemiBold',   71, 800),
+    ('Bold',       100, 900),
 ])
 
 # - - -
@@ -38,7 +39,7 @@ family.set_styles([
 
 builder = kit.Builder(family)
 
-builder.fontrevision = '1.200'
+builder.fontrevision = '1.000'
 
 builder.set_options([
 
