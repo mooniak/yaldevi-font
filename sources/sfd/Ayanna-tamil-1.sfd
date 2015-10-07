@@ -279,7 +279,7 @@ NameList: tamil
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 36 12 5
+WinInfo: 0 12 5
 BeginPrivate: 3
 StemSnapH 13 [34 35 36 64]
 StemSnapV 21 [8 10 34 35 36 37 64]
@@ -639,7 +639,7 @@ GlifName: tml_P_a
 Width: 498
 VWidth: 1
 GlyphClass: 2
-Flags: HMW
+Flags: HMWO
 AnchorPoint: "Anchor4" 730 0 basechar 0
 AnchorPoint: "Anchor1" 390 0 basechar 0
 AnchorPoint: "Anchor0" 241 0 basechar 0
