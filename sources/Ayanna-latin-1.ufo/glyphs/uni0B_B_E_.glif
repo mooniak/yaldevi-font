@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_MatraAa" format="1">
+  <advance width="486"/>
+  <unicode hex="0BBE"/>
+  <note>
+    tml_MatraAa
+  </note>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="155" y="450" type="line"/>
+      <point x="274" y="450" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="379" y="0" type="line"/>
+      <point x="379" y="450" type="line"/>
+      <point x="479" y="450" type="line"/>
+      <point x="479" y="545" type="line"/>
+      <point x="50" y="545" type="line"/>
+    </contour>
+  </outline>
+</glyph>
