@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_Ai" format="1">
+  <advance width="574"/>
+  <unicode hex="0D93"/>
+  <outline>
+    <component base="NameMe.71"/>
+    <component base="si_E" xOffset="354"/>
+  </outline>
+</glyph>

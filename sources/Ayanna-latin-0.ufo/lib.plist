@@ -64,24 +64,6 @@
 	<string>Condensed</string>
 	<key>public.glyphOrder</key>
 	<array>
-		<string>.notdef</string>
-		<string>uni0D82</string>
-		<string>si_A</string>
-		<string>si_U</string>
-		<string>si_Ga</string>
-		<string>si_Tta</string>
-		<string>si_Dda</string>
-		<string>si_Ddha</string>
-		<string>si_Nna</string>
-		<string>si_Da</string>
-		<string>si_Ma</string>
-		<string>si_Ya</string>
-		<string>si_Ra</string>
-		<string>si_La</string>
-		<string>si_Va</string>
-		<string>si_Sa</string>
-		<string>si_TI</string>
-		<string>si_TI.rakar</string>
 		<string>NameMe.12</string>
 		<string>A</string>
 		<string>Aacute</string>
@@ -291,43 +273,6 @@
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>pi</string>
-		<string>uni0B85</string>
-		<string>uni0B86</string>
-		<string>uni0B90</string>
-		<string>uni0B94</string>
-		<string>uni0B9A</string>
-		<string>uni0B8E</string>
-		<string>uni0B8F</string>
-		<string>uni0BB9</string>
-		<string>uni0B87</string>
-		<string>uni0B88</string>
-		<string>uni0B9C</string>
-		<string>uni0B95</string>
-		<string>uni0BB2</string>
-		<string>uni0BB3</string>
-		<string>uni0BB4</string>
-		<string>uni0BAE</string>
-		<string>uni0BA8</string>
-		<string>uni0B99</string>
-		<string>uni0BA3</string>
-		<string>uni0BA9</string>
-		<string>uni0B9E</string>
-		<string>uni0B92</string>
-		<string>uni0BD0</string>
-		<string>uni0B93</string>
-		<string>uni0BAA</string>
-		<string>uni0BB0</string>
-		<string>uni0BB1</string>
-		<string>uni0BB8</string>
-		<string>uni0BB6</string>
-		<string>uni0BB7</string>
-		<string>uni0BA4</string>
-		<string>uni0B9F</string>
-		<string>uni0B89</string>
-		<string>uni0B8A</string>
-		<string>uni0BB5</string>
-		<string>uni0B83</string>
-		<string>uni0BAF</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -348,19 +293,6 @@
 		<string>onesuperior</string>
 		<string>twosuperior</string>
 		<string>threesuperior</string>
-		<string>uni0BEE</string>
-		<string>uni0BEB</string>
-		<string>uni0BEA</string>
-		<string>uni0BEF</string>
-		<string>uni0BE7</string>
-		<string>uni0BED</string>
-		<string>uni0BEC</string>
-		<string>uni0BE9</string>
-		<string>uni0BE8</string>
-		<string>uni0BE6</string>
-		<string>uni0BF1</string>
-		<string>uni0BF0</string>
-		<string>uni0BF2</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>
@@ -409,7 +341,6 @@
 		<string>dollar</string>
 		<string>florin</string>
 		<string>sterling</string>
-		<string>uni0BF9</string>
 		<string>uni20BA</string>
 		<string>uni20BD</string>
 		<string>yen</string>
@@ -457,13 +388,6 @@
 		<string>asciicircum</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
-		<string>uni0BF8</string>
-		<string>uni0BF7</string>
-		<string>uni0BF3</string>
-		<string>uni0BF6</string>
-		<string>uni0BF4</string>
-		<string>uni0BFA</string>
-		<string>uni0BF5</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -478,83 +402,7 @@
 		<string>ring</string>
 		<string>tilde</string>
 		<string>uni02C9</string>
-		<string>uni0BD7</string>
-		<string>uni0BBE</string>
-		<string>uni0BC8</string>
-		<string>uni0BCC</string>
-		<string>uni0BC6</string>
-		<string>uni0BC7</string>
-		<string>uni0BBF</string>
-		<string>uni0BCA</string>
-		<string>uni0BCB</string>
-		<string>uni0BC1</string>
-		<string>uni0BC2</string>
-		<string>uni0B82</string>
-		<string>uni0BC0</string>
-		<string>uni0BCD</string>
-		<string>si_Aa</string>
-		<string>si_Aae</string>
-		<string>si_Ae</string>
-		<string>si_Ca</string>
-		<string>si_Dha</string>
-		<string>si_E</string>
-		<string>si_I</string>
-		<string>si_Ka</string>
-		<string>si_Pa</string>
-		<string>si_Pha</string>
-		<string>si_Tha</string>
-		<string>si_Ttha</string>
-		<string>si_Uu</string>
-		<string>tml_TtI</string>
-		<string>tml_KU</string>
-		<string>tml_CU</string>
-		<string>tml_NyU</string>
-		<string>tml_TtU</string>
-		<string>tml_NnU</string>
-		<string>tml_TU</string>
-		<string>tml_NU</string>
-		<string>tml_NnnU</string>
-		<string>tml_MU</string>
-		<string>tml_RU</string>
-		<string>tml_RrU</string>
-		<string>tml_LU</string>
-		<string>tml_LlU</string>
-		<string>tml_LllU</string>
-		<string>tml_KUu</string>
-		<string>tml_NgUu</string>
-		<string>tml_CUu</string>
-		<string>tml_NyUu</string>
-		<string>tml_TtUu</string>
-		<string>tml_NnUu</string>
-		<string>tml_TUu</string>
-		<string>tml_NUu</string>
-		<string>tml_NnnUu</string>
-		<string>tml_PUu</string>
-		<string>tml_MUu</string>
-		<string>tml_YUu</string>
-		<string>tml_RUu</string>
-		<string>tml_RrUu</string>
-		<string>tml_LUu</string>
-		<string>tml_LlUu</string>
-		<string>tml_LllUu</string>
-		<string>tml_KSsa</string>
-		<string>tml_Shree</string>
-		<string>tml_NnAa.alt</string>
-		<string>tml_NnnAa.alt</string>
-		<string>tml_RrAa.alt</string>
-		<string>tml_MatraI.alt1</string>
-		<string>tml_MatraI.alt2</string>
-		<string>tml_MatraI.alt3</string>
-		<string>tml_MatraI.alt4</string>
-		<string>tml_MatraI.alt5</string>
-		<string>tml_MatraI.alt6</string>
-		<string>tml_MatraI.alt7</string>
-		<string>tml_MatraIi.alt1</string>
-		<string>tml_MatraU.alt1</string>
-		<string>tml_MatraI.stylalt1</string>
-		<string>tml_MatraIi.stylalt1</string>
-		<string>tml_MatraAi.alt</string>
-		<string>tml_TtIi</string>
+		<string>tml_Virama</string>
 	</array>
 </dict>
 </plist>
