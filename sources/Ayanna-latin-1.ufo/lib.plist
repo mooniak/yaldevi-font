@@ -332,8 +332,6 @@
 		<string>quotesinglbase</string>
 		<string>space</string>
 		<string>uni00A0</string>
-		<string>uni200D</string>
-		<string>uni200C</string>
 		<string>Euro</string>
 		<string>cent</string>
 		<string>currency</string>
@@ -370,7 +368,6 @@
 		<string>uni2206</string>
 		<string>uni2215</string>
 		<string>uni2219</string>
-		<string>dottedcircle</string>
 		<string>lozenge</string>
 		<string>bar</string>
 		<string>brokenbar</string>
