@@ -1,7 +1,8 @@
 _site/
-.vagrant
-FontMenuNameDB
 font.designspace
-instances/
-masters/
-sources/
+FontMenuNameDB
+.vagrant
+/masters
+/instances
+/build
+.DS_Store
