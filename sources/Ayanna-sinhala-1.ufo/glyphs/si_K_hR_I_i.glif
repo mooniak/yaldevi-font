@@ -2,7 +2,7 @@
 <glyph name="si_KhRIi" format="1">
   <advance width="598"/>
   <outline>
-    <component base="si_Rakar" xOffset="-60"/>
+    <component base="si_Rakar"/>
     <component base="si_KhIi"/>
   </outline>
 </glyph>
