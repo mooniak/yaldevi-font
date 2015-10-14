@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_Ee" format="1">
-  <advance width="574"/>
+  <advance width="566"/>
   <unicode hex="0D92"/>
   <outline>
     <contour>
-      <point x="496" y="819" type="line"/>
-      <point x="533" y="819" type="line"/>
-      <point x="533" y="496" type="line"/>
-      <point x="496" y="496" type="line"/>
+      <point x="443.409" y="819" type="line"/>
+      <point x="480.409" y="819" type="line"/>
+      <point x="480.409" y="496" type="line"/>
+      <point x="443.409" y="496" type="line"/>
     </contour>
     <component base="si_E"/>
   </outline>
