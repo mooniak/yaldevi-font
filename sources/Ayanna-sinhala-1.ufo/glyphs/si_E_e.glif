@@ -3,12 +3,7 @@
   <advance width="573"/>
   <unicode hex="0D92"/>
   <outline>
-    <contour>
-      <point x="404" y="819" type="line"/>
-      <point x="512" y="819" type="line"/>
-      <point x="512" y="459" type="line"/>
-      <point x="404" y="459" type="line"/>
-    </contour>
+    <component base="si_Halant" xOffset="380"/>
     <component base="si_E"/>
   </outline>
 </glyph>
