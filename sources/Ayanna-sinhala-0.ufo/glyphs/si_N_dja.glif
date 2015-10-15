@@ -4,13 +4,6 @@
   <unicode hex="0DA6"/>
   <outline>
     <contour>
-      <point x="59" y="283.999" type="curve" smooth="yes"/>
-      <point x="59" y="114.294"/>
-      <point x="100" y="49.0127"/>
-      <point x="134" y="42.999" type="curve"/>
-      <point x="134" y="5.99902" type="line"/>
-      <point x="72.6807" y="14.377"/>
-      <point x="22" y="88.2393"/>
       <point x="22" y="283.999" type="curve" smooth="yes"/>
       <point x="22" y="516.988"/>
       <point x="82.2578" y="578.999"/>
@@ -24,6 +17,13 @@
       <point x="139" y="541.999" type="curve" smooth="yes"/>
       <point x="90.0332" y="541.999"/>
       <point x="59" y="447.085"/>
+      <point x="59" y="283.999" type="curve" smooth="yes"/>
+      <point x="59" y="114.294"/>
+      <point x="100" y="49.0127"/>
+      <point x="134" y="42.999" type="curve"/>
+      <point x="134" y="5.99902" type="line"/>
+      <point x="72.6807" y="14.377"/>
+      <point x="22" y="88.2393"/>
     </contour>
     <component base="si_Ja" xOffset="125.685" yOffset="-1"/>
   </outline>
