@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425560291
-ModificationTime: 1444885830
+ModificationTime: 1444891703
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -40,12 +40,13 @@ OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: sinhala_abhaya
+Compacted: 1
 UnicodeInterp: none
 NameList: sinhala
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 13 10
+WinInfo: 377 13 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -82,7 +83,7 @@ Grid
 -1024 3 m 0
  2048 3 l 1024
 EndSplineSet
-BeginChars: 65538 500
+BeginChars: 65538 499
 
 StartChar: si_Tta
 Encoding: 34 3495 0
@@ -1668,7 +1669,7 @@ VWidth: 0
 Flags: HW
 LayerCount: 4
 Fore
-Refer: 499 3530 N 1 0 0 1 352 0 2
+Refer: 498 3530 N 1 0 0 1 352 0 2
 Refer: 19 3473 N 1 0 0 1 0 0 2
 EndChar
 
@@ -1680,8 +1681,7 @@ Flags: HW
 LayerCount: 4
 Fore
 Refer: 19 3473 N 1 0 0 1 399 0 2
-Refer: 457 3545 N 1 0 0 1 -5 0 2
-Refer: 456 -1 N 1 0 0 1 -5 0 2
+Refer: 456 3545 N 1 0 0 1 -5 0 2
 EndChar
 
 StartChar: si_Os
@@ -1885,7 +1885,7 @@ StartChar: si_Ka
 Encoding: 21 3482 25
 Width: 757
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 4
 Fore
 SplineSet
@@ -4330,8 +4330,8 @@ VWidth: 0
 Flags: HW
 LayerCount: 4
 Fore
-Refer: 499 3530 N 1 0 0 1 480 0 2
-Refer: 457 3545 N 1 0 0 1 0 0 2
+Refer: 498 3530 N 1 0 0 1 480 0 2
+Refer: 456 3545 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_MatraAi
@@ -4341,8 +4341,8 @@ VWidth: 0
 Flags: HW
 LayerCount: 4
 Fore
-Refer: 457 3545 N 1 0 0 1 426 0 2
-Refer: 457 3545 N 1 0 0 1 0 0 2
+Refer: 456 3545 N 1 0 0 1 426 0 2
+Refer: 456 3545 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_MatraO
@@ -4353,7 +4353,7 @@ Flags: HW
 LayerCount: 4
 Fore
 Refer: 50 3535 N 1 0 0 1 676 4 2
-Refer: 457 3545 N 1 0 0 1 0 0 2
+Refer: 456 3545 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_MatraOo
@@ -4363,7 +4363,7 @@ VWidth: 0
 Flags: HW
 LayerCount: 4
 Fore
-Refer: 457 3545 N 1 0 0 1 0 0 2
+Refer: 456 3545 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_MatraAu
@@ -4374,7 +4374,7 @@ Flags: HW
 LayerCount: 4
 Fore
 Refer: 62 3551 N 1 0 0 1 528 0 2
-Refer: 457 3545 N 1 0 0 1 0 0 2
+Refer: 456 3545 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_MatraLs
@@ -4482,7 +4482,7 @@ VWidth: 0
 Flags: HW
 LayerCount: 4
 Fore
-Refer: 499 3530 N 1 0 0 1 -30 0 2
+Refer: 498 3530 N 1 0 0 1 -30 0 2
 Refer: 50 3535 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4525,7 +4525,7 @@ VWidth: 0
 Flags: HW
 LayerCount: 4
 Fore
-Refer: 499 3530 N 1 0 0 1 474 0 2
+Refer: 498 3530 N 1 0 0 1 474 0 2
 Refer: 25 3482 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9264,16 +9264,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.71
-Encoding: 65537 -1 456
-Width: 1024
-VWidth: 0
-Flags: HW
-LayerCount: 4
-EndChar
-
 StartChar: si_MatraE
-Encoding: 71 3545 457
+Encoding: 71 3545 456
 Width: 1024
 VWidth: 0
 Flags: HW
@@ -9335,7 +9327,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Nya
-Encoding: 31 3492 458
+Encoding: 31 3492 457
 Width: 1098
 VWidth: 0
 Flags: HW
@@ -9494,7 +9486,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Ka.touch
-Encoding: 525 -1 459
+Encoding: 525 -1 458
 Width: 757
 VWidth: 0
 Flags: HW
@@ -9504,7 +9496,7 @@ Refer: 25 3482 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Kha.touch
-Encoding: 526 -1 460
+Encoding: 526 -1 459
 Width: 548
 VWidth: 0
 Flags: HW
@@ -9514,7 +9506,7 @@ Refer: 26 3483 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Ga.touch
-Encoding: 527 -1 461
+Encoding: 527 -1 460
 Width: 679
 VWidth: 0
 Flags: HW
@@ -9524,7 +9516,7 @@ Refer: 27 3484 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Gha.touch
-Encoding: 528 -1 462
+Encoding: 528 -1 461
 Width: 568
 VWidth: 0
 Flags: HW
@@ -9534,7 +9526,7 @@ Refer: 28 3485 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Nga.touch
-Encoding: 529 -1 463
+Encoding: 529 -1 462
 Width: 570
 VWidth: 0
 Flags: HW
@@ -9544,7 +9536,7 @@ Refer: 29 3486 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Nnga.touch
-Encoding: 530 -1 464
+Encoding: 530 -1 463
 Width: 802
 VWidth: 0
 Flags: HW
@@ -9554,7 +9546,7 @@ Refer: 30 3487 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Ca.touch
-Encoding: 531 -1 465
+Encoding: 531 -1 464
 Width: 554
 VWidth: 0
 Flags: HW
@@ -9564,7 +9556,7 @@ Refer: 31 3488 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Cha.touch
-Encoding: 532 -1 466
+Encoding: 532 -1 465
 Width: 596
 VWidth: 0
 Flags: HW
@@ -9574,7 +9566,7 @@ Refer: 32 3489 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Ja.touch
-Encoding: 533 -1 467
+Encoding: 533 -1 466
 Width: 596
 VWidth: 0
 Flags: HW
@@ -9584,7 +9576,7 @@ Refer: 455 3490 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Jha.touch
-Encoding: 534 -1 468
+Encoding: 534 -1 467
 Width: 997
 VWidth: 0
 Flags: HW
@@ -9594,17 +9586,17 @@ Refer: 34 3491 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Nya.touch
-Encoding: 535 -1 469
+Encoding: 535 -1 468
 Width: 1098
 VWidth: 0
 Flags: HW
 LayerCount: 4
 Fore
-Refer: 458 3492 N 1 0 0 1 0 0 2
+Refer: 457 3492 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Ndja.touch
-Encoding: 537 -1 470
+Encoding: 537 -1 469
 Width: 840
 VWidth: 0
 Flags: HW
@@ -9614,7 +9606,7 @@ Refer: 448 3494 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Tta.touch
-Encoding: 538 -1 471
+Encoding: 538 -1 470
 Width: 554
 VWidth: 0
 Flags: HW
@@ -9624,7 +9616,7 @@ Refer: 0 3495 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Ttha.touch
-Encoding: 539 -1 472
+Encoding: 539 -1 471
 Width: 570
 VWidth: 0
 Flags: HW
@@ -9634,7 +9626,7 @@ Refer: 35 3496 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Dda.touch
-Encoding: 540 -1 473
+Encoding: 540 -1 472
 Width: 570
 VWidth: 0
 Flags: HW
@@ -9644,7 +9636,7 @@ Refer: 4 3497 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Ddha.touch
-Encoding: 541 -1 474
+Encoding: 541 -1 473
 Width: 570
 VWidth: 0
 Flags: HW
@@ -9654,7 +9646,7 @@ Refer: 3 3498 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Nna.touch
-Encoding: 542 -1 475
+Encoding: 542 -1 474
 Width: 862
 VWidth: 0
 Flags: HW
@@ -9664,7 +9656,7 @@ Refer: 441 3499 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Ndda.touch
-Encoding: 543 -1 476
+Encoding: 543 -1 475
 Width: 1024
 VWidth: 0
 Flags: HW
@@ -9674,7 +9666,7 @@ Refer: 446 3500 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Ta.touch
-Encoding: 544 -1 477
+Encoding: 544 -1 476
 Width: 666
 VWidth: 0
 Flags: HW
@@ -9684,7 +9676,7 @@ Refer: 443 3501 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Tha.touch
-Encoding: 545 -1 478
+Encoding: 545 -1 477
 Width: 503
 VWidth: 0
 Flags: HW
@@ -9694,7 +9686,7 @@ Refer: 39 3502 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Da.touch
-Encoding: 546 -1 479
+Encoding: 546 -1 478
 Width: 389
 VWidth: 0
 Flags: HW
@@ -9704,7 +9696,7 @@ Refer: 7 3503 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Dha.touch
-Encoding: 547 -1 480
+Encoding: 547 -1 479
 Width: 543
 VWidth: 0
 Flags: HW
@@ -9714,7 +9706,7 @@ Refer: 40 3504 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Na.touch
-Encoding: 548 -1 481
+Encoding: 548 -1 480
 Width: 647
 VWidth: 0
 Flags: HW
@@ -9724,7 +9716,7 @@ Refer: 447 3505 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Nda.touch
-Encoding: 549 -1 482
+Encoding: 549 -1 481
 Width: 506
 VWidth: 0
 Flags: HW
@@ -9734,7 +9726,7 @@ Refer: 442 3507 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Pa.touch
-Encoding: 550 -1 483
+Encoding: 550 -1 482
 Width: 555
 VWidth: 0
 Flags: HW
@@ -9744,7 +9736,7 @@ Refer: 41 3508 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Pha.touch
-Encoding: 551 -1 484
+Encoding: 551 -1 483
 Width: 512
 VWidth: 0
 Flags: HW
@@ -9754,7 +9746,7 @@ Refer: 42 3509 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Ba.touch
-Encoding: 552 -1 485
+Encoding: 552 -1 484
 Width: 533
 VWidth: 0
 Flags: HW
@@ -9764,7 +9756,7 @@ Refer: 43 3510 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Bha.touch
-Encoding: 553 -1 486
+Encoding: 553 -1 485
 Width: 626
 Flags: HW
 LayerCount: 4
@@ -9773,7 +9765,7 @@ Refer: 44 3511 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Ma.touch
-Encoding: 554 -1 487
+Encoding: 554 -1 486
 Width: 514
 VWidth: 0
 Flags: HW
@@ -9783,7 +9775,7 @@ Refer: 444 3512 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Mba.touch
-Encoding: 555 -1 488
+Encoding: 555 -1 487
 Width: 539
 VWidth: 0
 Flags: HW
@@ -9793,7 +9785,7 @@ Refer: 45 3513 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Ya.touch
-Encoding: 556 -1 489
+Encoding: 556 -1 488
 Width: 549
 VWidth: 0
 Flags: HW
@@ -9803,7 +9795,7 @@ Refer: 453 3514 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Ra.touch
-Encoding: 557 -1 490
+Encoding: 557 -1 489
 Width: 459
 VWidth: 0
 Flags: HW
@@ -9813,7 +9805,7 @@ Refer: 46 3515 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_La.touch
-Encoding: 558 -1 491
+Encoding: 558 -1 490
 Width: 547
 VWidth: 0
 Flags: HW
@@ -9823,7 +9815,7 @@ Refer: 2 3517 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Va.touch
-Encoding: 559 -1 492
+Encoding: 559 -1 491
 Width: 501
 VWidth: 0
 Flags: HW
@@ -9833,7 +9825,7 @@ Refer: 8 3520 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Sha.touch
-Encoding: 560 -1 493
+Encoding: 560 -1 492
 Width: 650
 VWidth: 0
 Flags: HW
@@ -9843,7 +9835,7 @@ Refer: 450 3521 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Ssa.touch
-Encoding: 561 -1 494
+Encoding: 561 -1 493
 Width: 555
 VWidth: 0
 Flags: HW
@@ -9853,7 +9845,7 @@ Refer: 47 3522 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Sa.touch
-Encoding: 562 -1 495
+Encoding: 562 -1 494
 Width: 559
 VWidth: 0
 Flags: HW
@@ -9863,7 +9855,7 @@ Refer: 1 3523 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Ha.touch
-Encoding: 563 -1 496
+Encoding: 563 -1 495
 Width: 1024
 VWidth: 0
 Flags: HW
@@ -9873,7 +9865,7 @@ Refer: 451 3524 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Lla.touch
-Encoding: 564 -1 497
+Encoding: 564 -1 496
 Width: 522
 VWidth: 0
 Flags: HW
@@ -9883,7 +9875,7 @@ Refer: 48 3525 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_Fa.touch
-Encoding: 565 -1 498
+Encoding: 565 -1 497
 Width: 549
 VWidth: 0
 Flags: HW
@@ -9892,8 +9884,8 @@ Fore
 Refer: 49 3526 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni0DCA
-Encoding: 62 3530 499
+StartChar: si_Halant
+Encoding: 62 3530 498
 Width: 1024
 VWidth: 0
 Flags: HW

@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425560291
-ModificationTime: 1444885812
+ModificationTime: 1444890616
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,7 +45,7 @@ NameList: sinhala
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 13 10
+WinInfo: 52 13 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2029,7 +2029,7 @@ StartChar: si_Ka
 Encoding: 21 3482 28
 Width: 696
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 4
 Fore
 SplineSet
@@ -7543,7 +7543,7 @@ VWidth: 0
 Flags: HW
 LayerCount: 4
 Fore
-Refer: 9 3530 N 1 0 0 1 164 0 2
+Refer: 9 3530 S 1 0 0 1 164 0 2
 Refer: 36 3490 N 1 0 0 1 0 0 2
 EndChar
 
@@ -7579,22 +7579,25 @@ EndChar
 
 StartChar: si_JR.halant
 Encoding: 157 -1 129
-Width: 0
+Width: 590
 VWidth: 0
 Flags: HW
 LayerCount: 4
 Fore
-Validated: 1
+Refer: 9 3530 N 1 0 0 1 164 0 2
+Refer: 89 -1 N 1 0 0 1 14 0 2
+Refer: 36 3490 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_JRa
 Encoding: 158 -1 130
-Width: 0
+Width: 590
 VWidth: 0
 Flags: HW
 LayerCount: 4
 Fore
-Validated: 1
+Refer: 89 -1 N 1 0 0 1 14 0 2
+Refer: 36 3490 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_JRI
@@ -7603,8 +7606,6 @@ Width: 0
 VWidth: 0
 Flags: HW
 LayerCount: 4
-Fore
-Validated: 1
 EndChar
 
 StartChar: si_JRIi

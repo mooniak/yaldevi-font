@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_JR.halant" format="1">
-  <advance width="0"/>
+  <advance width="590"/>
+  <outline>
+    <component base="si_Halant" xOffset="164"/>
+    <component base="si_Rakar" xOffset="14"/>
+    <component base="si_Ja"/>
+  </outline>
 </glyph>
