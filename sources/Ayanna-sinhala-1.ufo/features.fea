@@ -73,7 +73,7 @@
 	\si_Fa.touch \si_Ka.reph \si_KU.reph \si_KRI \si_KRIi \si_KRa \si_KhRa \si_GI 
 	\si_GIi \si_GRa \si_GRI \si_GRIi \si_GhI \si_GhIi \si_GhU \si_GhUu \si_GhRI 
 	\si_GhRIi \si_GhRa \si_CU \si_CUu \si_TtU \si_TtUu \si_TtRa \si_K.halant 
-	\si_G.halant ];
+	\si_G.halant \si_Gh.halant \si_GR.halant \si_ChU \si_ChUu \si_JU \si_JUu ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
