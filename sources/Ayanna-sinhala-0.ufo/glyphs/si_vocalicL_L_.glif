@@ -3,6 +3,7 @@
   <advance width="730"/>
   <unicode hex="0D90"/>
   <outline>
-    <component base="si_vocalicL"/>
+    <component base="si_MatraLs" xOffset="806"/>
+    <component base="si_vocalicL" xOffset="-5.68434e-14" yOffset="11"/>
   </outline>
 </glyph>
