@@ -63,7 +63,6 @@
       <point x="490.542" y="126.225"/>
     </contour>
     <contour>
-      <point x="26.6279" y="126" type="line"/>
       <point x="22.6279" y="232" type="line"/>
       <point x="242.088" y="489" type="line" smooth="yes"/>
       <point x="290.735" y="545.305"/>
@@ -82,6 +81,7 @@
       <point x="314" y="416"/>
       <point x="202.527" y="290.156"/>
       <point x="118" y="205" type="curve"/>
+      <point x="26.6279" y="126" type="line"/>
     </contour>
     <contour>
       <point x="57.9893" y="83" type="curve" smooth="yes"/>
