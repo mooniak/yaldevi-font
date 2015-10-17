@@ -5,8 +5,11 @@
   <outline>
     <contour>
       <point x="196.372" y="255.156" type="line"/>
-      <point x="308.372" y="331.156"/>
-      <point x="197.372" y="584"/>
+      <point x="236.2" y="282.183"/>
+      <point x="247.828" y="331.57"/>
+      <point x="256.934" y="384" type="curve" smooth="yes"/>
+      <point x="273.434" y="479.008"/>
+      <point x="281.65" y="584"/>
       <point x="434.372" y="584" type="curve" smooth="yes"/>
       <point x="541.371" y="584"/>
       <point x="639.372" y="526.375"/>
@@ -27,8 +30,11 @@
       <point x="533.372" y="439.547"/>
       <point x="483.957" y="478"/>
       <point x="434.372" y="478" type="curve" smooth="yes"/>
-      <point x="302.372" y="478"/>
-      <point x="392.372" y="256.156"/>
+      <point x="372.935" y="478"/>
+      <point x="359.589" y="429.942"/>
+      <point x="349.063" y="371" type="curve" smooth="yes"/>
+      <point x="336.976" y="303.303"/>
+      <point x="328.607" y="221.249"/>
       <point x="255.372" y="181.156" type="curve"/>
     </contour>
     <contour>
