@@ -69,7 +69,8 @@
 	\si_Dha.touch \si_Na.touch \si_Nda.touch \si_Pa.touch \si_Pha.touch 
 	\si_Ba.touch \si_Bha.touch \si_Ma.touch \si_Mba.touch \si_Ya.touch 
 	\si_Ra.touch \si_La.touch \si_Va.touch \si_Sha.touch \si_Ssa.touch 
-	\si_Sa.touch \si_Ha.touch \si_Lla.touch \si_Fa.touch \si_Halant \si_Jnya ];
+	\si_Sa.touch \si_Ha.touch \si_Lla.touch \si_Fa.touch \si_Halant \si_Jnya 
+	\si_TtI \si_TtIi ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
