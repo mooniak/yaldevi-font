@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425560291
-ModificationTime: 1445259508
+ModificationTime: 1445261054
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,7 +45,7 @@ NameList: sinhala
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 117 13 10
+WinInfo: 65 13 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -5360,7 +5360,7 @@ StartChar: si_KhIi
 Encoding: 101 -1 86
 Width: 548
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 4
 Fore
 SplineSet
@@ -6142,7 +6142,7 @@ StartChar: si_JhIi
 Encoding: 163 -1 145
 Width: 997
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 4
 Fore
 SplineSet
