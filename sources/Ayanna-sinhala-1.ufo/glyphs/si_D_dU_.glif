@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_DdU" format="1">
+  <advance width="612"/>
+  <outline>
+    <component base="si_MatraU" xOffset="56"/>
+    <component base="si_Dda"/>
+  </outline>
+</glyph>
