@@ -1,4 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_KRIi" format="1">
-  <advance width="0"/>
+  <advance width="757"/>
+  <outline>
+    <contour>
+      <point x="123.5" y="-104" type="curve" smooth="yes"/>
+      <point x="160.5" y="-104" type="line" smooth="yes"/>
+      <point x="160.5" y="-187.151"/>
+      <point x="240" y="-244"/>
+      <point x="357.999" y="-244" type="curve" smooth="yes"/>
+      <point x="475.999" y="-244"/>
+      <point x="555.499" y="-187.151"/>
+      <point x="555.499" y="-104" type="curve" smooth="yes"/>
+      <point x="555.499" y="-36.3235"/>
+      <point x="526.197" y="-5.52846"/>
+      <point x="481.166" y="14" type="curve"/>
+      <point x="481.166" y="32" type="line"/>
+      <point x="505.166" y="37" type="line"/>
+      <point x="558.072" y="13.6649"/>
+      <point x="592.499" y="-29.5094"/>
+      <point x="592.499" y="-104" type="curve" smooth="yes"/>
+      <point x="592.499" y="-213.491"/>
+      <point x="490.619" y="-281"/>
+      <point x="357.999" y="-281" type="curve" smooth="yes"/>
+      <point x="225.38" y="-281"/>
+      <point x="123.5" y="-213.491"/>
+    </contour>
+    <component base="si_KIi"/>
+  </outline>
 </glyph>
