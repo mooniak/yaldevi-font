@@ -260,10 +260,6 @@
     <string>si_C_R_I_i.glif</string>
     <key>si_Ch.halant</key>
     <string>si_C_h.halant.glif</string>
-    <key>si_ChI</key>
-    <string>si_C_hI_.glif</string>
-    <key>si_ChIi</key>
-    <string>si_C_hI_i.glif</string>
     <key>si_ChU</key>
     <string>si_C_hU_.glif</string>
     <key>si_ChUu</key>
@@ -1012,5 +1008,7 @@
     <string>si_V_I_i.glif</string>
     <key>si_Tt.halant</key>
     <string>si_T_t.halant.glif</string>
+    <key>NameMe.124</key>
+    <string>N_ameM_e.124.glif</string>
   </dict>
 </plist>
