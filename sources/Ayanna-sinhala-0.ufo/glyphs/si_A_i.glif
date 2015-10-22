@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_Ai" format="1">
-  <advance width="930"/>
+  <advance width="945"/>
   <unicode hex="0D93"/>
   <outline>
-    <component base="si_E" xOffset="398.591"/>
-    <component base="si_MatraE" xOffset="-5.40918"/>
+    <component base="si_E" xOffset="410"/>
+    <component base="si_MatraE" xOffset="6"/>
   </outline>
 </glyph>
