@@ -532,8 +532,6 @@
     <string>si_D_hU_.glif</string>
     <key>si_DhUu</key>
     <string>si_D_hU_u.glif</string>
-    <key>si_Dha.reph</key>
-    <string>si_D_ha.reph.glif</string>
     <key>si_DhR.halant</key>
     <string>si_D_hR_.halant.glif</string>
     <key>si_DhRa</key>
@@ -1010,5 +1008,9 @@
     <string>si_T_t.halant.glif</string>
     <key>NameMe.124</key>
     <string>N_ameM_e.124.glif</string>
+    <key>si_DU</key>
+    <string>si_D_U_.glif</string>
+    <key>si_Ya.post</key>
+    <string>si_Y_a.post.glif</string>
   </dict>
 </plist>

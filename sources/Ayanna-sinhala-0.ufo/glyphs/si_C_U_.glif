@@ -3,30 +3,29 @@
   <advance width="524"/>
   <outline>
     <contour>
+      <point x="52.4941" y="-123.687" type="curve" smooth="yes"/>
+      <point x="52.4941" y="-104.944"/>
+      <point x="55.4346" y="-84.6562"/>
+      <point x="59.2256" y="-65" type="curve"/>
+      <point x="95.2119" y="-69" type="line"/>
+      <point x="91.9775" y="-84.7646"/>
+      <point x="89.2842" y="-101.793"/>
+      <point x="89.2842" y="-117.069" type="curve" smooth="yes"/>
+      <point x="89.2842" y="-143.697"/>
+      <point x="97.4687" y="-165"/>
+      <point x="125.243" y="-165" type="curve" smooth="yes"/>
+      <point x="448.243" y="-165" type="line"/>
+      <point x="448.243" y="-202" type="line"/>
+      <point x="125.243" y="-202" type="line" smooth="yes"/>
+      <point x="68.1709" y="-202"/>
+      <point x="52.4941" y="-166.963"/>
+    </contour>
+    <contour>
       <point x="440.243" y="161" type="line"/>
       <point x="445.243" y="202" type="line"/>
       <point x="477.243" y="225" type="line"/>
       <point x="477.243" y="-202" type="line"/>
       <point x="440.243" y="-202" type="line"/>
-    </contour>
-    <contour>
-      <point x="52.4941" y="-123.687" type="curve" smooth="yes"/>
-      <point x="52.4941" y="-94.1221"/>
-      <point x="59.8105" y="-60.7119"/>
-      <point x="66.2432" y="-32" type="curve"/>
-      <point x="102.243" y="-38" type="line"/>
-      <point x="97.2637" y="-59.2939"/>
-      <point x="89.2842" y="-90.7773"/>
-      <point x="89.2842" y="-117.069" type="curve" smooth="yes"/>
-      <point x="89.2842" y="-143.697"/>
-      <point x="97.4688" y="-165"/>
-      <point x="125.243" y="-165" type="curve" smooth="yes"/>
-      <point x="448.243" y="-165" type="line"/>
-      <point x="448.243" y="-202" type="line"/>
-      <point x="448.243" y="-202" type="line"/>
-      <point x="125.243" y="-202" type="line" smooth="yes"/>
-      <point x="68.1709" y="-202"/>
-      <point x="52.4941" y="-166.963"/>
     </contour>
     <contour>
       <point x="47.2432" y="207" type="curve" smooth="yes"/>

@@ -1,4 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_TtRa" format="1">
-  <advance width="0"/>
+  <advance width="514"/>
+  <outline>
+    <contour>
+      <point x="33" y="235" type="curve" smooth="yes"/>
+      <point x="33" y="371.177"/>
+      <point x="102.646" y="446.538"/>
+      <point x="179" y="446.538" type="curve" smooth="yes"/>
+      <point x="197.904" y="446.538"/>
+      <point x="216.248" y="441.8"/>
+      <point x="236" y="432" type="curve"/>
+      <point x="220" y="400" type="line"/>
+      <point x="205.792" y="407.104"/>
+      <point x="192.598" y="410.538"/>
+      <point x="179" y="410.538" type="curve" smooth="yes"/>
+      <point x="119.861" y="410.538"/>
+      <point x="70" y="345.575"/>
+      <point x="70" y="235" type="curve" smooth="yes"/>
+      <point x="70" y="145.521"/>
+      <point x="119.592" y="40"/>
+      <point x="242" y="40" type="curve" smooth="yes"/>
+      <point x="369.865" y="40"/>
+      <point x="443" y="150.519"/>
+      <point x="443" y="354" type="curve" smooth="yes"/>
+      <point x="443" y="634.015"/>
+      <point x="352.223" y="712"/>
+      <point x="241" y="712" type="curve" smooth="yes"/>
+      <point x="170.128" y="712"/>
+      <point x="112.324" y="665.927"/>
+      <point x="89" y="605" type="curve"/>
+      <point x="55" y="618" type="line"/>
+      <point x="93" y="716"/>
+      <point x="180.968" y="749"/>
+      <point x="241" y="749" type="curve" smooth="yes"/>
+      <point x="373.146" y="749"/>
+      <point x="481" y="662.955"/>
+      <point x="481" y="354" type="curve" smooth="yes"/>
+      <point x="481" y="126.541"/>
+      <point x="394.039" y="3"/>
+      <point x="242" y="3" type="curve" smooth="yes"/>
+      <point x="93.2598" y="3"/>
+      <point x="33" y="128.544"/>
+    </contour>
+  </outline>
 </glyph>
