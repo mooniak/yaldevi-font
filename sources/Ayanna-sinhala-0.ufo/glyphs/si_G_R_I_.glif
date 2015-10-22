@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_GRI" format="1">
+  <advance width="632"/>
+  <outline>
+    <contour>
+      <point x="79.334" y="-104" type="curve" smooth="yes"/>
+      <point x="116.334" y="-104" type="line" smooth="yes"/>
+      <point x="116.334" y="-187.151"/>
+      <point x="195.834" y="-244"/>
+      <point x="313.833" y="-244" type="curve" smooth="yes"/>
+      <point x="431.833" y="-244"/>
+      <point x="511.333" y="-187.151"/>
+      <point x="511.333" y="-104" type="curve" smooth="yes"/>
+      <point x="511.333" y="-42.2279"/>
+      <point x="492.955" y="-7.11575"/>
+      <point x="462.941" y="16" type="curve"/>
+      <point x="464" y="38" type="line"/>
+      <point x="495.689" y="32" type="line"/>
+      <point x="528.452" y="3.27342"/>
+      <point x="548.333" y="-40.1667"/>
+      <point x="548.333" y="-104" type="curve" smooth="yes"/>
+      <point x="548.333" y="-213.491"/>
+      <point x="446.453" y="-281"/>
+      <point x="313.833" y="-281" type="curve" smooth="yes"/>
+      <point x="181.214" y="-281"/>
+      <point x="79.334" y="-213.491"/>
+    </contour>
+    <component base="si_GI"/>
+  </outline>
+</glyph>

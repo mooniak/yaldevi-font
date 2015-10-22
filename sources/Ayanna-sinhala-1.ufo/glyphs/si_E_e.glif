@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_Ee" format="1">
+  <advance width="573"/>
+  <unicode hex="0D92"/>
+  <outline>
+    <component base="si_Halant" xOffset="380"/>
+    <component base="si_E"/>
+  </outline>
+</glyph>

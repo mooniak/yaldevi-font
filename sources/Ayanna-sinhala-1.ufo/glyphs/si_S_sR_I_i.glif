@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_SsRIi" format="1">
+  <advance width="573"/>
+  <outline>
+    <component base="si_Rakar" xOffset="14"/>
+    <component base="si_MatraIi"/>
+    <component base="si_Ssa"/>
+  </outline>
+</glyph>
