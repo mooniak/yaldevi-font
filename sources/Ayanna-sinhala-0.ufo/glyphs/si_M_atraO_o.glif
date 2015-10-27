@@ -2,4 +2,7 @@
 <glyph name="si_MatraOo" format="1">
   <advance width="415"/>
   <unicode hex="0DDD"/>
+  <outline>
+    <component base="si_MatraE"/>
+  </outline>
 </glyph>

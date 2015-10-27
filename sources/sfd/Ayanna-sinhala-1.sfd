@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425560291
-ModificationTime: 1445868807
+ModificationTime: 1445928093
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,7 +45,7 @@ NameList: sinhala
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 13 10
+WinInfo: 195 13 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -80,7 +80,7 @@ Grid
 -1024 0 m 0
  2048 0 l 1024
 EndSplineSet
-BeginChars: 65537 544
+BeginChars: 65538 568
 
 StartChar: si_Tta
 Encoding: 34 3495 0
@@ -24572,7 +24572,7 @@ EndSplineSet
 EndChar
 
 StartChar: NameMe.124
-Encoding: 124 -1 510
+Encoding: 65537 -1 510
 Width: 604
 VWidth: 0
 Flags: HW
@@ -26160,6 +26160,198 @@ SplineSet
  157.237304688 -284 35.2373046875 -224 35.2373046875 -79 c 4
 EndSplineSet
 Refer: 537 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: si_Ka.reph
+Encoding: 94 -1 544
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_KU.reph
+Encoding: 95 -1 545
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Ga.reph
+Encoding: 113 -1 546
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Gha.reph
+Encoding: 123 -1 547
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: NameMe.124.1
+Encoding: 124 -1 548
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Ca.reph
+Encoding: 141 -1 549
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Jha.reph
+Encoding: 166 -1 550
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_JhU.reph
+Encoding: 167 -1 551
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_JhUu.reph
+Encoding: 168 -1 552
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Tta.reph
+Encoding: 211 -1 553
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Dda.reph
+Encoding: 226 -1 554
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Nna.reph
+Encoding: 241 -1 555
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Ta.reph
+Encoding: 252 -1 556
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Dha.reph
+Encoding: 289 -1 557
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Pa.reph
+Encoding: 315 -1 558
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Pha.reph
+Encoding: 325 -1 559
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Ba.reph
+Encoding: 331 -1 560
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Ma.reph
+Encoding: 351 -1 561
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Ya.reph
+Encoding: 366 -1 562
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Ssa.reph
+Encoding: 411 -1 563
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Sa.reph
+Encoding: 421 -1 564
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Ha.reph
+Encoding: 431 -1 565
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Fa.reph
+Encoding: 446 -1 566
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
+EndChar
+
+StartChar: si_Tha.reph
+Encoding: 262 -1 567
+Width: 614
+VWidth: 0
+Flags: HW
+LayerCount: 4
 EndChar
 EndChars
 EndSplineFont
