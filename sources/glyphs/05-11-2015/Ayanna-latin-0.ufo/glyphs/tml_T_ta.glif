@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_Tta" format="1">
+  <advance width="663"/>
+  <unicode hex="0B9F"/>
+  <note>
+	tml_Tta
+  </note>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="633" y="0" type="line"/>
+      <point x="633" y="103" type="line"/>
+      <point x="165" y="103" type="line"/>
+      <point x="165" y="544" type="line"/>
+      <point x="60" y="544" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>
