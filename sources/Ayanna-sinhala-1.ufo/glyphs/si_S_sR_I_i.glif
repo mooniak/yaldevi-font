@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_SsRIi" format="1">
+  <advance width="572"/>
+  <outline>
+    <contour>
+      <point x="26.7207" y="-79" type="curve" smooth="yes"/>
+      <point x="136.721" y="-79" type="line" smooth="yes"/>
+      <point x="136.721" y="-139.032"/>
+      <point x="194.886" y="-178"/>
+      <point x="286.721" y="-178" type="curve" smooth="yes"/>
+      <point x="378.556" y="-178"/>
+      <point x="436.721" y="-140.27"/>
+      <point x="436.721" y="-69" type="curve" smooth="yes"/>
+      <point x="436.721" y="-37"/>
+      <point x="433.438" y="-7"/>
+      <point x="378.721" y="23" type="curve"/>
+      <point x="356.721" y="72" type="line"/>
+      <point x="459.721" y="79" type="line"/>
+      <point x="522.721" y="55"/>
+      <point x="546.721" y="-16"/>
+      <point x="546.721" y="-79" type="curve" smooth="yes"/>
+      <point x="546.721" y="-224"/>
+      <point x="424.721" y="-284"/>
+      <point x="286.721" y="-284" type="curve" smooth="yes"/>
+      <point x="148.721" y="-284"/>
+      <point x="26.7207" y="-224"/>
+    </contour>
+    <component base="si_SsIi"/>
+  </outline>
+</glyph>

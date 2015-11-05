@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_NnU" format="1">
+  <advance width="878"/>
+  <outline>
+    <contour>
+      <point x="232.057" y="-103.642" type="curve" smooth="yes"/>
+      <point x="232.057" y="-85.6904"/>
+      <point x="234.319" y="-64.9189"/>
+      <point x="239.085" y="-41" type="curve"/>
+      <point x="345.229" y="-53" type="line"/>
+      <point x="344.594" y="-58.2256"/>
+      <point x="344.268" y="-63.0078"/>
+      <point x="344.268" y="-67.3584" type="curve" smooth="yes"/>
+      <point x="344.268" y="-91.1045"/>
+      <point x="354" y="-102"/>
+      <point x="376" y="-102" type="curve" smooth="yes"/>
+      <point x="769" y="-102" type="line"/>
+      <point x="769" y="-205" type="line"/>
+      <point x="335" y="-205" type="line" smooth="yes"/>
+      <point x="272.433" y="-205"/>
+      <point x="232.057" y="-179.479"/>
+    </contour>
+    <contour>
+      <point x="716" y="64" type="line"/>
+      <point x="752" y="172" type="line"/>
+      <point x="830" y="225" type="line"/>
+      <point x="830" y="-205" type="line"/>
+      <point x="716" y="-205" type="line"/>
+    </contour>
+    <component base="si_Nna"/>
+  </outline>
+</glyph>

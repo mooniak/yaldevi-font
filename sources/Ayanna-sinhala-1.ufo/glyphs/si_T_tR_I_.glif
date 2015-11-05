@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_TtRI" format="1">
+  <advance width="535"/>
+  <outline>
+    <contour>
+      <point x="26.3838" y="-89" type="curve" smooth="yes"/>
+      <point x="136.384" y="-89" type="line" smooth="yes"/>
+      <point x="136.384" y="-142.969"/>
+      <point x="185.242" y="-178"/>
+      <point x="262.384" y="-178" type="curve" smooth="yes"/>
+      <point x="345.035" y="-178"/>
+      <point x="397.384" y="-140.27"/>
+      <point x="397.384" y="-69" type="curve" smooth="yes"/>
+      <point x="397.384" y="-37"/>
+      <point x="394.101" y="-7"/>
+      <point x="339.384" y="23" type="curve"/>
+      <point x="317.384" y="72" type="line"/>
+      <point x="420.384" y="79" type="line"/>
+      <point x="483.384" y="55"/>
+      <point x="507.384" y="-16"/>
+      <point x="507.384" y="-79" type="curve" smooth="yes"/>
+      <point x="507.384" y="-224"/>
+      <point x="392.422" y="-284"/>
+      <point x="262.384" y="-284" type="curve" smooth="yes"/>
+      <point x="137.122" y="-284"/>
+      <point x="26.3838" y="-226.927"/>
+    </contour>
+    <component base="si_TtI"/>
+  </outline>
+</glyph>

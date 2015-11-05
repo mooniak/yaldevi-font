@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_Tta" format="1">
+  <advance width="535"/>
+  <unicode hex="0DA7"/>
+  <outline>
+    <contour>
+      <point x="21.8545" y="252.396" type="curve" smooth="yes"/>
+      <point x="21.8545" y="381.537"/>
+      <point x="88.8545" y="472"/>
+      <point x="186.548" y="472" type="curve" smooth="yes"/>
+      <point x="214.314" y="472"/>
+      <point x="243.346" y="465.063"/>
+      <point x="271.72" y="445.258" type="curve"/>
+      <point x="233.854" y="345" type="line"/>
+      <point x="220.007" y="352.989"/>
+      <point x="207.337" y="356.607"/>
+      <point x="195.991" y="356.607" type="curve" smooth="yes"/>
+      <point x="155.475" y="356.607"/>
+      <point x="131.854" y="310.459"/>
+      <point x="131.854" y="252.396" type="curve" smooth="yes"/>
+      <point x="131.854" y="189.243"/>
+      <point x="159.08" y="115"/>
+      <point x="252" y="115" type="curve" smooth="yes"/>
+      <point x="356.452" y="115"/>
+      <point x="397" y="195.018"/>
+      <point x="397" y="354" type="curve" smooth="yes"/>
+      <point x="397" y="583"/>
+      <point x="325.68" y="640"/>
+      <point x="242.854" y="640" type="curve" smooth="yes"/>
+      <point x="201.751" y="640"/>
+      <point x="161.666" y="618.96"/>
+      <point x="144.61" y="576.855" type="curve"/>
+      <point x="35.5781" y="613.029" type="line"/>
+      <point x="71.5625" y="707.868"/>
+      <point x="156.134" y="755"/>
+      <point x="242.854" y="755" type="curve" smooth="yes"/>
+      <point x="382.326" y="755"/>
+      <point x="513" y="675.859"/>
+      <point x="513" y="354" type="curve" smooth="yes"/>
+      <point x="513" y="118"/>
+      <point x="432" y="0"/>
+      <point x="252" y="0" type="curve" smooth="yes"/>
+      <point x="74" y="0"/>
+      <point x="21.8545" y="136.287"/>
+    </contour>
+  </outline>
+</glyph>
