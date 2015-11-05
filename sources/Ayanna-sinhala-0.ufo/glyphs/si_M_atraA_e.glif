@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_MatraAe" format="1">
-  <advance width="334"/>
+  <advance width="275"/>
   <unicode hex="0DD0"/>
   <outline>
     <contour>
-      <point x="22" y="158" type="curve" smooth="yes"/>
-      <point x="22" y="260"/>
-      <point x="86.4316" y="334"/>
-      <point x="207" y="506" type="curve"/>
-      <point x="69.5" y="506" type="line"/>
-      <point x="69.5" y="543" type="line"/>
-      <point x="253.5" y="543" type="line"/>
-      <point x="253.5" y="506" type="line"/>
-      <point x="126.763" y="325"/>
-      <point x="59" y="250"/>
-      <point x="59" y="158" type="curve" smooth="yes"/>
-      <point x="59" y="79"/>
-      <point x="98" y="40"/>
-      <point x="161" y="40" type="curve" smooth="yes"/>
-      <point x="241.449" y="40"/>
-      <point x="257" y="126"/>
-      <point x="257" y="176" type="curve"/>
-      <point x="294" y="176" type="line"/>
-      <point x="294" y="109"/>
-      <point x="277.756" y="3"/>
-      <point x="161" y="3" type="curve" smooth="yes"/>
-      <point x="75.1475" y="3"/>
-      <point x="22" y="54.2285"/>
+      <point x="0" y="158" type="curve" smooth="yes"/>
+      <point x="0" y="260"/>
+      <point x="64.4316" y="334"/>
+      <point x="185" y="506" type="curve"/>
+      <point x="47.5" y="506" type="line"/>
+      <point x="47.5" y="543" type="line"/>
+      <point x="231.5" y="543" type="line"/>
+      <point x="231.5" y="506" type="line"/>
+      <point x="104.763" y="325"/>
+      <point x="37" y="250"/>
+      <point x="37" y="158" type="curve" smooth="yes"/>
+      <point x="37" y="79"/>
+      <point x="76" y="40"/>
+      <point x="139" y="40" type="curve" smooth="yes"/>
+      <point x="219.449" y="40"/>
+      <point x="235" y="126"/>
+      <point x="235" y="176" type="curve"/>
+      <point x="272" y="176" type="line"/>
+      <point x="272" y="109"/>
+      <point x="255.756" y="3"/>
+      <point x="139" y="3" type="curve" smooth="yes"/>
+      <point x="53.1475" y="3"/>
+      <point x="0" y="54.2285"/>
     </contour>
   </outline>
 </glyph>

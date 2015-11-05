@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_KhRIi" format="1">
-  <advance width="548"/>
+  <advance width="561"/>
   <outline>
     <contour>
-      <point x="27.001" y="-104" type="curve" smooth="yes"/>
-      <point x="64.001" y="-104" type="line" smooth="yes"/>
-      <point x="64.001" y="-187.151"/>
-      <point x="143.501" y="-244"/>
-      <point x="261.5" y="-244" type="curve" smooth="yes"/>
-      <point x="379.5" y="-244"/>
-      <point x="459" y="-187.151"/>
-      <point x="459" y="-104" type="curve" smooth="yes"/>
-      <point x="459" y="-39.4939"/>
-      <point x="438.959" y="-4.05993"/>
-      <point x="406.555" y="19" type="curve"/>
-      <point x="403" y="42" type="line"/>
-      <point x="432.021" y="41" type="line"/>
-      <point x="471.478" y="12.6338"/>
-      <point x="496" y="-33.1061"/>
-      <point x="496" y="-104" type="curve" smooth="yes"/>
-      <point x="496" y="-213.491"/>
-      <point x="394.12" y="-281"/>
-      <point x="261.5" y="-281" type="curve" smooth="yes"/>
-      <point x="128.881" y="-281"/>
-      <point x="27.001" y="-213.491"/>
+      <point x="33" y="-104" type="curve" smooth="yes"/>
+      <point x="70" y="-104" type="line" smooth="yes"/>
+      <point x="70" y="-187.151"/>
+      <point x="149.5" y="-244"/>
+      <point x="267.499" y="-244" type="curve" smooth="yes"/>
+      <point x="385.499" y="-244"/>
+      <point x="464.999" y="-187.151"/>
+      <point x="464.999" y="-104" type="curve" smooth="yes"/>
+      <point x="464.999" y="-39.4941"/>
+      <point x="444.958" y="-4.05957"/>
+      <point x="412.555" y="19" type="curve"/>
+      <point x="408.999" y="42" type="line"/>
+      <point x="438.02" y="41" type="line"/>
+      <point x="477.477" y="12.6338"/>
+      <point x="501.999" y="-33.1064"/>
+      <point x="501.999" y="-104" type="curve" smooth="yes"/>
+      <point x="501.999" y="-213.491"/>
+      <point x="400.119" y="-281"/>
+      <point x="267.499" y="-281" type="curve" smooth="yes"/>
+      <point x="134.88" y="-281"/>
+      <point x="33" y="-213.491"/>
     </contour>
-    <component base="si_KhIi"/>
+    <component base="si_KhIi" xOffset="5.99902"/>
   </outline>
 </glyph>
