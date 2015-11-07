@@ -1,89 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fraction" format="1">
-  <advance width="576"/>
+  <advance width="529"/>
   <unicode hex="2044"/>
   <outline>
     <contour>
-      <point x="141" y="-11" type="line"/>
-      <point x="20" y="-10" type="line"/>
-      <point x="437" y="735" type="line"/>
-      <point x="556" y="735" type="line"/>
+      <point x="70" y="-11" type="line"/>
+      <point x="29" y="-10" type="line"/>
+      <point x="446" y="735" type="line"/>
+      <point x="485" y="735" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>1</integer>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>110</integer>
-                  <key>y</key>
-                  <integer>-11</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>70</integer>
-                  <key>y</key>
-                  <integer>-10</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>487</integer>
-                  <key>y</key>
-                  <integer>735</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>525</integer>
-                  <key>y</key>
-                  <integer>735</integer>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>fraction</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>576</integer>
-        </dict>
-      </dict>
       <key>public.markColor</key>
       <string>0.99,0.62,0.11,1</string>
     </dict>

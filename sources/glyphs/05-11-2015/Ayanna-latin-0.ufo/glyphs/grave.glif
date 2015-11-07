@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="1">
-  <advance width="326"/>
+  <advance width="345"/>
   <unicode hex="0060"/>
   <outline>
-    <component base="acute" xOffset="341" xScale="-1"/>
+    <component base="acute" xOffset="367" xScale="-1"/>
     <contour>
-      <point x="178" y="500" type="move" name="_top"/>
+      <point x="193" y="500" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

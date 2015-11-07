@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhungarumlaut" format="1">
+<<<<<<< Updated upstream
   <advance width="502"/>
   <unicode hex="0171"/>
   <outline>
     <component base="u"/>
     <component base="hungarumlaut" xOffset="60"/>
+=======
+  <advance width="498"/>
+  <unicode hex="0171"/>
+  <outline>
+    <component base="u"/>
+    <component base="hungarumlaut" xOffset="50"/>
+>>>>>>> Stashed changes
   </outline>
   <lib>
     <dict>

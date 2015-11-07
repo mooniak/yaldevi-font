@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblleft" format="1">
-  <advance width="415"/>
+  <advance width="283"/>
   <unicode hex="201C"/>
   <outline>
-    <component base="comma" xOffset="230" yOffset="588" xScale="-0.952" yScale="-0.952"/>
-    <component base="comma" xOffset="417" yOffset="589" xScale="-0.952" yScale="-0.952"/>
+    <component base="comma" xOffset="169" yOffset="621" xScale="-1" yScale="-1"/>
+    <component base="comma" xOffset="283" yOffset="621" xScale="-1" yScale="-1"/>
   </outline>
   <lib>
     <dict>
@@ -18,9 +18,9 @@
           <key>isGlobal</key>
           <false/>
           <key>x</key>
-          <integer>221</integer>
+          <integer>154</integer>
           <key>y</key>
-          <integer>434</integer>
+          <integer>549</integer>
         </dict>
       </array>
       <key>public.markColor</key>

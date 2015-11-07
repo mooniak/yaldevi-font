@@ -4,7 +4,11 @@
   <unicode hex="00EC"/>
   <outline>
     <component base="dotlessi"/>
+<<<<<<< Updated upstream
     <component base="grave" xOffset="-55"/>
+=======
+    <component base="grave" xOffset="-65"/>
+>>>>>>> Stashed changes
   </outline>
   <lib>
     <dict>

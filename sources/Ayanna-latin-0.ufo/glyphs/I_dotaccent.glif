@@ -4,7 +4,11 @@
   <unicode hex="0130"/>
   <outline>
     <component base="I"/>
+<<<<<<< Updated upstream
     <component base="dotaccent" xOffset="-19" yOffset="145"/>
+=======
+    <component base="dotaccent" xOffset="-18" yOffset="110"/>
+>>>>>>> Stashed changes
   </outline>
   <lib>
     <dict>

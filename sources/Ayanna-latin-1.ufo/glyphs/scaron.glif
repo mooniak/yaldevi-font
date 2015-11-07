@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scaron" format="1">
+<<<<<<< Updated upstream
   <advance width="409"/>
   <unicode hex="0161"/>
   <outline>
     <component base="s"/>
     <component base="caron" xOffset="-26"/>
+=======
+  <advance width="417"/>
+  <unicode hex="0161"/>
+  <outline>
+    <component base="s"/>
+    <component base="caron" xOffset="-2"/>
+>>>>>>> Stashed changes
   </outline>
   <lib>
     <dict>
