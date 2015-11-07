@@ -20,8 +20,6 @@
 	<string>A_macron.glif</string>
 	<key>Aogonek</key>
 	<string>A_ogonek.glif</string>
-	<key>Aring</key>
-	<string>A_ring.glif</string>
 	<key>Atilde</key>
 	<string>A_tilde.glif</string>
 	<key>B</key>
@@ -78,8 +76,6 @@
 	<string>I_circumflex.glif</string>
 	<key>Idieresis</key>
 	<string>I_dieresis.glif</string>
-	<key>Idotaccent</key>
-	<string>I_dotaccent.glif</string>
 	<key>Igrave</key>
 	<string>I_grave.glif</string>
 	<key>Imacron</key>
@@ -274,8 +270,6 @@
 	<string>dagger.glif</string>
 	<key>daggerdbl</key>
 	<string>daggerdbl.glif</string>
-	<key>dcaron</key>
-	<string>dcaron.glif</string>
 	<key>dcroat</key>
 	<string>dcroat.glif</string>
 	<key>degree</key>
@@ -368,14 +362,10 @@
 	<string>hyphen.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
-	<key>iacute</key>
-	<string>iacute.glif</string>
 	<key>icircumflex</key>
 	<string>icircumflex.glif</string>
 	<key>idieresis</key>
 	<string>idieresis.glif</string>
-	<key>igrave</key>
-	<string>igrave.glif</string>
 	<key>imacron</key>
 	<string>imacron.glif</string>
 	<key>infinity</key>
@@ -446,8 +436,6 @@
 	<string>omacron.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
-	<key>onehalf</key>
-	<string>onehalf.glif</string>
 	<key>onequarter</key>
 	<string>onequarter.glif</string>
 	<key>onesuperior</key>
@@ -470,8 +458,6 @@
 	<string>parenright.glif</string>
 	<key>partialdiff</key>
 	<string>partialdiff.glif</string>
-	<key>percent</key>
-	<string>percent.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
 	<key>periodcentered</key>
@@ -514,8 +500,6 @@
 	<string>racute.glif</string>
 	<key>radical</key>
 	<string>radical.glif</string>
-	<key>rcaron</key>
-	<string>rcaron.glif</string>
 	<key>registered</key>
 	<string>registered.glif</string>
 	<key>ring</key>
@@ -524,8 +508,6 @@
 	<string>s.glif</string>
 	<key>sacute</key>
 	<string>sacute.glif</string>
-	<key>scaron</key>
-	<string>scaron.glif</string>
 	<key>section</key>
 	<string>section.glif</string>
 	<key>semicolon</key>
@@ -572,12 +554,12 @@
 	<string>udieresis.glif</string>
 	<key>ugrave</key>
 	<string>ugrave.glif</string>
-	<key>uhungarumlaut</key>
-	<string>uhungarumlaut.glif</string>
 	<key>umacron</key>
 	<string>umacron.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
+	<key>uni00A0</key>
+	<string>uni00A_0.glif</string>
 	<key>uni00AD</key>
 	<string>uni00A_D_.glif</string>
 	<key>uni00B5</key>
@@ -602,8 +584,6 @@
 	<string>uni0156.glif</string>
 	<key>uni0157</key>
 	<string>uni0157.glif</string>
-	<key>uni015E</key>
-	<string>uni015E_.glif</string>
 	<key>uni015F</key>
 	<string>uni015F_.glif</string>
 	<key>uni0162</key>

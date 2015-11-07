@@ -2,98 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>GSDimensionPlugin.Dimensions</key>
-	<dict>
-		<key>6114C541-D024-4A3E-9713-6FAF49EAB318</key>
-		<dict>
-			<key>HH</key>
-			<integer>110</integer>
-			<key>HV</key>
-			<integer>132</integer>
-			<key>OH</key>
-			<integer>115</integer>
-			<key>OV</key>
-			<integer>140</integer>
-			<key>nV</key>
-			<integer>130</integer>
-			<key>nd</key>
-			<integer>100</integer>
-			<key>oH</key>
-			<integer>105</integer>
-			<key>oV</key>
-			<integer>133</integer>
-			<key>tH</key>
-			<integer>95</integer>
-		</dict>
-		<key>CC11FE7D-5FF0-4B40-9597-DFC61EB94F41</key>
-		<dict>
-			<key>HH</key>
-			<integer>37</integer>
-			<key>HV</key>
-			<integer>42</integer>
-			<key>OH</key>
-			<integer>39</integer>
-			<key>OV</key>
-			<integer>46</integer>
-			<key>nV</key>
-			<integer>40</integer>
-			<key>nd</key>
-			<integer>33</integer>
-			<key>oH</key>
-			<integer>35</integer>
-			<key>oV</key>
-			<integer>43</integer>
-			<key>tH</key>
-			<integer>35</integer>
-		</dict>
-	</dict>
-	<key>com.schriftgestaltung.fontMaster.userData</key>
-	<dict>
-		<key>angle</key>
-		<integer>5</integer>
-		<key>height</key>
-		<integer>37</integer>
-		<key>width</key>
-		<integer>42</integer>
-	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>CC11FE7D-5FF0-4B40-9597-DFC61EB94F41</string>
-	<key>com.schriftgestaltung.glyphOrder</key>
-	<array>
-		<string>.notdef</string>
-		<string>uni0D82</string>
-		<string>si_A</string>
-		<string>si_U</string>
-		<string>si_Ga</string>
-		<string>si_Tta</string>
-		<string>si_Dda</string>
-		<string>si_Ddha</string>
-		<string>si_Nna</string>
-		<string>si_Da</string>
-		<string>si_Ma</string>
-		<string>si_Ya</string>
-		<string>si_Ra</string>
-		<string>si_La</string>
-		<string>si_Va</string>
-		<string>si_Sa</string>
-		<string>si_TI</string>
-		<string>uni0020</string>
-		<string>si_TI.rakar</string>
-		<string>uni0031</string>
-		<string>NameMe.12</string>
-		<string>uni0044</string>
-		<string>uni0046</string>
-		<string>uni0047</string>
-		<string>uni0049</string>
-	</array>
+	<string>7E24BA8F-B5E6-44E9-9A07-6072C5E16E08</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<integer>0</integer>
-	<key>com.schriftgestaltung.weight</key>
-	<string>Light</string>
-	<key>com.schriftgestaltung.weightValue</key>
-	<integer>40</integer>
-	<key>com.schriftgestaltung.width</key>
-	<string>Condensed</string>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -104,7 +16,6 @@
 		<string>Agrave</string>
 		<string>Amacron</string>
 		<string>Aogonek</string>
-		<string>Aring</string>
 		<string>Atilde</string>
 		<string>AE</string>
 		<string>B</string>
@@ -133,7 +44,6 @@
 		<string>Iacute</string>
 		<string>Icircumflex</string>
 		<string>Idieresis</string>
-		<string>Idotaccent</string>
 		<string>Igrave</string>
 		<string>Imacron</string>
 		<string>Iogonek</string>
@@ -193,7 +103,6 @@
 		<string>uni013B</string>
 		<string>uni0145</string>
 		<string>uni0156</string>
-		<string>uni015E</string>
 		<string>uni0162</string>
 		<string>uni0218</string>
 		<string>uni021A</string>
@@ -215,7 +124,6 @@
 		<string>ccedilla</string>
 		<string>d</string>
 		<string>eth</string>
-		<string>dcaron</string>
 		<string>dcroat</string>
 		<string>e</string>
 		<string>eacute</string>
@@ -232,10 +140,8 @@
 		<string>h</string>
 		<string>i</string>
 		<string>dotlessi</string>
-		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
-		<string>igrave</string>
 		<string>imacron</string>
 		<string>iogonek</string>
 		<string>j</string>
@@ -264,10 +170,8 @@
 		<string>q</string>
 		<string>r</string>
 		<string>racute</string>
-		<string>rcaron</string>
 		<string>s</string>
 		<string>sacute</string>
-		<string>scaron</string>
 		<string>germandbls</string>
 		<string>t</string>
 		<string>tcaron</string>
@@ -276,7 +180,6 @@
 		<string>ucircumflex</string>
 		<string>udieresis</string>
 		<string>ugrave</string>
-		<string>uhungarumlaut</string>
 		<string>umacron</string>
 		<string>uni0123</string>
 		<string>uni0137</string>
@@ -315,7 +218,6 @@
 		<string>eight</string>
 		<string>nine</string>
 		<string>fraction</string>
-		<string>onehalf</string>
 		<string>onequarter</string>
 		<string>threequarters</string>
 		<string>onesuperior</string>
@@ -360,10 +262,7 @@
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
 		<string>space</string>
-<<<<<<< Updated upstream
-=======
 		<string>uni00A0</string>
->>>>>>> Stashed changes
 		<string>Euro</string>
 		<string>cent</string>
 		<string>currency</string>
@@ -388,7 +287,6 @@
 		<string>multiply</string>
 		<string>notequal</string>
 		<string>partialdiff</string>
-		<string>percent</string>
 		<string>perthousand</string>
 		<string>plus</string>
 		<string>plusminus</string>
