@@ -54,10 +54,10 @@ feature abvm {
 	\tml_MU \tml_RU \tml_RrU \tml_LU \tml_LlU \tml_LllU \tml_KUu \tml_NgUu \tml_CUu 
 	\tml_NyUu \tml_TtUu \tml_NnUu \tml_TUu \tml_NUu \tml_NnnUu \tml_PUu \tml_MUu 
 	\tml_YUu \tml_RUu \tml_RrUu \tml_LUu \tml_LlUu \tml_LllUu \tml_KSsa \tml_Shree 
-	\space \dottedcircle \zwj \zwnj \tml_NnAa.alt \tml_NnnAa.alt \tml_RrAa.alt 
-	\tml_MatraI.alt1 \tml_MatraI.alt2 \tml_MatraI.alt3 \tml_MatraI.alt4 
-	\tml_MatraI.alt5 \tml_MatraI.alt6 \tml_MatraI.alt7 \tml_MatraI.stylalt1 
-	\tml_MatraAi.alt \tml_TtIi ];
+	\space \tml_NnAa.alt \tml_NnnAa.alt \tml_RrAa.alt \tml_MatraI.alt1 
+	\tml_MatraI.alt2 \tml_MatraI.alt3 \tml_MatraI.alt4 \tml_MatraI.alt5 
+	\tml_MatraI.alt6 \tml_MatraI.alt7 \tml_MatraI.stylalt1 \tml_MatraAi.alt 
+	\tml_TtIi ];
 @GDEF_Mark = [\tml_Virama \tml_MatraIi \tml_Anusvara \tml_MatraIi.alt1 
 	\tml_MatraU.alt1 \tml_MatraIi.stylalt1 ];
 

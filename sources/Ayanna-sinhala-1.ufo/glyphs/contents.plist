@@ -1098,8 +1098,6 @@
     <string>si_G_a.reph.glif</string>
     <key>si_Gha.reph</key>
     <string>si_G_ha.reph.glif</string>
-    <key>NameMe.124.1</key>
-    <string>N_ameM_e.124.1.glif</string>
     <key>si_Ca.reph</key>
     <string>si_C_a.reph.glif</string>
     <key>si_Jha.reph</key>
@@ -1138,5 +1136,7 @@
     <string>si_F_a.reph.glif</string>
     <key>si_Tha.reph</key>
     <string>si_T_ha.reph.glif</string>
+    <key>.notdef</key>
+    <string>_notdef.glif</string>
   </dict>
 </plist>
