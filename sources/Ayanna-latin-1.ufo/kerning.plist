@@ -4,81 +4,93 @@
 <dict>
 	<key>A</key>
 	<dict>
+		<key>A</key>
+		<integer>15</integer>
+		<key>Abreve</key>
+		<integer>15</integer>
 		<key>T</key>
-		<integer>-40</integer>
+		<integer>-30</integer>
 		<key>V</key>
-		<integer>-30</integer>
-		<key>W</key>
-		<integer>-30</integer>
-		<key>Y</key>
 		<integer>-40</integer>
-		<key>Z</key>
-		<integer>-20</integer>
+		<key>W</key>
+		<integer>-40</integer>
+		<key>Y</key>
+		<integer>-50</integer>
 	</dict>
 	<key>B</key>
 	<dict>
 		<key>W</key>
-		<integer>-20</integer>
+		<integer>-30</integer>
 	</dict>
 	<key>C</key>
 	<dict>
 		<key>A</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
+	</dict>
+	<key>K</key>
+	<dict>
+		<key>T</key>
+		<integer>10</integer>
 	</dict>
 	<key>L</key>
 	<dict>
 		<key>V</key>
-		<integer>-40</integer>
+		<integer>-50</integer>
 		<key>Y</key>
-		<integer>-80</integer>
+		<integer>-60</integer>
+	</dict>
+	<key>N</key>
+	<dict>
+		<key>T</key>
+		<integer>-5</integer>
 	</dict>
 	<key>O</key>
 	<dict>
 		<key>T</key>
-		<integer>-40</integer>
+		<integer>-20</integer>
 	</dict>
 	<key>P</key>
 	<dict>
 		<key>A</key>
-		<integer>-40</integer>
+		<integer>-45</integer>
 		<key>V</key>
-		<integer>-20</integer>
+		<integer>-30</integer>
 	</dict>
 	<key>S</key>
 	<dict>
 		<key>V</key>
 		<integer>-20</integer>
 		<key>Y</key>
-		<integer>-20</integer>
+		<integer>-30</integer>
 	</dict>
 	<key>T</key>
 	<dict>
 		<key>A</key>
-		<integer>-40</integer>
+		<integer>-30</integer>
 		<key>I</key>
-		<integer>-15</integer>
+		<integer>-5</integer>
 		<key>O</key>
-		<integer>-40</integer>
+		<integer>-23</integer>
 		<key>T</key>
-		<integer>20</integer>
+		<integer>15</integer>
 		<key>U</key>
-		<integer>-15</integer>
+		<integer>-7</integer>
 		<key>V</key>
 		<integer>10</integer>
-		<key>W</key>
-		<integer>10</integer>
 		<key>Y</key>
-		<integer>15</integer>
+		<integer>10</integer>
+		<key>Z</key>
+		<integer>5</integer>
 	</dict>
 	<key>U</key>
 	<dict>
 		<key>T</key>
-		<integer>-15</integer>
+		<integer>-7</integer>
 	</dict>
 	<key>V</key>
 	<dict>
 		<key>A</key>
-		<integer>-30</integer>
+		<integer>-40</integer>
 		<key>S</key>
 		<integer>-30</integer>
 		<key>T</key>
@@ -87,23 +99,21 @@
 	<key>W</key>
 	<dict>
 		<key>A</key>
-		<integer>-30</integer>
-		<key>T</key>
-		<integer>10</integer>
+		<integer>-40</integer>
 	</dict>
 	<key>Y</key>
 	<dict>
 		<key>A</key>
-		<integer>-40</integer>
+		<integer>-50</integer>
 		<key>S</key>
-		<integer>-40</integer>
+		<integer>-30</integer>
 		<key>T</key>
-		<integer>15</integer>
+		<integer>10</integer>
 	</dict>
 	<key>Z</key>
 	<dict>
-		<key>A</key>
-		<integer>-20</integer>
+		<key>T</key>
+		<integer>5</integer>
 	</dict>
 	<key>aogonek</key>
 	<dict>
@@ -113,28 +123,28 @@
 	<key>four</key>
 	<dict>
 		<key>ordfeminine</key>
-		<integer>-10</integer>
+		<integer>-15</integer>
 	</dict>
 	<key>one</key>
 	<dict>
 		<key>ordfeminine</key>
-		<integer>-10</integer>
+		<integer>-15</integer>
 		<key>ordmasculine</key>
 		<integer>-15</integer>
 	</dict>
 	<key>seven</key>
 	<dict>
 		<key>ordfeminine</key>
-		<integer>20</integer>
+		<integer>30</integer>
 	</dict>
 	<key>slash</key>
 	<dict>
 		<key>colon</key>
-		<integer>-20</integer>
+		<integer>-35</integer>
 		<key>slash</key>
-		<integer>-20</integer>
+		<integer>-40</integer>
 		<key>u</key>
-		<integer>-20</integer>
+		<integer>-30</integer>
 	</dict>
 	<key>v</key>
 	<dict>

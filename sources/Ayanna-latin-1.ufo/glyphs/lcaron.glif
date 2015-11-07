@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="1">
-  <advance width="230"/>
+  <advance width="288"/>
   <unicode hex="013E"/>
   <outline>
     <component base="l"/>
-    <component base="quoteright" xOffset="143" yOffset="26" xScale="0.931" yScale="0.931"/>
+    <component base="quoteright" xOffset="194" yOffset="78" xScale="0.87" yScale="0.87"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>l</string>
     </dict>

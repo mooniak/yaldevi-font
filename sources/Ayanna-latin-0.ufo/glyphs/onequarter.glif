@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="1">
-  <advance width="888"/>
+  <advance width="749"/>
   <unicode hex="00BC"/>
   <outline>
     <contour>
-      <point x="822" y="1" type="line"/>
-      <point x="822" y="408" type="line"/>
-      <point x="683" y="408" type="line"/>
-      <point x="519" y="142" type="line"/>
-      <point x="530" y="70" type="line"/>
-      <point x="873" y="70" type="line"/>
-      <point x="873" y="160" type="line"/>
-      <point x="591" y="160" type="line"/>
-      <point x="613" y="130" type="line"/>
-      <point x="736" y="346" type="line"/>
-      <point x="711" y="346" type="line"/>
-      <point x="711" y="1" type="line"/>
+      <point x="670" y="0" type="line"/>
+      <point x="670" y="407" type="line"/>
+      <point x="629" y="407" type="line"/>
+      <point x="439" y="128" type="line"/>
+      <point x="443" y="103" type="line"/>
+      <point x="719" y="104" type="line"/>
+      <point x="719" y="136" type="line"/>
+      <point x="469" y="136" type="line"/>
+      <point x="479" y="128" type="line"/>
+      <point x="643" y="369" type="line"/>
+      <point x="632" y="369" type="line"/>
+      <point x="632" y="0" type="line"/>
     </contour>
-    <component base="fraction" xOffset="144"/>
-    <component base="onesuperior" xOffset="-21"/>
+    <component base="fraction" xOffset="116"/>
+    <component base="onesuperior" xOffset="-15"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>1</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -37,6 +35,8 @@
           <string>onesuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

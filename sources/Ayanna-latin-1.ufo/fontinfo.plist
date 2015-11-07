@@ -9,7 +9,7 @@
 	<key>copyright</key>
 	<string>Copyright (c) 2015, mooniak</string>
 	<key>descender</key>
-	<integer>-205</integer>
+	<integer>-200</integer>
 	<key>familyName</key>
 	<string>Ayanna Narrow</string>
 	<key>openTypeHeadCreated</key>
@@ -24,55 +24,47 @@
 	<string>Ayanna Narrow</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Extra Light</string>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>819</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>-205</integer>
-	<key>openTypeOS2TypoLineGap</key>
-	<integer>92</integer>
 	<key>openTypeOS2WeightClass</key>
 	<integer>250</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>4</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-7</integer>
+		<integer>-15</integer>
 		<integer>0</integer>
 		<integer>500</integer>
-		<integer>507</integer>
+		<integer>515</integer>
 		<integer>675</integer>
-		<integer>682</integer>
+		<integer>690</integer>
 		<integer>725</integer>
-		<integer>732</integer>
+		<integer>740</integer>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-212</integer>
-		<integer>-205</integer>
+		<integer>-215</integer>
+		<integer>-200</integer>
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>33</integer>
-		<integer>35</integer>
-		<integer>37</integer>
-		<integer>39</integer>
-		<integer>43</integer>
+		<integer>95</integer>
+		<integer>100</integer>
+		<integer>105</integer>
+		<integer>110</integer>
+		<integer>115</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>40</integer>
-		<integer>42</integer>
-		<integer>43</integer>
-		<integer>46</integer>
+		<integer>130</integer>
+		<integer>132</integer>
+		<integer>133</integer>
+		<integer>140</integer>
 	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-102</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>51</integer>
+	<key>styleMapFamilyName</key>
+	<string>Ayanna Narrow Extra Light</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Extra Light</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>vendorID</key>
