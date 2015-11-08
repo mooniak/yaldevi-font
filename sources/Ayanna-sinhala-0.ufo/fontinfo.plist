@@ -3,13 +3,15 @@
 <plist version="1.0">
   <dict>
     <key>familyName</key>
-    <string>AyannaNarrowBeta</string>
+    <string>Ayanna</string>
     <key>styleName</key>
-    <string>Regular</string>
+    <string>Light</string>
     <key>styleMapFamilyName</key>
-    <string>AyannaNarrowBeta</string>
+    <string>Ayanna</string>
+    <key>versionMajor</key>
+    <integer>0</integer>
     <key>copyright</key>
-    <string>Copyright (c) 2015, Pathum,,,</string>
+    <string>Copyright (c) 2015 mooniak</string>
     <key>unitsPerEm</key>
     <integer>1024</integer>
     <key>ascender</key>
@@ -31,11 +33,11 @@
     <key>openTypeNameVersion</key>
     <string>Version </string>
     <key>postscriptFontName</key>
-    <string>AyannaNarrowBeta</string>
+    <string>Ayanna</string>
     <key>postscriptFullName</key>
-    <string>AyannaNarrowBeta</string>
+    <string>Ayanna</string>
     <key>postscriptWeightName</key>
-    <string>Regular</string>
+    <string>Light</string>
     <key>postscriptUnderlineThickness</key>
     <integer>0</integer>
     <key>postscriptUnderlinePosition</key>
