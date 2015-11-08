@@ -1,6 +1,8 @@
 {
 DisplayStrings = (
-S
+S,
+s,
+"\U00DF"
 );
 copyright = "CCopyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com) \012";
 customParameters = (
@@ -12335,7 +12337,7 @@ unicode = 0159;
 {
 color = 3;
 glyphname = s;
-lastChange = "2015-11-05 07:49:53 +0000";
+lastChange = "2015-11-08 12:07:56 +0000";
 layers = (
 {
 anchors = (
@@ -12360,7 +12362,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"51 41 LINE",
 "94 10 OFFCURVE",
 "146 -7 OFFCURVE",
 "195 -7 CURVE SMOOTH",
@@ -12391,7 +12392,8 @@ nodes = (
 "197 28 CURVE SMOOTH",
 "157 28 OFFCURVE",
 "111 44 OFFCURVE",
-"69 73 CURVE"
+"69 73 CURVE",
+"51 41 LINE"
 );
 }
 );
@@ -12603,7 +12605,7 @@ unicode = 015B;
 },
 {
 glyphname = scaron;
-lastChange = "2015-11-07 18:26:31 +0000";
+lastChange = "2015-11-08 12:07:31 +0000";
 layers = (
 {
 components = (
@@ -12633,7 +12635,7 @@ transform = "{1, 0, 0, 1, -2, 0}";
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
 name = "Bold Condensed";
-width = 417;
+width = 409;
 }
 );
 unicode = 0161;
@@ -12641,7 +12643,7 @@ unicode = 0161;
 {
 color = 1;
 glyphname = germandbls;
-lastChange = "2015-11-05 07:49:53 +0000";
+lastChange = "2015-11-08 12:10:25 +0000";
 layers = (
 {
 guideLines = (
@@ -12807,15 +12809,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"158 405 LINE",
-"158 500 LINE",
-"27 500 LINE",
-"27 405 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "525 687 OFFCURVE",
 "425 740 OFFCURVE",
 "320 740 CURVE SMOOTH",
@@ -12856,6 +12849,15 @@ nodes = (
 "412 461 OFFCURVE",
 "525 486 OFFCURVE",
 "525 588 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"158 405 LINE",
+"158 500 LINE",
+"27 500 LINE SMOOTH",
+"27 405 LINE"
 );
 }
 );
@@ -13318,7 +13320,7 @@ unicode = 00F9;
 },
 {
 glyphname = uhungarumlaut;
-lastChange = "2015-11-07 18:26:31 +0000";
+lastChange = "2015-11-08 12:07:31 +0000";
 layers = (
 {
 components = (
@@ -13348,7 +13350,7 @@ transform = "{1, 0, 0, 1, 42, 0}";
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
 name = "Bold Condensed";
-width = 527;
+width = 533;
 }
 );
 unicode = 0171;
@@ -20309,23 +20311,6 @@ width = 190;
 );
 note = space;
 unicode = 0020;
-},
-{
-glyphname = uni00A0;
-lastChange = "2015-11-07 16:55:31 +0000";
-layers = (
-{
-layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-name = "Light Condensed";
-width = 190;
-},
-{
-layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-name = "Bold Condensed";
-width = 190;
-}
-);
-unicode = 00A0;
 },
 {
 color = 1;
