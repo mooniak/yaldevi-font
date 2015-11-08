@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="1">
-<<<<<<< Updated upstream
-  <advance width="288"/>
-=======
   <advance width="339"/>
->>>>>>> Stashed changes
   <unicode hex="013E"/>
   <outline>
     <component base="l"/>
@@ -12,30 +8,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>l</string>
-        </dict>
-      </array>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>l</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>l</string>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>
