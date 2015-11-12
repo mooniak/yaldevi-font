@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhungarumlaut" format="1">
+<<<<<<< Updated upstream
   <advance width="533"/>
+=======
+  <advance width="527"/>
+>>>>>>> Stashed changes
   <unicode hex="0171"/>
   <outline>
     <component base="u"/>

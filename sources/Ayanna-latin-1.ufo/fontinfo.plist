@@ -60,12 +60,15 @@
 		<integer>133</integer>
 		<integer>140</integer>
 	</array>
+<<<<<<< Updated upstream
 	<key>styleMapFamilyName</key>
 	<string>Ayanna Extra Light</string>
+=======
+>>>>>>> Stashed changes
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Extra Light</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>vendorID</key>

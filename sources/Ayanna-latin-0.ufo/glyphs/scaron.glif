@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scaron" format="1">
+<<<<<<< Updated upstream
   <advance width="387"/>
+=======
+  <advance width="397"/>
+>>>>>>> Stashed changes
   <unicode hex="0161"/>
   <outline>
     <component base="s"/>

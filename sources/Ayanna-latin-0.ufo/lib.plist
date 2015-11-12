@@ -197,6 +197,7 @@
 		<string>uni0162</string>
 		<string>uni0218</string>
 		<string>uni021A</string>
+		<string>W.001</string>
 		<string>a</string>
 		<string>aacute</string>
 		<string>abreve</string>
@@ -360,6 +361,10 @@
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
 		<string>space</string>
+<<<<<<< Updated upstream
+=======
+		<string>uni00A0</string>
+>>>>>>> Stashed changes
 		<string>Euro</string>
 		<string>cent</string>
 		<string>currency</string>

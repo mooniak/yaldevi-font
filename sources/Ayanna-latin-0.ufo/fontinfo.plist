@@ -70,12 +70,15 @@
 	<integer>-102</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>51</integer>
+<<<<<<< Updated upstream
 	<key>styleMapFamilyName</key>
 	<string>Ayanna Extra Light</string>
+=======
+>>>>>>> Stashed changes
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Extra Light</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>vendorID</key>
