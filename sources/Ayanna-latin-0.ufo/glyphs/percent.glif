@@ -67,8 +67,6 @@
       <integer>1</integer>
       <key>public.markColor</key>
       <string>0.99,0.62,0.11,1</string>
-<<<<<<< Updated upstream
-=======
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -80,7 +78,6 @@
           <string>fraction</string>
         </dict>
       </array>
->>>>>>> Stashed changes
     </dict>
   </lib>
 </glyph>

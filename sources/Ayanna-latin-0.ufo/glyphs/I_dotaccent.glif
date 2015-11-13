@@ -6,8 +6,6 @@
     <component base="I"/>
     <component base="dotaccent" xOffset="-18" yOffset="110"/>
   </outline>
-<<<<<<< Updated upstream
-=======
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
@@ -157,5 +155,4 @@
       </array>
     </dict>
   </lib>
->>>>>>> Stashed changes
 </glyph>

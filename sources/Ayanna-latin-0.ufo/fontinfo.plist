@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>675</integer>
 	<key>copyright</key>
-	<string>CCopyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com) 
+	<string>CCopyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)
 </string>
 	<key>descender</key>
 	<integer>-205</integer>
@@ -70,11 +70,8 @@
 	<integer>-102</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>51</integer>
-<<<<<<< Updated upstream
 	<key>styleMapFamilyName</key>
 	<string>Ayanna Extra Light</string>
-=======
->>>>>>> Stashed changes
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
