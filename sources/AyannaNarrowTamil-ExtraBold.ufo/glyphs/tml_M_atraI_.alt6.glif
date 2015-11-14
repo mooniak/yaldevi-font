@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_MatraI.alt6" format="1">
+  <advance width="269"/>
+  <outline>
+    <contour>
+      <point x="-286.039" y="496" type="line" smooth="yes"/>
+      <point x="-328.075" y="530.287"/>
+      <point x="-330.935" y="572.276"/>
+      <point x="-331" y="600" type="curve" smooth="yes"/>
+      <point x="-331.228" y="715.89"/>
+      <point x="-185.864" y="757.386"/>
+      <point x="-114" y="757" type="curve" smooth="yes"/>
+      <point x="69.7827" y="756.014"/>
+      <point x="166.13" y="666.739"/>
+      <point x="167" y="480" type="curve" smooth="yes"/>
+      <point x="169" y="0" type="line" smooth="yes"/>
+      <point x="61" y="0" type="line" smooth="yes"/>
+      <point x="60" y="480" type="line" smooth="yes"/>
+      <point x="59.7246" y="590.541"/>
+      <point x="15.5" y="649"/>
+      <point x="-118" y="649" type="curve" smooth="yes"/>
+      <point x="-179.988" y="649"/>
+      <point x="-231.416" y="630.123"/>
+      <point x="-231" y="600" type="curve" smooth="yes"/>
+      <point x="-230.415" y="564.026"/>
+      <point x="-217.059" y="557.436"/>
+      <point x="-190.697" y="557" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
