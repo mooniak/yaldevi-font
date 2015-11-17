@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idotaccent" format="1">
-  <advance width="209"/>
+  <advance width="222"/>
   <unicode hex="0130"/>
   <outline>
     <component base="I"/>
@@ -139,20 +139,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>209</integer>
+          <integer>222</integer>
         </dict>
       </dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dotaccent</string>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

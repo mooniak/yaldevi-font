@@ -7,22 +7,21 @@
 	<key>capHeight</key>
 	<integer>675</integer>
 	<key>copyright</key>
-	<string>CCopyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)
-</string>
+	<string>Copyright (c) 2015, mooniak</string>
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
-	<string>Ayanna</string>
+	<string>Ayanna Narrow</string>
 	<key>openTypeHeadCreated</key>
 	<string>2015/08/24 16:04:41</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>http://www.mooniak.com/type</string>
+	<string>http://www.mooniak.com/typography</string>
 	<key>openTypeNameManufacturer</key>
-	<string>mooniak PLC</string>
+	<string>mooniak PLC.</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>https://github.com/mooniak/</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Ayanna</string>
+	<string>Ayanna Narrow</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Extra Light</string>
 	<key>openTypeOS2WeightClass</key>
@@ -61,11 +60,11 @@
 		<integer>140</integer>
 	</array>
 	<key>styleMapFamilyName</key>
-	<string>Ayanna Extra Light</string>
+	<string>Ayanna Narrow Extra Light</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Extra Light</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>vendorID</key>
