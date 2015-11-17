@@ -897,7 +897,7 @@ feature psts {
 #-------------
 
 feature kern {
-    script sinh;
+    include (kern.fea);
 } kern;
 
 feature dist {
