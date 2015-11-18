@@ -273,14 +273,13 @@ ChainSub2: coverage "sub_chain_abvstaml_0 subtable" 0 0 0 1
   SeqLookup: 0 "SingleSubstitutionlookup17"
 EndFPST
 LangName: 1033 "Licensed under the SIL Open Font License 1.1 (see file OFL.txt)" "" "" "" "" "Version 2.5.0" "" "" "" "" "" "" "" "" "" "" "ayanna-tamil" "tamil"
-Encoding: ISO8859-1
-Compacted: 1
+Encoding: Custom
 UnicodeInterp: none
 NameList: tamil
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 24 12 7
+WinInfo: 0 12 5
 BeginPrivate: 3
 StemSnapH 13 [34 35 36 64]
 StemSnapV 21 [8 10 34 35 36 37 64]
@@ -298,10 +297,10 @@ Grid
   Named: "e_line"
 EndSplineSet
 AnchorClass2: "Anchor0" "abvmAboveBaseMarklookup0 subtable" "Anchor1" "abvmAboveBaseMarklookup1 subtable" "Anchor2" "abvmAboveBaseMarklookup2 subtable" "Anchor3" "abvmAboveBaseMarklookup3 subtable" "Anchor4" "blwmBelowBaseMarklookup4 subtable" "tml_virama" "" 
-BeginChars: 381 123
+BeginChars: 324 126
 
 StartChar: tml_E
-Encoding: 256 2958 0
+Encoding: 9 2958 0
 GlifName: tml_E_
 Width: 659
 VWidth: 2
@@ -338,7 +337,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Ee
-Encoding: 257 2959 1
+Encoding: 10 2959 1
 GlifName: tml_E_e
 Width: 645
 VWidth: 7
@@ -428,7 +427,7 @@ sass."
 EndChar
 
 StartChar: tml_Ii
-Encoding: 258 2952 2
+Encoding: 6 2952 2
 GlifName: tml_I_i
 Width: 611
 VWidth: 1
@@ -497,7 +496,7 @@ sass."
 EndChar
 
 StartChar: tml_Lla
-Encoding: 259 2995 3
+Encoding: 31 2995 3
 GlifName: tml_L_la
 Width: 885
 VWidth: 1
@@ -597,7 +596,7 @@ sass."
 EndChar
 
 StartChar: tml_Day
-Encoding: 260 3059 4
+Encoding: 65 3059 4
 GlifName: tml_D_ay
 Width: 621
 VWidth: 1
@@ -635,12 +634,12 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Pa
-Encoding: 261 2986 5
+Encoding: 25 2986 5
 GlifName: tml_P_a
 Width: 498
 VWidth: 1
 GlyphClass: 2
-Flags: HMW
+Flags: HMWO
 AnchorPoint: "Anchor4" 730 0 basechar 0
 AnchorPoint: "Anchor1" 390 0 basechar 0
 AnchorPoint: "Anchor0" 241 0 basechar 0
@@ -689,7 +688,7 @@ sass."
 EndChar
 
 StartChar: tml_Ra
-Encoding: 262 2992 6
+Encoding: 28 2992 6
 GlifName: tml_R_a
 Width: 498
 VWidth: 7
@@ -755,7 +754,7 @@ Substitution2: "SingleSubstitutionlookup23 subtable" tml_MatraAa
 EndChar
 
 StartChar: tml_Tta
-Encoding: 263 2975 7
+Encoding: 20 2975 7
 GlifName: tml_T_ta
 Width: 662
 VWidth: 1
@@ -800,7 +799,7 @@ sass."
 EndChar
 
 StartChar: tml_Va
-Encoding: 264 2997 8
+Encoding: 33 2997 8
 GlifName: tml_V_a
 Width: 770
 VWidth: 1
@@ -842,7 +841,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_MatraAa
-Encoding: 265 3006 9
+Encoding: 38 3006 9
 GlifName: tml_M_atraA_a
 Width: 484
 VWidth: 1
@@ -902,7 +901,7 @@ sass."
 EndChar
 
 StartChar: tml_Seven
-Encoding: 266 3053 10
+Encoding: 59 3053 10
 GlifName: tml_S_even
 Width: 597
 VWidth: 2
@@ -970,7 +969,7 @@ sass."
 EndChar
 
 StartChar: tml_A
-Encoding: 267 2949 11
+Encoding: 3 2949 11
 GlifName: tml_A_
 Width: 825
 VWidth: 4
@@ -1063,7 +1062,7 @@ sass."
 EndChar
 
 StartChar: tml_Aa
-Encoding: 268 2950 12
+Encoding: 4 2950 12
 GlifName: tml_A_a
 Width: 1075
 VWidth: 10
@@ -1119,7 +1118,7 @@ sass."
 EndChar
 
 StartChar: tml_Nnna
-Encoding: 269 2985 13
+Encoding: 24 2985 13
 GlifName: tml_N_nna
 Width: 939
 VWidth: 1
@@ -1170,7 +1169,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Nna
-Encoding: 270 2979 14
+Encoding: 21 2979 14
 GlifName: tml_N_na
 Width: 1274
 VWidth: 1
@@ -1281,7 +1280,7 @@ sass."
 EndChar
 
 StartChar: tml_Ma
-Encoding: 271 2990 15
+Encoding: 26 2990 15
 GlifName: tml_M_a
 Width: 622
 VWidth: 1
@@ -1354,7 +1353,7 @@ sass."
 EndChar
 
 StartChar: tml_Virama
-Encoding: 272 3021 16
+Encoding: 49 3021 16
 GlifName: tml_V_irama
 Width: 0
 VWidth: -19
@@ -1398,7 +1397,7 @@ sass."
 EndChar
 
 StartChar: tml_I
-Encoding: 273 2951 17
+Encoding: 5 2951 17
 GlifName: tml_I_
 Width: 1005
 VWidth: -1
@@ -1496,7 +1495,7 @@ sass."
 EndChar
 
 StartChar: tml_La
-Encoding: 274 2994 18
+Encoding: 30 2994 18
 GlifName: tml_L_a
 Width: 765
 VWidth: 1
@@ -1535,7 +1534,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Llla
-Encoding: 275 2996 19
+Encoding: 32 2996 19
 GlifName: tml_L_lla
 Width: 622
 VWidth: 7
@@ -1566,7 +1565,7 @@ Refer: 15 2990 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tml_O
-Encoding: 276 2962 20
+Encoding: 12 2962 20
 GlifName: tml_O_
 Width: 0
 VWidth: 14
@@ -1578,7 +1577,7 @@ Fore
 EndChar
 
 StartChar: tml_Oo
-Encoding: 277 2963 21
+Encoding: 13 2963 21
 GlifName: tml_O_o
 Width: 0
 VWidth: 14
@@ -1590,7 +1589,7 @@ Fore
 EndChar
 
 StartChar: tml_Rra
-Encoding: 278 2993 22
+Encoding: 29 2993 22
 GlifName: tml_R_ra
 Width: 709
 VWidth: 8
@@ -1631,7 +1630,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Sha
-Encoding: 279 2998 23
+Encoding: 34 2998 23
 GlifName: tml_S_ha
 Width: 807
 VWidth: 1051
@@ -1675,7 +1674,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Uu
-Encoding: 280 2954 24
+Encoding: 8 2954 24
 GlifName: tml_U_u
 Width: 834
 VWidth: 1048
@@ -1688,7 +1687,7 @@ Refer: 28 2953 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tml_Visarga
-Encoding: 281 2947 25
+Encoding: 2 2947 25
 GlifName: tml_V_isarga
 Width: 0
 VWidth: 14
@@ -1700,7 +1699,7 @@ Fore
 EndChar
 
 StartChar: tml_Ya
-Encoding: 282 2991 26
+Encoding: 27 2991 26
 GlifName: tml_Y_a
 Width: 693
 VWidth: 2
@@ -1793,7 +1792,7 @@ sass."
 EndChar
 
 StartChar: tml_Nya
-Encoding: 283 2974 27
+Encoding: 19 2974 27
 GlifName: tml_N_ya
 Width: 999
 VWidth: 8
@@ -1879,7 +1878,7 @@ sass."
 EndChar
 
 StartChar: tml_U
-Encoding: 284 2953 28
+Encoding: 7 2953 28
 GlifName: tml_U_
 Width: 834
 VWidth: 1048
@@ -1914,7 +1913,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Ai
-Encoding: 285 2960 29
+Encoding: 11 2960 29
 GlifName: tml_A_i
 Width: 0
 VWidth: 14
@@ -1926,7 +1925,7 @@ Fore
 EndChar
 
 StartChar: tml_Au
-Encoding: 286 2964 30
+Encoding: 14 2964 30
 GlifName: tml_A_u
 Width: 0
 VWidth: 14
@@ -1938,7 +1937,7 @@ Fore
 EndChar
 
 StartChar: tml_Ka
-Encoding: 287 2965 31
+Encoding: 15 2965 31
 GlifName: tml_K_a
 Width: 651
 VWidth: 1050
@@ -1980,7 +1979,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Nga
-Encoding: 288 2969 32
+Encoding: 16 2969 32
 GlifName: tml_N_ga
 Width: 782
 VWidth: 1
@@ -2031,7 +2030,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Ca
-Encoding: 289 2970 33
+Encoding: 17 2970 33
 GlifName: tml_C_a
 Width: 568
 VWidth: 1050
@@ -2072,7 +2071,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Ja
-Encoding: 290 2972 34
+Encoding: 18 2972 34
 GlifName: tml_J_a
 Width: 757
 VWidth: 2
@@ -2158,7 +2157,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Ta
-Encoding: 291 2980 35
+Encoding: 22 2980 35
 GlifName: tml_T_a
 Width: 638
 VWidth: 1057
@@ -2203,7 +2202,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Na
-Encoding: 292 2984 36
+Encoding: 23 2984 36
 GlifName: tml_N_a
 Width: 649
 VWidth: 8
@@ -2276,7 +2275,7 @@ sass."
 EndChar
 
 StartChar: tml_Ssa
-Encoding: 293 2999 37
+Encoding: 35 2999 37
 GlifName: tml_S_sa
 Width: 1057
 VWidth: 5
@@ -2334,7 +2333,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Sa
-Encoding: 294 3000 38
+Encoding: 36 3000 38
 GlifName: tml_S_a
 Width: 1024
 VWidth: 5
@@ -2383,7 +2382,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Ha
-Encoding: 295 3001 39
+Encoding: 37 3001 39
 GlifName: tml_H_a
 Width: 0
 VWidth: 14
@@ -2397,7 +2396,7 @@ Fore
 EndChar
 
 StartChar: tml_MatraI
-Encoding: 296 3007 40
+Encoding: 39 3007 40
 GlifName: tml_M_atraI_
 Width: 269
 VWidth: -4
@@ -2428,7 +2427,7 @@ Substitution2: "SingleSubstitutionlookup17 subtable" tml_MatraI.alt1
 EndChar
 
 StartChar: tml_MatraIi
-Encoding: 297 3008 41
+Encoding: 40 3008 41
 GlifName: tml_M_atraI_i
 Width: 419
 VWidth: 8
@@ -2460,7 +2459,7 @@ Substitution2: "SingleSubstitutionlookup17 subtable" tml_MatraIi.alt1
 EndChar
 
 StartChar: tml_MatraU
-Encoding: 298 3009 42
+Encoding: 41 3009 42
 GlifName: tml_M_atraU_
 Width: 388
 VWidth: -4
@@ -2503,7 +2502,7 @@ Substitution2: "SingleSubstitutionlookup23 subtable" tml_MatraU.alt1
 EndChar
 
 StartChar: tml_MatraUu
-Encoding: 299 3010 43
+Encoding: 42 3010 43
 GlifName: tml_M_atraU_u
 Width: 549
 VWidth: -6
@@ -2557,7 +2556,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_MatraE
-Encoding: 300 3014 44
+Encoding: 43 3014 44
 GlifName: tml_M_atraE_
 Width: 611
 VWidth: -4
@@ -2590,7 +2589,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_MatraEe
-Encoding: 301 3015 45
+Encoding: 44 3015 45
 GlifName: tml_M_atraE_e
 Width: 488
 VWidth: -4
@@ -2627,7 +2626,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_MatraAi
-Encoding: 302 3016 46
+Encoding: 45 3016 46
 GlifName: tml_M_atraA_i
 Width: 0
 VWidth: 14
@@ -2640,7 +2639,7 @@ Substitution2: "SingleSubstitutionlookup24 subtable" tml_MatraAi.alt
 EndChar
 
 StartChar: tml_MatraO
-Encoding: 303 3018 47
+Encoding: 46 3018 47
 GlifName: tml_M_atraO_
 Width: 1198
 VWidth: -4
@@ -2654,7 +2653,7 @@ Refer: 44 3014 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tml_MatraOo
-Encoding: 304 3019 48
+Encoding: 47 3019 48
 GlifName: tml_M_atraO_o
 Width: 488
 VWidth: -4
@@ -2667,7 +2666,7 @@ Refer: 45 3015 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tml_MatraAu
-Encoding: 305 3020 49
+Encoding: 48 3020 49
 GlifName: tml_M_atraA_u
 Width: 611
 VWidth: -4
@@ -2680,7 +2679,7 @@ Refer: 44 3014 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tml_Om
-Encoding: 306 3024 50
+Encoding: 50 3024 50
 GlifName: tml_O_m
 Width: 0
 VWidth: 14
@@ -2692,7 +2691,7 @@ Fore
 EndChar
 
 StartChar: tml_AuLengthmark
-Encoding: 307 3031 51
+Encoding: 51 3031 51
 GlifName: tml_A_uL_engthmark
 Width: 0
 VWidth: 14
@@ -2704,7 +2703,7 @@ Fore
 EndChar
 
 StartChar: tml_Zero
-Encoding: 308 3046 52
+Encoding: 52 3046 52
 GlifName: tml_Z_ero
 Width: 0
 VWidth: 14
@@ -2716,7 +2715,7 @@ Fore
 EndChar
 
 StartChar: tml_One
-Encoding: 309 3047 53
+Encoding: 53 3047 53
 GlifName: tml_O_ne
 Width: 0
 VWidth: 14
@@ -2728,7 +2727,7 @@ Fore
 EndChar
 
 StartChar: tml_Two
-Encoding: 310 3048 54
+Encoding: 54 3048 54
 GlifName: tml_T_wo
 Width: 0
 VWidth: 14
@@ -2740,7 +2739,7 @@ Fore
 EndChar
 
 StartChar: tml_Three
-Encoding: 311 3049 55
+Encoding: 55 3049 55
 GlifName: tml_T_hree
 Width: 0
 VWidth: 14
@@ -2752,7 +2751,7 @@ Fore
 EndChar
 
 StartChar: tml_Four
-Encoding: 312 3050 56
+Encoding: 56 3050 56
 GlifName: tml_F_our
 Width: 0
 VWidth: 14
@@ -2764,7 +2763,7 @@ Fore
 EndChar
 
 StartChar: tml_Five
-Encoding: 313 3051 57
+Encoding: 57 3051 57
 GlifName: tml_F_ive
 Width: 0
 VWidth: 14
@@ -2776,7 +2775,7 @@ Fore
 EndChar
 
 StartChar: tml_Six
-Encoding: 314 3052 58
+Encoding: 58 3052 58
 GlifName: tml_S_ix
 Width: 0
 VWidth: 14
@@ -2788,7 +2787,7 @@ Fore
 EndChar
 
 StartChar: tml_Eight
-Encoding: 315 3054 59
+Encoding: 60 3054 59
 GlifName: tml_E_ight
 Width: 0
 VWidth: 14
@@ -2800,7 +2799,7 @@ Fore
 EndChar
 
 StartChar: tml_Nine
-Encoding: 316 3055 60
+Encoding: 61 3055 60
 GlifName: tml_N_ine
 Width: 0
 VWidth: 14
@@ -2812,7 +2811,7 @@ Fore
 EndChar
 
 StartChar: tml_Ten
-Encoding: 317 3056 61
+Encoding: 62 3056 61
 GlifName: tml_T_en
 Width: 0
 VWidth: 14
@@ -2824,7 +2823,7 @@ Fore
 EndChar
 
 StartChar: tml_Hundred
-Encoding: 318 3057 62
+Encoding: 63 3057 62
 GlifName: tml_H_undred
 Width: 0
 VWidth: 14
@@ -2836,7 +2835,7 @@ Fore
 EndChar
 
 StartChar: tml_Thousand
-Encoding: 319 3058 63
+Encoding: 64 3058 63
 GlifName: tml_T_housand
 Width: 0
 VWidth: 14
@@ -2848,7 +2847,7 @@ Fore
 EndChar
 
 StartChar: tml_Month
-Encoding: 320 3060 64
+Encoding: 66 3060 64
 GlifName: tml_M_onth
 Width: 0
 VWidth: 14
@@ -2860,7 +2859,7 @@ Fore
 EndChar
 
 StartChar: tml_Year
-Encoding: 321 3061 65
+Encoding: 67 3061 65
 GlifName: tml_Y_ear
 Width: 0
 VWidth: 14
@@ -2872,7 +2871,7 @@ Fore
 EndChar
 
 StartChar: tml_Debit
-Encoding: 322 3062 66
+Encoding: 68 3062 66
 GlifName: tml_D_ebit
 Width: 0
 VWidth: 14
@@ -2884,7 +2883,7 @@ Fore
 EndChar
 
 StartChar: tml_Credit
-Encoding: 323 3063 67
+Encoding: 69 3063 67
 GlifName: tml_C_redit
 Width: 0
 VWidth: 14
@@ -2896,7 +2895,7 @@ Fore
 EndChar
 
 StartChar: tml_Above
-Encoding: 324 3064 68
+Encoding: 70 3064 68
 GlifName: tml_A_bove
 Width: 0
 VWidth: 14
@@ -2908,7 +2907,7 @@ Fore
 EndChar
 
 StartChar: tml_Rupee
-Encoding: 325 3065 69
+Encoding: 71 3065 69
 GlifName: tml_R_upee
 Width: 0
 VWidth: 14
@@ -2920,7 +2919,7 @@ Fore
 EndChar
 
 StartChar: tml_Number
-Encoding: 326 3066 70
+Encoding: 72 3066 70
 GlifName: tml_N_umber
 Width: 0
 VWidth: 14
@@ -2932,7 +2931,7 @@ Fore
 EndChar
 
 StartChar: tml_TtI
-Encoding: 327 -1 71
+Encoding: 77 -1 71
 GlifName: tml_T_tI_
 Width: 662
 VWidth: 1
@@ -2960,7 +2959,7 @@ Ligature2: "abvsAboveBaseSubstitutionslooku subtable" tml_Tta tml_MatraI
 EndChar
 
 StartChar: tml_KU
-Encoding: 328 -1 72
+Encoding: 78 -1 72
 GlifName: tml_K_U_
 Width: 0
 VWidth: 14
@@ -2972,7 +2971,7 @@ Fore
 EndChar
 
 StartChar: tml_CU
-Encoding: 329 -1 73
+Encoding: 79 -1 73
 GlifName: tml_C_U_
 Width: 0
 VWidth: 14
@@ -2984,7 +2983,7 @@ Fore
 EndChar
 
 StartChar: tml_NyU
-Encoding: 330 -1 74
+Encoding: 80 -1 74
 GlifName: tml_N_yU_
 Width: 0
 VWidth: 14
@@ -2996,7 +2995,7 @@ Fore
 EndChar
 
 StartChar: tml_TtU
-Encoding: 331 -1 75
+Encoding: 81 -1 75
 GlifName: tml_T_tU_
 Width: 0
 VWidth: 14
@@ -3008,7 +3007,7 @@ Fore
 EndChar
 
 StartChar: tml_NnU
-Encoding: 332 -1 76
+Encoding: 82 -1 76
 GlifName: tml_N_nU_
 Width: 0
 VWidth: 14
@@ -3020,7 +3019,7 @@ Fore
 EndChar
 
 StartChar: tml_TU
-Encoding: 333 -1 77
+Encoding: 83 -1 77
 GlifName: tml_T_U_
 Width: 0
 VWidth: 14
@@ -3032,7 +3031,7 @@ Fore
 EndChar
 
 StartChar: tml_NU
-Encoding: 334 -1 78
+Encoding: 84 -1 78
 GlifName: tml_N_U_
 Width: 0
 VWidth: 14
@@ -3044,7 +3043,7 @@ Fore
 EndChar
 
 StartChar: tml_NnnU
-Encoding: 335 -1 79
+Encoding: 85 -1 79
 GlifName: tml_N_nnU_
 Width: 0
 VWidth: 14
@@ -3056,7 +3055,7 @@ Fore
 EndChar
 
 StartChar: tml_MU
-Encoding: 336 -1 80
+Encoding: 86 -1 80
 GlifName: tml_M_U_
 Width: 0
 VWidth: 14
@@ -3068,7 +3067,7 @@ Fore
 EndChar
 
 StartChar: tml_RU
-Encoding: 337 -1 81
+Encoding: 87 -1 81
 GlifName: tml_R_U_
 Width: 0
 VWidth: 14
@@ -3080,7 +3079,7 @@ Fore
 EndChar
 
 StartChar: tml_RrU
-Encoding: 338 -1 82
+Encoding: 88 -1 82
 GlifName: tml_R_rU_
 Width: 0
 VWidth: 14
@@ -3092,7 +3091,7 @@ Fore
 EndChar
 
 StartChar: tml_LU
-Encoding: 339 -1 83
+Encoding: 89 -1 83
 GlifName: tml_L_U_
 Width: 0
 VWidth: 14
@@ -3104,7 +3103,7 @@ Fore
 EndChar
 
 StartChar: tml_LlU
-Encoding: 340 -1 84
+Encoding: 90 -1 84
 GlifName: tml_L_lU_
 Width: 0
 VWidth: 14
@@ -3116,7 +3115,7 @@ Fore
 EndChar
 
 StartChar: tml_LllU
-Encoding: 341 -1 85
+Encoding: 91 -1 85
 GlifName: tml_L_llU_
 Width: 0
 VWidth: 14
@@ -3128,7 +3127,7 @@ Fore
 EndChar
 
 StartChar: tml_KUu
-Encoding: 342 -1 86
+Encoding: 92 -1 86
 GlifName: tml_K_U_u
 Width: 0
 VWidth: 14
@@ -3140,7 +3139,7 @@ Fore
 EndChar
 
 StartChar: tml_NgUu
-Encoding: 343 -1 87
+Encoding: 93 -1 87
 GlifName: tml_N_gU_u
 Width: 0
 VWidth: 14
@@ -3152,7 +3151,7 @@ Fore
 EndChar
 
 StartChar: tml_CUu
-Encoding: 344 -1 88
+Encoding: 94 -1 88
 GlifName: tml_C_U_u
 Width: 0
 VWidth: 14
@@ -3164,7 +3163,7 @@ Fore
 EndChar
 
 StartChar: tml_NyUu
-Encoding: 345 -1 89
+Encoding: 95 -1 89
 GlifName: tml_N_yU_u
 Width: 0
 VWidth: 14
@@ -3176,7 +3175,7 @@ Fore
 EndChar
 
 StartChar: tml_TtUu
-Encoding: 346 -1 90
+Encoding: 96 -1 90
 GlifName: tml_T_tU_u
 Width: 0
 VWidth: 14
@@ -3188,7 +3187,7 @@ Fore
 EndChar
 
 StartChar: tml_NnUu
-Encoding: 347 -1 91
+Encoding: 97 -1 91
 GlifName: tml_N_nU_u
 Width: 0
 VWidth: 14
@@ -3200,7 +3199,7 @@ Fore
 EndChar
 
 StartChar: tml_TUu
-Encoding: 348 -1 92
+Encoding: 98 -1 92
 GlifName: tml_T_U_u
 Width: 0
 VWidth: 14
@@ -3212,7 +3211,7 @@ Fore
 EndChar
 
 StartChar: tml_NUu
-Encoding: 349 -1 93
+Encoding: 99 -1 93
 GlifName: tml_N_U_u
 Width: 0
 VWidth: 14
@@ -3224,7 +3223,7 @@ Fore
 EndChar
 
 StartChar: tml_NnnUu
-Encoding: 350 -1 94
+Encoding: 100 -1 94
 GlifName: tml_N_nnU_u
 Width: 0
 VWidth: 14
@@ -3236,7 +3235,7 @@ Fore
 EndChar
 
 StartChar: tml_PUu
-Encoding: 351 -1 95
+Encoding: 101 -1 95
 GlifName: tml_P_U_u
 Width: 0
 VWidth: 14
@@ -3248,7 +3247,7 @@ Fore
 EndChar
 
 StartChar: tml_MUu
-Encoding: 352 -1 96
+Encoding: 102 -1 96
 GlifName: tml_M_U_u
 Width: 0
 VWidth: 14
@@ -3260,7 +3259,7 @@ Fore
 EndChar
 
 StartChar: tml_YUu
-Encoding: 353 -1 97
+Encoding: 103 -1 97
 GlifName: tml_Y_U_u
 Width: 0
 VWidth: 14
@@ -3272,7 +3271,7 @@ Fore
 EndChar
 
 StartChar: tml_RUu
-Encoding: 354 -1 98
+Encoding: 104 -1 98
 GlifName: tml_R_U_u
 Width: 0
 VWidth: 14
@@ -3284,7 +3283,7 @@ Fore
 EndChar
 
 StartChar: tml_RrUu
-Encoding: 355 -1 99
+Encoding: 105 -1 99
 GlifName: tml_R_rU_u
 Width: 0
 VWidth: 14
@@ -3296,7 +3295,7 @@ Fore
 EndChar
 
 StartChar: tml_LUu
-Encoding: 356 -1 100
+Encoding: 106 -1 100
 GlifName: tml_L_U_u
 Width: 0
 VWidth: 14
@@ -3308,7 +3307,7 @@ Fore
 EndChar
 
 StartChar: tml_LlUu
-Encoding: 357 -1 101
+Encoding: 107 -1 101
 GlifName: tml_L_lU_u
 Width: 0
 VWidth: 14
@@ -3320,7 +3319,7 @@ Fore
 EndChar
 
 StartChar: tml_LllUu
-Encoding: 358 -1 102
+Encoding: 108 -1 102
 GlifName: tml_L_llU_u
 Width: 0
 VWidth: 14
@@ -3332,7 +3331,7 @@ Fore
 EndChar
 
 StartChar: tml_KSsa
-Encoding: 359 -1 103
+Encoding: 109 -1 103
 GlifName: tml_K_S_sa
 Width: 0
 VWidth: 14
@@ -3346,7 +3345,7 @@ Fore
 EndChar
 
 StartChar: tml_Shree
-Encoding: 360 -1 104
+Encoding: 110 -1 104
 GlifName: tml_S_hree
 Width: 0
 VWidth: 14
@@ -3358,7 +3357,7 @@ Fore
 EndChar
 
 StartChar: space
-Encoding: 32 32 105
+Encoding: 0 32 105
 GlifName: space
 Width: 204
 VWidth: 14
@@ -3370,7 +3369,7 @@ Fore
 EndChar
 
 StartChar: tml_Anusvara
-Encoding: 361 2946 106
+Encoding: 1 2946 106
 GlifName: tml_A_nusvara
 Width: 0
 VWidth: 14
@@ -3382,8 +3381,221 @@ Back
 Fore
 EndChar
 
+StartChar: dottedcircle
+Encoding: 74 9676 107
+GlifName: dottedcircle
+Width: 761
+VWidth: 2
+GlyphClass: 2
+Flags: HMW
+LayerCount: 2
+Back
+Fore
+SplineSet
+59 257 m 0
+ 59 273.234041859 65.6261762848 287.981515344 76.3223304703 298.67766953 c 0
+ 87.4312533509 309.78659241 102.412596601 315 117 315 c 0
+ 131.587403399 315 146.568746649 309.78659241 157.67766953 298.67766953 c 0
+ 169.576000945 286.779338115 174 271.231893987 174 257 c 0
+ 174 242.412596601 168.78659241 227.431253351 157.67766953 216.32233047 c 0
+ 146.568746649 205.21340759 131.587403399 200 117 200 c 0
+ 102.412596601 200 87.4312533509 205.21340759 76.3223304703 216.32233047 c 0
+ 66.4798290438 226.164831897 59 240.360500497 59 257 c 0
+128 73 m 0
+ 128 86.9022145403 131.70596361 103.061302669 144.32233047 115.67766953 c 0
+ 154.164831897 125.520170956 168.360500497 133 185 133 c 0
+ 201.234041859 133 215.981515344 126.373823715 226.67766953 115.67766953 c 0
+ 239.29403639 103.061302669 243 86.9022145403 243 73 c 0
+ 243 58.4125966011 237.78659241 43.4312533509 226.67766953 32.3223304703 c 0
+ 214.779338115 20.4239990552 199.231893987 16 185 16 c 0
+ 170.412596601 16 155.431253351 21.2134075897 144.32233047 32.3223304703 c 0
+ 133.21340759 43.4312533509 128 58.4125966011 128 73 c 0
+128 442 m 0
+ 128 456.587403399 133.21340759 471.568746649 144.32233047 482.67766953 c 0
+ 155.018484656 493.373823715 169.765958141 500 186 500 c 0
+ 200.587403399 500 215.568746649 494.78659241 226.67766953 483.67766953 c 0
+ 236.664883931 473.690455128 244 459.009816137 244 442 c 0
+ 244 424.990183863 236.664883931 410.309544872 226.67766953 400.32233047 c 0
+ 215.568746649 389.21340759 200.587403399 384 186 384 c 0
+ 171.768106013 384 156.220661885 388.423999055 144.32233047 400.32233047 c 0
+ 132.423999055 412.220661885 128 427.768106013 128 442 c 0
+313 1 m 0
+ 313 18.0098161367 320.335116069 32.6904551284 330.32233047 42.6776695297 c 0
+ 341.431253351 53.7865924103 356.412596601 59 371 59 c 0
+ 385.231893987 59 400.779338115 54.5760009448 412.67766953 42.6776695297 c 0
+ 425.163161278 30.1921777812 428 13.9442218045 428 1 c 0
+ 428 -11.3802915931 425.041877614 -27.3134614457 412.67766953 -39.6776695297 c 0
+ 400.779338115 -51.5760009448 385.231893987 -56 371 -56 c 0
+ 356.412596601 -56 341.431253351 -50.7865924103 330.32233047 -39.6776695297 c 0
+ 320.479829044 -29.8351681031 313 -15.6394995032 313 1 c 0
+313 515 m 0
+ 313 531.234041859 319.626176285 545.981515344 330.32233047 556.67766953 c 0
+ 340.164831897 566.520170956 354.360500497 574 371 574 c 0
+ 387.234041859 574 401.981515344 567.373823715 412.67766953 556.67766953 c 0
+ 425.763280374 543.592058686 428 527.090226774 428 515 c 0
+ 428 502.619708407 425.041877614 486.686538554 412.67766953 474.32233047 c 0
+ 399.592058686 461.236719626 383.090226774 459 371 459 c 0
+ 358.619708407 459 342.686538554 461.958122386 330.32233047 474.32233047 c 0
+ 320.479829044 484.164831897 313 498.360500497 313 515 c 0
+500 442 m 0
+ 500 457.048068615 505.081042279 472.436381338 516.32233047 483.67766953 c 0
+ 527.431253351 494.78659241 542.412596601 500 557 500 c 0
+ 573.647386386 500 588.856540418 493.498798641 599.67766953 482.67766953 c 0
+ 610.78659241 471.568746649 616 456.587403399 616 442 c 0
+ 616 427.768106013 611.576000945 412.220661885 599.67766953 400.32233047 c 0
+ 587.664846942 388.309507883 571.731895288 384 557 384 c 0
+ 542.412596601 384 527.431253351 389.21340759 516.32233047 400.32233047 c 0
+ 505.081042279 411.563618662 500 426.951931385 500 442 c 0
+502 73 m 0
+ 502 84.8237698303 503.581181788 101.936520848 517.32233047 115.67766953 c 0
+ 528.018484656 126.373823715 542.765958141 133 559 133 c 0
+ 575.639499503 133 589.835168103 125.520170956 599.67766953 115.67766953 c 0
+ 612.29403639 103.061302669 616 86.9022145403 616 73 c 0
+ 616 58.4125966011 610.78659241 43.4312533509 599.67766953 32.3223304703 c 0
+ 588.568746649 21.2134075897 573.587403399 16 559 16 c 0
+ 544.768106013 16 529.220661885 20.4239990552 517.32233047 32.3223304703 c 0
+ 504.958122386 44.6865385543 502 60.6197084069 502 73 c 0
+570 257 m 0
+ 570 269.090226774 572.236719626 285.592058686 585.32233047 298.67766953 c 0
+ 596.431253351 309.78659241 611.412596601 315 626 315 c 0
+ 641.048068615 315 656.436381338 309.918957721 667.67766953 298.67766953 c 0
+ 678.373823715 287.981515344 685 273.234041859 685 257 c 0
+ 685 240.360500497 677.520170956 226.164831897 667.67766953 216.32233047 c 0
+ 656.436381338 205.081042279 641.048068615 200 626 200 c 0
+ 611.412596601 200 596.431253351 205.21340759 585.32233047 216.32233047 c 0
+ 572.958122386 228.686538554 570 244.619708407 570 257 c 0
+EndSplineSet
+PickledDataWithLists: "(dp1
+S'com.fontlab.hintData'
+p2
+(dp3
+S'vhints'
+p4
+(lp5
+(dp6
+S'position'
+p7
+I100
+sS'width'
+p8
+I64
+sa(dp9
+g7
+I116
+sg8
+I63
+sa(dp10
+g7
+I167
+sg8
+I63
+sa(dp11
+g7
+I251
+sg8
+I64
+sa(dp12
+g7
+I348
+sg8
+I64
+sa(dp13
+g7
+I447
+sg8
+I64
+sa(dp14
+g7
+I532
+sg8
+I63
+sa(dp15
+g7
+I583
+sg8
+I63
+sa(dp16
+g7
+I598
+sg8
+I63
+sasS'hhints'
+p17
+(lp18
+(dp19
+g7
+I-32
+sg8
+I64
+sa(dp20
+g7
+I-15
+sg8
+I64
+sa(dp21
+g7
+I38
+sg8
+I65
+sa(dp22
+g7
+I126
+sg8
+I64
+sa(dp23
+g7
+I218
+sg8
+I64
+sa(dp24
+g7
+I311
+sg8
+I64
+sa(dp25
+g7
+I397
+sg8
+I65
+sa(dp26
+g7
+I452
+sg8
+I64
+sa(dp27
+g7
+I470
+sg8
+I63
+sass."
+EndChar
+
+StartChar: zwj
+Encoding: 75 65279 108
+GlifName: zerowidthjoiner
+Width: 0
+VWidth: 14
+GlyphClass: 2
+Flags: MW
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: zwnj
+Encoding: 73 8204 109
+GlifName: zerowidthnonjoiner
+Width: 0
+VWidth: 14
+GlyphClass: 2
+Flags: MW
+LayerCount: 2
+Back
+Fore
+EndChar
+
 StartChar: tml_NnAa.alt
-Encoding: 365 -1 107
+Encoding: 111 -1 110
 GlifName: tml_N_nA_a.alt
 Width: 0
 VWidth: 14
@@ -3395,7 +3607,7 @@ Fore
 EndChar
 
 StartChar: tml_NnnAa.alt
-Encoding: 366 -1 108
+Encoding: 112 -1 111
 GlifName: tml_N_nnA_a.alt
 Width: 0
 VWidth: 14
@@ -3407,7 +3619,7 @@ Fore
 EndChar
 
 StartChar: tml_RrAa.alt
-Encoding: 367 -1 109
+Encoding: 113 -1 112
 GlifName: tml_R_rA_a.alt
 Width: 0
 VWidth: 14
@@ -3419,7 +3631,7 @@ Fore
 EndChar
 
 StartChar: tml_MatraI.alt1
-Encoding: 368 -1 110
+Encoding: 114 -1 113
 GlifName: tml_M_atraI_.alt1
 Width: 269
 VWidth: -4
@@ -3442,7 +3654,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_MatraI.alt2
-Encoding: 369 -1 111
+Encoding: 115 -1 114
 GlifName: tml_M_atraI_.alt2
 Width: 219
 VWidth: -4
@@ -3467,7 +3679,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_MatraI.alt3
-Encoding: 370 -1 112
+Encoding: 116 -1 115
 GlifName: tml_M_atraI_.alt3
 Width: 250
 VWidth: -4
@@ -3492,7 +3704,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_MatraI.alt4
-Encoding: 371 -1 113
+Encoding: 117 -1 116
 GlifName: tml_M_atraI_.alt4
 Width: 269
 VWidth: -4
@@ -3516,7 +3728,7 @@ Substitution2: "SingleSubstitutionlookup24 subtable" tml_MatraI.stylalt1
 EndChar
 
 StartChar: tml_MatraI.alt5
-Encoding: 372 -1 114
+Encoding: 118 -1 117
 GlifName: tml_M_atraI_.alt5
 Width: 199
 VWidth: -4
@@ -3542,7 +3754,7 @@ Substitution2: "SingleSubstitutionlookup24 subtable" tml_MatraI.stylalt1
 EndChar
 
 StartChar: tml_MatraI.alt6
-Encoding: 373 -1 115
+Encoding: 119 -1 118
 GlifName: tml_M_atraI_.alt6
 Width: 269
 VWidth: -4
@@ -3567,7 +3779,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_MatraI.alt7
-Encoding: 374 -1 116
+Encoding: 120 -1 119
 GlifName: tml_M_atraI_.alt7
 Width: 0
 VWidth: 14
@@ -3579,7 +3791,7 @@ Fore
 EndChar
 
 StartChar: tml_MatraIi.alt1
-Encoding: 375 -1 117
+Encoding: 121 -1 120
 GlifName: tml_M_atraI_i.alt1
 Width: 533
 VWidth: -4
@@ -3607,7 +3819,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_MatraU.alt1
-Encoding: 376 -1 118
+Encoding: 122 -1 121
 GlifName: tml_M_atraU_.alt1
 Width: 0
 VWidth: 14
@@ -3620,7 +3832,7 @@ Fore
 EndChar
 
 StartChar: tml_MatraI.stylalt1
-Encoding: 377 -1 119
+Encoding: 123 -1 122
 GlifName: tml_M_atraI_.stylalt1
 Width: 0
 VWidth: 14
@@ -3632,7 +3844,7 @@ Fore
 EndChar
 
 StartChar: tml_MatraIi.stylalt1
-Encoding: 378 -1 120
+Encoding: 124 -1 123
 GlifName: tml_M_atraI_i.stylalt1
 Width: 533
 VWidth: -4
@@ -3661,7 +3873,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_MatraAi.alt
-Encoding: 379 -1 121
+Encoding: 125 -1 124
 GlifName: tml_M_atraA_i.alt
 Width: 0
 VWidth: 14
@@ -3673,7 +3885,7 @@ Fore
 EndChar
 
 StartChar: tml_TtIi
-Encoding: 380 -1 122
+Encoding: 126 -1 125
 GlifName: tml_T_tI_i
 Width: 662
 VWidth: 1
