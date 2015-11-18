@@ -216,6 +216,12 @@
     <string>space.glif</string>
     <key>tml_Anusvara</key>
     <string>tml_A_nusvara.glif</string>
+    <key>dottedcircle</key>
+    <string>dottedcircle.glif</string>
+    <key>zwj</key>
+    <string>zwj.glif</string>
+    <key>zwnj</key>
+    <string>zwnj.glif</string>
     <key>tml_NnAa.alt</key>
     <string>tml_N_nA_a.alt.glif</string>
     <key>tml_NnnAa.alt</key>
