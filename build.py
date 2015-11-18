@@ -13,7 +13,7 @@ family = kit.Family(
 
 family.set_masters(
     modules = [
-        # 'kerning',
+        'kerning',
         # 'mark_positioning',
         # 'mark_to_mark_positioning',
         # 'devanagari_matra_i_variants',
@@ -39,7 +39,7 @@ family.set_styles([
 
 builder = kit.Builder(family)
 
-builder.fontrevision = '1.000'
+builder.fontrevision = '0.900'
 
 builder.set_options([
 
