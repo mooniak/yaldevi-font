@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_Nn.halant" format="1">
+  <advance width="878"/>
+  <outline>
+    <contour>
+      <point x="744" y="634.806" type="curve"/>
+      <point x="759" y="706" type="line"/>
+      <point x="764.819" y="704.738"/>
+      <point x="770.098" y="704.159"/>
+      <point x="774.872" y="704.159" type="curve" smooth="yes"/>
+      <point x="803.523" y="704.159"/>
+      <point x="814" y="724.999"/>
+      <point x="814" y="749" type="curve" smooth="yes"/>
+      <point x="814" y="789.499"/>
+      <point x="782.367" y="790.933"/>
+      <point x="768.808" y="790.933" type="curve" smooth="yes"/>
+      <point x="765.788" y="790.933"/>
+      <point x="763.108" y="790.603"/>
+      <point x="761" y="790" type="curve"/>
+      <point x="740" y="824" type="line"/>
+      <point x="770" y="866" type="line"/>
+      <point x="806" y="866"/>
+      <point x="890" y="862"/>
+      <point x="890" y="749" type="curve" smooth="yes"/>
+      <point x="890" y="673.727"/>
+      <point x="840.227" y="629"/>
+      <point x="782.676" y="629" type="curve" smooth="yes"/>
+      <point x="770.011" y="629"/>
+      <point x="756.97" y="630.915"/>
+    </contour>
+    <contour>
+      <point x="677" y="866" type="line"/>
+      <point x="770" y="866" type="line"/>
+      <point x="770" y="812" type="line"/>
+      <point x="763" y="796" type="line"/>
+      <point x="763" y="767"/>
+      <point x="763" y="735"/>
+      <point x="763" y="704" type="curve"/>
+      <point x="770" y="684" type="line"/>
+      <point x="770" y="459" type="line"/>
+      <point x="677" y="459" type="line"/>
+    </contour>
+    <component base="si_Nna"/>
+  </outline>
+</glyph>

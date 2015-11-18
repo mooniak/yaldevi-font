@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_Ya" format="1">
+  <advance width="693"/>
+  <unicode hex="0BAF"/>
+  <outline>
+    <contour>
+      <point x="848" y="0" type="move" name="Anchor4"/>
+    </contour>
+    <contour>
+      <point x="514" y="0" type="move" name="Anchor1"/>
+    </contour>
+    <contour>
+      <point x="358" y="0" type="move" name="Anchor0"/>
+    </contour>
+    <contour>
+      <point x="45" y="161" type="curve" smooth="yes"/>
+      <point x="45" y="560" type="line" smooth="yes"/>
+      <point x="152" y="560" type="line"/>
+      <point x="152" y="166" type="line" smooth="yes"/>
+      <point x="152" y="105"/>
+      <point x="172" y="83"/>
+      <point x="214" y="83" type="curve" smooth="yes"/>
+      <point x="279" y="83"/>
+      <point x="296" y="132"/>
+      <point x="296" y="263" type="curve" smooth="yes"/>
+      <point x="342" y="299" type="line"/>
+      <point x="369" y="107"/>
+      <point x="309" y="-17"/>
+      <point x="196" y="-17" type="curve" smooth="yes"/>
+      <point x="78" y="-17"/>
+      <point x="45" y="54"/>
+    </contour>
+    <contour>
+      <point x="296" y="1" type="line"/>
+      <point x="296" y="560" type="line"/>
+      <point x="403" y="560" type="line"/>
+      <point x="403" y="99" type="line"/>
+      <point x="526" y="99" type="line"/>
+      <point x="526" y="560" type="line"/>
+      <point x="633" y="560" type="line"/>
+      <point x="633" y="1" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

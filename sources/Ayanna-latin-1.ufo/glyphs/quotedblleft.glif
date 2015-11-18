@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft" format="1">
+  <advance width="415"/>
+  <unicode hex="201C"/>
+  <outline>
+    <component base="comma" xOffset="230" yOffset="588" xScale="-0.952" yScale="-0.952"/>
+    <component base="comma" xOffset="417" yOffset="589" xScale="-0.952" yScale="-0.952"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>221</integer>
+          <key>y</key>
+          <integer>434</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

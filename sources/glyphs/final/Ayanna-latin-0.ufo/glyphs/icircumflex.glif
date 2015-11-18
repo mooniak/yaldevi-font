@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="1">
+  <advance width="210"/>
+  <unicode hex="00EE"/>
+  <outline>
+    <contour>
+      <point x="110" y="709" type="line"/>
+      <point x="-6" y="598" type="line"/>
+      <point x="18" y="576" type="line"/>
+      <point x="111" y="658" type="line"/>
+      <point x="103" y="658" type="line"/>
+      <point x="196" y="575" type="line"/>
+      <point x="220" y="601" type="line"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>circumflex</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-114</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>icircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>210</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
