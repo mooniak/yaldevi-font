@@ -66,19 +66,19 @@
 	\si_Ba.touch \si_Bha.touch \si_Ma.touch \si_Mba.touch \si_Ya.touch 
 	\si_Ra.touch \si_La.touch \si_Va.touch \si_Sha.touch \si_Ssa.touch 
 	\si_Sa.touch \si_Ha.touch \si_Lla.touch \si_Fa.touch \si_Halant \si_Jnya 
-	\si_TtI \si_TtIi \si_VI \si_VIi \si_Tt.halant \NameMe.124 \si_DU \si_Ya.post 
-	\si_HU \si_Ka.reph \si_KU.reph \si_Ga.reph \si_Gha.reph \NameMe.124.1 
-	\si_Ca.reph \si_ChI \si_ChIi \si_Tta.reph \si_Dda.reph \si_Ta.reph 
-	\si_Tha.reph \si_Dha.reph \si_Na.reph \si_Pha.reph \si_Ba.reph \si_Ma.reph 
-	\si_Va.reph \si_Sa.reph \si_Nna.reph \si_Ha.reph \si_Fa.reph \si_DDha \si_KVI 
-	\si_KVIi \si_KVU \si_KVUu \si_NDh.halant \si_NDhI \si_NDhIi \si_NDhU \si_NDhUu 
-	\si_ND.halant \si_NDAa \si_NDAa.halant \si_NDAe \si_NDAee \si_NDI \si_NDIi 
-	\si_NDU \si_NDUu \si_NDRa \si_NDRI \si_NDRIi \si_NTh.halant \si_NThI \si_NThIi 
-	\si_NThU \si_NThUu \si_NV.halant \si_NVI \si_NVIi \si_NVU \si_NVUu 
-	\si_TTh.halant \si_TThI \si_TThIi \si_TThU \si_TThUu \si_TVa \si_TV.halant 
-	\si_TVI \si_TVIi \si_TVU \si_TVUu \si_DDdh.halant \si_DDhI \si_DDhIi \si_DDhU 
-	\si_DDhUu \si_DV.halant \si_DVI \si_DVIi \si_DVU \si_DVUu \si_TtTth.halant 
-	\si_TtTthI \si_TtTthIi \si_TtTthU \si_TtTthUu \si_Jnya.touch ];
+	\si_TtI \si_TtIi \si_VI \si_VIi \si_Tt.halant \si_DU \si_Ya.post \si_HU 
+	\si_Ka.reph \si_KU.reph \si_Ga.reph \si_Gha.reph \si_Ca.reph \si_ChI \si_ChIi 
+	\si_Tta.reph \si_Dda.reph \si_Ta.reph \si_Tha.reph \si_Dha.reph \si_Na.reph 
+	\si_Pha.reph \si_Ba.reph \si_Ma.reph \si_Va.reph \si_Sa.reph \si_Nna.reph 
+	\si_Ha.reph \si_Fa.reph \si_DDha \si_KVI \si_KVIi \si_KVU \si_KVUu 
+	\si_NDh.halant \si_NDhI \si_NDhIi \si_NDhU \si_NDhUu \si_ND.halant \si_NDAa 
+	\si_NDAa.halant \si_NDAe \si_NDAee \si_NDI \si_NDIi \si_NDU \si_NDUu \si_NDRa 
+	\si_NDRI \si_NDRIi \si_NTh.halant \si_NThI \si_NThIi \si_NThU \si_NThUu 
+	\si_NV.halant \si_NVI \si_NVIi \si_NVU \si_NVUu \si_TTh.halant \si_TThI 
+	\si_TThIi \si_TThU \si_TThUu \si_TVa \si_TV.halant \si_TVI \si_TVIi \si_TVU 
+	\si_TVUu \si_DDdh.halant \si_DDhI \si_DDhIi \si_DDhU \si_DDhUu \si_DV.halant 
+	\si_DVI \si_DVIi \si_DVU \si_DVUu \si_TtTth.halant \si_TtTthI \si_TtTthIi 
+	\si_TtTthU \si_TtTthUu \si_Jnya.touch ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

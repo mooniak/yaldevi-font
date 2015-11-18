@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425560291
-ModificationTime: 1446620795
+ModificationTime: 1447839551
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,7 +45,7 @@ NameList: sinhala
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 13 10
+WinInfo: 65 13 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -80,7 +80,7 @@ Grid
 -1024 0 m 0
  2048 0 l 1024
 EndSplineSet
-BeginChars: 65538 568
+BeginChars: 65538 567
 
 StartChar: si_Tta
 Encoding: 34 3495 0
@@ -6662,7 +6662,7 @@ StartChar: si_kundaliya
 Encoding: 80 3572 81
 Width: 2041
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 4
 Fore
 SplineSet
@@ -36160,16 +36160,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.124.1
-Encoding: 124 -1 548
-Width: 614
-VWidth: 0
-Flags: HW
-LayerCount: 4
-EndChar
-
 StartChar: si_Ca.reph
-Encoding: 141 -1 549
+Encoding: 141 -1 548
 Width: 531
 VWidth: 0
 Flags: HW
@@ -36233,7 +36225,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Jha.reph
-Encoding: 166 -1 550
+Encoding: 166 -1 549
 Width: 1050
 VWidth: 0
 Flags: HW
@@ -36336,7 +36328,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_JhU.reph
-Encoding: 167 -1 551
+Encoding: 167 -1 550
 Width: 1050
 VWidth: 0
 Flags: HW
@@ -36454,7 +36446,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_JhUu.reph
-Encoding: 168 -1 552
+Encoding: 168 -1 551
 Width: 1050
 VWidth: 0
 Flags: HW
@@ -36574,7 +36566,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Tta.reph
-Encoding: 211 -1 553
+Encoding: 211 -1 552
 Width: 535
 VWidth: 0
 Flags: HW
@@ -36625,7 +36617,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Dda.reph
-Encoding: 226 -1 554
+Encoding: 226 -1 553
 Width: 583
 VWidth: 0
 Flags: HW
@@ -36694,7 +36686,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Nna.reph
-Encoding: 241 -1 555
+Encoding: 241 -1 554
 Width: 878
 VWidth: 0
 Flags: HW
@@ -36791,7 +36783,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Ta.reph
-Encoding: 252 -1 556
+Encoding: 252 -1 555
 Width: 679
 VWidth: 0
 Flags: HW
@@ -36864,7 +36856,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Dha.reph
-Encoding: 289 -1 557
+Encoding: 289 -1 556
 Width: 581
 VWidth: 0
 Flags: HW
@@ -36922,7 +36914,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Pa.reph
-Encoding: 315 -1 558
+Encoding: 315 -1 557
 Width: 573
 VWidth: 0
 Flags: HW
@@ -36991,7 +36983,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Pha.reph
-Encoding: 325 -1 559
+Encoding: 325 -1 558
 Width: 548
 VWidth: 0
 Flags: HW
@@ -37063,7 +37055,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Ba.reph
-Encoding: 331 -1 560
+Encoding: 331 -1 559
 Width: 575
 VWidth: 0
 Flags: HW
@@ -37120,7 +37112,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Ma.reph
-Encoding: 351 -1 561
+Encoding: 351 -1 560
 Width: 552
 VWidth: 0
 Flags: HW
@@ -37181,7 +37173,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Ya.reph
-Encoding: 366 -1 562
+Encoding: 366 -1 561
 Width: 582
 VWidth: 0
 Flags: HW
@@ -37248,7 +37240,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Ssa.reph
-Encoding: 411 -1 563
+Encoding: 411 -1 562
 Width: 572
 VWidth: 0
 Flags: HW
@@ -37326,7 +37318,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Sa.reph
-Encoding: 421 -1 564
+Encoding: 421 -1 563
 Width: 588
 VWidth: 0
 Flags: HW
@@ -37403,7 +37395,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Ha.reph
-Encoding: 431 -1 565
+Encoding: 431 -1 564
 Width: 664
 VWidth: 0
 Flags: HW
@@ -37477,7 +37469,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Fa.reph
-Encoding: 446 -1 566
+Encoding: 446 -1 565
 Width: 590
 VWidth: 0
 Flags: HW
@@ -37526,7 +37518,7 @@ EndSplineSet
 EndChar
 
 StartChar: si_Tha.reph
-Encoding: 262 -1 567
+Encoding: 262 -1 566
 Width: 548
 VWidth: 0
 Flags: HW
