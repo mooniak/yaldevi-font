@@ -3,29 +3,29 @@
   <advance width="602"/>
   <outline>
     <contour>
-      <point x="199.057" y="-102.642" type="curve" smooth="yes"/>
-      <point x="199.057" y="-76.6641"/>
-      <point x="203.794" y="-44.7822"/>
-      <point x="214" y="-6" type="curve"/>
-      <point x="317" y="-26" type="line"/>
-      <point x="313.259" y="-42.2109"/>
-      <point x="311.268" y="-55.6025"/>
-      <point x="311.268" y="-66.3584" type="curve" smooth="yes"/>
-      <point x="311.268" y="-90.1045"/>
-      <point x="320.976" y="-101"/>
-      <point x="343" y="-101" type="curve" smooth="yes"/>
-      <point x="580" y="-101" type="line"/>
-      <point x="580" y="-204" type="line"/>
-      <point x="302" y="-204" type="line" smooth="yes"/>
-      <point x="239.433" y="-204"/>
-      <point x="199.057" y="-178.479"/>
+      <point x="181.057" y="-102.642" type="curve" smooth="yes"/>
+      <point x="181.057" y="-84.6904"/>
+      <point x="183.319" y="-63.9189"/>
+      <point x="188.085" y="-40" type="curve"/>
+      <point x="293" y="-52" type="line"/>
+      <point x="291.678" y="-60.0067"/>
+      <point x="291" y="-67.334"/>
+      <point x="291" y="-74" type="curve" smooth="yes"/>
+      <point x="291" y="-89.766"/>
+      <point x="299.26" y="-97"/>
+      <point x="318" y="-97" type="curve" smooth="yes"/>
+      <point x="551" y="-97" type="line"/>
+      <point x="551" y="-204" type="line"/>
+      <point x="284" y="-204" type="line" smooth="yes"/>
+      <point x="221.433" y="-204"/>
+      <point x="181.057" y="-178.479"/>
     </contour>
     <contour>
-      <point x="466" y="65" type="line"/>
-      <point x="493.662" y="155.437" type="line"/>
-      <point x="580" y="156" type="line"/>
+      <point x="473" y="66" type="line"/>
+      <point x="493.662" y="156.437" type="line"/>
+      <point x="580" y="157" type="line"/>
       <point x="580" y="-204" type="line"/>
-      <point x="466" y="-204" type="line"/>
+      <point x="473" y="-204" type="line"/>
     </contour>
     <contour>
       <point x="190" y="217" type="curve" smooth="yes"/>

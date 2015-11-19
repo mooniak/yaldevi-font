@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_MatraU" format="1">
-  <advance width="-21"/>
+  <advance width="-32768"/>
   <unicode hex="0DD4"/>
   <outline>
     <contour>
@@ -8,25 +8,25 @@
       <point x="-529.943" y="-85.6904"/>
       <point x="-527.681" y="-64.9189"/>
       <point x="-522.915" y="-41" type="curve"/>
-      <point x="-416.771" y="-53" type="line"/>
-      <point x="-417.406" y="-58.2256"/>
-      <point x="-417.732" y="-63.0078"/>
-      <point x="-417.732" y="-67.3584" type="curve" smooth="yes"/>
-      <point x="-417.732" y="-91.1045"/>
-      <point x="-408.024" y="-102"/>
-      <point x="-386" y="-102" type="curve" smooth="yes"/>
-      <point x="-167" y="-102" type="line"/>
-      <point x="-167" y="-205" type="line"/>
+      <point x="-418" y="-53" type="line"/>
+      <point x="-419.322" y="-61.0067"/>
+      <point x="-420" y="-68.334"/>
+      <point x="-420" y="-75" type="curve" smooth="yes"/>
+      <point x="-420" y="-90.766"/>
+      <point x="-411.74" y="-98"/>
+      <point x="-393" y="-98" type="curve" smooth="yes"/>
+      <point x="-160" y="-98" type="line"/>
+      <point x="-160" y="-205" type="line"/>
       <point x="-427" y="-205" type="line" smooth="yes"/>
       <point x="-489.567" y="-205"/>
       <point x="-529.943" y="-179.479"/>
     </contour>
     <contour>
-      <point x="-175" y="64" type="line"/>
+      <point x="-168" y="64" type="line"/>
       <point x="-139" y="172" type="line"/>
       <point x="-61" y="225" type="line"/>
       <point x="-61" y="-205" type="line"/>
-      <point x="-175" y="-205" type="line"/>
+      <point x="-168" y="-205" type="line"/>
     </contour>
   </outline>
 </glyph>
