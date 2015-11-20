@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425560291
-ModificationTime: 1447834939
+ModificationTime: 1448000679
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,12 +37,14 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2CapHeight: 0
+OS2XHeight: 0
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
-Encoding: sinhala_abhaya
+Encoding: Custom
 UnicodeInterp: none
-NameList: sinhala
+NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
@@ -89,6 +91,7 @@ Width: 535
 VWidth: 0
 Flags: HMW
 LayerCount: 5
+Back
 Fore
 SplineSet
 21.8544921875 252.395507812 m 4
@@ -107,6 +110,7 @@ SplineSet
  513 118 432 0 252 0 c 4
  74 0 21.8544921875 136.287109375 21.8544921875 252.395507812 c 4
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 22.1455078125 252.395507812 m 0
@@ -123,6 +127,7 @@ SplineSet
  513.291015625 118 432.291015625 0 252.291015625 0 c 0
  74.291015625 0 22.1455078125 136.287109375 22.1455078125 252.395507812 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Sa
@@ -131,6 +136,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 259.374023438 467.353515625 m 4
@@ -178,6 +184,7 @@ SplineSet
  96.0546875 375.436523438 l 5
  75.0283203125 403.236328125 65.765625 433.094726562 65.765625 461.536132812 c 4
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 360.81640625 391.40625 m 1
@@ -226,6 +233,7 @@ SplineSet
  445.584960938 115 459.7734375 157.264648438 459.7734375 207 c 0
  459.7734375 258.725585938 439.81640625 318 399.53515625 318 c 2
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_La
@@ -234,6 +242,7 @@ Width: 586
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22.220703125 208 m 4
@@ -301,6 +310,7 @@ SplineSet
  169.212890625 479 137.220703125 326.634765625 137.220703125 182 c 4
  137.220703125 6 203.116210938 -89 309.220703125 -89 c 4
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Ddha
@@ -311,6 +321,7 @@ Flags: HW
 HStem: -203.419 159.545<-3326.69 -3226.82 -3050.85 -2945.37> 198.779 110.436<-3515.78 -3445.46 -3316.82 -3222.68>
 VStem: -3482.01 138.128<-26.994 174.788> -3200.61 124.583<-19.8393 122.863>
 LayerCount: 5
+Back
 Fore
 SplineSet
 216.7734375 601 m 4
@@ -813,6 +824,7 @@ SplineSet
  908.099609375 381 892.099609375 419 850.803710938 419 c 0
  826.00390625 419 817.01171875 401.133789062 817.01171875 379.787109375 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Dda
@@ -821,6 +833,7 @@ Width: 583
 VWidth: 0
 Flags: HMW
 LayerCount: 5
+Back
 Fore
 SplineSet
 27.76171875 193.436523438 m 0
@@ -927,6 +940,7 @@ SplineSet
  238.225585938 404 222.225585938 442 180.9296875 442 c 4
  156.129882812 442 147.137695312 424.133789062 147.137695312 402.787109375 c 4
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Nna
@@ -935,6 +949,7 @@ Width: 878
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 427.032226562 235 m 21
@@ -1119,6 +1134,7 @@ SplineSet
  348 216.549804688 282.444335938 151 200.502929688 151 c 0
  118.564453125 151 53.0146484375 216.549804688 53.0146484375 298.48828125 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_A
@@ -1127,6 +1143,7 @@ Width: 559
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 290.479492188 -205 m 1
@@ -1298,6 +1315,7 @@ SplineSet
  388.811523438 374 l 1
  476.811523438 378 442.161132812 451.747070312 432.811523438 489 c 1
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_U
@@ -1306,6 +1324,7 @@ Width: 553
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 30 135 m 4
@@ -1391,6 +1410,7 @@ SplineSet
  467.03515625 400.735351562 460.03515625 359 448.03515625 320 c 5
  448.03515625 320 367.56640625 320 319.03515625 320 c 4
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Da
@@ -1399,6 +1419,7 @@ Width: 410
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 217 m 4
@@ -1431,6 +1452,9 @@ SplineSet
  414.088867188 -175.430664062 359.333007812 -202.407226562 309.0546875 -202.407226562 c 4
  216.627971923 -202.407226562 154.333856138 -134.229651369 154.333856138 -57.9704260037 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Halant
@@ -1441,6 +1465,7 @@ Flags: HW
 HStem: 493 233<-735.606 -666.606>
 VStem: -735.606 69<493 726>
 LayerCount: 5
+Back
 Fore
 SplineSet
 -83.6064453125 634.805664062 m 5
@@ -1464,6 +1489,7 @@ SplineSet
  -150.606445312 459 l 5
  -150.606445312 866 l 5
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 -140.606445312 866 m 5
@@ -1479,6 +1505,7 @@ SplineSet
  -140.606445312 459 l 5
  -140.606445312 866 l 5
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_DDha
@@ -1487,6 +1514,7 @@ Width: 754
 VWidth: 0
 Flags: HMW
 LayerCount: 5
+Back
 Fore
 SplineSet
 194.673828125 231.204101562 m 0
@@ -1521,6 +1549,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Va
@@ -1529,6 +1560,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 21.8115234375 218.826171875 m 4
@@ -1559,6 +1591,9 @@ SplineSet
  92 318.563476562 l 5
  72 351 61.5361328125 380.620117188 61.5361328125 409.272460938 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Aa
@@ -1567,9 +1602,13 @@ Width: 815
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 64 3535 N 1 0 0 1 580 -4 2
 Refer: 6 3461 N 1 0 0 1 0.000273313 -5 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ae
@@ -1578,9 +1617,13 @@ Width: 880
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 65 3536 S 1 0 0 1 557 0 2
 Refer: 6 3461 N 1 0 0 1 -0.000273437 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Aae
@@ -1589,9 +1632,13 @@ Width: 886
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 66 3537 N 1 0 0 1 560 0 2
 Refer: 6 3461 N 1 0 0 1 -0.000273437 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_I
@@ -1600,6 +1647,7 @@ Width: 524
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 80.0546875 -109.563476562 m 1
@@ -1739,6 +1787,7 @@ SplineSet
  293.600585938 21 291.434570312 -30.3193359375 291.434570312 -47.205078125 c 0
  291.434570312 -95 220.872070312 -128 169.655273438 -58.5634765625 c 1
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Ii
@@ -1747,6 +1796,7 @@ Width: 502
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 110 731 m 0
@@ -1761,6 +1811,9 @@ SplineSet
  439 601 413 627 413 659 c 0
 EndSplineSet
 Refer: 58 3515 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Uu
@@ -1769,9 +1822,13 @@ Width: 842
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 78 3551 N 1 0 0 1 483.815 0 2
 Refer: 7 3467 S 1 0 0 1 -0.0804683 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_vocalicR
@@ -1780,6 +1837,7 @@ Width: 896
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 589 143 m 4
@@ -1852,6 +1910,9 @@ SplineSet
  89.107421875 369.030273438 l 5
  68.9697265625 394.649414062 57.7216796875 428.149414062 57.7216796875 456.407226562 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_vocalicRr
@@ -1860,6 +1921,7 @@ Width: 1190
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 883 143 m 0
@@ -1958,6 +2020,9 @@ SplineSet
  89.107421875 369.030273438 l 1
  68.9697265625 394.649414062 57.7216796875 428.149414062 57.7216796875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_vocalicL
@@ -1966,6 +2031,7 @@ Width: 940
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 703.525390625 129.615234375 m 0
@@ -2051,6 +2117,9 @@ SplineSet
  309.481445312 58 251.481445312 0 179.481445312 0 c 0
  120.506835938 0 73 58 73 130 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_vocalicLL
@@ -2059,9 +2128,13 @@ Width: 1254
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 78 3551 N 1 0 0 1 900 0 2
 Refer: 20 3471 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_E
@@ -2070,6 +2143,7 @@ Width: 542
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 221.616210938 601 m 4
@@ -2113,6 +2187,9 @@ SplineSet
  86.76171875 318.563476562 l 1
  66.76171875 351 56.2978515625 380.620117188 56.2978515625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ee
@@ -2121,6 +2198,7 @@ Width: 542
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 488 634.805664062 m 1
@@ -2186,6 +2264,9 @@ SplineSet
  86.76171875 318.563476562 l 1
  66.76171875 351 56.2978515625 380.620117188 56.2978515625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ai
@@ -2194,9 +2275,13 @@ Width: 971
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 22 3473 N 1 0 0 1 428 0 2
 Refer: 72 3545 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Os
@@ -2205,6 +2290,7 @@ Width: 578
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 253 m 0
@@ -2309,6 +2395,7 @@ SplineSet
  186.361328125 422.934570312 183.1953125 429 172.287109375 429 c 0
  140.287109375 429 128.672851562 348 128.672851562 265.912109375 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Oo
@@ -2317,6 +2404,7 @@ Width: 578
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 58.806640625 743.688476562 m 4
@@ -2366,6 +2454,9 @@ SplineSet
  388.244140625 323.917105742 371.419398357 270 286.244140625 270 c 0
  213.717720067 270 189.303710938 313.932217986 189.303710938 374.956054688 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Au
@@ -2374,9 +2465,13 @@ Width: 916
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 78 3551 N 1 0 0 1 556 -4 2
 Refer: 25 3476 S 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ka
@@ -2385,6 +2480,7 @@ Width: 697
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 25.912109375 232 m 5
@@ -2613,6 +2709,7 @@ SplineSet
  542.818359375 108 569.715820312 137.340820312 569.715820312 279 c 0
  569.715820312 411 514.715820312 482 453.087890625 482 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Kha
@@ -2621,6 +2718,7 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 271.759765625 152 m 1
@@ -2777,6 +2875,7 @@ SplineSet
  237.889584712 36.5582944621 194.467566557 3.06189840922 148.724389788 3.06189840922 c 4
  53.5708280057 3.06189840922 22 101.451532621 22 220 c 4
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Ga
@@ -2785,6 +2884,7 @@ Width: 658
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 216.627929688 300.15625 m 5
@@ -2898,6 +2998,7 @@ SplineSet
  255.262695312 275.094726562 301 249 301 199 c 0
  301 155.278320312 281 106 220 106 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Gha
@@ -2906,6 +3007,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 254.8203125 467.353515625 m 0
@@ -2960,6 +3062,7 @@ SplineSet
  91.5009765625 375.436523438 l 1
  70.474609375 403.236328125 61.2119140625 433.094726562 61.2119140625 461.536132812 c 0
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 562.219726562 207 m 0
@@ -3013,6 +3116,7 @@ SplineSet
  70.474609375 403.236328125 61.2119140625 433.094726562 61.2119140625 461.536132812 c 0
  61.2119140625 532.131835938 109.211914062 594 196.827148438 594 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Nga
@@ -3021,6 +3125,7 @@ Width: 574
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 27.517578125 193.436523438 m 0
@@ -3065,6 +3170,7 @@ SplineSet
  253.649414062 332.490234375 201.159179688 280 136 280 c 0
  70.83984375 280 18.349609375 332.490234375 18.349609375 397.650390625 c 0
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 644.517578125 193.436523438 m 0
@@ -3146,6 +3252,7 @@ SplineSet
  262.091796875 31.6025390625 222.6796875 0 170 0 c 0
  54.2001953125 0 25.517578125 105.454101562 25.517578125 193.436523438 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Nnga
@@ -3154,6 +3261,7 @@ Width: 829
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 387.627929688 300 m 5
@@ -3194,6 +3302,7 @@ SplineSet
  184.092773438 -0.15625 l 4
  89.0927734375 -0.15625 21.0927734375 46.1205357143 21.0927734375 283.84375 c 4
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 194 115 m 0
@@ -3232,6 +3341,7 @@ SplineSet
  476.279296875 86.15625 l 1
  485.564453125 50.1787109375 526.993164062 0.15625 602.907226562 0.15625 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Ca
@@ -3240,6 +3350,7 @@ Width: 531
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 28.3583984375 200.595703125 m 4
@@ -3271,6 +3382,7 @@ SplineSet
  87 318.563476562 l 5
  67 351 56.5361328125 380.620117188 56.5361328125 409.272460938 c 4
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 246.76171875 0 m 0
@@ -3301,6 +3413,7 @@ SplineSet
  154.770507812 444 145.778320312 426.133789062 145.778320312 404.787109375 c 0
  145.778320312 386.79296875 158.063476562 370.325195312 166.76171875 356 c 1
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Cha
@@ -3309,6 +3422,7 @@ Width: 566
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 363.0390625 576 m 4
@@ -3357,6 +3471,9 @@ SplineSet
  78.7744140625 369.030273438 l 5
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ja
@@ -3365,6 +3482,7 @@ Width: 566
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 363.0390625 576 m 4
@@ -3409,6 +3527,9 @@ SplineSet
  78.7744140625 369.030273438 l 5
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Jha
@@ -3417,6 +3538,7 @@ Width: 1050
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 490.655273438 231.204101562 m 4
@@ -3487,6 +3609,7 @@ SplineSet
  109.201171875 327.899414062 l 5
  63.912109375 344.899414062 19.11328125 391.899414062 19.11328125 461.536132812 c 4
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 157.615234375 592.100585938 m 0
@@ -3548,6 +3671,7 @@ SplineSet
  544.504882812 707.868164062 629.076171875 755 715.796875 755 c 0
  916.580078125 755 1018.88671875 599.055664062 1019.37109375 293 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Nya
@@ -3556,6 +3680,7 @@ Width: 1062
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 806.333984375 -57.970703125 m 4
@@ -3642,6 +3767,7 @@ SplineSet
  185 0 l 4
  90 0 22 46.2763671875 22 284 c 4
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 198.0546875 121.216796875 m 0
@@ -3719,6 +3845,7 @@ SplineSet
  900.696289062 -29.796875 908.99609375 -97 961.0546875 -97 c 0
  985.685546875 -97 1012.50878906 -85.0556640625 1035 -54.5634765625 c 1
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Jnya
@@ -3727,6 +3854,7 @@ Width: 998
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 742.333984375 -57.970703125 m 4
@@ -3792,6 +3920,7 @@ SplineSet
  185 0 l 4
  90 0 22 46.2763671875 22 284 c 4
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 827 318 m 0
@@ -3853,6 +3982,7 @@ SplineSet
  438 527 532.092773438 584 612 584 c 0
  718.999023438 584 784 502 782 374 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Ndja
@@ -3861,6 +3991,7 @@ Width: 741
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 538.989257812 576 m 4
@@ -3939,6 +4070,7 @@ SplineSet
  143.284179688 479.84375 112.296875 425.545898438 112.296875 284 c 0
 EndSplineSet
 Refer: 36 3490 N 1 0 0 1 165.297 0 2
+Layer: 4
 EndChar
 
 StartChar: si_Ttha
@@ -3947,6 +4079,7 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 244 601 m 4
@@ -4023,6 +4156,8 @@ SplineSet
  262.680664062 31.6025390625 223.268554688 0 170.588867188 0 c 0
  53.98046875 0 22 126.224609375 22 231.204101562 c 0
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Nndda
@@ -4031,6 +4166,7 @@ Width: 773
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 217.76171875 193.436523438 m 0
@@ -4076,6 +4212,9 @@ SplineSet
  184.07421875 -0.15625 l 0
  89.07421875 -0.15625 21.07421875 46.1201171875 21.07421875 283.84375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: space
@@ -4084,6 +4223,11 @@ Width: 300
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
+Fore
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: anusvara
@@ -4092,6 +4236,7 @@ Width: 342
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 119.518554688 265.543945312 m 0
@@ -4105,6 +4250,9 @@ SplineSet
  320.994140625 155.930664062 280.307617188 67 171.497070312 67 c 0
  62.6865234375 67 22 155.930664062 22 265.543945312 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: visarga
@@ -4113,6 +4261,7 @@ Width: 262
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 102.51953125 141.037109375 m 0
@@ -4136,6 +4285,9 @@ SplineSet
  240.07421875 357.647460938 191.426757812 309 131.037109375 309 c 0
  70.6474609375 309 22 357.647460938 22 418.037109375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ta
@@ -4497,6 +4649,7 @@ SplineSet
  68.23046875 343 23.431640625 390 23.431640625 459.63671875 c 0
  23.431640625 530.232421875 71.431640625 592.100585938 159.046875 592.100585938 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Tha
@@ -4505,6 +4658,7 @@ Width: 548
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 227.04296875 601 m 0
@@ -4587,6 +4741,8 @@ SplineSet
  95 496.536998821 62 443 7 443 c 0
  -57 443 -86 498.767707105 -86 568 c 0
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Dha
@@ -4595,6 +4751,7 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 231.204101562 m 4
@@ -4620,6 +4777,9 @@ SplineSet
  262.680664062 31.6025390625 223.268554688 0 170.588867188 0 c 4
  53.98046875 0 22 126.224609375 22 231.204101562 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Na
@@ -4628,6 +4788,7 @@ Width: 680
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 47.3388671875 206 m 5
@@ -4831,6 +4992,7 @@ SplineSet
  -87.4052734375 61 -181.325195312 0 -304.405273438 0 c 0
  -436.405273438 0 -527.033203125 97 -503.033203125 286 c 1
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Nda
@@ -4839,6 +5001,7 @@ Width: 578
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 322.333984375 -57.970703125 m 4
@@ -4958,6 +5121,7 @@ SplineSet
  416.696289062 -29.796875 424.99609375 -97 477.0546875 -97 c 0
  501.685546875 -97 528.508789062 -85.0556640625 551 -54.5634765625 c 1
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Pa
@@ -4966,6 +5130,7 @@ Width: 573
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 243.6015625 467.353515625 m 4
@@ -5005,6 +5170,9 @@ SplineSet
  78.3349609375 369.030273438 l 5
  58.1962890625 394.649414062 46.94921875 428.149414062 46.94921875 456.407226562 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Pha
@@ -5013,6 +5181,7 @@ Width: 548
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 227.04296875 601 m 4
@@ -5055,6 +5224,9 @@ SplineSet
  92.1884765625 318.563476562 l 1
  72.1884765625 351 61.724609375 380.620117188 61.724609375 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ba
@@ -5063,6 +5235,7 @@ Width: 575
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 220 m 4
@@ -5087,6 +5260,9 @@ SplineSet
  251 28 223.478515625 0 171 0 c 4
  66 0 22 79 22 220 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Bha
@@ -5095,6 +5271,7 @@ Width: 690
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 225 255.15625 m 5
@@ -5359,6 +5536,7 @@ SplineSet
  345.498046875 86 l 1
  354.783203125 50.0224609375 396.211914062 0 472.125976562 0 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Ma
@@ -5367,6 +5545,7 @@ Width: 552
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 301 m 4
@@ -5395,6 +5574,7 @@ SplineSet
  530 118 449 0 269 0 c 4
  91.6142578125 0 22 123.690429688 22 301 c 4
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 269 0 m 0
@@ -5424,6 +5604,7 @@ SplineSet
  400.326171875 755 531 675.859375 531 354 c 0
  530 118 449 0 269 0 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Mba
@@ -5432,6 +5613,7 @@ Width: 578
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 253 m 0
@@ -5475,6 +5657,7 @@ SplineSet
  389 323.917105742 372.175257732 270 287 270 c 4
  214.473314875 270 190.059216686 313.932015228 190.059216686 374.955570289 c 4
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 271 438 m 1
@@ -5514,6 +5697,7 @@ SplineSet
  82.8896484375 707.868164062 175.03515625 755 261.755859375 755 c 0
  478.755859375 755 557.755859375 599.055664062 557.755859375 293 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Ya
@@ -5522,6 +5706,7 @@ Width: 582
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 247.71875 433.235351562 m 4
@@ -5559,6 +5744,9 @@ SplineSet
  279.134765625 31.572265625 239.72265625 -0.0302734375 187.04296875 -0.0302734375 c 4
  41.04296875 -0.0302734375 22.04296875 124.969726562 22.04296875 255.969726562 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ra
@@ -5567,6 +5755,7 @@ Width: 497
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 276.064453125 m 5
@@ -5606,6 +5795,7 @@ SplineSet
  475.086914062 118.177734375 401.045898438 0 248.224609375 0 c 4
  96.0419921875 0 22 118.177734375 22 276.064453125 c 4
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 101.044921875 447 m 1
@@ -5657,6 +5847,7 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Sha
@@ -5665,6 +5856,7 @@ Width: 687
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 421.663085938 143.375976562 m 4
@@ -5711,6 +5903,9 @@ SplineSet
  408.627929688 94.73046875 357.560546875 0 227 0 c 4
  120.000976562 0 22 57.625 22 292 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ssa
@@ -5719,6 +5914,7 @@ Width: 572
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 204 103.873046875 m 5
@@ -5767,6 +5963,9 @@ SplineSet
  78.7744140625 369.030273438 l 5
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ha
@@ -5775,6 +5974,7 @@ Width: 664
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 199 255.15625 m 5
@@ -5819,6 +6019,7 @@ SplineSet
  78.2861328125 368.979492188 l 5
  58.1484375 394.598632812 46.900390625 428.098632812 46.900390625 456.356445312 c 4
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 186.107421875 594 m 0
@@ -5857,6 +6058,7 @@ SplineSet
  497.1796875 104 536.44921875 150.340820312 536.44921875 292 c 0
  536.44921875 439.546875 487.034179688 478 437.44921875 478 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Lla
@@ -5865,6 +6067,7 @@ Width: 565
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 133 m 4
@@ -5911,6 +6114,7 @@ SplineSet
  500 188.915039062 452.04296875 110 329 110 c 4
  219.481445312 110 160.891601562 182.0703125 160.891601562 263.598632812 c 4
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 898.797851562 594 m 4
@@ -5986,6 +6190,7 @@ SplineSet
  359.763671875 416 273.202148438 416 209.202148438 416 c 0
  144.42578125 416 22 328.26953125 22 133 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Fa
@@ -5994,6 +6199,7 @@ Width: 590
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 295 m 4
@@ -6126,6 +6332,8 @@ SplineSet
  429.534179688 113 443.72265625 155.264648438 443.72265625 205 c 4
  443.72265625 256.725585938 423.765625 316 383.484375 316 c 6
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraAa
@@ -6134,6 +6342,7 @@ Width: 244
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 -10 560.9296875 m 5
@@ -6148,6 +6357,9 @@ SplineSet
  17.533203125 461.358398438 12.7255859375 460.854492188 8 459.9296875 c 5
  -10 560.9296875 l 5
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraAe
@@ -6156,6 +6368,7 @@ Width: 314
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 0 167 m 4
@@ -6171,6 +6384,9 @@ SplineSet
  304 101 274 0 152 0 c 4
  33 0 0 104 0 167 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraAae
@@ -6179,6 +6395,7 @@ Width: 314
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 0 157 m 4
@@ -6204,6 +6421,9 @@ SplineSet
  14 447 l 5
  14 546 l 5
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraI
@@ -6212,6 +6432,7 @@ Width: 0
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 -520 661 m 4
@@ -6344,6 +6565,8 @@ SplineSet
  466.126953125 197.200195312 484.126953125 262 484.126953125 332 c 0
  484.126953125 427.025390625 438.775390625 479 347.126953125 479 c 0
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraIi
@@ -6352,6 +6575,7 @@ Width: 0
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 -181.524414062 625.615234375 m 4
@@ -6444,14 +6668,17 @@ SplineSet
  897.862304688 118.177734375 823.821289062 0 671 0 c 4
  518.817382812 0 444.775390625 118.177734375 444.775390625 276.064453125 c 4
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraU
 Encoding: 68 3540 69
-Width: -32768
+Width: 0
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 -529.943359375 -103.641601562 m 4
@@ -6488,14 +6715,17 @@ SplineSet
  -209.918945312 -205 -423.918945312 -205 -423.918945312 -205 c 2
  -486.486328125 -205 -526.862304688 -179.478515625 -526.862304688 -103.641601562 c 0
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraUu
 Encoding: 69 3542 70
-Width: -32768
+Width: 0
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 5
+Back
 Fore
 SplineSet
 -529.943359375 -103.641601562 m 4
@@ -6536,6 +6766,8 @@ SplineSet
  -189.55078125 64 l 1
  -119.55078125 173 l 1
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraR
@@ -6544,6 +6776,7 @@ Width: 292
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 0 143 m 0
@@ -6573,6 +6806,7 @@ SplineSet
  98.8369140625 391.092773438 99.6328125 379.642578125 101 367 c 0
  8 367 l 0
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 179 269 m 5
@@ -6593,6 +6827,7 @@ SplineSet
  285 43 l 5
  213.907226562 130 249.608398438 238.176757812 257 367 c 4
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_MatraE
@@ -6601,6 +6836,7 @@ Width: 440
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 246.989257812 262.174804688 m 0
@@ -6653,6 +6889,8 @@ SplineSet
  288.209960938 477 321.209960938 455 346.209960938 426 c 1
  427.209960938 486 l 1
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraEe
@@ -6661,9 +6899,13 @@ Width: 817
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 9 3530 N 1 0 0 1 580 -1 2
 Refer: 72 3545 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraAi
@@ -6672,9 +6914,13 @@ Width: 939
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 72 3545 N 1 0 0 1 472 0 2
 Refer: 72 3545 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraO
@@ -6683,9 +6929,13 @@ Width: 1093
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 64 3535 N 1 0 0 1 844 0 2
 Refer: 72 3545 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraOo
@@ -6694,9 +6944,13 @@ Width: 1097
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 85 -1 N 1 0 0 1 854 0 2
 Refer: 72 3545 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraAu
@@ -6705,9 +6959,13 @@ Width: 958
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 78 3551 N 1 0 0 1 598 0 2
 Refer: 72 3545 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraLs
@@ -6716,6 +6974,7 @@ Width: 345
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 12 349.00390625 m 0
@@ -6734,6 +6993,9 @@ SplineSet
  156.630859375 309.99609375 195.815429688 233 102.815429688 233 c 0
  27.8154296875 233 12 295.00390625 12 349.00390625 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraLl
@@ -6742,8 +7004,12 @@ Width: 345
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 78 3551 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraRr
@@ -6752,6 +7018,7 @@ Width: 650
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 0 143 m 4
@@ -6807,6 +7074,9 @@ SplineSet
  392.836914062 391.092773438 393.6328125 379.642578125 395 367 c 4
  302 367 l 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_kundaliya
@@ -6815,6 +7085,7 @@ Width: 2041
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 1505.50522369 128.264266787 m 0
@@ -6984,6 +7255,8 @@ SplineSet
  172.943359375 0 l 2
  110.375976562 0 70 25.521484375 70 101.358398438 c 0
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: zwnj
@@ -6992,8 +7265,12 @@ Width: 0
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: zwj
@@ -7002,8 +7279,12 @@ Width: 0
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: dottedcircle
@@ -7012,6 +7293,7 @@ Width: 689
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 56.7880859375 165.870117188 m 0
@@ -7138,6 +7420,8 @@ SplineSet
  379.5 16 363.5 0 344.5 0 c 4
  325.5 0 309.5 16 309.5 35 c 4
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraAa.halant
@@ -7146,6 +7430,7 @@ Width: 235
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 74.3935546875 634.805664062 m 1
@@ -7180,6 +7465,9 @@ SplineSet
  7.6923828125 461.358398438 2.884765625 460.854492188 -1.8408203125 459.9296875 c 1
  -19.8408203125 560.9296875 l 1
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraU.alt
@@ -7188,6 +7476,11 @@ Width: 0
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
+Fore
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MatraUu.alt
@@ -7196,8 +7489,12 @@ Width: 0
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Reph
@@ -7206,6 +7503,7 @@ Width: -188
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 -613.822265625 634.572265625 m 4
@@ -7231,6 +7529,7 @@ SplineSet
  -393.6328125 554.291015625 -442.479492188 507 -503.115234375 507 c 4
  -562.376953125 507 -610.115234375 554.291015625 -610.115234375 613 c 4
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 -2741.63964844 306 m 1
@@ -7278,6 +7577,7 @@ SplineSet
  -2664.69042969 776.556640625 -2677.60644531 789.686523438 -2693.63964844 789.686523438 c 0
  -2709.67285156 789.686523438 -2722.58886719 776.556640625 -2722.58886719 760.2578125 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_Rakar
@@ -7286,6 +7586,7 @@ Width: 666
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26 -79 m 4
@@ -7350,6 +7651,7 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_KI
@@ -7358,6 +7660,7 @@ Width: 696
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 118 661 m 4
@@ -7423,6 +7726,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KIi
@@ -7431,6 +7737,7 @@ Width: 696
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 456.475585938 625.615234375 m 0
@@ -7508,6 +7815,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KU
@@ -7516,6 +7826,7 @@ Width: 704
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 426.17578125 -66 m 4
@@ -7576,6 +7887,7 @@ SplineSet
  119.547851562 327.899414062 l 1
  74.2587890625 344.899414062 29.4599609375 391.899414062 29.4599609375 461.536132812 c 0
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 437.17578125 -66 m 4
@@ -7636,6 +7948,7 @@ SplineSet
  119.547851562 327.899414062 l 1
  74.2587890625 344.899414062 29.4599609375 391.899414062 29.4599609375 461.536132812 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_KUu
@@ -7644,6 +7957,7 @@ Width: 740
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 508 -89 m 4
@@ -7738,6 +8052,8 @@ SplineSet
  528.17578125 123 l 1
  528.17578125 200 l 1
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Kh.halant
@@ -7746,6 +8062,7 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 56.046875 743.688476562 m 4
@@ -7792,6 +8109,9 @@ SplineSet
  237.889648438 36.55859375 194.467773438 3.0615234375 148.724609375 3.0615234375 c 0
  53.5712890625 3.0615234375 22 101.451171875 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KhI
@@ -7800,6 +8120,7 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 40.6376953125 710 m 4
@@ -7846,6 +8167,9 @@ SplineSet
  237.889584712 36.5582944621 194.467566557 3.06189840922 148.724389788 3.06189840922 c 0
  53.5708280057 3.06189840922 22 101.451532621 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KhIi
@@ -7854,6 +8178,7 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 340.727539062 716.615234375 m 4
@@ -7911,6 +8236,9 @@ SplineSet
  237.889584712 36.5582944621 194.467566557 3.06189840922 148.724389788 3.06189840922 c 0
  53.5708280057 3.06189840922 22 101.451532621 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KhU
@@ -7919,6 +8247,7 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 37.9716796875 -103.641601562 m 4
@@ -7967,6 +8296,9 @@ SplineSet
  237.889584712 36.5582944621 194.467566557 3.06189840922 148.724389788 3.06189840922 c 0
  53.5708280057 3.06189840922 22 101.451532621 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KhUu
@@ -7975,6 +8307,7 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 38.169921875 -102.641601562 m 0
@@ -8025,6 +8358,9 @@ SplineSet
  237.889584712 36.5582944621 194.467566557 3.06189840922 148.724389788 3.06189840922 c 0
  53.5708280057 3.06189840922 22 101.451532621 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KhR.halant
@@ -8033,6 +8369,7 @@ Width: 578
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 -79 m 4
@@ -8047,6 +8384,9 @@ SplineSet
  144 -284 22 -224 22 -79 c 4
 EndSplineSet
 Refer: 94 -1 N 1 0 0 1 2 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KhRI
@@ -8055,6 +8395,7 @@ Width: 578
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 -79 m 0
@@ -8069,6 +8410,9 @@ SplineSet
  144 -284 22 -224 22 -79 c 0
 EndSplineSet
 Refer: 95 -1 N 1 0 0 1 2 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KhRIi
@@ -8077,6 +8421,7 @@ Width: 578
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 -79 m 4
@@ -8091,6 +8436,9 @@ SplineSet
  144 -284 22 -224 22 -79 c 4
 EndSplineSet
 Refer: 96 -1 N 1 0 0 1 2 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GU
@@ -8099,6 +8447,7 @@ Width: 668
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 393 -66 m 0
@@ -8138,6 +8487,9 @@ SplineSet
  408.627929688 94.73046875 357.560546875 0 227 0 c 0
  120.000976562 0 22 57.625 22 292 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GUu
@@ -8146,6 +8498,7 @@ Width: 681
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 449 -89 m 0
@@ -8194,6 +8547,9 @@ SplineSet
  408.627929688 94.73046875 357.560546875 0 227 0 c 0
  120.000976562 0 22 57.625 22 292 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GhR.halant
@@ -8202,6 +8558,7 @@ Width: 604
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 37.5 -79 m 4
@@ -8216,6 +8573,9 @@ SplineSet
  159.5 -284 37.5 -224 37.5 -79 c 4
 EndSplineSet
 Refer: 499 -1 S 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ng.halant
@@ -8224,6 +8584,7 @@ Width: 586
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 65.5625 743.688476562 m 0
@@ -8338,6 +8699,8 @@ SplineSet
  229.271484375 325.190429688 176.78125 272.700195312 111.622070312 272.700195312 c 4
  46.4619140625 272.700195312 -6.0283203125 325.190429688 -6.0283203125 390.350585938 c 4
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NgI
@@ -8346,6 +8709,7 @@ Width: 586
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 50.1533203125 710 m 0
@@ -8403,6 +8767,9 @@ SplineSet
  256.649414062 332.490234375 204.159179688 280 139 280 c 0
  73.83984375 280 21.349609375 332.490234375 21.349609375 397.650390625 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NgIi
@@ -8411,6 +8778,7 @@ Width: 586
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 350.243164062 716.615234375 m 0
@@ -8479,6 +8847,9 @@ SplineSet
  256.649414062 332.490234375 204.159179688 280 139 280 c 0
  73.83984375 280 21.349609375 332.490234375 21.349609375 397.650390625 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Nng.halant
@@ -8487,6 +8858,7 @@ Width: 858
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 712 634.649414062 m 1
@@ -8547,6 +8919,9 @@ SplineSet
  184.80859375 -0.15625 l 0
  89.80859375 -0.15625 21.80859375 46.1201171875 21.80859375 283.84375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NngI
@@ -8555,6 +8930,7 @@ Width: 829
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 248.907226562 660.84375 m 0
@@ -8608,6 +8984,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 46.1201171875 22 283.84375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NngIi
@@ -8616,6 +8995,7 @@ Width: 829
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 587.3828125 625.458984375 m 0
@@ -8681,6 +9061,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 46.1201171875 22 283.84375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NngU
@@ -8689,6 +9072,7 @@ Width: 839
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 564.907226562 -66.15625 m 0
@@ -8737,6 +9121,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 46.1201171875 22 283.84375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NngUu
@@ -8745,6 +9132,7 @@ Width: 853
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 621 -88 m 0
@@ -8802,6 +9190,9 @@ SplineSet
  185.092773438 -0.15625 l 0
  90.0927734375 -0.15625 22.0927734375 46.1201171875 22.0927734375 283.84375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_C.halant
@@ -8810,6 +9201,7 @@ Width: 529
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 42.996605161 743.688605205 m 4
@@ -8980,6 +9372,7 @@ SplineSet
  154.770507812 444 145.778320312 426.133789062 145.778320312 404.787109375 c 4
  145.778320312 386.79296875 158.063476562 370.325195312 166.76171875 356 c 5
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_CI
@@ -8988,6 +9381,7 @@ Width: 529
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 23.01953125 710 m 0
@@ -9032,6 +9426,9 @@ SplineSet
  86.76171875 318.563476562 l 1
  66.76171875 351 56.2978515625 380.620117188 56.2978515625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_CIi
@@ -9040,6 +9437,7 @@ Width: 529
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 323.109375 716.615234375 m 0
@@ -9095,6 +9493,9 @@ SplineSet
  86.76171875 318.563476562 l 1
  66.76171875 351 56.2978515625 380.620117188 56.2978515625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_CR.halant
@@ -9103,6 +9504,7 @@ Width: 529
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 21 -89 m 4
@@ -9117,6 +9519,9 @@ SplineSet
  131.73828125 -284 21 -226.926757812 21 -89 c 4
 EndSplineSet
 Refer: 113 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_CRI
@@ -9125,6 +9530,7 @@ Width: 529
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 21 -89 m 4
@@ -9139,6 +9545,9 @@ SplineSet
  131.73828125 -284 21 -226.926757812 21 -89 c 4
 EndSplineSet
 Refer: 114 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_CRIi
@@ -9147,6 +9556,7 @@ Width: 529
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 21 -89 m 4
@@ -9161,6 +9571,9 @@ SplineSet
  131.73828125 -284 21 -226.926757812 21 -89 c 4
 EndSplineSet
 Refer: 115 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ch.halant
@@ -9169,6 +9582,7 @@ Width: 597
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 230.044921875 634.805664062 m 5
@@ -9237,6 +9651,9 @@ SplineSet
  78.5986328125 369.030273438 l 1
  58.4609375 394.649414062 47.212890625 428.149414062 47.212890625 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ChI
@@ -9245,6 +9662,7 @@ Width: 617
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 65 661 m 0
@@ -9381,6 +9799,8 @@ SplineSet
  78.7744140625 369.030273438 l 1
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 0
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_J.halant
@@ -9389,6 +9809,7 @@ Width: 597
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 230.044921875 634.805664062 m 1
@@ -9453,6 +9874,9 @@ SplineSet
  78.5986328125 369.030273438 l 1
  58.4609375 394.649414062 47.212890625 428.149414062 47.212890625 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JI
@@ -9574,6 +9998,9 @@ SplineSet
  78.7744140625 369.030273438 l 1
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JIi
@@ -9582,6 +10009,7 @@ Width: 617
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 336.478515625 634.174804688 m 4
@@ -9720,6 +10148,8 @@ SplineSet
  78.7744140625 369.030273438 l 5
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 4
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ja.reph
@@ -9728,6 +10158,7 @@ Width: 617
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 80.29296875 654.572265625 m 0
@@ -9794,6 +10225,9 @@ SplineSet
  78.7744140625 369.030273438 l 1
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JR.halant
@@ -9802,6 +10236,7 @@ Width: 597
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 37.5 -79 m 4
@@ -9816,6 +10251,9 @@ SplineSet
  159.5 -284 37.5 -224 37.5 -79 c 4
 EndSplineSet
 Refer: 121 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JRa
@@ -9824,6 +10262,7 @@ Width: 597
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.544921875 -79 m 4
@@ -9878,6 +10317,9 @@ SplineSet
  78.5986328125 369.030273438 l 1
  58.4609375 394.649414062 47.212890625 428.149414062 47.212890625 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JRI
@@ -9886,6 +10328,7 @@ Width: 617
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.720703125 -79 m 4
@@ -9953,6 +10396,9 @@ SplineSet
  78.7744140625 369.030273438 l 1
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JRIi
@@ -9961,6 +10407,7 @@ Width: 617
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.720703125 -79 m 0
@@ -10040,6 +10487,9 @@ SplineSet
  78.7744140625 369.030273438 l 1
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Jh.halant
@@ -10048,6 +10498,7 @@ Width: 1052
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 532.693359375 743.688476562 m 0
@@ -10287,6 +10738,7 @@ SplineSet
  1815.86914062 297 1825.20019531 320.234375 1816.22167969 350 c 4
  1779.43457031 471.956054688 1661.50195312 496.419921875 1583.86914062 416 c 4
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_JhI
@@ -10295,6 +10747,7 @@ Width: 1052
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 517.284179688 710 m 0
@@ -10378,6 +10831,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JhIi
@@ -10386,6 +10842,7 @@ Width: 1052
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 817.374023438 716.615234375 m 0
@@ -10480,6 +10937,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JhR.halant
@@ -10488,6 +10948,7 @@ Width: 1052
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 493.646484375 -79 m 4
@@ -10502,6 +10963,9 @@ SplineSet
  615.646484375 -284 493.646484375 -224 493.646484375 -79 c 4
 EndSplineSet
 Refer: 129 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JhRa
@@ -10510,6 +10974,7 @@ Width: 1052
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 496.646484375 -79 m 4
@@ -10590,6 +11055,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JhRI
@@ -10598,6 +11066,7 @@ Width: 1052
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 493.646484375 -79 m 4
@@ -10612,6 +11081,9 @@ SplineSet
  615.646484375 -284 493.646484375 -224 493.646484375 -79 c 4
 EndSplineSet
 Refer: 130 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JhRIi
@@ -10620,6 +11092,7 @@ Width: 1052
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 493.646484375 -79 m 0
@@ -10634,6 +11107,9 @@ SplineSet
  615.646484375 -284 493.646484375 -224 493.646484375 -79 c 0
 EndSplineSet
 Refer: 131 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NyAa
@@ -10642,6 +11118,7 @@ Width: 1347
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 1092.75292969 560.9296875 m 1
@@ -10739,6 +11216,9 @@ SplineSet
  185.159179688 0 l 0
  90.1591796875 0 22.1591796875 46.2763671875 22.1591796875 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NyAe
@@ -10747,6 +11227,7 @@ Width: 1407
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 1081 167 m 0
@@ -10845,6 +11326,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NyAee
@@ -10853,6 +11337,7 @@ Width: 1420
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 1094 157 m 0
@@ -10961,6 +11446,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NyAa.halant
@@ -10969,6 +11457,7 @@ Width: 1354
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 1186 634.805664062 m 1
@@ -11086,6 +11575,9 @@ SplineSet
  184.765625 0 l 0
  89.765625 0 21.765625 46.2763671875 21.765625 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NyU
@@ -11094,6 +11586,7 @@ Width: 1086
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 665.056640625 -103.641601562 m 4
@@ -11185,6 +11678,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NyUu
@@ -11193,6 +11689,7 @@ Width: 1086
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 653.169921875 -102.641601562 m 4
@@ -11286,6 +11783,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NyR.halant
@@ -11294,6 +11794,7 @@ Width: 1122
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 954 634.805664062 m 1
@@ -11399,6 +11900,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NyRa
@@ -11407,6 +11911,7 @@ Width: 1103
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 674 -71 m 4
@@ -11492,6 +11997,9 @@ SplineSet
  185.337890625 0 l 4
  90.337890625 0 22.337890625 46.2763671875 22.337890625 284 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NyRI
@@ -11500,6 +12008,7 @@ Width: 1137
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 601 656 m 0
@@ -11598,6 +12107,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NyRIi
@@ -11606,6 +12118,7 @@ Width: 1137
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 955.475585938 625.615234375 m 0
@@ -11716,6 +12229,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Jny.halant
@@ -11724,6 +12240,7 @@ Width: 1030
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 890 634.805664062 m 1
@@ -11809,6 +12326,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JnyAa
@@ -11817,6 +12337,7 @@ Width: 1284
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 1029.15917969 560.9296875 m 1
@@ -11893,6 +12414,9 @@ SplineSet
  185.565429688 0 l 0
  90.5654296875 0 22.5654296875 46.2763671875 22.5654296875 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JnyAe
@@ -11901,6 +12425,7 @@ Width: 1343
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 1017 167 m 0
@@ -11978,6 +12503,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JnyAee
@@ -11986,6 +12514,7 @@ Width: 1356
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 1030 157 m 0
@@ -12073,6 +12602,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JnyAa.halant
@@ -12081,6 +12613,7 @@ Width: 1290
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 1122 634.805664062 m 1
@@ -12177,6 +12710,9 @@ SplineSet
  184.765625 0 l 0
  89.765625 0 21.765625 46.2763671875 21.765625 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JnyI
@@ -12185,6 +12721,7 @@ Width: 1073
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 559 656 m 4
@@ -12263,6 +12800,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JnyIi
@@ -12271,6 +12811,7 @@ Width: 1073
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 891.475585938 625.615234375 m 4
@@ -12361,6 +12902,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JnyU
@@ -12369,6 +12913,7 @@ Width: 1022
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 601.056640625 -103.641601562 m 0
@@ -12439,6 +12984,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JnyUu
@@ -12447,6 +12995,7 @@ Width: 1022
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 589.169921875 -102.641601562 m 0
@@ -12519,6 +13068,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JnyR.halant
@@ -12527,6 +13079,7 @@ Width: 1058
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 890 634.805664062 m 1
@@ -12611,6 +13164,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JnyRa
@@ -12619,6 +13175,7 @@ Width: 1039
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 610 -71 m 4
@@ -12683,6 +13240,9 @@ SplineSet
  185.337890625 0 l 4
  90.337890625 0 22.337890625 46.2763671875 22.337890625 284 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JnyRI
@@ -12691,6 +13251,7 @@ Width: 1073
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 559 656 m 0
@@ -12768,6 +13329,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JnyRIi
@@ -12776,6 +13340,7 @@ Width: 1073
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 891.475585938 625.615234375 m 0
@@ -12865,6 +13430,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ndj.halant
@@ -12873,6 +13441,7 @@ Width: 773
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 406.044921875 634.805664062 m 1
@@ -12946,6 +13515,9 @@ SplineSet
  184.874023438 0 l 0
  89.8740234375 0 21.8740234375 46.2763671875 21.8740234375 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdjI
@@ -12954,6 +13526,7 @@ Width: 793
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 241 661 m 0
@@ -13020,6 +13593,9 @@ SplineSet
  185.049804688 0 l 0
  90.0498046875 0 22.0498046875 46.2763671875 22.0498046875 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdjIi
@@ -13028,6 +13604,7 @@ Width: 793
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 512.478515625 634.174804688 m 0
@@ -13106,6 +13683,9 @@ SplineSet
  185.049804688 0 l 0
  90.0498046875 0 22.0498046875 46.2763671875 22.0498046875 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdjU
@@ -13114,6 +13694,7 @@ Width: 773
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 233.1015625 -103.641601562 m 4
@@ -13182,6 +13763,9 @@ SplineSet
  184.874023438 0 l 0
  89.8740234375 0 21.8740234375 46.2763671875 21.8740234375 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdjUu
@@ -13190,6 +13774,7 @@ Width: 773
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 233.1015625 -103.641601562 m 0
@@ -13260,6 +13845,9 @@ SplineSet
  184.874023438 0 l 0
  89.8740234375 0 21.8740234375 46.2763671875 21.8740234375 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdjR.halant
@@ -13268,6 +13856,7 @@ Width: 773
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 202.670898438 -79 m 0
@@ -13282,6 +13871,9 @@ SplineSet
  324.670898438 -284 202.670898438 -224 202.670898438 -79 c 0
 EndSplineSet
 Refer: 159 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdjRa
@@ -13290,6 +13882,7 @@ Width: 773
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 202.544921875 -79 m 4
@@ -13353,6 +13946,9 @@ SplineSet
  184.874023438 0 l 0
  89.8740234375 0 21.8740234375 46.2763671875 21.8740234375 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Tt.halant
@@ -13361,6 +13957,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 48.380859375 743.688476562 m 0
@@ -13392,6 +13989,9 @@ SplineSet
  513.145507812 118 432.145507812 0 252.145507812 0 c 0
  74.1455078125 0 22 136.287109375 22 252.395507812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TtI
@@ -13400,6 +14000,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 28.4033203125 710 m 0
@@ -13431,6 +14032,9 @@ SplineSet
  513.145507812 118 432.145507812 0 252.145507812 0 c 0
  74.1455078125 0 22 136.287109375 22 252.395507812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TtIi
@@ -13439,6 +14043,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 328.493164062 716.615234375 m 0
@@ -13481,6 +14086,9 @@ SplineSet
  513.145507812 118 432.145507812 0 252.145507812 0 c 0
  74.1455078125 0 22 136.287109375 22 252.395507812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TtR.halant
@@ -13489,6 +14097,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.3837890625 -89 m 4
@@ -13503,6 +14112,9 @@ SplineSet
  137.122070312 -284 26.3837890625 -226.926757812 26.3837890625 -89 c 4
 EndSplineSet
 Refer: 166 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TtRI
@@ -13511,6 +14123,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.3837890625 -89 m 4
@@ -13525,6 +14138,9 @@ SplineSet
  137.122070312 -284 26.3837890625 -226.926757812 26.3837890625 -89 c 4
 EndSplineSet
 Refer: 167 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TtRIi
@@ -13533,6 +14149,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.3837890625 -89 m 4
@@ -13547,6 +14164,9 @@ SplineSet
  137.122070312 -284 26.3837890625 -226.926757812 26.3837890625 -89 c 4
 EndSplineSet
 Refer: 168 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Tth.halant
@@ -13555,6 +14175,7 @@ Width: 658
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 519 634.805664062 m 5
@@ -13614,6 +14235,9 @@ SplineSet
  262.680664062 31.6025390625 223.268554688 0 170.588867188 0 c 0
  53.98046875 0 22 126.224609375 22 231.204101562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TthI
@@ -13622,6 +14246,7 @@ Width: 622
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 131 689 m 0
@@ -13672,6 +14297,9 @@ SplineSet
  262.3359375 31.6025390625 222.923828125 0 170.244140625 0 c 0
  53.6357421875 0 21.6552734375 126.224609375 21.6552734375 231.204101562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TthIi
@@ -13680,6 +14308,7 @@ Width: 688
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 494.208007812 615.615234375 m 4
@@ -13744,6 +14373,9 @@ SplineSet
  262.543945312 31.6025390625 223.131835938 0 170.452148438 0 c 0
  53.84375 0 21.86328125 126.224609375 21.86328125 231.204101562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TthU
@@ -13808,6 +14440,9 @@ SplineSet
  262.680664062 31.6025390625 223.268554688 0 170.588867188 0 c 0
  53.98046875 0 22 126.224609375 22 231.204101562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TthUu
@@ -13874,6 +14509,9 @@ SplineSet
  262.680664062 31.6025390625 223.268554688 0 170.588867188 0 c 0
  53.98046875 0 22 126.224609375 22 231.204101562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Dd.halant
@@ -13882,6 +14520,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 62.806640625 743.688476562 m 0
@@ -14117,6 +14756,7 @@ SplineSet
  110.80078125 318.563476562 l 5
  90.80078125 351 80.3369140625 380.620117188 80.3369140625 409.272460938 c 4
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_DdI
@@ -14125,6 +14765,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 47.3974609375 710 m 0
@@ -14174,6 +14815,9 @@ SplineSet
  110.80078125 318.563476562 l 1
  90.80078125 351 80.3369140625 380.620117188 80.3369140625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DdIi
@@ -14182,6 +14826,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 347.487304688 716.615234375 m 0
@@ -14242,6 +14887,9 @@ SplineSet
  110.80078125 318.563476562 l 1
  90.80078125 351 80.3369140625 380.620117188 80.3369140625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DdR.halant
@@ -14250,6 +14898,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.759765625 -79 m 4
@@ -14264,6 +14913,9 @@ SplineSet
  148.759765625 -284 26.759765625 -224 26.759765625 -79 c 4
 EndSplineSet
 Refer: 177 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DdRa
@@ -14272,6 +14924,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.759765625 -79 m 4
@@ -14318,6 +14971,9 @@ SplineSet
  110.80078125 318.563476562 l 1
  90.80078125 351 80.3369140625 380.620117188 80.3369140625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DdRI
@@ -14326,6 +14982,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.759765625 -79 m 4
@@ -14340,6 +14997,9 @@ SplineSet
  148.759765625 -284 26.759765625 -224 26.759765625 -79 c 4
 EndSplineSet
 Refer: 178 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DdRIi
@@ -14348,6 +15008,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.759765625 -79 m 4
@@ -14362,6 +15023,9 @@ SplineSet
  148.759765625 -284 26.759765625 -224 26.759765625 -79 c 4
 EndSplineSet
 Refer: 179 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ddh.halant
@@ -14370,6 +15034,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 520.655273438 634.805664062 m 1
@@ -14440,6 +15105,9 @@ SplineSet
  110.80078125 318.563476562 l 1
  90.80078125 351 80.3369140625 380.620117188 80.3369140625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DdhI
@@ -14448,6 +15116,7 @@ Width: 624
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 133 689 m 0
@@ -14509,6 +15178,7 @@ SplineSet
  110.80078125 318.563476562 l 1
  90.80078125 351 80.3369140625 380.620117188 80.3369140625 409.272460938 c 0
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 27.76171875 193.436523438 m 4
@@ -14571,6 +15241,7 @@ SplineSet
  110.80078125 318.563476562 l 5
  90.80078125 351 80.3369140625 380.620117188 80.3369140625 409.272460938 c 4
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_DdhIi
@@ -14579,6 +15250,7 @@ Width: 626
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 496.208007812 615.615234375 m 0
@@ -14654,6 +15326,7 @@ SplineSet
  111.008789062 318.563476562 l 1
  91.0087890625 351 80.544921875 380.620117188 80.544921875 409.272460938 c 0
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 400 866 m 4
@@ -14728,6 +15401,7 @@ SplineSet
  110.80078125 318.563476562 l 5
  90.80078125 351 80.3369140625 380.620117188 80.3369140625 409.272460938 c 4
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_DdhU
@@ -14736,6 +15410,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 62.81640625 -103.641601562 m 0
@@ -14800,6 +15475,9 @@ SplineSet
  110.80078125 318.563476562 l 1
  90.80078125 351 80.3369140625 380.620117188 80.3369140625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DdhUu
@@ -14808,6 +15486,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 62.81640625 -103.641601562 m 0
@@ -14874,6 +15553,9 @@ SplineSet
  110.80078125 318.563476562 l 1
  90.80078125 351 80.3369140625 380.620117188 80.3369140625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Nn.halant
@@ -14882,6 +15564,7 @@ Width: 878
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 744 634.805664062 m 1
@@ -14906,6 +15589,9 @@ SplineSet
  677 866 l 1
 EndSplineSet
 Refer: 5 3499 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NnI
@@ -14914,6 +15600,7 @@ Width: 878
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 155.224609375 661 m 0
@@ -14993,6 +15680,9 @@ SplineSet
  128.320546458 151 68.8565030248 201.869569905 55.7195120206 269.999997081 c 0
  53.9439304366 279.208432389 53.0146484375 288.732187917 53.0146484375 298.48828125 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NnIi
@@ -15001,6 +15691,7 @@ Width: 878
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 486.700195312 725.615234375 m 0
@@ -15096,6 +15787,9 @@ SplineSet
  128.320546458 151 68.8565030248 201.869569905 55.7195120206 269.999997081 c 0
  53.9439304366 279.208432389 53.0146484375 288.732187917 53.0146484375 298.48828125 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NnU
@@ -15104,6 +15798,7 @@ Width: 878
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 232.056640625 -103.641601562 m 0
@@ -15123,6 +15818,9 @@ SplineSet
  723 64 l 1
 EndSplineSet
 Refer: 5 3499 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NnUu
@@ -15131,6 +15829,7 @@ Width: 878
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 232.056640625 -103.641601562 m 0
@@ -15152,6 +15851,9 @@ SplineSet
  723 64 l 1
 EndSplineSet
 Refer: 5 3499 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Nndd.halant
@@ -15160,6 +15862,7 @@ Width: 772
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 252.732421875 743.688476562 m 0
@@ -15218,6 +15921,9 @@ SplineSet
  184 -0.15625 l 0
  89 -0.15625 22 33.1201171875 22 270.84375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NnddI
@@ -15226,6 +15932,7 @@ Width: 772
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 237.323242188 710 m 0
@@ -15284,6 +15991,9 @@ SplineSet
  184 -0.15625 l 0
  89 -0.15625 22 33.1201171875 22 270.84375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NnddIi
@@ -15292,6 +16002,7 @@ Width: 772
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 537.413085938 716.615234375 m 0
@@ -15361,6 +16072,9 @@ SplineSet
  184 -0.15625 l 0
  89 -0.15625 22 33.1201171875 22 270.84375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NnddU
@@ -15369,6 +16083,7 @@ Width: 773
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 252.81640625 -103.641601562 m 0
@@ -15429,6 +16144,9 @@ SplineSet
  184.07421875 -0.15625 l 0
  89.07421875 -0.15625 21.07421875 46.1201171875 21.07421875 283.84375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NnddUu
@@ -15437,6 +16155,7 @@ Width: 773
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 252.81640625 -103.641601562 m 0
@@ -15499,6 +16218,9 @@ SplineSet
  184.07421875 -0.15625 l 0
  89.07421875 -0.15625 21.07421875 46.1201171875 21.07421875 283.84375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_T.halant
@@ -15507,6 +16229,7 @@ Width: 689
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 561 634.576171875 m 1
@@ -15570,6 +16293,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TI
@@ -15578,6 +16304,7 @@ Width: 679
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 106 660.770507812 m 0
@@ -15634,6 +16361,9 @@ SplineSet
  112.372070312 327.899414062 l 1
  67.0830078125 344.899414062 22.2841796875 391.899414062 22.2841796875 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TIi
@@ -15642,6 +16372,7 @@ Width: 679
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 438.759765625 625.385742188 m 0
@@ -15710,6 +16441,9 @@ SplineSet
  112.372070312 327.899414062 l 1
  67.0830078125 344.899414062 22.2841796875 391.899414062 22.2841796875 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TU
@@ -15718,6 +16452,7 @@ Width: 690
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 412 -66.2294921875 m 4
@@ -15769,6 +16504,9 @@ SplineSet
  112.284179688 327.899414062 l 5
  66.9951171875 344.899414062 22.1962890625 391.899414062 22.1962890625 461.536132812 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TUu
@@ -15777,6 +16515,7 @@ Width: 726
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 494 -89.2294921875 m 4
@@ -15837,6 +16576,9 @@ SplineSet
  112.284179688 327.899414062 l 1
  66.9951171875 344.899414062 22.1962890625 391.899414062 22.1962890625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TR.halant
@@ -15845,6 +16587,7 @@ Width: 689
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 86.2841796875 -79.2294921875 m 4
@@ -15859,6 +16602,9 @@ SplineSet
  208.284179688 -284.229492188 86.2841796875 -224.229492188 86.2841796875 -79.2294921875 c 4
 EndSplineSet
 Refer: 199 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TRa
@@ -15867,6 +16613,7 @@ Width: 679
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 86.2841796875 -79.2294921875 m 4
@@ -15920,6 +16667,9 @@ SplineSet
  112.372070312 327.899414062 l 1
  67.0830078125 344.899414062 22.2841796875 391.899414062 22.2841796875 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TRI
@@ -15928,6 +16678,7 @@ Width: 679
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 86.2841796875 -79.2294921875 m 0
@@ -15942,6 +16693,9 @@ SplineSet
  208.284179688 -284.229492188 86.2841796875 -224.229492188 86.2841796875 -79.2294921875 c 0
 EndSplineSet
 Refer: 200 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TRIi
@@ -15950,6 +16704,7 @@ Width: 679
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 86.2841796875 -79.2294921875 m 4
@@ -15964,6 +16719,9 @@ SplineSet
  208.284179688 -284.229492188 86.2841796875 -224.229492188 86.2841796875 -79.2294921875 c 4
 EndSplineSet
 Refer: 201 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Th.halant
@@ -15972,6 +16730,7 @@ Width: 632
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 493 634.805664062 m 5
@@ -16024,6 +16783,7 @@ SplineSet
  525.76171875 104 431.76171875 0 251.76171875 0 c 0
  73.76171875 0 21.6162109375 136.287109375 21.6162109375 252.395507812 c 0
 EndSplineSet
+Layer: 2
 Layer: 3
 SplineSet
 21.8544921875 252.395507812 m 0
@@ -16043,6 +16803,7 @@ SplineSet
  526 104 432 0 252 0 c 0
  74 0 21.8544921875 136.287109375 21.8544921875 252.395507812 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_ThI
@@ -16051,6 +16812,7 @@ Width: 605
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 114 689 m 0
@@ -16094,6 +16856,9 @@ SplineSet
  525.80078125 104 431.80078125 0 251.80078125 0 c 0
  73.80078125 0 21.6552734375 136.287109375 21.6552734375 252.395507812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ThIi
@@ -16102,6 +16867,7 @@ Width: 607
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 477.208007812 615.615234375 m 0
@@ -16159,6 +16925,9 @@ SplineSet
  526.008789062 104 432.008789062 0 252.008789062 0 c 0
  74.0087890625 0 21.86328125 136.287109375 21.86328125 252.395507812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ThU
@@ -16167,6 +16936,7 @@ Width: 548
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 40.294921875 -103.641601562 m 0
@@ -16212,6 +16982,9 @@ SplineSet
  526 104 432 0 252 0 c 0
  74 0 21.8544921875 136.287109375 21.8544921875 252.395507812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ThUu
@@ -16220,6 +16993,7 @@ Width: 548
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 40.294921875 -103.641601562 m 0
@@ -16267,6 +17041,9 @@ SplineSet
  526 104 432 0 252 0 c 0
  74 0 21.8544921875 136.287109375 21.8544921875 252.395507812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_D.halant
@@ -16275,6 +17052,7 @@ Width: 442
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 302 634.805664062 m 1
@@ -16327,6 +17105,9 @@ SplineSet
  414.088867188 -175.430664062 359.333007812 -202.407226562 309.0546875 -202.407226562 c 0
  216.627971923 -202.407226562 154.333856138 -134.229651369 154.333856138 -57.9704260037 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DAa
@@ -16335,6 +17116,7 @@ Width: 695
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 440.359375 560.9296875 m 5
@@ -16378,6 +17160,9 @@ SplineSet
  372.048828125 36.2998046875 309.61328125 0 239.159179688 0 c 0
  118.823242188 0 22.1591796875 96.6640625 22.1591796875 217 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DAe
@@ -16386,6 +17171,7 @@ Width: 755
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 429 167 m 4
@@ -16430,6 +17216,9 @@ SplineSet
  414.088867188 -175.430664062 359.333007812 -202.407226562 309.0546875 -202.407226562 c 4
  216.627971923 -202.407226562 154.333856138 -134.229651369 154.333856138 -57.9704260037 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DAae
@@ -16438,6 +17227,7 @@ Width: 768
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 442 157 m 4
@@ -16492,6 +17282,9 @@ SplineSet
  414.088867188 -175.430664062 359.333007812 -202.407226562 309.0546875 -202.407226562 c 4
  216.627971923 -202.407226562 154.333856138 -134.229651369 154.333856138 -57.9704260037 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DI
@@ -16500,6 +17293,7 @@ Width: 498
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 661 m 0
@@ -16545,6 +17339,9 @@ SplineSet
  384.889648438 36.2998046875 322.454101562 0 252 0 c 0
  131.6640625 0 35 96.6640625 35 217 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DIi
@@ -16553,6 +17350,7 @@ Width: 498
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 316.475585938 625.615234375 m 0
@@ -16610,6 +17408,9 @@ SplineSet
  384.889648438 36.2998046875 322.454101562 0 252 0 c 0
  131.6640625 0 35 96.6640625 35 217 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DU
@@ -16618,6 +17419,7 @@ Width: 434
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 13.056640625 -103.641601562 m 0
@@ -16655,6 +17457,9 @@ SplineSet
  371.889648438 36.2998046875 309.454101562 0 239 0 c 0
  118.6640625 0 22 96.6640625 22 217 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DUu
@@ -16663,6 +17468,7 @@ Width: 434
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 1.169921875 -102.641601562 m 0
@@ -16702,6 +17508,9 @@ SplineSet
  371.889648438 36.2998046875 309.454101562 0 239 0 c 0
  118.6640625 0 22 96.6640625 22 217 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DvocR
@@ -16710,6 +17519,7 @@ Width: 739
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 432 143 m 4
@@ -16768,6 +17578,9 @@ SplineSet
  414.088867188 -175.430664062 359.333007812 -202.407226562 309.0546875 -202.407226562 c 4
  216.627971923 -202.407226562 154.333856138 -134.229651369 154.333856138 -57.9704260037 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DvocRr
@@ -16776,6 +17589,7 @@ Width: 1033
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 726 143 m 0
@@ -16860,6 +17674,9 @@ SplineSet
  414.088867188 -175.430664062 359.333007812 -202.407226562 309.0546875 -202.407226562 c 0
  216.627971923 -202.407226562 154.333856138 -134.229651369 154.333856138 -57.9704260037 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DAa.halant
@@ -16868,6 +17685,7 @@ Width: 702
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 534 634.805664062 m 1
@@ -16931,6 +17749,9 @@ SplineSet
  413.854492188 -175.430664062 359.098632812 -202.407226562 308.8203125 -202.407226562 c 0
  216.393554688 -202.407226562 154.099609375 -134.229492188 154.099609375 -57.970703125 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Da.reph
@@ -16939,6 +17760,7 @@ Width: 442
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 100.29296875 648.572265625 m 4
@@ -16993,6 +17815,9 @@ SplineSet
  414.088867188 -175.430664062 359.333007812 -202.407226562 309.0546875 -202.407226562 c 0
  216.627971923 -202.407226562 154.333856138 -134.229651369 154.333856138 -57.9704260037 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DR.halant
@@ -17001,6 +17826,7 @@ Width: 470
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 302 634.805664062 m 1
@@ -17052,6 +17878,9 @@ SplineSet
  371.889648438 36.2998046875 309.454101562 0 239 0 c 0
  118.6640625 0 22 96.6640625 22 217 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DRa
@@ -17060,6 +17889,7 @@ Width: 451
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 -71 m 4
@@ -17091,6 +17921,9 @@ SplineSet
  372.227539062 36.2998046875 309.791992188 0 239.337890625 0 c 4
  119.001953125 0 22.337890625 96.6640625 22.337890625 217 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DRI
@@ -17099,6 +17932,7 @@ Width: 498
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 661 m 0
@@ -17143,6 +17977,9 @@ SplineSet
  384.889648438 36.2998046875 322.454101562 0 252 0 c 0
  131.6640625 0 35 96.6640625 35 217 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DRIi
@@ -17151,6 +17988,7 @@ Width: 498
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 316.475585938 625.615234375 m 0
@@ -17207,6 +18045,9 @@ SplineSet
  384.889648438 36.2998046875 322.454101562 0 252 0 c 0
  131.6640625 0 35 96.6640625 35 217 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DYa.post
@@ -17215,6 +18056,7 @@ Width: 939
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 505 102 m 5
@@ -17279,6 +18121,9 @@ SplineSet
  414.088867188 -175.430664062 359.333007812 -202.407226562 309.0546875 -202.407226562 c 0
  216.627971923 -202.407226562 154.333856138 -134.229651369 154.333856138 -57.9704260037 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DYAa.post
@@ -17287,6 +18132,7 @@ Width: 1181
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 927.359375 560.9296875 m 1
@@ -17362,6 +18208,9 @@ SplineSet
  413.888671875 -175.430664062 359.1328125 -202.407226562 308.854492188 -202.407226562 c 0
  216.427734375 -202.407226562 154.133789062 -134.229492188 154.133789062 -57.970703125 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DYu.post
@@ -17370,6 +18219,7 @@ Width: 939
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 465 -103.671875 m 0
@@ -17449,6 +18299,9 @@ SplineSet
  399.4200593 -182.208176279 352.56106574 -202.407226562 309.0546875 -202.407226562 c 0
  216.627971923 -202.407226562 154.333856138 -134.229651369 154.333856138 -57.9704260037 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DYUu.post
@@ -17457,6 +18310,7 @@ Width: 939
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 465 -103.671875 m 0
@@ -17538,6 +18392,9 @@ SplineSet
  399.4200593 -182.208176279 352.56106574 -202.407226562 309.0546875 -202.407226562 c 0
  216.627971923 -202.407226562 154.333856138 -134.229651369 154.333856138 -57.9704260037 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DYOo.post
@@ -17546,6 +18403,7 @@ Width: 1189
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 1021 634.805664062 m 1
@@ -17641,6 +18499,9 @@ SplineSet
  414.495117188 -175.430664062 359.739257812 -202.407226562 309.4609375 -202.407226562 c 0
  217.034179688 -202.407226562 154.740234375 -134.229492188 154.740234375 -57.970703125 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Dh.halant
@@ -17649,6 +18510,7 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 61.1513671875 743.688476562 m 0
@@ -17687,6 +18549,9 @@ SplineSet
  262.680664062 31.6025390625 223.268554688 0 170.588867188 0 c 0
  53.98046875 0 22 126.224609375 22 231.204101562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DhI
@@ -17695,6 +18560,7 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 45.7421875 710 m 0
@@ -17733,6 +18599,9 @@ SplineSet
  262.680664062 31.6025390625 223.268554688 0 170.588867188 0 c 0
  53.98046875 0 22 126.224609375 22 231.204101562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DhIi
@@ -17741,6 +18610,7 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 345.83203125 716.615234375 m 0
@@ -17790,6 +18660,9 @@ SplineSet
  262.680664062 31.6025390625 223.268554688 0 170.588867188 0 c 0
  53.98046875 0 22 126.224609375 22 231.204101562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DhU
@@ -17798,6 +18671,7 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 61.1611328125 -103.641601562 m 0
@@ -17838,6 +18712,9 @@ SplineSet
  262.680664062 31.6025390625 223.268554688 0 170.588867188 0 c 0
  53.98046875 0 22 126.224609375 22 231.204101562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DhUu
@@ -17846,6 +18723,7 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 61.1611328125 -103.641601562 m 0
@@ -17888,6 +18766,9 @@ SplineSet
  262.680664062 31.6025390625 223.268554688 0 170.588867188 0 c 0
  53.98046875 0 22 126.224609375 22 231.204101562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DhR.halant
@@ -17896,6 +18777,7 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 25.1044921875 -79 m 4
@@ -17910,6 +18792,9 @@ SplineSet
  147.104492188 -284 25.1044921875 -224 25.1044921875 -79 c 4
 EndSplineSet
 Refer: 234 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DhRa
@@ -17918,6 +18803,7 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 25.1044921875 -79 m 4
@@ -17953,6 +18839,9 @@ SplineSet
  262.680664062 31.6025390625 223.268554688 0 170.588867188 0 c 0
  53.98046875 0 22 126.224609375 22 231.204101562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DhRI
@@ -17961,6 +18850,7 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 25.1044921875 -79 m 4
@@ -17975,6 +18865,9 @@ SplineSet
  147.104492188 -284 25.1044921875 -224 25.1044921875 -79 c 4
 EndSplineSet
 Refer: 235 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DhRIi
@@ -17983,6 +18876,7 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 25.1044921875 -79 m 4
@@ -17997,6 +18891,9 @@ SplineSet
  147.104492188 -284 25.1044921875 -224 25.1044921875 -79 c 4
 EndSplineSet
 Refer: 236 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_N.halant
@@ -18005,6 +18902,7 @@ Width: 692
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 564 634.805664062 m 1
@@ -18068,6 +18966,9 @@ SplineSet
  175.90625 306.625 160.414132507 311.854653363 146.265625 318 c 0
  75.091796875 348.9140625 37.9091796875 403.010742188 37.9091796875 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NI
@@ -18076,6 +18977,7 @@ Width: 680
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 113 661 m 0
@@ -18132,6 +19034,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653362 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NIi
@@ -18140,6 +19045,7 @@ Width: 680
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 441.354492188 625.615234375 m 0
@@ -18208,6 +19114,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653362 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NU
@@ -18216,6 +19125,7 @@ Width: 680
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 83.056640625 -103.641601562 m 0
@@ -18274,6 +19184,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653362 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NUu
@@ -18282,6 +19195,7 @@ Width: 680
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 83.056640625 -103.641601562 m 0
@@ -18342,6 +19256,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653363 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Na.reph
@@ -18350,6 +19267,7 @@ Width: 680
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 276.29296875 634.572265625 m 0
@@ -18415,6 +19333,9 @@ SplineSet
  175.78515625 306.625 160.29296875 311.854492188 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Nd.halant
@@ -18423,6 +19344,7 @@ Width: 610
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 470 634.805664062 m 1
@@ -18484,6 +19406,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdAa
@@ -18492,6 +19417,7 @@ Width: 863
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 608.752929688 560.9296875 m 1
@@ -18544,6 +19470,9 @@ SplineSet
  185.159179688 0 l 0
  90.1591796875 0 22.1591796875 46.2763671875 22.1591796875 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdAe
@@ -18552,6 +19481,7 @@ Width: 923
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 597 167 m 0
@@ -18605,6 +19535,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdAae
@@ -18613,6 +19546,7 @@ Width: 936
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 610 157 m 0
@@ -18676,6 +19610,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdAa.halant
@@ -18684,6 +19621,7 @@ Width: 870
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 702 634.805664062 m 1
@@ -18756,6 +19694,9 @@ SplineSet
  184.765625 0 l 0
  89.765625 0 21.765625 46.2763671875 21.765625 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdI
@@ -18764,6 +19705,7 @@ Width: 653
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 133 648 m 0
@@ -18818,6 +19760,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdIi
@@ -18826,6 +19771,7 @@ Width: 653
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 471.475585938 625.615234375 m 0
@@ -18892,6 +19838,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdU
@@ -18900,6 +19849,7 @@ Width: 602
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 181.056640625 -102.641601562 m 0
@@ -18946,6 +19896,9 @@ SplineSet
  185 0 l 1
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdUu
@@ -18954,6 +19907,7 @@ Width: 602
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 169.169921875 -102.641601562 m 0
@@ -19002,6 +19956,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NdRa
@@ -19010,6 +19967,7 @@ Width: 619
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 190 -71 m 0
@@ -19050,6 +20008,9 @@ SplineSet
  185.337890625 0 l 0
  90.337890625 0 22.337890625 46.2763671875 22.337890625 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_P.halant
@@ -19058,6 +20019,7 @@ Width: 567
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 421 634.805664062 m 1
@@ -19117,6 +20079,9 @@ SplineSet
  78.5537109375 369.030273438 l 1
  58.4150390625 394.649414062 47.16796875 428.149414062 47.16796875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_PI
@@ -19125,6 +20090,7 @@ Width: 573
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.28125 661 m 0
@@ -19177,6 +20143,9 @@ SplineSet
  78.3349609375 369.030273438 l 1
  58.1962890625 394.649414062 46.94921875 428.149414062 46.94921875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_PIi
@@ -19185,6 +20154,7 @@ Width: 573
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 364.756835938 625.615234375 m 0
@@ -19251,6 +20221,9 @@ SplineSet
  78.3349609375 369.030273438 l 1
  58.1962890625 394.649414062 46.94921875 428.149414062 46.94921875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_PU
@@ -19259,6 +20232,7 @@ Width: 573
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 56.837890625 -103.641601562 m 0
@@ -19313,6 +20287,9 @@ SplineSet
  78.3349609375 369.030273438 l 1
  58.1962890625 394.649414062 46.94921875 428.149414062 46.94921875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_PUu
@@ -19321,6 +20298,7 @@ Width: 573
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 57.27734375 -103.641601562 m 4
@@ -19377,6 +20355,9 @@ SplineSet
  78.3349609375 369.030273438 l 1
  58.1962890625 394.649414062 46.94921875 428.149414062 46.94921875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_PR.halant
@@ -19385,6 +20366,7 @@ Width: 567
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.28125 -79 m 4
@@ -19399,6 +20381,9 @@ SplineSet
  148.28125 -284 26.28125 -224 26.28125 -79 c 4
 EndSplineSet
 Refer: 259 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_PRa
@@ -19407,6 +20392,7 @@ Width: 573
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.28125 -79 m 0
@@ -19456,6 +20442,9 @@ SplineSet
  78.3349609375 369.030273438 l 5
  58.1962890625 394.649414062 46.94921875 428.149414062 46.94921875 456.407226562 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_PRI
@@ -19464,6 +20453,7 @@ Width: 573
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.28125 -79 m 4
@@ -19478,6 +20468,9 @@ SplineSet
  148.28125 -284 26.28125 -224 26.28125 -79 c 4
 EndSplineSet
 Refer: 260 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_PRIi
@@ -19486,6 +20479,7 @@ Width: 573
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.28125 -79 m 4
@@ -19500,6 +20494,9 @@ SplineSet
  148.28125 -284 26.28125 -224 26.28125 -79 c 4
 EndSplineSet
 Refer: 261 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ph.halant
@@ -19508,6 +20505,7 @@ Width: 632
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 493 634.805664062 m 1
@@ -19572,6 +20570,9 @@ SplineSet
  91.76171875 318.563476562 l 1
  71.76171875 351 61.2978515625 380.620117188 61.2978515625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_PhI
@@ -19580,6 +20581,7 @@ Width: 605
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 114 689 m 0
@@ -19635,6 +20637,9 @@ SplineSet
  91.80078125 318.563476562 l 1
  71.80078125 351 61.3369140625 380.620117188 61.3369140625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_PhIi
@@ -19643,6 +20648,7 @@ Width: 607
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 477.208007812 615.615234375 m 0
@@ -19712,6 +20718,9 @@ SplineSet
  92.0087890625 318.563476562 l 1
  72.0087890625 351 61.544921875 380.620117188 61.544921875 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_PhU
@@ -19720,6 +20729,7 @@ Width: 548
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 40.4833984375 -103.641601562 m 0
@@ -19777,6 +20787,9 @@ SplineSet
  92.1884765625 318.563476562 l 1
  72.1884765625 351 61.724609375 380.620117188 61.724609375 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_PhUu
@@ -19785,6 +20798,7 @@ Width: 548
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 40.4833984375 -103.641601562 m 0
@@ -19844,6 +20858,9 @@ SplineSet
  92.1884765625 318.563476562 l 1
  72.1884765625 351 61.724609375 380.620117188 61.724609375 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_B.halant
@@ -19852,6 +20869,7 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 56.046875 743.688476562 m 0
@@ -19889,6 +20907,9 @@ SplineSet
  251 28 223.478515625 0 171 0 c 0
  66 0 22 79 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BI
@@ -19897,6 +20918,7 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 40.6376953125 710 m 0
@@ -19934,6 +20956,9 @@ SplineSet
  251 28 223.478515625 0 171 0 c 0
  66 0 22 79 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BIi
@@ -19942,6 +20967,7 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 340.727539062 716.615234375 m 0
@@ -19990,6 +21016,9 @@ SplineSet
  251 28 223.478515625 0 171 0 c 0
  66 0 22 79 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BR.halant
@@ -19998,6 +21027,7 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 20 -79 m 0
@@ -20045,6 +21075,9 @@ SplineSet
  251 28 223.478515625 0 171 0 c 0
  66 0 22 79 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BRI
@@ -20053,6 +21086,7 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 20 -79 m 0
@@ -20100,6 +21134,9 @@ SplineSet
  251 28 223.478515625 0 171 0 c 0
  66 0 22 79 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BRIi
@@ -20108,6 +21145,7 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 20 -79 m 0
@@ -20166,6 +21204,9 @@ SplineSet
  251 28 223.478515625 0 171 0 c 0
  66 0 22 79 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Bh.halant
@@ -20174,6 +21215,7 @@ Width: 718
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 572 634.649414062 m 1
@@ -20241,6 +21283,9 @@ SplineSet
  138.004882812 326.71875 l 1
  103.1953125 347 66.1005859375 398 66.1005859375 454 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BhI
@@ -20249,6 +21294,7 @@ Width: 690
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 109 660.84375 m 0
@@ -20309,6 +21355,9 @@ SplineSet
  138.2890625 326.71875 l 1
  103.479492188 347 66.384765625 398 66.384765625 454 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BhIi
@@ -20317,6 +21366,7 @@ Width: 690
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 447.475585938 625.458984375 m 0
@@ -20389,6 +21439,9 @@ SplineSet
  138.2890625 326.71875 l 1
  103.479492188 347 66.384765625 398 66.384765625 454 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BhU
@@ -20397,6 +21450,7 @@ Width: 702
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 427.572265625 -66.15625 m 0
@@ -20452,6 +21506,9 @@ SplineSet
  137.861328125 326.71875 l 1
  103.051757812 347 65.95703125 398 65.95703125 454 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BhUu
@@ -20460,6 +21517,7 @@ Width: 713
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 481 -89.15625 m 0
@@ -20524,6 +21582,9 @@ SplineSet
  138.2890625 326.71875 l 1
  103.479492188 347 66.384765625 398 66.384765625 454 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Bha.reph
@@ -20532,6 +21593,7 @@ Width: 690
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 136.29296875 654.572265625 m 4
@@ -20601,6 +21663,9 @@ SplineSet
  138.2890625 326.71875 l 1
  103.479492188 347 66.384765625 398 66.384765625 454 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BhRa.halant
@@ -20609,6 +21674,7 @@ Width: 718
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 108.715820312 -79.15625 m 0
@@ -20686,6 +21752,9 @@ SplineSet
  138.004882812 326.71875 l 1
  103.1953125 347 66.1005859375 398 66.1005859375 454 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BhRa
@@ -20694,6 +21763,7 @@ Width: 690
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 109 -79.15625 m 4
@@ -20751,6 +21821,9 @@ SplineSet
  138.2890625 326.71875 l 1
  103.479492188 347 66.384765625 398 66.384765625 454 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BhRI
@@ -20759,6 +21832,7 @@ Width: 690
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 109 -79.15625 m 0
@@ -20829,6 +21903,9 @@ SplineSet
  138.2890625 326.71875 l 1
  103.479492188 347 66.384765625 398 66.384765625 454 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BhRIi
@@ -20837,6 +21914,7 @@ Width: 690
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 109 -79.15625 m 0
@@ -20919,6 +21997,9 @@ SplineSet
  138.2890625 326.71875 l 1
  103.479492188 347 66.384765625 398 66.384765625 454 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_M.halant
@@ -20927,6 +22008,7 @@ Width: 552
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 65.2353515625 743.688476562 m 0
@@ -20968,6 +22050,9 @@ SplineSet
  530 118 449 0 269 0 c 0
  91.6142578125 0 22 123.690429687 22 301 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MI
@@ -20976,6 +22061,7 @@ Width: 552
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 45.2578125 710 m 0
@@ -21017,6 +22103,9 @@ SplineSet
  530 118 449 0 269 0 c 0
  91.6142578125 0 22 123.690429688 22 301 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MIi
@@ -21025,6 +22114,7 @@ Width: 552
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 345.34765625 716.615234375 m 0
@@ -21077,6 +22167,9 @@ SplineSet
  530 118 449 0 269 0 c 0
  91.6142578125 0 22 123.690429688 22 301 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MU
@@ -21085,6 +22178,7 @@ Width: 552
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 43.294921875 -103.641601562 m 0
@@ -21128,6 +22222,9 @@ SplineSet
  530 118 449 0 269 0 c 0
  91.6142578125 0 22 123.690429688 22 301 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MUu
@@ -21136,6 +22233,7 @@ Width: 552
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 39.9111328125 -103.641601562 m 0
@@ -21181,6 +22279,9 @@ SplineSet
  530 118 449 0 269 0 c 0
  91.6142578125 0 22 123.690429688 22 301 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MR.halant
@@ -21189,6 +22290,7 @@ Width: 552
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 36 -89 m 4
@@ -21203,6 +22305,9 @@ SplineSet
  146.73828125 -284 36 -226.926757812 36 -89 c 4
 EndSplineSet
 Refer: 289 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MRa
@@ -21211,6 +22316,7 @@ Width: 552
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 36 -89 m 0
@@ -21249,6 +22355,9 @@ SplineSet
  530 118 449 0 269 0 c 0
  91.6142578125 0 22 123.690429688 22 301 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MRI
@@ -21257,6 +22366,7 @@ Width: 552
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 36 -89 m 4
@@ -21271,6 +22381,9 @@ SplineSet
  146.73828125 -284 36 -226.926757812 36 -89 c 4
 EndSplineSet
 Refer: 290 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MRIi
@@ -21279,6 +22392,7 @@ Width: 552
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 36 -89 m 4
@@ -21293,6 +22407,9 @@ SplineSet
  146.73828125 -284 36 -226.926757812 36 -89 c 4
 EndSplineSet
 Refer: 291 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Mb.halant
@@ -21301,6 +22418,7 @@ Width: 579
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 59.5625 743.688476562 m 0
@@ -21357,6 +22475,9 @@ SplineSet
  384 326.905273438 368 275 287 275 c 0
  214.473314875 275 190.059216686 316.839128919 190.059216686 374.955570289 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MbI
@@ -21365,6 +22486,7 @@ Width: 579
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 44.1533203125 710 m 0
@@ -21421,6 +22543,9 @@ SplineSet
  384 326.905273438 368 275 287 275 c 0
  214.473314875 275 190.059216686 316.839128919 190.059216686 374.955570289 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MbIi
@@ -21429,6 +22554,7 @@ Width: 579
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 344.243164062 716.615234375 m 0
@@ -21496,6 +22622,9 @@ SplineSet
  384 326.905273438 368 275 287 275 c 0
  214.473314875 275 190.059216686 316.839128919 190.059216686 374.955570289 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MbU
@@ -21504,6 +22633,7 @@ Width: 579
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 59.572265625 -103.641601562 m 0
@@ -21562,6 +22692,9 @@ SplineSet
  384 326.905273438 368 275 287 275 c 0
  214.473314875 275 190.059216686 316.839128919 190.059216686 374.955570289 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_MbUu
@@ -21570,6 +22703,7 @@ Width: 579
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 59.572265625 -103.641601562 m 0
@@ -21630,6 +22764,9 @@ SplineSet
  384 326.905273438 368 275 287 275 c 0
  214.473314875 275 190.059216686 316.839128919 190.059216686 374.955570289 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Y.halant
@@ -21638,6 +22775,7 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 430 634.775390625 m 1
@@ -21695,6 +22833,9 @@ SplineSet
  279.091796875 31.572265625 239.6796875 -0.0302734375 187 -0.0302734375 c 0
  41 -0.0302734375 22 124.969726562 22 255.969726562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_YI
@@ -21703,6 +22844,7 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 35.5 629 m 0
@@ -21753,6 +22895,9 @@ SplineSet
  279.091796875 31.572265625 239.6796875 -0.0302734375 187 -0.0302734375 c 0
  41 -0.0302734375 22 124.969726562 22 255.969726562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_YIi
@@ -21761,6 +22906,7 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 374.475585938 625.584960938 m 0
@@ -21825,6 +22971,9 @@ SplineSet
  279.091796875 31.572265625 239.6796875 -0.0302734375 187 -0.0302734375 c 0
  41 -0.0302734375 22 124.969726562 22 255.969726562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ya.post
@@ -21833,6 +22982,7 @@ Width: 513
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 79 114 m 1
@@ -21903,6 +23053,8 @@ SplineSet
  127.1171875 473.420898438 114 464.5 114 422 c 5
  22 422 l 5
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Y.post.halant
@@ -21911,6 +23063,7 @@ Width: 513
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 369.434570312 636.775390625 m 5
@@ -21966,6 +23119,9 @@ SplineSet
  127.1171875 473.420898438 114 464.5 114 422 c 1
  22 422 l 1
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_YU.post
@@ -21974,6 +23130,7 @@ Width: 513
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 1.056640625 -103.671875 m 0
@@ -22024,6 +23181,9 @@ SplineSet
  127.1171875 473.420898438 114 464.5 114 422 c 1
  22 422 l 1
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_YUu.post
@@ -22032,6 +23192,7 @@ Width: 513
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 1.056640625 -103.671875 m 0
@@ -22084,6 +23245,9 @@ SplineSet
  127.1171875 473.420898438 114 464.5 114 422 c 1
  22 422 l 1
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ya.post.reph
@@ -22092,6 +23256,7 @@ Width: 513
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 37.29296875 656.572265625 m 4
@@ -22149,6 +23314,9 @@ SplineSet
  127.1171875 473.420898438 114 464.5 114 422 c 1
  22 422 l 1
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Yu.post.reph
@@ -22157,6 +23325,7 @@ Width: 513
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 37.29296875 656.572265625 m 4
@@ -22229,6 +23398,9 @@ SplineSet
  127.1171875 473.420898438 114 464.5 114 422 c 1
  22 422 l 1
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_YUu.post.reph
@@ -22237,6 +23409,7 @@ Width: 513
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 37.29296875 656.572265625 m 0
@@ -22311,6 +23484,9 @@ SplineSet
  127.1171875 473.420898438 114 464.5 114 422 c 1
  22 422 l 1
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_R.halant
@@ -22319,6 +23495,7 @@ Width: 497
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 79 634.870117188 m 1
@@ -22378,6 +23555,9 @@ SplineSet
  475.086914062 118.177734375 401.045898438 0 248.224609375 0 c 0
  96.0419921875 0 22 118.177734375 22 276.064453125 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_RAe
@@ -22386,6 +23566,7 @@ Width: 681
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 372 167 m 4
@@ -22441,6 +23622,9 @@ SplineSet
  475.086914062 118.177734375 401.045898438 0 248.224609375 0 c 0
  96.0419921875 0 22 118.177734375 22 276.064453125 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_RAae
@@ -22449,6 +23633,7 @@ Width: 697
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 381 186 m 0
@@ -22512,6 +23697,9 @@ SplineSet
  475.086914062 118.177734375 401.045898438 0 248.224609375 0 c 0
  96.0419921875 0 22 118.177734375 22 276.064453125 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_RI
@@ -22520,6 +23708,7 @@ Width: 521
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 38 661 m 0
@@ -22586,6 +23775,8 @@ SplineSet
  1990.67382812 448 1941.71679688 513.776367188 1941.71679688 593 c 4
  1941.71679688 704 2053.67382812 822 2165.67382812 822 c 4
 EndSplineSet
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_RIi
@@ -22594,6 +23785,7 @@ Width: 514
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 369.475585938 725.615234375 m 0
@@ -22988,6 +24180,7 @@ SplineSet
  475.086914062 118.177734375 401.045898438 0 248.224609375 0 c 0
  96.0419921875 0 22 118.177734375 22 276.064453125 c 0
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_RU
@@ -22996,6 +24189,7 @@ Width: 818
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 509 167 m 0
@@ -23047,6 +24241,9 @@ SplineSet
  475.086914062 118.177734375 401.045898438 0 248.224609375 0 c 0
  96.0419921875 0 22 118.177734375 22 276.064453125 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_RUu
@@ -23055,6 +24252,7 @@ Width: 816
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 507 157 m 0
@@ -23116,6 +24314,9 @@ SplineSet
  475.086914062 118.177734375 401.045898438 0 248.224609375 0 c 0
  96.0419921875 0 22 118.177734375 22 276.064453125 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_LU
@@ -23124,6 +24325,7 @@ Width: 577
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 31.9052734375 -103.641601562 m 0
@@ -23231,6 +24433,7 @@ SplineSet
  233.255859375 315.893554688 201.163085938 315.893554688 194.848632812 315.893554688 c 1
  195.848632812 410.893554688 l 1025
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_LUu
@@ -23239,6 +24442,7 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 31.4052734375 -103.641601562 m 0
@@ -23352,6 +24556,7 @@ SplineSet
  404.406095296 -46.4814112108 367.736235844 -51 333 -51 c 4
  140.113729048 -51 22 87.2072601206 22 269 c 4
 EndSplineSet
+Layer: 4
 EndChar
 
 StartChar: si_V.halant
@@ -23360,6 +24565,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 48.423828125 743.688476562 m 0
@@ -23403,6 +24609,9 @@ SplineSet
  92.1884765625 318.563476562 l 1
  72.1884765625 351 61.724609375 380.620117188 61.724609375 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_VI
@@ -23411,6 +24620,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 28.4462890625 710 m 0
@@ -23454,6 +24664,9 @@ SplineSet
  92.1884765625 318.563476562 l 1
  72.1884765625 351 61.724609375 380.620117188 61.724609375 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_VIi
@@ -23462,6 +24675,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 328.536132812 716.615234375 m 0
@@ -23516,6 +24730,9 @@ SplineSet
  92 318.563476562 l 1
  72 351 61.5361328125 380.620117188 61.5361328125 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Va.reph
@@ -23524,6 +24741,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 122.0546875 706.572265625 m 0
@@ -23579,6 +24797,9 @@ SplineSet
  92 318.563476562 l 1
  72 351 61.5361328125 380.620117188 61.5361328125 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_VR.halant
@@ -23587,6 +24808,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.4267578125 -89 m 4
@@ -23640,6 +24862,9 @@ SplineSet
  92.1884765625 318.563476562 l 1
  72.1884765625 351 61.724609375 380.620117188 61.724609375 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_VRa
@@ -23648,6 +24873,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.23828125 -89 m 4
@@ -23688,6 +24914,9 @@ SplineSet
  92 318.563476562 l 1
  72 351 61.5361328125 380.620117188 61.5361328125 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_VRI
@@ -23696,6 +24925,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.23828125 -89 m 0
@@ -23749,6 +24979,9 @@ SplineSet
  92 318.563476562 l 1
  72 351 61.5361328125 380.620117188 61.5361328125 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_VRIi
@@ -23757,6 +24990,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.4267578125 -89 m 0
@@ -23821,6 +25055,9 @@ SplineSet
  92 318.563476562 l 1
  72 351 61.5361328125 380.620117188 61.5361328125 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ShU
@@ -23829,6 +25066,7 @@ Width: 709
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 398 -66.15625 m 0
@@ -23884,6 +25122,9 @@ SplineSet
  408.627929688 94.73046875 357.560546875 0 227 0 c 0
  120.000976562 0 22 57.625 22 292 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ShUu
@@ -23892,6 +25133,7 @@ Width: 740
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 508 -89 m 0
@@ -23953,6 +25195,9 @@ SplineSet
  408.452148438 94.73046875 357.384765625 0 226.82421875 0 c 0
  119.825195312 0 21.82421875 57.625 21.82421875 292 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Sha.reph
@@ -23961,6 +25206,7 @@ Width: 704
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 155.29296875 654.572265625 m 0
@@ -24029,6 +25275,9 @@ SplineSet
  408.627929688 94.73046875 357.560546875 0 227 0 c 0
  120.000976562 0 22 57.625 22 292 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ShR.halant
@@ -24037,6 +25286,7 @@ Width: 718
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 86 -79 m 4
@@ -24051,6 +25301,9 @@ SplineSet
  208 -284 86 -224 86 -79 c 4
 EndSplineSet
 Refer: 524 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ShRa
@@ -24059,6 +25312,7 @@ Width: 704
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 86 -79 m 4
@@ -24115,6 +25369,9 @@ SplineSet
  408.627929688 94.73046875 357.560546875 0 227 0 c 0
  120.000976562 0 22 57.625 22 292 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ShRI
@@ -24123,6 +25380,7 @@ Width: 704
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 86 -79 m 4
@@ -24137,6 +25395,9 @@ SplineSet
  208 -284 86 -224 86 -79 c 4
 EndSplineSet
 Refer: 525 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ShRIi
@@ -24145,6 +25406,7 @@ Width: 704
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 86 -79 m 4
@@ -24159,6 +25421,9 @@ SplineSet
  208 -284 86 -224 86 -79 c 4
 EndSplineSet
 Refer: 526 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ss.halant
@@ -24167,6 +25432,7 @@ Width: 607
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 421 634.805664062 m 1
@@ -24235,6 +25501,9 @@ SplineSet
  78.5537109375 369.030273438 l 1
  58.416015625 394.649414062 47.16796875 428.149414062 47.16796875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SsI
@@ -24243,6 +25512,7 @@ Width: 573
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.28125 661 m 0
@@ -24304,6 +25574,9 @@ SplineSet
  78.3349609375 369.030273438 l 1
  58.197265625 394.649414062 46.94921875 428.149414062 46.94921875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SsIi
@@ -24312,6 +25585,7 @@ Width: 572
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 365.196289062 625.615234375 m 0
@@ -24387,6 +25661,9 @@ SplineSet
  78.7744140625 369.030273438 l 1
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SsU
@@ -24395,6 +25672,7 @@ Width: 572
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 57.27734375 -103.641601562 m 0
@@ -24458,6 +25736,9 @@ SplineSet
  78.7744140625 369.030273438 l 1
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SsUu
@@ -24466,6 +25747,7 @@ Width: 572
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 57.716796875 -103.641601562 m 0
@@ -24531,6 +25813,9 @@ SplineSet
  78.7744140625 369.030273438 l 1
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SsR.halant
@@ -24539,6 +25824,7 @@ Width: 567
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.720703125 -79 m 4
@@ -24553,6 +25839,9 @@ SplineSet
  148.720703125 -284 26.720703125 -224 26.720703125 -79 c 4
 EndSplineSet
 Refer: 337 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SsRa
@@ -24561,6 +25850,7 @@ Width: 572
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.720703125 -79 m 4
@@ -24619,6 +25909,9 @@ SplineSet
  78.7744140625 369.030273438 l 1
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SsRI
@@ -24627,6 +25920,7 @@ Width: 572
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.720703125 -79 m 4
@@ -24641,6 +25935,9 @@ SplineSet
  148.720703125 -284 26.720703125 -224 26.720703125 -79 c 4
 EndSplineSet
 Refer: 338 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SsRIi
@@ -24649,6 +25946,7 @@ Width: 572
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.720703125 -79 m 4
@@ -24663,6 +25961,9 @@ SplineSet
  148.720703125 -284 26.720703125 -224 26.720703125 -79 c 4
 EndSplineSet
 Refer: 339 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_S.halant
@@ -24671,6 +25972,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 437 634.805664062 m 1
@@ -24738,6 +26040,9 @@ SplineSet
  96.5009765625 375.436523438 l 1
  75.474609375 403.236328125 66.2119140625 433.094726562 66.2119140625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SI
@@ -24746,6 +26051,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 42.0537109375 661 m 0
@@ -24806,6 +26112,9 @@ SplineSet
  96.0546875 375.436523438 l 1
  75.0283203125 403.236328125 65.765625 433.094726562 65.765625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SIi
@@ -24814,6 +26123,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 380.529296875 625.615234375 m 4
@@ -24888,6 +26198,9 @@ SplineSet
  96.0546875 375.436523438 l 1
  75.0283203125 403.236328125 65.765625 433.094726562 65.765625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SU
@@ -24896,6 +26209,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 72.6103515625 -103.641601562 m 0
@@ -24958,6 +26272,9 @@ SplineSet
  96.0546875 375.436523438 l 1
  75.0283203125 403.236328125 65.765625 433.094726562 65.765625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SUu
@@ -24966,6 +26283,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 72.6103515625 -103.641601562 m 0
@@ -25030,6 +26348,9 @@ SplineSet
  96.0546875 375.436523438 l 1
  75.0283203125 403.236328125 65.765625 433.094726562 65.765625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SR.halant
@@ -25038,6 +26359,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 42.5 -79 m 0
@@ -25115,6 +26437,9 @@ SplineSet
  96.5009765625 375.436523438 l 1
  75.474609375 403.236328125 66.2119140625 433.094726562 66.2119140625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SRa
@@ -25123,6 +26448,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 42.0537109375 -79 m 0
@@ -25180,6 +26506,9 @@ SplineSet
  96.0546875 375.436523438 l 1
  75.0283203125 403.236328125 65.765625 433.094726562 65.765625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SRI
@@ -25188,6 +26517,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 37.5 -79 m 0
@@ -25202,6 +26532,9 @@ SplineSet
  159.5 -284 37.5 -224 37.5 -79 c 0
 EndSplineSet
 Refer: 347 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_SRIi
@@ -25210,6 +26543,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 37.5 -79 m 4
@@ -25224,6 +26558,9 @@ SplineSet
  159.5 -284 37.5 -224 37.5 -79 c 4
 EndSplineSet
 Refer: 348 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_H.halant
@@ -25232,6 +26569,7 @@ Width: 692
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 546 634.649414062 m 1
@@ -25296,6 +26634,9 @@ SplineSet
  78.001953125 368.979492188 l 1
  57.8642578125 394.598632812 46.6162109375 428.098632812 46.6162109375 456.356445312 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_HI
@@ -25304,6 +26645,7 @@ Width: 664
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 83 660.84375 m 0
@@ -25361,6 +26703,9 @@ SplineSet
  78.2861328125 368.979492188 l 1
  58.1484375 394.598632812 46.900390625 428.098632812 46.900390625 456.356445312 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_HIi
@@ -25369,6 +26714,7 @@ Width: 664
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 421.475585938 625.458984375 m 0
@@ -25438,6 +26784,9 @@ SplineSet
  78.2861328125 368.979492188 l 1
  58.1484375 394.598632812 46.900390625 428.098632812 46.900390625 456.356445312 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_HU
@@ -25446,6 +26795,7 @@ Width: 664
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 83.056640625 -103.641601562 m 0
@@ -25505,6 +26855,9 @@ SplineSet
  78.2861328125 368.979492188 l 1
  58.1484375 394.598632812 46.900390625 428.098632812 46.900390625 456.356445312 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_HUu
@@ -25513,6 +26866,7 @@ Width: 664
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 157.056640625 -103.641601562 m 0
@@ -25574,6 +26928,9 @@ SplineSet
  78.2861328125 368.979492188 l 1
  58.1484375 394.598632812 46.900390625 428.098632812 46.900390625 456.356445312 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_LlU
@@ -25582,6 +26939,7 @@ Width: 720
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 399.854492188 601 m 0
@@ -25633,6 +26991,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_LlUu
@@ -25641,9 +27002,13 @@ Width: 1074
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 66 3537 N 1 0 0 1 748 0 2
 Refer: 360 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KSsa
@@ -25652,6 +27017,7 @@ Width: 1034
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 665.52734375 103.873046875 m 5
@@ -25745,6 +27111,9 @@ SplineSet
  112.087890625 327.899414062 l 5
  66.7988281245 344.899414062 22 391.899414062 22 461.536132812 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KVa
@@ -25753,6 +27122,7 @@ Width: 998
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 484.439453125 218.826171875 m 0
@@ -25828,6 +27198,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.7988281245 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDha
@@ -25836,6 +27209,7 @@ Width: 1018
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 459.25 231.204101562 m 0
@@ -25897,6 +27271,9 @@ SplineSet
  175.78515625 306.625 160.29296875 311.854492188 146.14453125 318 c 4
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDa
@@ -25905,6 +27282,7 @@ Width: 833
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 577.788085938 -57.970703125 m 4
@@ -25973,6 +27351,9 @@ SplineSet
  175.78515625 306.625 160.29296875 311.854492188 146.14453125 318 c 4
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NTha
@@ -25981,6 +27362,7 @@ Width: 986
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 675.350585938 611.133789062 m 4
@@ -26047,6 +27429,9 @@ SplineSet
  175.78515625 306.625 160.29296875 311.854492188 146.14453125 318 c 4
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NVa
@@ -26055,6 +27440,7 @@ Width: 967
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 453.034179688 218.826171875 m 0
@@ -26121,6 +27507,9 @@ SplineSet
  175.78515625 306.625 160.29296875 311.854492188 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TTha
@@ -26129,6 +27518,7 @@ Width: 989
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 678.115234375 611.133789062 m 4
@@ -26195,6 +27585,9 @@ SplineSet
  112.087890625 327.899414062 l 5
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TtTtha
@@ -26203,6 +27596,7 @@ Width: 754
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 426.790039062 611.133789062 m 4
@@ -26250,6 +27644,9 @@ SplineSet
  185 -0.15625 l 4
  90 -0.15625 22 41.419921875 22 255 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GDha
@@ -26258,6 +27655,7 @@ Width: 996
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 437 231.204101562 m 0
@@ -26307,6 +27705,9 @@ SplineSet
  408.627929688 94.73046875 357.560546875 0 227 0 c 0
  120.000976562 0 22 57.625 22 292 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DVa
@@ -26315,6 +27716,7 @@ Width: 709
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 194.811523438 218.826171875 m 0
@@ -26354,6 +27756,9 @@ SplineSet
  185 -0.15625 l 4
  90 -0.15625 22 41.419921875 22 255 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KSs.halant
@@ -26362,6 +27767,7 @@ Width: 1050
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 882.748046875 634.805664062 m 1
@@ -26475,6 +27881,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.7988281245 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KSsI
@@ -26483,6 +27892,7 @@ Width: 1034
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 488.248046875 661 m 0
@@ -26589,6 +27999,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.7988281245 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KSsIi
@@ -26597,6 +28010,7 @@ Width: 1034
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 826.723632812 625.615234375 m 0
@@ -26717,6 +28131,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.7988281245 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KSsU
@@ -26725,6 +28142,7 @@ Width: 1034
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 518.8046875 -103.641601562 m 0
@@ -26833,6 +28251,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.7988281245 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KSsUu
@@ -26841,6 +28262,7 @@ Width: 1034
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 519.244140625 -103.641601562 m 0
@@ -26951,6 +28373,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.7988281245 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KV.halant
@@ -26959,6 +28384,7 @@ Width: 997
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 510.86328125 743.688476562 m 0
@@ -27047,6 +28473,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.7988281245 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KVI
@@ -27055,6 +28484,7 @@ Width: 997
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 490.885742188 710 m 0
@@ -27143,6 +28573,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.7988281245 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KVIi
@@ -27151,6 +28584,7 @@ Width: 997
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 790.975585938 716.615234375 m 0
@@ -27250,6 +28684,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.7988281245 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KVU
@@ -27258,6 +28695,7 @@ Width: 998
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 484.5390625 -103.641601562 m 0
@@ -27348,6 +28786,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.7988281245 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KVUu
@@ -27356,6 +28797,7 @@ Width: 998
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 484.5390625 -103.641601562 m 0
@@ -27448,6 +28890,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.7988281245 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDh.halant
@@ -27456,6 +28901,7 @@ Width: 1018
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 498.401367188 743.688476562 m 0
@@ -27530,6 +28976,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653363 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDhI
@@ -27538,6 +28987,7 @@ Width: 1018
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 482.9921875 710 m 0
@@ -27612,6 +29062,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653363 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDhIi
@@ -27620,6 +29073,7 @@ Width: 1018
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 783.08203125 716.73046875 m 0
@@ -27705,6 +29159,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653363 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDhU
@@ -27713,6 +29170,7 @@ Width: 1018
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 498.411132812 -103.641601562 m 0
@@ -27789,6 +29247,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653363 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDhUu
@@ -27797,6 +29258,7 @@ Width: 1018
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 498.411132812 -103.641601562 m 0
@@ -27875,6 +29337,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653363 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ND.halant
@@ -27883,6 +29348,7 @@ Width: 865
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 725 634.805664062 m 1
@@ -27971,6 +29437,9 @@ SplineSet
  175.331054688 306.625 159.838937195 311.854653363 145.690429688 318 c 0
  74.5166015625 348.9140625 37.333984375 403.010742188 37.333984375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDAa
@@ -27979,6 +29448,7 @@ Width: 1118
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 863.752929688 560.9296875 m 1
@@ -28058,6 +29528,9 @@ SplineSet
  175.490234375 306.625 159.998046875 311.854492188 145.849609375 318 c 0
  74.67578125 348.9140625 37.4931640625 403.010742188 37.4931640625 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDAa.halant
@@ -28066,6 +29539,7 @@ Width: 1126
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 958 634.805664062 m 1
@@ -28165,6 +29639,9 @@ SplineSet
  176.096679688 306.625 160.604562195 311.854653363 146.456054688 318 c 0
  75.2822265625 348.9140625 38.099609375 403.010742188 38.099609375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDAe
@@ -28173,6 +29650,7 @@ Width: 1178
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 852.00390625 167 m 0
@@ -28253,6 +29731,9 @@ SplineSet
  175.334960938 306.625 159.842773438 311.854492188 145.694335938 318 c 0
  74.5205078125 348.9140625 37.337890625 403.010742188 37.337890625 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDAee
@@ -28261,6 +29742,7 @@ Width: 1191
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 865 157 m 0
@@ -28351,6 +29833,9 @@ SplineSet
  175.331054688 306.625 159.838867188 311.854492188 145.690429688 318 c 0
  74.5166015625 348.9140625 37.333984375 403.010742188 37.333984375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDI
@@ -28359,6 +29844,7 @@ Width: 908
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 388 648 m 4
@@ -28440,6 +29926,9 @@ SplineSet
  175.331054688 306.625 159.838867188 311.854492188 145.690429688 318 c 0
  74.5166015625 348.9140625 37.333984375 403.010742188 37.333984375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDIi
@@ -28448,6 +29937,7 @@ Width: 908
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 726.475585938 625.615234375 m 4
@@ -28541,6 +30031,9 @@ SplineSet
  175.331054688 306.625 159.838867188 311.854492188 145.690429688 318 c 0
  74.5166015625 348.9140625 37.333984375 403.010742188 37.333984375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDU
@@ -28549,6 +30042,7 @@ Width: 857
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 436.056640625 -103.641601562 m 0
@@ -28622,6 +30116,9 @@ SplineSet
  175.331054688 306.625 159.838937195 311.854653363 145.690429688 318 c 0
  74.5166015625 348.9140625 37.333984375 403.010742188 37.333984375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDUu
@@ -28630,6 +30127,7 @@ Width: 857
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 424.169921875 -102.641601562 m 0
@@ -28705,6 +30203,9 @@ SplineSet
  175.331054688 306.625 159.838937195 311.854653363 145.690429688 318 c 0
  74.5166015625 348.9140625 37.333984375 403.010742188 37.333984375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDRa
@@ -28713,6 +30214,7 @@ Width: 874
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 445 -71 m 4
@@ -28780,6 +30282,9 @@ SplineSet
  175.668945312 306.625 160.176757812 311.854492188 146.028320312 318 c 4
  74.8544921875 348.9140625 37.671875 403.010742188 37.671875 461.099609375 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDRI
@@ -28788,6 +30293,7 @@ Width: 908
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 388 648 m 0
@@ -28868,6 +30374,9 @@ SplineSet
  175.331054688 306.625 159.838867188 311.854492188 145.690429688 318 c 0
  74.5166015625 348.9140625 37.333984375 403.010742188 37.333984375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NDRIi
@@ -28876,6 +30385,7 @@ Width: 908
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 726.475585938 625.615234375 m 0
@@ -28968,6 +30478,9 @@ SplineSet
  175.331054688 306.625 159.838867188 311.854492188 145.690429688 318 c 0
  74.5166015625 348.9140625 37.333984375 403.010742188 37.333984375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NTh.halant
@@ -28976,6 +30489,7 @@ Width: 1071
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 932 634.805664062 m 1
@@ -29064,6 +30578,9 @@ SplineSet
  176.166992188 306.625 160.674874695 311.854653363 146.526367188 318 c 0
  75.3525390625 348.9140625 38.169921875 403.010742188 38.169921875 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NThI
@@ -29072,6 +30589,7 @@ Width: 1044
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 553 689 m 0
@@ -29151,6 +30669,9 @@ SplineSet
  176.206054688 306.625 160.713937195 311.854653363 146.565429688 318 c 0
  75.3916015625 348.9140625 38.208984375 403.010742188 38.208984375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NThIi
@@ -29159,6 +30680,7 @@ Width: 1045
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 915.208007812 615.615234375 m 4
@@ -29252,6 +30774,9 @@ SplineSet
  175.4140625 306.625 159.921945007 311.854653363 145.7734375 318 c 0
  74.599609375 348.9140625 37.4169921875 403.010742188 37.4169921875 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NThU
@@ -29260,6 +30785,7 @@ Width: 986
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 464.8203125 -103.641601562 m 0
@@ -29341,6 +30867,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653363 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NThUu
@@ -29349,6 +30878,7 @@ Width: 986
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 478.674804688 -103.641601562 m 0
@@ -29432,6 +30962,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653363 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NV.halant
@@ -29440,6 +30973,7 @@ Width: 966
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 479.458007812 743.688476562 m 0
@@ -29519,6 +31053,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653363 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NVI
@@ -29527,6 +31064,7 @@ Width: 966
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 459.48046875 710 m 0
@@ -29606,6 +31144,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653363 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NVIi
@@ -29614,6 +31155,7 @@ Width: 966
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 759.34765625 716.615234375 m 0
@@ -29704,6 +31246,9 @@ SplineSet
  175.5625 306.625 160.070382507 311.854653363 145.921875 318 c 0
  74.748046875 348.9140625 37.5654296875 403.010742188 37.5654296875 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NVU
@@ -29712,6 +31257,7 @@ Width: 967
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 453.133789062 -103.641601562 m 0
@@ -29793,6 +31339,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653363 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NVUu
@@ -29801,6 +31350,7 @@ Width: 967
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 453.133789062 -103.641601562 m 0
@@ -29884,6 +31434,9 @@ SplineSet
  175.78515625 306.625 160.293038757 311.854653363 146.14453125 318 c 0
  74.970703125 348.9140625 37.7880859375 403.010742188 37.7880859375 461.099609375 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TTh.halant
@@ -29892,6 +31445,7 @@ Width: 1073
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 934 634.805664062 m 1
@@ -29980,6 +31534,9 @@ SplineSet
  111.705078125 327.899414062 l 1
  66.416015625 344.899414062 21.6171875 391.899414062 21.6171875 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TThI
@@ -29988,6 +31545,7 @@ Width: 1046
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 555 689 m 0
@@ -30067,6 +31625,9 @@ SplineSet
  111.744140625 327.899414062 l 1
  66.455078125 344.899414062 21.65625 391.899414062 21.65625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TThIi
@@ -30075,6 +31636,7 @@ Width: 1048
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 918.208007812 615.615234375 m 0
@@ -30168,6 +31730,9 @@ SplineSet
  111.952148438 327.899414062 l 1
  66.6630859375 344.899414062 21.8642578125 391.899414062 21.8642578125 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TThU
@@ -30176,6 +31741,7 @@ Width: 989
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 467.584960938 -103.641601562 m 0
@@ -30257,6 +31823,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TThUu
@@ -30265,6 +31834,7 @@ Width: 989
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 481.439453125 -103.641601562 m 0
@@ -30348,6 +31918,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TVa
@@ -30356,6 +31929,7 @@ Width: 971
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 25.6279296875 231.770507812 m 5
@@ -30422,6 +31996,9 @@ SplineSet
  527.987304688 318.563476562 l 5
  507.987304688 351 497.5234375 380.620117188 497.5234375 409.272460938 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TV.halant
@@ -30430,6 +32007,7 @@ Width: 970
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 484.22265625 743.688476562 m 4
@@ -30509,6 +32087,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TVI
@@ -30517,6 +32098,7 @@ Width: 970
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 464.245117188 710 m 4
@@ -30596,6 +32178,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TVIi
@@ -30604,6 +32189,7 @@ Width: 970
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 764.334960938 716.615234375 m 0
@@ -30694,6 +32280,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TVU
@@ -30702,6 +32291,7 @@ Width: 971
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 457.8984375 -103.641601562 m 0
@@ -30783,6 +32373,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TVUu
@@ -30791,6 +32384,7 @@ Width: 971
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 457.8984375 -103.641601562 m 0
@@ -30874,6 +32468,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DDdh.halant
@@ -30882,6 +32479,7 @@ Width: 754
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 233.825195312 743.688476562 m 0
@@ -30929,6 +32527,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DDhI
@@ -30937,6 +32538,7 @@ Width: 754
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 218.416015625 710 m 0
@@ -30984,6 +32586,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DDhIi
@@ -30992,6 +32597,7 @@ Width: 754
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 518.505859375 716.73046875 m 0
@@ -31050,6 +32656,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DDhU
@@ -31058,6 +32667,7 @@ Width: 754
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 233.834960938 -103.641601562 m 0
@@ -31107,6 +32717,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DDhUu
@@ -31115,6 +32728,7 @@ Width: 754
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 233.834960938 -103.641601562 m 0
@@ -31166,6 +32780,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DV.halant
@@ -31174,6 +32791,7 @@ Width: 708
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 221.235351562 743.688476562 m 0
@@ -31226,6 +32844,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DVI
@@ -31234,6 +32855,7 @@ Width: 708
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 201.2578125 710 m 0
@@ -31286,6 +32908,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DVIi
@@ -31294,6 +32919,7 @@ Width: 708
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 501.34765625 716.615234375 m 0
@@ -31357,6 +32983,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DVU
@@ -31365,6 +32994,7 @@ Width: 709
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 194.911132812 -103.641601562 m 0
@@ -31419,6 +33049,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DVUu
@@ -31427,6 +33060,7 @@ Width: 709
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 194.911132812 -103.641601562 m 0
@@ -31483,6 +33117,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TtTth.halant
@@ -31491,6 +33128,7 @@ Width: 859
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 691.673828125 634.805664062 m 1
@@ -31559,6 +33197,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TtTthI
@@ -31567,6 +33208,7 @@ Width: 847
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 304.018554688 689 m 0
@@ -31626,6 +33268,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TtTthIi
@@ -31634,6 +33279,7 @@ Width: 850
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 667.018554688 615.615234375 m 0
@@ -31707,6 +33353,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TtTthU
@@ -31715,6 +33364,7 @@ Width: 754
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 233.834960938 -103.641601562 m 0
@@ -31777,6 +33427,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TtTthUu
@@ -31785,6 +33438,7 @@ Width: 754
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 233.834960938 -103.641601562 m 0
@@ -31849,6 +33503,9 @@ SplineSet
  185 -0.15625 l 0
  90 -0.15625 22 41.419921875 22 255 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ka.touch
@@ -31857,8 +33514,12 @@ Width: 697
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 28 3482 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Kha.touch
@@ -31867,8 +33528,12 @@ Width: 576
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 29 3483 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ga.touch
@@ -31877,8 +33542,12 @@ Width: 658
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 30 3484 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Gha.touch
@@ -31887,8 +33556,12 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 31 3485 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Nga.touch
@@ -31897,8 +33570,12 @@ Width: 574
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 32 3486 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Nnga.touch
@@ -31907,8 +33584,12 @@ Width: 829
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 33 3487 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ca.touch
@@ -31917,8 +33598,12 @@ Width: 531
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 34 3488 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Cha.touch
@@ -31927,8 +33612,12 @@ Width: 566
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 35 3489 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ja.touch
@@ -31937,8 +33626,12 @@ Width: 566
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 36 3490 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Jha.touch
@@ -31947,8 +33640,12 @@ Width: 1050
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 37 3491 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Nya.touch
@@ -31957,8 +33654,12 @@ Width: 1062
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 38 3492 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Jnya.touch
@@ -31967,8 +33668,12 @@ Width: 998
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 39 3493 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ndja.touch
@@ -31977,8 +33682,12 @@ Width: 741
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 40 3494 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Tta.touch
@@ -31987,8 +33696,12 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 0 3495 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ttha.touch
@@ -31997,8 +33710,12 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 41 3496 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Dda.touch
@@ -32007,8 +33724,12 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 4 3497 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ddha.touch
@@ -32017,8 +33738,12 @@ Width: 554
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 3 3498 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Nna.touch
@@ -32027,8 +33752,12 @@ Width: 878
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 5 3499 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ndda.touch
@@ -32037,8 +33766,12 @@ Width: 773
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 42 3500 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ta.touch
@@ -32047,8 +33780,12 @@ Width: 679
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 46 3501 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Tha.touch
@@ -32057,8 +33794,12 @@ Width: 548
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 47 3502 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Da.touch
@@ -32067,8 +33808,12 @@ Width: 410
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 8 3503 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Dha.touch
@@ -32077,8 +33822,12 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 48 3504 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Na.touch
@@ -32087,8 +33836,12 @@ Width: 680
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 49 3505 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Nda.touch
@@ -32097,8 +33850,12 @@ Width: 578
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 50 3507 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Pa.touch
@@ -32107,8 +33864,12 @@ Width: 573
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 51 3508 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Pha.touch
@@ -32117,8 +33878,12 @@ Width: 548
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 52 3509 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ba.touch
@@ -32127,8 +33892,12 @@ Width: 575
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 53 3510 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Bha.touch
@@ -32137,8 +33906,12 @@ Width: 690
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 54 3511 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ma.touch
@@ -32147,8 +33920,12 @@ Width: 552
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 55 3512 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Mba.touch
@@ -32157,8 +33934,12 @@ Width: 578
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 56 3513 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ya.touch
@@ -32167,8 +33948,12 @@ Width: 582
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 57 3514 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ra.touch
@@ -32177,8 +33962,12 @@ Width: 497
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 58 3515 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_La.touch
@@ -32187,8 +33976,12 @@ Width: 586
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 2 3517 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Va.touch
@@ -32197,8 +33990,12 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 11 3520 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Sha.touch
@@ -32207,8 +34004,12 @@ Width: 687
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 59 3521 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ssa.touch
@@ -32217,8 +34018,12 @@ Width: 572
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 60 3522 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Sa.touch
@@ -32227,8 +34032,12 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 1 3523 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ha.touch
@@ -32237,8 +34046,12 @@ Width: 664
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 61 3524 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Lla.touch
@@ -32247,8 +34060,12 @@ Width: 565
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 62 3525 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Fa.touch
@@ -32257,8 +34074,12 @@ Width: 590
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 Refer: 63 3526 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KRI
@@ -32267,6 +34088,7 @@ Width: 696
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 98 -79 m 4
@@ -32281,6 +34103,9 @@ SplineSet
  220 -284 98 -224 98 -79 c 4
 EndSplineSet
 Refer: 90 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KRIi
@@ -32289,6 +34114,7 @@ Width: 696
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 98 -79 m 4
@@ -32303,6 +34129,9 @@ SplineSet
  220 -284 98 -224 98 -79 c 4
 EndSplineSet
 Refer: 91 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KRa
@@ -32311,6 +34140,7 @@ Width: 696
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 104 -79 m 4
@@ -32373,6 +34203,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KhRa
@@ -32381,6 +34214,7 @@ Width: 578
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22 -79 m 4
@@ -32424,6 +34258,9 @@ SplineSet
  239.889648438 36.55859375 196.467773438 3.0615234375 150.724609375 3.0615234375 c 0
  55.5712890625 3.0615234375 24 101.451171875 24 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GI
@@ -32432,6 +34269,7 @@ Width: 658
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 77 661 m 4
@@ -32476,6 +34314,9 @@ SplineSet
  408.627929688 94.73046875 357.560546875 0 227 0 c 0
  120.000976562 0 22 57.625 22 292 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GIi
@@ -32484,6 +34325,7 @@ Width: 658
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 415.475585938 625.615234375 m 4
@@ -32540,6 +34382,9 @@ SplineSet
  408.627929688 94.73046875 357.560546875 0 227 0 c 0
  120.000976562 0 22 57.625 22 292 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GRa
@@ -32548,6 +34393,7 @@ Width: 658
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 216.627929688 300.15625 m 1
@@ -32589,6 +34435,9 @@ SplineSet
  597 -224 475 -284 337 -284 c 0
  199 -284 77 -224 77 -79 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GRI
@@ -32597,6 +34446,7 @@ Width: 658
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 76 -79 m 4
@@ -32611,6 +34461,9 @@ SplineSet
  198 -284 76 -224 76 -79 c 4
 EndSplineSet
 Refer: 480 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GRIi
@@ -32619,6 +34472,7 @@ Width: 658
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 76 -79 m 0
@@ -32633,6 +34487,9 @@ SplineSet
  198 -284 76 -224 76 -79 c 0
 EndSplineSet
 Refer: 481 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GhI
@@ -32641,6 +34498,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 42.0537109375 661 m 0
@@ -32708,6 +34566,9 @@ SplineSet
  96.0546875 375.436523438 l 1
  75.0283203125 403.236328125 65.765625 433.094726562 65.765625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GhIi
@@ -32716,6 +34577,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 380.529296875 625.615234375 m 0
@@ -32797,6 +34659,9 @@ SplineSet
  96.0546875 375.436523438 l 1
  75.0283203125 403.236328125 65.765625 433.094726562 65.765625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GhU
@@ -32805,6 +34670,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 72.6103515625 -103.641601562 m 4
@@ -32874,6 +34740,9 @@ SplineSet
  96.0546875 375.436523438 l 1
  75.0283203125 403.236328125 65.765625 433.094726562 65.765625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GhUu
@@ -32882,6 +34751,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 72.6103515625 -103.641601562 m 0
@@ -32953,6 +34823,9 @@ SplineSet
  96.0546875 375.436523438 l 1
  75.0283203125 403.236328125 65.765625 433.094726562 65.765625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GhRI
@@ -32961,6 +34834,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 37.5 -79 m 4
@@ -32975,6 +34849,9 @@ SplineSet
  159.5 -284 37.5 -224 37.5 -79 c 4
 EndSplineSet
 Refer: 485 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GhRIi
@@ -32983,6 +34860,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 37.5 -79 m 4
@@ -32997,6 +34875,9 @@ SplineSet
  159.5 -284 37.5 -224 37.5 -79 c 4
 EndSplineSet
 Refer: 486 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GhRa
@@ -33005,6 +34886,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 259.374023438 467.353515625 m 0
@@ -33069,6 +34951,9 @@ SplineSet
  562.053710938 -224 440.053710938 -284 302.053710938 -284 c 0
  164.053710938 -284 42.0537109375 -224 42.0537109375 -79 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_CU
@@ -33077,6 +34962,7 @@ Width: 530
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 21.056640625 -103.641601562 m 0
@@ -33123,6 +35009,9 @@ SplineSet
  86.76171875 318.563476562 l 1
  66.76171875 351 56.2978515625 380.620117188 56.2978515625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_CUu
@@ -33131,6 +35020,7 @@ Width: 530
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 21.056640625 -103.641601562 m 0
@@ -33179,6 +35069,9 @@ SplineSet
  86.76171875 318.563476562 l 1
  66.76171875 351 56.2978515625 380.620117188 56.2978515625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TtU
@@ -33187,6 +35080,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.4404296875 -103.641601562 m 0
@@ -33220,6 +35114,9 @@ SplineSet
  513.145507812 118 432.145507812 0 252.145507812 0 c 0
  74.1455078125 0 22 136.287109375 22 252.395507812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TtUu
@@ -33228,6 +35125,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 22.056640625 -103.641601562 m 0
@@ -33263,6 +35161,9 @@ SplineSet
  513.145507812 118 432.145507812 0 252.145507812 0 c 4
  74.1455078125 0 22 136.287109375 22 252.395507812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_TtRa
@@ -33271,6 +35172,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 26.3837890625 -89 m 4
@@ -33299,6 +35201,9 @@ SplineSet
  513.145507812 118 432.145507812 0 252.145507812 0 c 4
  74.1455078125 0 22 136.287109375 22 252.395507812 c 4
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_K.halant
@@ -33307,6 +35212,7 @@ Width: 707
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 579 634.805664062 m 5
@@ -33379,6 +35285,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_G.halant
@@ -33387,6 +35296,7 @@ Width: 665
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 519 634.805664062 m 5
@@ -33438,6 +35348,9 @@ SplineSet
  408.34375 94.73046875 357.276367188 0 226.715820312 0 c 0
  119.716796875 0 21.7158203125 57.625 21.7158203125 292 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Gh.halant
@@ -33446,6 +35359,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 437 634.805664062 m 1
@@ -33520,6 +35434,9 @@ SplineSet
  96.5009765625 375.436523438 l 1
  75.474609375 403.236328125 66.2119140625 433.094726562 66.2119140625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_GR.halant
@@ -33528,6 +35445,7 @@ Width: 665
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 76 -79 m 4
@@ -33542,6 +35460,9 @@ SplineSet
  198 -284 76 -224 76 -79 c 4
 EndSplineSet
 Refer: 498 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ChU
@@ -33550,6 +35471,7 @@ Width: 597
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 57.1015625 -103.641601562 m 0
@@ -33613,6 +35535,9 @@ SplineSet
  78.5986328125 369.030273438 l 1
  58.4609375 394.649414062 47.212890625 428.149414062 47.212890625 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ChUu
@@ -33621,6 +35546,7 @@ Width: 597
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 57.1015625 -103.641601562 m 0
@@ -33686,6 +35612,9 @@ SplineSet
  78.5986328125 369.030273438 l 1
  58.4609375 394.649414062 47.212890625 428.149414062 47.212890625 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JU
@@ -33694,6 +35623,7 @@ Width: 597
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 57.1015625 -103.641601562 m 0
@@ -33753,6 +35683,9 @@ SplineSet
  78.5986328125 369.030273438 l 1
  58.4609375 394.649414062 47.212890625 428.149414062 47.212890625 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JUu
@@ -33761,6 +35694,7 @@ Width: 597
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 57.1015625 -103.641601562 m 0
@@ -33822,6 +35756,9 @@ SplineSet
  78.5986328125 369.030273438 l 1
  58.4609375 394.649414062 47.212890625 428.149414062 47.212890625 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DdU
@@ -33830,6 +35767,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 62.81640625 -103.641601562 m 0
@@ -33881,6 +35819,9 @@ SplineSet
  110.80078125 318.563476562 l 1
  90.80078125 351 80.3369140625 380.620117188 80.3369140625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_DdUu
@@ -33889,6 +35830,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 62.81640625 -103.641601562 m 0
@@ -33942,6 +35884,9 @@ SplineSet
  110.80078125 318.563476562 l 1
  90.80078125 351 80.3369140625 380.620117188 80.3369140625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JhU
@@ -33950,6 +35895,7 @@ Width: 1052
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 532.703125 -103.641601562 m 0
@@ -34035,6 +35981,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JhUu
@@ -34043,6 +35992,7 @@ Width: 1052
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 532.703125 -103.641601562 m 0
@@ -34130,6 +36080,9 @@ SplineSet
  112.087890625 327.899414062 l 1
  66.798828125 344.899414062 22 391.899414062 22 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_CRa
@@ -34138,6 +36091,7 @@ Width: 530
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 21 -89 m 4
@@ -34179,6 +36133,9 @@ SplineSet
  86.76171875 318.563476562 l 1
  66.76171875 351 56.2978515625 380.620117188 56.2978515625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ChIi
@@ -34187,6 +36144,7 @@ Width: 617
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 336.478515625 634.174804688 m 0
@@ -34260,6 +36218,9 @@ SplineSet
  78.7744140625 369.030273438 l 1
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ny.halant
@@ -34268,6 +36229,7 @@ Width: 1094
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 954 634.805664062 m 5
@@ -34374,6 +36336,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NyI
@@ -34382,6 +36347,7 @@ Width: 1137
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 601 656 m 4
@@ -34481,6 +36447,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_NyIi
@@ -34489,6 +36458,7 @@ Width: 1137
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 955.475585938 625.615234375 m 4
@@ -34600,6 +36570,9 @@ SplineSet
  185 0 l 0
  90 0 22 46.2763671875 22 284 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BU
@@ -34608,6 +36581,7 @@ Width: 575
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 37.9716796875 -103.641601562 m 0
@@ -34647,6 +36621,9 @@ SplineSet
  251 28 223.478515625 0 171 0 c 0
  66 0 22 79 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BUu
@@ -34655,6 +36632,7 @@ Width: 575
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 56.056640625 -103.641601562 m 0
@@ -34696,6 +36674,9 @@ SplineSet
  251 28 223.478515625 0 171 0 c 0
  66 0 22 79 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_BRa
@@ -34704,6 +36685,7 @@ Width: 575
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 20 -79 m 0
@@ -34738,6 +36720,9 @@ SplineSet
  251 28 223.478515625 0 171 0 c 0
  66 0 22 79 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_YU
@@ -34746,6 +36731,7 @@ Width: 582
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 65.8369140625 -103.671875 m 0
@@ -34798,6 +36784,9 @@ SplineSet
  279.134765625 31.572265625 239.72265625 -0.0302734375 187.04296875 -0.0302734375 c 0
  41.04296875 -0.0302734375 22.04296875 124.969726562 22.04296875 255.969726562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_YUu
@@ -34806,6 +36795,7 @@ Width: 582
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 65.8369140625 -103.671875 m 0
@@ -34860,6 +36850,9 @@ SplineSet
  279.134765625 31.572265625 239.72265625 -0.0302734375 187.04296875 -0.0302734375 c 0
  41.04296875 -0.0302734375 22.04296875 124.969726562 22.04296875 255.969726562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_L.halant
@@ -34868,6 +36861,7 @@ Width: 592
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 476 634.805664062 m 1
@@ -34911,6 +36905,9 @@ SplineSet
  546.665039062 -57.1005859375 456.083984375 -154 309 -154 c 0
  112.895507812 -154 22.220703125 6 22.220703125 208 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_LI
@@ -34919,6 +36916,7 @@ Width: 586
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 52 661 m 0
@@ -34955,6 +36953,9 @@ SplineSet
  546.665039062 -57.1005859375 456.083984375 -154 309 -154 c 0
  112.895507812 -154 22.220703125 6 22.220703125 208 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_LIi
@@ -34963,6 +36964,7 @@ Width: 586
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 390.475585938 625.615234375 m 0
@@ -35011,6 +37013,9 @@ SplineSet
  546.665039062 -57.1005859375 456.083984375 -154 309 -154 c 0
  112.895507812 -154 22.220703125 6 22.220703125 208 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_VU
@@ -35019,6 +37024,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 21.9111328125 -103.641601562 m 0
@@ -35064,6 +37070,9 @@ SplineSet
  92 318.563476562 l 1
  72 351 61.5361328125 380.620117188 61.5361328125 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_VUu
@@ -35072,6 +37081,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 21.9111328125 -103.641601562 m 0
@@ -35119,6 +37129,9 @@ SplineSet
  92 318.563476562 l 1
  72 351 61.5361328125 380.620117188 61.5361328125 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Sh.halant
@@ -35127,6 +37140,7 @@ Width: 718
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 572 634.649414062 m 1
@@ -35193,6 +37207,9 @@ SplineSet
  408.34375 94.73046875 357.276367188 0 226.715820312 0 c 0
  119.716796875 0 21.7158203125 57.625 21.7158203125 292 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ShI
@@ -35201,6 +37218,7 @@ Width: 704
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 98 661 m 0
@@ -35260,6 +37278,9 @@ SplineSet
  408.627929688 94.73046875 357.560546875 0 227 0 c 0
  120.000976562 0 22 57.625 22 292 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_ShIi
@@ -35268,6 +37289,7 @@ Width: 704
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 436.475585938 625.615234375 m 0
@@ -35339,6 +37361,9 @@ SplineSet
  408.627929688 94.73046875 357.560546875 0 227 0 c 0
  120.000976562 0 22 57.625 22 292 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_HR.halant
@@ -35347,6 +37372,7 @@ Width: 692
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 82.7158203125 -79.15625 m 4
@@ -35361,6 +37387,9 @@ SplineSet
  204.715820312 -284.15625 82.7158203125 -224.15625 82.7158203125 -79.15625 c 4
 EndSplineSet
 Refer: 355 -1 N 1 0 0 1 -0.28418 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_HRa
@@ -35369,6 +37398,7 @@ Width: 664
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 83 -79.15625 m 4
@@ -35423,6 +37453,9 @@ SplineSet
  78.2861328125 368.979492188 l 1
  58.1484375 394.598632812 46.900390625 428.098632812 46.900390625 456.356445312 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_HRI
@@ -35431,6 +37464,7 @@ Width: 664
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 83 -79.15625 m 4
@@ -35445,6 +37479,9 @@ SplineSet
  205 -284.15625 83 -224.15625 83 -79.15625 c 4
 EndSplineSet
 Refer: 356 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_HRIi
@@ -35453,6 +37490,7 @@ Width: 664
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 83 -79.15625 m 4
@@ -35467,6 +37505,9 @@ SplineSet
  205 -284.15625 83 -224.15625 83 -79.15625 c 4
 EndSplineSet
 Refer: 357 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ll.halant
@@ -35475,6 +37516,7 @@ Width: 567
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 421 634.805664062 m 1
@@ -35541,6 +37583,9 @@ SplineSet
  499.779296875 188.915039062 451.822265625 110 328.779296875 110 c 0
  219.260742188 110 160.670898438 182.0703125 160.670898438 263.598632812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_LlI
@@ -35549,6 +37594,7 @@ Width: 575
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 65 661 m 0
@@ -35608,6 +37654,9 @@ SplineSet
  500 188.915039062 452.04296875 110 329 110 c 0
  219.481445312 110 160.891601562 182.0703125 160.891601562 263.598632812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_LlIi
@@ -35616,6 +37665,7 @@ Width: 575
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 403.475585938 625.615234375 m 0
@@ -35687,6 +37737,9 @@ SplineSet
  500 188.915039062 452.04296875 110 329 110 c 0
  219.481445312 110 160.891601562 182.0703125 160.891601562 263.598632812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_F.halant
@@ -35695,6 +37748,7 @@ Width: 609
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 473 637.649414062 m 1
@@ -35734,6 +37788,9 @@ SplineSet
  252.241210938 0 l 1
  99.2412109375 0 22.2412109375 90 22.2412109375 295 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_FI
@@ -35742,6 +37799,7 @@ Width: 590
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 35.2373046875 661 m 0
@@ -35774,6 +37832,9 @@ SplineSet
  252 0 l 1
  99 0 22 90 22 295 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_FIi
@@ -35782,6 +37843,7 @@ Width: 590
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 373.712890625 625.615234375 m 0
@@ -35828,6 +37890,9 @@ SplineSet
  252 0 l 1
  99 0 22 90 22 295 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_FU
@@ -35836,6 +37901,7 @@ Width: 590
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 61.056640625 -103.641601562 m 0
@@ -35870,6 +37936,9 @@ SplineSet
  252 0 l 1
  99 0 22 90 22 295 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_FUu
@@ -35878,6 +37947,7 @@ Width: 590
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 61.056640625 -103.641601562 m 0
@@ -35914,6 +37984,9 @@ SplineSet
  252 0 l 1
  99 0 22 90 22 295 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_FR.halant
@@ -35922,6 +37995,7 @@ Width: 609
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 35.2373046875 -79 m 4
@@ -35936,6 +38010,9 @@ SplineSet
  157.237304688 -284 35.2373046875 -224 35.2373046875 -79 c 4
 EndSplineSet
 Refer: 534 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_FRa
@@ -35944,6 +38021,7 @@ Width: 590
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 35.2373046875 -79 m 4
@@ -35973,6 +38051,9 @@ SplineSet
  252 0 l 1
  99 0 22 90 22 295 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_FRI
@@ -35981,6 +38062,7 @@ Width: 590
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 35.2373046875 -79 m 4
@@ -35995,6 +38077,9 @@ SplineSet
  157.237304688 -284 35.2373046875 -224 35.2373046875 -79 c 4
 EndSplineSet
 Refer: 535 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_FRIi
@@ -36003,6 +38088,7 @@ Width: 590
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 35.2373046875 -79 m 4
@@ -36017,6 +38103,9 @@ SplineSet
  157.237304688 -284 35.2373046875 -224 35.2373046875 -79 c 4
 EndSplineSet
 Refer: 536 -1 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ka.reph
@@ -36025,6 +38114,7 @@ Width: 697
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 273.29296875 634.572265625 m 4
@@ -36099,6 +38189,9 @@ SplineSet
  112.372070312 327.899414062 l 1
  67.0830078125 344.899414062 22.2841796875 391.899414062 22.2841796875 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_KU.reph
@@ -36107,6 +38200,7 @@ Width: 704
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 269.380859375 634.572265625 m 0
@@ -36189,6 +38283,9 @@ SplineSet
  119.547851562 327.899414062 l 1
  74.2587890625 344.899414062 29.4599609375 391.899414062 29.4599609375 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ga.reph
@@ -36197,6 +38294,7 @@ Width: 658
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 140.29296875 654.572265625 m 4
@@ -36250,6 +38348,9 @@ SplineSet
  408.627929688 94.73046875 357.560546875 0 227 0 c 0
  120.000976562 0 22 57.625 22 292 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Gha.reph
@@ -36258,6 +38359,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 114.29296875 654.572265625 m 0
@@ -36334,6 +38436,9 @@ SplineSet
  91.5009765625 375.436523438 l 1
  70.474609375 403.236328125 61.2119140625 433.094726562 61.2119140625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ca.reph
@@ -36342,6 +38447,7 @@ Width: 531
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 117.0546875 706.572265625 m 4
@@ -36398,6 +38504,9 @@ SplineSet
  87 318.563476562 l 1
  67 351 56.5361328125 380.620117188 56.5361328125 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Jha.reph
@@ -36406,6 +38515,7 @@ Width: 1050
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 584.0546875 706.572265625 m 4
@@ -36501,6 +38611,9 @@ SplineSet
  109.201171875 327.899414062 l 1
  63.912109375 344.899414062 19.11328125 391.899414062 19.11328125 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JhU.reph
@@ -36509,6 +38622,7 @@ Width: 1050
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 529.81640625 -103.641601562 m 0
@@ -36619,6 +38733,9 @@ SplineSet
  109.201171875 327.899414062 l 1
  63.912109375 344.899414062 19.11328125 391.899414062 19.11328125 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_JhUu.reph
@@ -36627,6 +38744,7 @@ Width: 1050
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 529.81640625 -103.641601562 m 0
@@ -36739,6 +38857,9 @@ SplineSet
  109.201171875 327.899414062 l 1
  63.912109375 344.899414062 19.11328125 391.899414062 19.11328125 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Tta.reph
@@ -36747,6 +38868,7 @@ Width: 535
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 122.0546875 706.572265625 m 4
@@ -36790,6 +38912,9 @@ SplineSet
  513 118 432 0 252 0 c 0
  74 0 21.8544921875 136.287109375 21.8544921875 252.395507812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Dda.reph
@@ -36798,6 +38923,7 @@ Width: 583
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 117.0546875 706.572265625 m 4
@@ -36859,6 +38985,9 @@ SplineSet
  110.80078125 318.563476562 l 1
  90.80078125 351 80.3369140625 380.620117188 80.3369140625 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Nna.reph
@@ -36867,6 +38996,7 @@ Width: 878
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 448 580.572265625 m 0
@@ -36956,6 +39086,9 @@ SplineSet
  128.320546458 151 68.8565030248 201.869569905 55.7195120206 269.999997081 c 0
  53.9439304366 279.208432389 53.0146484375 288.732187917 53.0146484375 298.48828125 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ta.reph
@@ -36964,6 +39097,7 @@ Width: 679
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 267.29296875 634.342773438 m 4
@@ -37029,6 +39163,9 @@ SplineSet
  112.372070312 327.899414062 l 1
  67.0830078125 344.899414062 22.2841796875 391.899414062 22.2841796875 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Dha.reph
@@ -37037,6 +39174,7 @@ Width: 581
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 115.399414062 706.572265625 m 4
@@ -37087,6 +39225,9 @@ SplineSet
  262.680664062 31.6025390625 223.268554688 0 170.588867188 0 c 0
  53.98046875 0 22 126.224609375 22 231.204101562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Pa.reph
@@ -37095,6 +39236,7 @@ Width: 573
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 103.07421875 654.572265625 m 4
@@ -37156,6 +39298,9 @@ SplineSet
  78.3349609375 369.030273438 l 1
  58.1962890625 394.649414062 46.94921875 428.149414062 46.94921875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Pha.reph
@@ -37164,6 +39309,7 @@ Width: 548
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 227.04296875 601 m 0
@@ -37228,6 +39374,9 @@ SplineSet
  92.1884765625 318.563476562 l 1
  72.1884765625 351 61.724609375 380.620117188 61.724609375 409.272460938 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ba.reph
@@ -37236,6 +39385,7 @@ Width: 575
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 110.294921875 706.572265625 m 0
@@ -37285,6 +39435,9 @@ SplineSet
  251 28 223.478515625 0 171 0 c 0
  66 0 22 79 22 220 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ma.reph
@@ -37293,6 +39446,7 @@ Width: 552
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 139.0546875 706.572265625 m 0
@@ -37346,6 +39500,9 @@ SplineSet
  530 118 449 0 269 0 c 0
  91.6142578125 0 22 123.690429688 22 301 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ya.reph
@@ -37354,6 +39511,7 @@ Width: 582
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 30.29296875 564.572265625 m 0
@@ -37413,6 +39571,9 @@ SplineSet
  279.134765625 31.572265625 239.72265625 -0.0302734375 187.04296875 -0.0302734375 c 0
  41.04296875 -0.0302734375 22.04296875 124.969726562 22.04296875 255.969726562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ssa.reph
@@ -37421,6 +39582,7 @@ Width: 572
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 103.513671875 654.572265625 m 4
@@ -37491,6 +39653,9 @@ SplineSet
  78.7744140625 369.030273438 l 1
  58.63671875 394.649414062 47.388671875 428.149414062 47.388671875 456.407226562 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Sa.reph
@@ -37499,6 +39664,7 @@ Width: 588
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 118.846679688 654.572265625 m 4
@@ -37568,6 +39734,9 @@ SplineSet
  96.0546875 375.436523438 l 1
  75.0283203125 403.236328125 65.765625 433.094726562 65.765625 461.536132812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Ha.reph
@@ -37576,6 +39745,7 @@ Width: 664
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 110.29296875 654.572265625 m 0
@@ -37642,6 +39812,9 @@ SplineSet
  78.2861328125 368.979492188 l 1
  58.1484375 394.598632812 46.900390625 428.098632812 46.900390625 456.356445312 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Fa.reph
@@ -37650,6 +39823,7 @@ Width: 590
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 119.594726562 654.572265625 m 0
@@ -37691,6 +39865,9 @@ SplineSet
  252 0 l 1
  99 0 22 90 22 295 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 
 StartChar: si_Tha.reph
@@ -37699,6 +39876,7 @@ Width: 548
 VWidth: 0
 Flags: HW
 LayerCount: 5
+Back
 Fore
 SplineSet
 123.427734375 385.2421875 m 0
@@ -37751,6 +39929,9 @@ SplineSet
  526 104 432 0 252 0 c 0
  74 0 21.8544921875 136.287109375 21.8544921875 252.395507812 c 0
 EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
 EndChar
 EndChars
 EndSplineFont
