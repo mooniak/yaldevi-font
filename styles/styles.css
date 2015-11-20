@@ -24,23 +24,8 @@ font-size: 100%;
 font: inherit;
 vertical-align: baseline;
 }
-		.content {
-
-			padding: 10px;
-			}
-
-
-
-h3{ font-size: 18px;
-    font-weight: 100;}
-
-
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-display: block;
-}
 body {
+font-size: 1vw;
 line-height: 1;
     font-variant: normal; 
 font-feature-settings: "kern" on, "liga" on, "calt" on, "dlig", "swsh"
@@ -49,6 +34,34 @@ font-feature-settings: "kern" on, "liga" on, "calt" on, "dlig", "swsh"
 -ms-font-feature-settings: "kern" on, "liga" on, "calt" on, "dlig", "swsh"
 -o-font-feature-settings: "kern" on, "liga" on, "calt" on, "dlig", "swsh"
 }
+.content {
+    padding: 10px;
+			}
+
+h1{    font-size: 3em;
+ }
+
+h3{ 
+    font-size: 2em;
+    font-weight: 100;}
+
+.flex
+   {
+         height: 500px;
+
+  display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+   }
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+display: block;
+}
+
 ol, ul {
 list-style: none;
 }
