@@ -19,6 +19,29 @@ See [Milestones](https://github.com/mooniak/ayanna-narrow/milestones) and [Timel
 -  See `/sources/sglyphs` contains source `.glyphs` files which opens in [Glyphs](https://glyphsapp.com/). These files are under active developemnt.
 
 
+## How To Build 
+
+If you want your way around fonts and terminal, you can use our build system to fonts.To generate fonts we use a virtual enviromant created with Vagrant. See [WeliPilla](https://github.com/mooniak/WeliPilla) for more info.
+
+Once you have Welipilla set up, do the following..
+
+- Run Vagrant box, this will take a few minuits to set up the build enviroment.
+
+```shell
+$vagrant up
+```
+
+- SSH into vagrant box.(Use putty on Windows)
+```shell
+$vagrant ssh
+```
+
+- Run builder script.
+```shell
+$cd /vagrant/scripts && sh builder.sh
+```
+
+
 ## Credits
 
 - Pathum Egodawatta (@pathumego) of mooniak
