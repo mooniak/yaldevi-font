@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+import os
 import hindkit as kit
 kit.confirm_version('0.2.1')
 
@@ -56,6 +57,7 @@ builder.generate_designspace()
 builder.generate_fmndb()
 
 builder.build()
+os.rename("build/Ayanna-Bold.otf","Ayanna-Bold.otf")
 
 family.masters[0]._file_name = 'Ayanna-Regular.ufo'
 family.masters[1]._file_name = 'Ayanna-ExtraBold.ufo'
@@ -100,3 +102,5 @@ builder.generate_designspace()
 builder.generate_fmndb()
 
 builder.build()
+os.remove("build/Ayanna-Bold1.otf")
+os.rename("Ayanna-Bold.otf", "build/Ayanna-Bold.otf")
