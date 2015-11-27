@@ -19,6 +19,44 @@ family.set_masters(
         # 'devanagari_matra_i_variants',
     ],
 )
+family.masters[0]._file_name = 'Ayanna-Bold.ufo'
+
+family.set_styles([
+    ('Bold',       100, 900),
+])
+
+# - - -
+
+#family.output_name_affix = '{} FDK'
+
+# - - -
+
+builder = kit.Builder(family)
+
+builder.fontrevision = '0.900'
+
+builder.set_options([
+
+    'prepare_styles',   # stage i
+    'prepare_features', # stage ii
+    'compile',          # stage iii
+
+    #'makeinstances', #!
+    'checkoutlines', #!
+    # 'autohint',      #!
+
+    'do_style_linking',
+    'use_os_2_version_4',
+    'prefer_typo_metrics',
+    'is_width_weight_slope_only',
+
+])
+
+builder.generate_designspace()
+builder.generate_fmndb()
+
+builder.build()
+
 family.masters[0]._file_name = 'Ayanna-Regular.ufo'
 family.masters[1]._file_name = 'Ayanna-ExtraBold.ufo'
 
@@ -28,7 +66,7 @@ family.set_styles([
     ('Regular',     28, 600),
     ('Medium',     47, 700),
     ('SemiBold',   71, 800),
-    ('Bold',       100, 900),
+    ('Bold1',       100, 900),
 ])
 
 # - - -

@@ -21,6 +21,6 @@ python ../../scripts/fontconvert Ayanna-tamil-1.sfd ../../sources --ufo
 cd ../../scripts
 python merger.py ../masters/Ayanna-Regular.ufo ../sources/Ayanna-sinhala-0.ufo ../sources/Ayanna-latin-0.ufo ../sources/Ayanna-tamil-0.ufo
 python merger.py ../masters/Ayanna-ExtraBold.ufo ../sources/Ayanna-sinhala-1.ufo ../sources/Ayanna-latin-1.ufo ../sources/Ayanna-tamil-1.ufo
-python merger.py ../masters/Ayanna-Bold ../sources/Ayanna-sinhala-1-opt.ufo
+python merger.py ../masters/Ayanna-Bold.ufo ../sources/Ayanna-sinhala-1-opt.ufo ../sources/Ayanna-latin-1.ufo ../sources/Ayanna-tamil-1.ufo
 cd ../
 python build.py
