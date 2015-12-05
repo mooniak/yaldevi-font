@@ -1,1 +1,1 @@
-Ayanna and Ayanna Narrow is a trademark of Mooniak Pvt. Ltd
+Ayanna and Ayanna Narrow are trademarks of Mooniak Pvt. Ltd
