@@ -43,15 +43,17 @@ $cd /vagrant/scripts && sh builder.sh
 
 
 ## Credits
-
+See FONTLOG.md for details on contributions.
 - Pathum Egodawatta (@pathumego) of mooniak
 - Denzel Rajitha (@denzelrajitha) of mooniak
 - Sol Matas (@solmatas)
+- Kosala Senevirathne (@kosalaya) of mooniak
+- Ayantha Randika (@paarandika) of mooniak
 
 
 ## License
 
-Ayanna Narrow™ will be released under the  [SIL Open Font License](http://scripts.sil.org/OFL)
+Ayanna™ will be released under the  [SIL Open Font License](http://scripts.sil.org/OFL)
 
 For information on what you're allowed to change or modify, consult the
 OFL-1.1.txt and OFL-FAQ.txt files. The OFL-FAQ also gives a very general
