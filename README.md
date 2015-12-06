@@ -11,12 +11,12 @@ See [Milestones](https://github.com/mooniak/ayanna-narrow/milestones) and [Timel
 
 ## Repository Structure
 
-- See [Realases](https://github.com/mooniak/stick-no-bills-font/releases) to Download released clean font versions, sources and specimens at the relase point.
+- See [Realases](https://github.com/mooniak/ayanna-font/releases) to Download released clean font versions, sources and specimens at the relase point.
 
 - See `/fonts` in `gh-pages` branch contains draft fonts which are dirty, generated for design testing.
-- See `/sources/` contains dirty and incomplete `.ufo` files which opens in all major font editors. These files are generated in intervals in between development. See [Realases](https://github.com/mooniak/stick-no-bills-font/releases) for clean sources.
+- See `/sources/` contains dirty and incomplete `.ufo` files which opens in all major font editors. These files are generated in intervals in between development. See [Realases](https://github.com/mooniak/ayanna-font/releases) for clean sources.
 - See `/sources/sfd` contains source `.sfd` files which opens in [FontForge](http://fontforge.github.io/en-US/). These files are under active developemnt.
--  See `/sources/sglyphs` contains source `.glyphs` files which opens in [Glyphs](https://glyphsapp.com/). These files are under active developemnt.
+-  See `/sources/glyphs` contains source `.glyphs` files which opens in [Glyphs](https://glyphsapp.com/). These files are under active developemnt.
 
 
 ## How To Build 
@@ -43,15 +43,17 @@ $cd /vagrant/scripts && sh builder.sh
 
 
 ## Credits
-
+See FONTLOG.md for details on contributions.
 - Pathum Egodawatta (@pathumego) of mooniak
 - Denzel Rajitha (@denzelrajitha) of mooniak
 - Sol Matas (@solmatas)
+- Kosala Senevirathne (@kosalaya) of mooniak
+- Ayantha Randika (@paarandika) of mooniak
 
 
 ## License
 
-Ayanna Narrow™ will be released under the  [SIL Open Font License](http://scripts.sil.org/OFL)
+Ayanna™ will be released under the  [SIL Open Font License](http://scripts.sil.org/OFL)
 
 For information on what you're allowed to change or modify, consult the
 OFL-1.1.txt and OFL-FAQ.txt files. The OFL-FAQ also gives a very general
