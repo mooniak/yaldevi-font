@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425560291
-ModificationTime: 1449499059
+ModificationTime: 1449502423
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -43,7 +43,6 @@ OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: Custom
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -84,7 +83,7 @@ Grid
 -1024 0 m 0
  2048 0 l 1024
 EndSplineSet
-BeginChars: 65543 564
+BeginChars: 565 565
 
 StartChar: si_Tta
 Encoding: 34 3495 0
@@ -1482,7 +1481,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DDha
-Encoding: 460 -1 10
+Encoding: 457 -1 10
 Width: 754
 VWidth: 0
 Flags: HMW
@@ -7492,7 +7491,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Reph
-Encoding: 87 -1 86
+Encoding: 85 -1 86
 Width: -188
 VWidth: 0
 Flags: HW
@@ -7575,7 +7574,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Rakar
-Encoding: 88 -1 87
+Encoding: 86 -1 87
 Width: 666
 VWidth: 0
 Flags: HW
@@ -7649,7 +7648,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KI
-Encoding: 90 -1 88
+Encoding: 88 -1 88
 Width: 696
 VWidth: 0
 Flags: HW
@@ -7678,7 +7677,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KIi
-Encoding: 91 -1 89
+Encoding: 89 -1 89
 Width: 696
 VWidth: 0
 Flags: HW
@@ -7719,7 +7718,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KU
-Encoding: 92 -1 90
+Encoding: 90 -1 90
 Width: 704
 VWidth: 0
 Flags: HW
@@ -7850,7 +7849,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KUu
-Encoding: 93 -1 91
+Encoding: 91 -1 91
 Width: 740
 VWidth: 0
 Flags: HW
@@ -7955,7 +7954,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Kh.halant
-Encoding: 99 -1 92
+Encoding: 97 -1 92
 Width: 576
 VWidth: 0
 Flags: HW
@@ -8013,7 +8012,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KhI
-Encoding: 100 -1 93
+Encoding: 98 -1 93
 Width: 576
 VWidth: 0
 Flags: HW
@@ -8071,7 +8070,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KhIi
-Encoding: 101 -1 94
+Encoding: 99 -1 94
 Width: 576
 VWidth: 0
 Flags: HW
@@ -8140,7 +8139,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KhU
-Encoding: 102 -1 95
+Encoding: 100 -1 95
 Width: 576
 VWidth: 0
 Flags: HW
@@ -8200,7 +8199,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KhUu
-Encoding: 103 -1 96
+Encoding: 101 -1 96
 Width: 576
 VWidth: 0
 Flags: HW
@@ -8262,7 +8261,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KhR.halant
-Encoding: 105 -1 97
+Encoding: 103 -1 97
 Width: 578
 VWidth: 0
 Flags: HW
@@ -8288,7 +8287,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KhRI
-Encoding: 106 -1 98
+Encoding: 104 -1 98
 Width: 578
 VWidth: 0
 Flags: HW
@@ -8314,7 +8313,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KhRIi
-Encoding: 107 -1 99
+Encoding: 105 -1 99
 Width: 578
 VWidth: 0
 Flags: HW
@@ -8340,7 +8339,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GU
-Encoding: 111 -1 100
+Encoding: 109 -1 100
 Width: 668
 VWidth: 0
 Flags: HW
@@ -8391,7 +8390,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GUu
-Encoding: 112 -1 101
+Encoding: 110 -1 101
 Width: 681
 VWidth: 0
 Flags: HW
@@ -8451,7 +8450,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GhR.halant
-Encoding: 65536 -1 102
+Encoding: 563 -1 102
 Width: 604
 VWidth: 0
 Flags: HW
@@ -8477,7 +8476,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ng.halant
-Encoding: 128 -1 103
+Encoding: 125 -1 103
 Width: 586
 VWidth: 0
 Flags: HW
@@ -8602,7 +8601,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NgI
-Encoding: 129 -1 104
+Encoding: 126 -1 104
 Width: 586
 VWidth: 0
 Flags: HW
@@ -8671,7 +8670,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NgIi
-Encoding: 130 -1 105
+Encoding: 127 -1 105
 Width: 586
 VWidth: 0
 Flags: HW
@@ -8751,7 +8750,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Nng.halant
-Encoding: 131 -1 106
+Encoding: 128 -1 106
 Width: 858
 VWidth: 0
 Flags: HW
@@ -8823,7 +8822,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NngI
-Encoding: 132 -1 107
+Encoding: 129 -1 107
 Width: 829
 VWidth: 0
 Flags: HW
@@ -8888,7 +8887,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NngIi
-Encoding: 133 -1 108
+Encoding: 130 -1 108
 Width: 829
 VWidth: 0
 Flags: HW
@@ -8965,7 +8964,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NngU
-Encoding: 134 -1 109
+Encoding: 131 -1 109
 Width: 839
 VWidth: 0
 Flags: HW
@@ -9025,7 +9024,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NngUu
-Encoding: 135 -1 110
+Encoding: 132 -1 110
 Width: 853
 VWidth: 0
 Flags: HW
@@ -9094,7 +9093,7 @@ Layer: 4
 EndChar
 
 StartChar: si_C.halant
-Encoding: 136 -1 111
+Encoding: 133 -1 111
 Width: 529
 VWidth: 0
 Flags: HW
@@ -9274,7 +9273,7 @@ Layer: 4
 EndChar
 
 StartChar: si_CI
-Encoding: 137 -1 112
+Encoding: 134 -1 112
 Width: 529
 VWidth: 0
 Flags: HW
@@ -9330,7 +9329,7 @@ Layer: 4
 EndChar
 
 StartChar: si_CIi
-Encoding: 138 -1 113
+Encoding: 135 -1 113
 Width: 529
 VWidth: 0
 Flags: HW
@@ -9397,7 +9396,7 @@ Layer: 4
 EndChar
 
 StartChar: si_CR.halant
-Encoding: 142 -1 114
+Encoding: 139 -1 114
 Width: 529
 VWidth: 0
 Flags: HW
@@ -9423,7 +9422,7 @@ Layer: 4
 EndChar
 
 StartChar: si_CRI
-Encoding: 144 -1 115
+Encoding: 141 -1 115
 Width: 529
 VWidth: 0
 Flags: HW
@@ -9449,7 +9448,7 @@ Layer: 4
 EndChar
 
 StartChar: si_CRIi
-Encoding: 145 -1 116
+Encoding: 142 -1 116
 Width: 529
 VWidth: 0
 Flags: HW
@@ -9475,7 +9474,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ch.halant
-Encoding: 146 -1 117
+Encoding: 143 -1 117
 Width: 597
 VWidth: 0
 Flags: HW
@@ -9555,7 +9554,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ChI
-Encoding: 147 -1 118
+Encoding: 144 -1 118
 Width: 617
 VWidth: 0
 Flags: HW
@@ -9702,7 +9701,7 @@ Layer: 4
 EndChar
 
 StartChar: si_J.halant
-Encoding: 151 -1 119
+Encoding: 148 -1 119
 Width: 597
 VWidth: 0
 Flags: HW
@@ -9778,7 +9777,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JI
-Encoding: 152 -1 120
+Encoding: 149 -1 120
 Width: 617
 VWidth: 0
 Flags: HW
@@ -9902,7 +9901,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JIi
-Encoding: 153 -1 121
+Encoding: 150 -1 121
 Width: 617
 VWidth: 0
 Flags: HW
@@ -10051,7 +10050,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ja.reph
-Encoding: 156 -1 122
+Encoding: 153 -1 122
 Width: 617
 VWidth: 0
 Flags: HW
@@ -10129,7 +10128,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JR.halant
-Encoding: 157 -1 123
+Encoding: 154 -1 123
 Width: 597
 VWidth: 0
 Flags: HW
@@ -10155,7 +10154,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JRa
-Encoding: 158 -1 124
+Encoding: 155 -1 124
 Width: 597
 VWidth: 0
 Flags: HW
@@ -10221,7 +10220,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JRI
-Encoding: 159 -1 125
+Encoding: 156 -1 125
 Width: 617
 VWidth: 0
 Flags: HW
@@ -10300,7 +10299,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JRIi
-Encoding: 160 -1 126
+Encoding: 157 -1 126
 Width: 617
 VWidth: 0
 Flags: HW
@@ -10391,7 +10390,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Jh.halant
-Encoding: 161 -1 127
+Encoding: 158 -1 127
 Width: 1052
 VWidth: 0
 Flags: HW
@@ -10640,7 +10639,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JhI
-Encoding: 162 -1 128
+Encoding: 159 -1 128
 Width: 1052
 VWidth: 0
 Flags: HW
@@ -10735,7 +10734,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JhIi
-Encoding: 163 -1 129
+Encoding: 160 -1 129
 Width: 1052
 VWidth: 0
 Flags: HW
@@ -10841,7 +10840,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JhR.halant
-Encoding: 169 -1 130
+Encoding: 166 -1 130
 Width: 1052
 VWidth: 0
 Flags: HW
@@ -10867,7 +10866,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JhRa
-Encoding: 170 -1 131
+Encoding: 167 -1 131
 Width: 1052
 VWidth: 0
 Flags: HW
@@ -10959,7 +10958,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JhRI
-Encoding: 171 -1 132
+Encoding: 168 -1 132
 Width: 1052
 VWidth: 0
 Flags: HW
@@ -10985,7 +10984,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JhRIi
-Encoding: 172 -1 133
+Encoding: 169 -1 133
 Width: 1052
 VWidth: 0
 Flags: HW
@@ -11011,7 +11010,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NyAa
-Encoding: 174 -1 134
+Encoding: 171 -1 134
 Width: 1347
 VWidth: 0
 Flags: HW
@@ -11120,7 +11119,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NyAe
-Encoding: 175 -1 135
+Encoding: 172 -1 135
 Width: 1407
 VWidth: 0
 Flags: HW
@@ -11230,7 +11229,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NyAee
-Encoding: 176 -1 136
+Encoding: 173 -1 136
 Width: 1420
 VWidth: 0
 Flags: HW
@@ -11350,7 +11349,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NyAa.halant
-Encoding: 177 -1 137
+Encoding: 174 -1 137
 Width: 1354
 VWidth: 0
 Flags: HW
@@ -11479,7 +11478,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NyU
-Encoding: 180 -1 138
+Encoding: 177 -1 138
 Width: 1086
 VWidth: 0
 Flags: HW
@@ -11582,7 +11581,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NyUu
-Encoding: 181 -1 139
+Encoding: 178 -1 139
 Width: 1086
 VWidth: 0
 Flags: HW
@@ -11687,7 +11686,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NyR.halant
-Encoding: 182 -1 140
+Encoding: 179 -1 140
 Width: 1122
 VWidth: 0
 Flags: HW
@@ -11804,7 +11803,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NyRa
-Encoding: 183 -1 141
+Encoding: 180 -1 141
 Width: 1103
 VWidth: 0
 Flags: HW
@@ -11901,7 +11900,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NyRI
-Encoding: 184 -1 142
+Encoding: 181 -1 142
 Width: 1137
 VWidth: 0
 Flags: HW
@@ -12011,7 +12010,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NyRIi
-Encoding: 185 -1 143
+Encoding: 182 -1 143
 Width: 1137
 VWidth: 0
 Flags: HW
@@ -12133,7 +12132,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Jny.halant
-Encoding: 186 -1 144
+Encoding: 183 -1 144
 Width: 1030
 VWidth: 0
 Flags: HW
@@ -12230,7 +12229,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JnyAa
-Encoding: 187 -1 145
+Encoding: 184 -1 145
 Width: 1284
 VWidth: 0
 Flags: HW
@@ -12318,7 +12317,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JnyAe
-Encoding: 188 -1 146
+Encoding: 185 -1 146
 Width: 1343
 VWidth: 0
 Flags: HW
@@ -12407,7 +12406,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JnyAee
-Encoding: 189 -1 147
+Encoding: 186 -1 147
 Width: 1356
 VWidth: 0
 Flags: HW
@@ -12506,7 +12505,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JnyAa.halant
-Encoding: 190 -1 148
+Encoding: 187 -1 148
 Width: 1290
 VWidth: 0
 Flags: HW
@@ -12614,7 +12613,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JnyI
-Encoding: 191 -1 149
+Encoding: 188 -1 149
 Width: 1073
 VWidth: 0
 Flags: HW
@@ -12704,7 +12703,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JnyIi
-Encoding: 192 -1 150
+Encoding: 189 -1 150
 Width: 1073
 VWidth: 0
 Flags: HW
@@ -12806,7 +12805,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JnyU
-Encoding: 193 -1 151
+Encoding: 190 -1 151
 Width: 1022
 VWidth: 0
 Flags: HW
@@ -12888,7 +12887,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JnyUu
-Encoding: 194 -1 152
+Encoding: 191 -1 152
 Width: 1022
 VWidth: 0
 Flags: HW
@@ -12972,7 +12971,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JnyR.halant
-Encoding: 195 -1 153
+Encoding: 192 -1 153
 Width: 1058
 VWidth: 0
 Flags: HW
@@ -13068,7 +13067,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JnyRa
-Encoding: 196 -1 154
+Encoding: 193 -1 154
 Width: 1039
 VWidth: 0
 Flags: HW
@@ -13144,7 +13143,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JnyRI
-Encoding: 197 -1 155
+Encoding: 194 -1 155
 Width: 1073
 VWidth: 0
 Flags: HW
@@ -13233,7 +13232,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JnyRIi
-Encoding: 198 -1 156
+Encoding: 195 -1 156
 Width: 1073
 VWidth: 0
 Flags: HW
@@ -13334,7 +13333,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ndj.halant
-Encoding: 199 -1 157
+Encoding: 196 -1 157
 Width: 773
 VWidth: 0
 Flags: HW
@@ -13419,7 +13418,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdjI
-Encoding: 200 -1 158
+Encoding: 197 -1 158
 Width: 793
 VWidth: 0
 Flags: HW
@@ -13497,7 +13496,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdjIi
-Encoding: 201 -1 159
+Encoding: 198 -1 159
 Width: 793
 VWidth: 0
 Flags: HW
@@ -13587,7 +13586,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdjU
-Encoding: 202 -1 160
+Encoding: 199 -1 160
 Width: 773
 VWidth: 0
 Flags: HW
@@ -13667,7 +13666,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdjUu
-Encoding: 203 -1 161
+Encoding: 200 -1 161
 Width: 773
 VWidth: 0
 Flags: HW
@@ -13749,7 +13748,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdjR.halant
-Encoding: 204 -1 162
+Encoding: 201 -1 162
 Width: 773
 VWidth: 0
 Flags: HW
@@ -13775,7 +13774,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdjRa
-Encoding: 205 -1 163
+Encoding: 202 -1 163
 Width: 773
 VWidth: 0
 Flags: HW
@@ -13850,7 +13849,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Tt.halant
-Encoding: 206 -1 164
+Encoding: 203 -1 164
 Width: 535
 VWidth: 0
 Flags: HW
@@ -13893,7 +13892,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TtI
-Encoding: 207 -1 165
+Encoding: 204 -1 165
 Width: 535
 VWidth: 0
 Flags: HW
@@ -13936,7 +13935,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TtIi
-Encoding: 208 -1 166
+Encoding: 205 -1 166
 Width: 535
 VWidth: 0
 Flags: HW
@@ -13990,7 +13989,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TtR.halant
-Encoding: 212 -1 167
+Encoding: 209 -1 167
 Width: 535
 VWidth: 0
 Flags: HW
@@ -14016,7 +14015,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TtRI
-Encoding: 214 -1 168
+Encoding: 211 -1 168
 Width: 535
 VWidth: 0
 Flags: HW
@@ -14042,7 +14041,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TtRIi
-Encoding: 215 -1 169
+Encoding: 212 -1 169
 Width: 535
 VWidth: 0
 Flags: HW
@@ -14068,7 +14067,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Tth.halant
-Encoding: 216 -1 170
+Encoding: 213 -1 170
 Width: 658
 VWidth: 0
 Flags: HW
@@ -14139,7 +14138,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TthI
-Encoding: 217 -1 171
+Encoding: 214 -1 171
 Width: 622
 VWidth: 0
 Flags: HW
@@ -14201,7 +14200,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TthIi
-Encoding: 218 -1 172
+Encoding: 215 -1 172
 Width: 688
 VWidth: 0
 Flags: HW
@@ -14277,7 +14276,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TthU
-Encoding: 219 -1 173
+Encoding: 216 -1 173
 Width: 581
 VWidth: 0
 Flags: HW
@@ -14344,7 +14343,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TthUu
-Encoding: 220 -1 174
+Encoding: 217 -1 174
 Width: 581
 VWidth: 0
 Flags: HW
@@ -14413,7 +14412,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Dd.halant
-Encoding: 221 -1 175
+Encoding: 218 -1 175
 Width: 583
 VWidth: 0
 Flags: HW
@@ -14658,7 +14657,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DdI
-Encoding: 222 -1 176
+Encoding: 219 -1 176
 Width: 583
 VWidth: 0
 Flags: HW
@@ -14719,7 +14718,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DdIi
-Encoding: 223 -1 177
+Encoding: 220 -1 177
 Width: 583
 VWidth: 0
 Flags: HW
@@ -14791,7 +14790,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DdR.halant
-Encoding: 227 -1 178
+Encoding: 224 -1 178
 Width: 583
 VWidth: 0
 Flags: HW
@@ -14817,7 +14816,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DdRa
-Encoding: 228 -1 179
+Encoding: 225 -1 179
 Width: 583
 VWidth: 0
 Flags: HW
@@ -14875,7 +14874,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DdRI
-Encoding: 229 -1 180
+Encoding: 226 -1 180
 Width: 583
 VWidth: 0
 Flags: HW
@@ -14901,7 +14900,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DdRIi
-Encoding: 230 -1 181
+Encoding: 227 -1 181
 Width: 583
 VWidth: 0
 Flags: HW
@@ -14927,7 +14926,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ddh.halant
-Encoding: 231 -1 182
+Encoding: 228 -1 182
 Width: 583
 VWidth: 0
 Flags: HW
@@ -15009,7 +15008,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DdhI
-Encoding: 232 -1 183
+Encoding: 229 -1 183
 Width: 624
 VWidth: 0
 Flags: HW
@@ -15143,7 +15142,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DdhIi
-Encoding: 233 -1 184
+Encoding: 230 -1 184
 Width: 626
 VWidth: 0
 Flags: HW
@@ -15303,7 +15302,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DdhU
-Encoding: 234 -1 185
+Encoding: 231 -1 185
 Width: 583
 VWidth: 0
 Flags: HW
@@ -15379,7 +15378,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DdhUu
-Encoding: 235 -1 186
+Encoding: 232 -1 186
 Width: 583
 VWidth: 0
 Flags: HW
@@ -15457,7 +15456,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Nn.halant
-Encoding: 236 -1 187
+Encoding: 233 -1 187
 Width: 878
 VWidth: 0
 Flags: HW
@@ -15493,7 +15492,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NnI
-Encoding: 237 -1 188
+Encoding: 234 -1 188
 Width: 878
 VWidth: 0
 Flags: HW
@@ -15583,7 +15582,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NnIi
-Encoding: 238 -1 189
+Encoding: 235 -1 189
 Width: 878
 VWidth: 0
 Flags: HW
@@ -15690,7 +15689,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NnU
-Encoding: 239 -1 190
+Encoding: 236 -1 190
 Width: 878
 VWidth: 0
 Flags: HW
@@ -15721,7 +15720,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NnUu
-Encoding: 240 -1 191
+Encoding: 237 -1 191
 Width: 878
 VWidth: 0
 Flags: HW
@@ -15754,7 +15753,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Nndd.halant
-Encoding: 242 -1 192
+Encoding: 239 -1 192
 Width: 772
 VWidth: 0
 Flags: HW
@@ -15824,7 +15823,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NnddI
-Encoding: 243 -1 193
+Encoding: 240 -1 193
 Width: 772
 VWidth: 0
 Flags: HW
@@ -15894,7 +15893,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NnddIi
-Encoding: 244 -1 194
+Encoding: 241 -1 194
 Width: 772
 VWidth: 0
 Flags: HW
@@ -15975,7 +15974,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NnddU
-Encoding: 245 -1 195
+Encoding: 242 -1 195
 Width: 773
 VWidth: 0
 Flags: HW
@@ -16047,7 +16046,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NnddUu
-Encoding: 246 -1 196
+Encoding: 243 -1 196
 Width: 773
 VWidth: 0
 Flags: HW
@@ -16121,7 +16120,7 @@ Layer: 4
 EndChar
 
 StartChar: si_T.halant
-Encoding: 247 -1 197
+Encoding: 244 -1 197
 Width: 689
 VWidth: 0
 Flags: HW
@@ -16196,7 +16195,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TI
-Encoding: 248 -1 198
+Encoding: 245 -1 198
 Width: 679
 VWidth: 0
 Flags: HW
@@ -16264,7 +16263,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TIi
-Encoding: 249 -1 199
+Encoding: 246 -1 199
 Width: 679
 VWidth: 0
 Flags: HW
@@ -16344,7 +16343,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TU
-Encoding: 250 -1 200
+Encoding: 247 -1 200
 Width: 690
 VWidth: 0
 Flags: HW
@@ -16407,7 +16406,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TUu
-Encoding: 251 -1 201
+Encoding: 248 -1 201
 Width: 726
 VWidth: 0
 Flags: HW
@@ -16479,7 +16478,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TR.halant
-Encoding: 253 -1 202
+Encoding: 250 -1 202
 Width: 689
 VWidth: 0
 Flags: HW
@@ -16505,7 +16504,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TRa
-Encoding: 254 -1 203
+Encoding: 251 -1 203
 Width: 679
 VWidth: 0
 Flags: HW
@@ -16570,7 +16569,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TRI
-Encoding: 255 -1 204
+Encoding: 252 -1 204
 Width: 679
 VWidth: 0
 Flags: HW
@@ -16596,7 +16595,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TRIi
-Encoding: 256 -1 205
+Encoding: 253 -1 205
 Width: 679
 VWidth: 0
 Flags: HW
@@ -16622,7 +16621,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Th.halant
-Encoding: 257 -1 206
+Encoding: 254 -1 206
 Width: 632
 VWidth: 0
 Flags: HW
@@ -16704,7 +16703,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ThI
-Encoding: 258 -1 207
+Encoding: 255 -1 207
 Width: 605
 VWidth: 0
 Flags: HW
@@ -16759,7 +16758,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ThIi
-Encoding: 259 -1 208
+Encoding: 256 -1 208
 Width: 607
 VWidth: 0
 Flags: HW
@@ -16828,7 +16827,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ThU
-Encoding: 260 -1 209
+Encoding: 257 -1 209
 Width: 548
 VWidth: 0
 Flags: HW
@@ -16885,7 +16884,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ThUu
-Encoding: 261 -1 210
+Encoding: 258 -1 210
 Width: 548
 VWidth: 0
 Flags: HW
@@ -16944,7 +16943,7 @@ Layer: 4
 EndChar
 
 StartChar: si_D.halant
-Encoding: 263 -1 211
+Encoding: 260 -1 211
 Width: 442
 VWidth: 0
 Flags: HW
@@ -17008,7 +17007,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DAa
-Encoding: 264 -1 212
+Encoding: 261 -1 212
 Width: 695
 VWidth: 0
 Flags: HW
@@ -17063,7 +17062,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DAe
-Encoding: 265 -1 213
+Encoding: 262 -1 213
 Width: 755
 VWidth: 0
 Flags: HW
@@ -17119,7 +17118,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DAae
-Encoding: 266 -1 214
+Encoding: 263 -1 214
 Width: 768
 VWidth: 0
 Flags: HW
@@ -17185,7 +17184,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DI
-Encoding: 267 -1 215
+Encoding: 264 -1 215
 Width: 498
 VWidth: 0
 Flags: HW
@@ -17242,7 +17241,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DIi
-Encoding: 268 -1 216
+Encoding: 265 -1 216
 Width: 498
 VWidth: 0
 Flags: HW
@@ -17311,7 +17310,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DU
-Encoding: 269 -1 217
+Encoding: 266 -1 217
 Width: 434
 VWidth: 0
 Flags: HW
@@ -17360,7 +17359,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DUu
-Encoding: 270 -1 218
+Encoding: 267 -1 218
 Width: 434
 VWidth: 0
 Flags: HW
@@ -17411,7 +17410,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DvocR
-Encoding: 271 -1 219
+Encoding: 268 -1 219
 Width: 739
 VWidth: 0
 Flags: HW
@@ -17481,7 +17480,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DvocRr
-Encoding: 272 -1 220
+Encoding: 269 -1 220
 Width: 1033
 VWidth: 0
 Flags: HW
@@ -17577,7 +17576,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DAa.halant
-Encoding: 273 -1 221
+Encoding: 270 -1 221
 Width: 702
 VWidth: 0
 Flags: HW
@@ -17652,7 +17651,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Da.reph
-Encoding: 274 -1 222
+Encoding: 271 -1 222
 Width: 442
 VWidth: 0
 Flags: HW
@@ -17718,7 +17717,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DR.halant
-Encoding: 275 -1 223
+Encoding: 272 -1 223
 Width: 470
 VWidth: 0
 Flags: HW
@@ -17781,7 +17780,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DRa
-Encoding: 276 -1 224
+Encoding: 273 -1 224
 Width: 451
 VWidth: 0
 Flags: HW
@@ -17824,7 +17823,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DRI
-Encoding: 277 -1 225
+Encoding: 274 -1 225
 Width: 498
 VWidth: 0
 Flags: HW
@@ -17880,7 +17879,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DRIi
-Encoding: 278 -1 226
+Encoding: 275 -1 226
 Width: 498
 VWidth: 0
 Flags: HW
@@ -17948,7 +17947,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DYa.post
-Encoding: 279 -1 227
+Encoding: 276 -1 227
 Width: 939
 VWidth: 0
 Flags: HW
@@ -18024,7 +18023,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DYAa.post
-Encoding: 280 -1 228
+Encoding: 277 -1 228
 Width: 1181
 VWidth: 0
 Flags: HW
@@ -18111,7 +18110,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DYu.post
-Encoding: 281 -1 229
+Encoding: 278 -1 229
 Width: 939
 VWidth: 0
 Flags: HW
@@ -18202,7 +18201,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DYUu.post
-Encoding: 282 -1 230
+Encoding: 279 -1 230
 Width: 939
 VWidth: 0
 Flags: HW
@@ -18295,7 +18294,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DYOo.post
-Encoding: 283 -1 231
+Encoding: 280 -1 231
 Width: 1189
 VWidth: 0
 Flags: HW
@@ -18402,7 +18401,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Dh.halant
-Encoding: 284 -1 232
+Encoding: 281 -1 232
 Width: 581
 VWidth: 0
 Flags: HW
@@ -18452,7 +18451,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DhI
-Encoding: 285 -1 233
+Encoding: 282 -1 233
 Width: 581
 VWidth: 0
 Flags: HW
@@ -18502,7 +18501,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DhIi
-Encoding: 286 -1 234
+Encoding: 283 -1 234
 Width: 581
 VWidth: 0
 Flags: HW
@@ -18563,7 +18562,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DhU
-Encoding: 287 -1 235
+Encoding: 284 -1 235
 Width: 581
 VWidth: 0
 Flags: HW
@@ -18615,7 +18614,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DhUu
-Encoding: 288 -1 236
+Encoding: 285 -1 236
 Width: 581
 VWidth: 0
 Flags: HW
@@ -18669,7 +18668,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DhR.halant
-Encoding: 290 -1 237
+Encoding: 287 -1 237
 Width: 581
 VWidth: 0
 Flags: HW
@@ -18695,7 +18694,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DhRa
-Encoding: 291 -1 238
+Encoding: 288 -1 238
 Width: 581
 VWidth: 0
 Flags: HW
@@ -18742,7 +18741,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DhRI
-Encoding: 292 -1 239
+Encoding: 289 -1 239
 Width: 581
 VWidth: 0
 Flags: HW
@@ -18768,7 +18767,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DhRIi
-Encoding: 293 -1 240
+Encoding: 290 -1 240
 Width: 581
 VWidth: 0
 Flags: HW
@@ -18794,7 +18793,7 @@ Layer: 4
 EndChar
 
 StartChar: si_N.halant
-Encoding: 294 -1 241
+Encoding: 291 -1 241
 Width: 692
 VWidth: 0
 Flags: HW
@@ -18869,7 +18868,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NI
-Encoding: 295 -1 242
+Encoding: 292 -1 242
 Width: 680
 VWidth: 0
 Flags: HW
@@ -18937,7 +18936,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NIi
-Encoding: 296 -1 243
+Encoding: 293 -1 243
 Width: 680
 VWidth: 0
 Flags: HW
@@ -19017,7 +19016,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NU
-Encoding: 297 -1 244
+Encoding: 294 -1 244
 Width: 680
 VWidth: 0
 Flags: HW
@@ -19087,7 +19086,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NUu
-Encoding: 298 -1 245
+Encoding: 295 -1 245
 Width: 680
 VWidth: 0
 Flags: HW
@@ -19159,7 +19158,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Na.reph
-Encoding: 299 -1 246
+Encoding: 296 -1 246
 Width: 680
 VWidth: 0
 Flags: HW
@@ -19236,7 +19235,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Nd.halant
-Encoding: 300 -1 247
+Encoding: 297 -1 247
 Width: 610
 VWidth: 0
 Flags: HW
@@ -19309,7 +19308,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdAa
-Encoding: 301 -1 248
+Encoding: 298 -1 248
 Width: 863
 VWidth: 0
 Flags: HW
@@ -19373,7 +19372,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdAe
-Encoding: 302 -1 249
+Encoding: 299 -1 249
 Width: 923
 VWidth: 0
 Flags: HW
@@ -19438,7 +19437,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdAae
-Encoding: 303 -1 250
+Encoding: 300 -1 250
 Width: 936
 VWidth: 0
 Flags: HW
@@ -19513,7 +19512,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdAa.halant
-Encoding: 304 -1 251
+Encoding: 301 -1 251
 Width: 870
 VWidth: 0
 Flags: HW
@@ -19597,7 +19596,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdI
-Encoding: 305 -1 252
+Encoding: 302 -1 252
 Width: 653
 VWidth: 0
 Flags: HW
@@ -19663,7 +19662,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdIi
-Encoding: 306 -1 253
+Encoding: 303 -1 253
 Width: 653
 VWidth: 0
 Flags: HW
@@ -19741,7 +19740,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdU
-Encoding: 307 -1 254
+Encoding: 304 -1 254
 Width: 602
 VWidth: 0
 Flags: HW
@@ -19799,7 +19798,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdUu
-Encoding: 308 -1 255
+Encoding: 305 -1 255
 Width: 602
 VWidth: 0
 Flags: HW
@@ -19859,7 +19858,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NdRa
-Encoding: 309 -1 256
+Encoding: 306 -1 256
 Width: 619
 VWidth: 0
 Flags: HW
@@ -19911,7 +19910,7 @@ Layer: 4
 EndChar
 
 StartChar: si_P.halant
-Encoding: 310 -1 257
+Encoding: 307 -1 257
 Width: 567
 VWidth: 0
 Flags: HW
@@ -19982,7 +19981,7 @@ Layer: 4
 EndChar
 
 StartChar: si_PI
-Encoding: 311 -1 258
+Encoding: 308 -1 258
 Width: 573
 VWidth: 0
 Flags: HW
@@ -20046,7 +20045,7 @@ Layer: 4
 EndChar
 
 StartChar: si_PIi
-Encoding: 312 -1 259
+Encoding: 309 -1 259
 Width: 573
 VWidth: 0
 Flags: HW
@@ -20124,7 +20123,7 @@ Layer: 4
 EndChar
 
 StartChar: si_PU
-Encoding: 313 -1 260
+Encoding: 310 -1 260
 Width: 573
 VWidth: 0
 Flags: HW
@@ -20190,7 +20189,7 @@ Layer: 4
 EndChar
 
 StartChar: si_PUu
-Encoding: 314 -1 261
+Encoding: 311 -1 261
 Width: 573
 VWidth: 0
 Flags: HW
@@ -20258,7 +20257,7 @@ Layer: 4
 EndChar
 
 StartChar: si_PR.halant
-Encoding: 316 -1 262
+Encoding: 313 -1 262
 Width: 567
 VWidth: 0
 Flags: HW
@@ -20284,7 +20283,7 @@ Layer: 4
 EndChar
 
 StartChar: si_PRa
-Encoding: 317 -1 263
+Encoding: 314 -1 263
 Width: 573
 VWidth: 0
 Flags: HW
@@ -20345,7 +20344,7 @@ Layer: 4
 EndChar
 
 StartChar: si_PRI
-Encoding: 318 -1 264
+Encoding: 315 -1 264
 Width: 573
 VWidth: 0
 Flags: HW
@@ -20371,7 +20370,7 @@ Layer: 4
 EndChar
 
 StartChar: si_PRIi
-Encoding: 319 -1 265
+Encoding: 316 -1 265
 Width: 573
 VWidth: 0
 Flags: HW
@@ -20397,7 +20396,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ph.halant
-Encoding: 320 -1 266
+Encoding: 317 -1 266
 Width: 632
 VWidth: 0
 Flags: HW
@@ -20473,7 +20472,7 @@ Layer: 4
 EndChar
 
 StartChar: si_PhI
-Encoding: 321 -1 267
+Encoding: 318 -1 267
 Width: 605
 VWidth: 0
 Flags: HW
@@ -20540,7 +20539,7 @@ Layer: 4
 EndChar
 
 StartChar: si_PhIi
-Encoding: 322 -1 268
+Encoding: 319 -1 268
 Width: 607
 VWidth: 0
 Flags: HW
@@ -20621,7 +20620,7 @@ Layer: 4
 EndChar
 
 StartChar: si_PhU
-Encoding: 323 -1 269
+Encoding: 320 -1 269
 Width: 548
 VWidth: 0
 Flags: HW
@@ -20690,7 +20689,7 @@ Layer: 4
 EndChar
 
 StartChar: si_PhUu
-Encoding: 324 -1 270
+Encoding: 321 -1 270
 Width: 548
 VWidth: 0
 Flags: HW
@@ -20761,7 +20760,7 @@ Layer: 4
 EndChar
 
 StartChar: si_B.halant
-Encoding: 326 -1 271
+Encoding: 323 -1 271
 Width: 576
 VWidth: 0
 Flags: HW
@@ -20810,7 +20809,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BI
-Encoding: 327 -1 272
+Encoding: 324 -1 272
 Width: 576
 VWidth: 0
 Flags: HW
@@ -20859,7 +20858,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BIi
-Encoding: 328 -1 273
+Encoding: 325 -1 273
 Width: 576
 VWidth: 0
 Flags: HW
@@ -20919,7 +20918,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BR.halant
-Encoding: 332 -1 274
+Encoding: 329 -1 274
 Width: 576
 VWidth: 0
 Flags: HW
@@ -20978,7 +20977,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BRI
-Encoding: 334 -1 275
+Encoding: 331 -1 275
 Width: 576
 VWidth: 0
 Flags: HW
@@ -21037,7 +21036,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BRIi
-Encoding: 335 -1 276
+Encoding: 332 -1 276
 Width: 576
 VWidth: 0
 Flags: HW
@@ -21107,7 +21106,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Bh.halant
-Encoding: 336 -1 277
+Encoding: 333 -1 277
 Width: 718
 VWidth: 0
 Flags: HW
@@ -21186,7 +21185,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BhI
-Encoding: 337 -1 278
+Encoding: 334 -1 278
 Width: 690
 VWidth: 0
 Flags: HW
@@ -21258,7 +21257,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BhIi
-Encoding: 338 -1 279
+Encoding: 335 -1 279
 Width: 690
 VWidth: 0
 Flags: HW
@@ -21342,7 +21341,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BhU
-Encoding: 339 -1 280
+Encoding: 336 -1 280
 Width: 702
 VWidth: 0
 Flags: HW
@@ -21409,7 +21408,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BhUu
-Encoding: 340 -1 281
+Encoding: 337 -1 281
 Width: 713
 VWidth: 0
 Flags: HW
@@ -21485,7 +21484,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Bha.reph
-Encoding: 341 -1 282
+Encoding: 338 -1 282
 Width: 690
 VWidth: 0
 Flags: HW
@@ -21566,7 +21565,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BhRa.halant
-Encoding: 342 -1 283
+Encoding: 339 -1 283
 Width: 718
 VWidth: 0
 Flags: HW
@@ -21655,7 +21654,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BhRa
-Encoding: 343 -1 284
+Encoding: 340 -1 284
 Width: 690
 VWidth: 0
 Flags: HW
@@ -21724,7 +21723,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BhRI
-Encoding: 344 -1 285
+Encoding: 341 -1 285
 Width: 690
 VWidth: 0
 Flags: HW
@@ -21806,7 +21805,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BhRIi
-Encoding: 345 -1 286
+Encoding: 342 -1 286
 Width: 690
 VWidth: 0
 Flags: HW
@@ -21900,7 +21899,7 @@ Layer: 4
 EndChar
 
 StartChar: si_M.halant
-Encoding: 346 -1 287
+Encoding: 343 -1 287
 Width: 552
 VWidth: 0
 Flags: HW
@@ -21953,7 +21952,7 @@ Layer: 4
 EndChar
 
 StartChar: si_MI
-Encoding: 347 -1 288
+Encoding: 344 -1 288
 Width: 552
 VWidth: 0
 Flags: HW
@@ -22006,7 +22005,7 @@ Layer: 4
 EndChar
 
 StartChar: si_MIi
-Encoding: 348 -1 289
+Encoding: 345 -1 289
 Width: 552
 VWidth: 0
 Flags: HW
@@ -22070,7 +22069,7 @@ Layer: 4
 EndChar
 
 StartChar: si_MU
-Encoding: 349 -1 290
+Encoding: 346 -1 290
 Width: 552
 VWidth: 0
 Flags: HW
@@ -22125,7 +22124,7 @@ Layer: 4
 EndChar
 
 StartChar: si_MUu
-Encoding: 350 -1 291
+Encoding: 347 -1 291
 Width: 552
 VWidth: 0
 Flags: HW
@@ -22182,7 +22181,7 @@ Layer: 4
 EndChar
 
 StartChar: si_MR.halant
-Encoding: 352 -1 292
+Encoding: 349 -1 292
 Width: 552
 VWidth: 0
 Flags: HW
@@ -22208,7 +22207,7 @@ Layer: 4
 EndChar
 
 StartChar: si_MRa
-Encoding: 353 -1 293
+Encoding: 350 -1 293
 Width: 552
 VWidth: 0
 Flags: HW
@@ -22258,7 +22257,7 @@ Layer: 4
 EndChar
 
 StartChar: si_MRI
-Encoding: 354 -1 294
+Encoding: 351 -1 294
 Width: 552
 VWidth: 0
 Flags: HW
@@ -22284,7 +22283,7 @@ Layer: 4
 EndChar
 
 StartChar: si_MRIi
-Encoding: 355 -1 295
+Encoding: 352 -1 295
 Width: 552
 VWidth: 0
 Flags: HW
@@ -22310,7 +22309,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Mb.halant
-Encoding: 356 -1 296
+Encoding: 353 -1 296
 Width: 579
 VWidth: 0
 Flags: HW
@@ -22378,7 +22377,7 @@ Layer: 4
 EndChar
 
 StartChar: si_MbI
-Encoding: 357 -1 297
+Encoding: 354 -1 297
 Width: 579
 VWidth: 0
 Flags: HW
@@ -22446,7 +22445,7 @@ Layer: 4
 EndChar
 
 StartChar: si_MbIi
-Encoding: 358 -1 298
+Encoding: 355 -1 298
 Width: 579
 VWidth: 0
 Flags: HW
@@ -22525,7 +22524,7 @@ Layer: 4
 EndChar
 
 StartChar: si_MbU
-Encoding: 359 -1 299
+Encoding: 356 -1 299
 Width: 579
 VWidth: 0
 Flags: HW
@@ -22595,7 +22594,7 @@ Layer: 4
 EndChar
 
 StartChar: si_MbUu
-Encoding: 360 -1 300
+Encoding: 357 -1 300
 Width: 579
 VWidth: 0
 Flags: HW
@@ -22667,7 +22666,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Y.halant
-Encoding: 361 -1 301
+Encoding: 358 -1 301
 Width: 576
 VWidth: 0
 Flags: HW
@@ -22736,7 +22735,7 @@ Layer: 4
 EndChar
 
 StartChar: si_YI
-Encoding: 362 -1 302
+Encoding: 359 -1 302
 Width: 581
 VWidth: 0
 Flags: HW
@@ -22798,7 +22797,7 @@ Layer: 4
 EndChar
 
 StartChar: si_YIi
-Encoding: 363 -1 303
+Encoding: 360 -1 303
 Width: 581
 VWidth: 0
 Flags: HW
@@ -22874,7 +22873,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ya.post
-Encoding: 367 -1 304
+Encoding: 364 -1 304
 Width: 513
 VWidth: 0
 Flags: HW
@@ -22955,7 +22954,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Y.post.halant
-Encoding: 368 -1 305
+Encoding: 365 -1 305
 Width: 513
 VWidth: 0
 Flags: HW
@@ -23022,7 +23021,7 @@ Layer: 4
 EndChar
 
 StartChar: si_YU.post
-Encoding: 369 -1 306
+Encoding: 366 -1 306
 Width: 513
 VWidth: 0
 Flags: HW
@@ -23084,7 +23083,7 @@ Layer: 4
 EndChar
 
 StartChar: si_YUu.post
-Encoding: 370 -1 307
+Encoding: 367 -1 307
 Width: 513
 VWidth: 0
 Flags: HW
@@ -23148,7 +23147,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ya.post.reph
-Encoding: 371 -1 308
+Encoding: 368 -1 308
 Width: 513
 VWidth: 0
 Flags: HW
@@ -23217,7 +23216,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Yu.post.reph
-Encoding: 372 -1 309
+Encoding: 369 -1 309
 Width: 513
 VWidth: 0
 Flags: HW
@@ -23301,7 +23300,7 @@ Layer: 4
 EndChar
 
 StartChar: si_YUu.post.reph
-Encoding: 373 -1 310
+Encoding: 370 -1 310
 Width: 513
 VWidth: 0
 Flags: HW
@@ -23387,7 +23386,7 @@ Layer: 4
 EndChar
 
 StartChar: si_R.halant
-Encoding: 374 -1 311
+Encoding: 371 -1 311
 Width: 497
 VWidth: 0
 Flags: HW
@@ -23458,7 +23457,7 @@ Layer: 4
 EndChar
 
 StartChar: si_RAe
-Encoding: 375 -1 312
+Encoding: 372 -1 312
 Width: 681
 VWidth: 0
 Flags: HW
@@ -23525,7 +23524,7 @@ Layer: 4
 EndChar
 
 StartChar: si_RAae
-Encoding: 376 -1 313
+Encoding: 373 -1 313
 Width: 697
 VWidth: 0
 Flags: HW
@@ -23600,7 +23599,7 @@ Layer: 4
 EndChar
 
 StartChar: si_RI
-Encoding: 377 -1 314
+Encoding: 374 -1 314
 Width: 521
 VWidth: 0
 Flags: HW
@@ -23677,7 +23676,7 @@ Layer: 4
 EndChar
 
 StartChar: si_RIi
-Encoding: 378 -1 315
+Encoding: 375 -1 315
 Width: 514
 VWidth: 0
 Flags: HW
@@ -24081,7 +24080,7 @@ Layer: 4
 EndChar
 
 StartChar: si_RU
-Encoding: 379 -1 316
+Encoding: 376 -1 316
 Width: 818
 VWidth: 0
 Flags: HW
@@ -24144,7 +24143,7 @@ Layer: 4
 EndChar
 
 StartChar: si_RUu
-Encoding: 380 -1 317
+Encoding: 377 -1 317
 Width: 816
 VWidth: 0
 Flags: HW
@@ -24217,7 +24216,7 @@ Layer: 4
 EndChar
 
 StartChar: si_LU
-Encoding: 384 -1 318
+Encoding: 381 -1 318
 Width: 577
 VWidth: 0
 Flags: HW
@@ -24334,7 +24333,7 @@ Layer: 4
 EndChar
 
 StartChar: si_LUu
-Encoding: 385 -1 319
+Encoding: 382 -1 319
 Width: 576
 VWidth: 0
 Flags: HW
@@ -24457,7 +24456,7 @@ Layer: 4
 EndChar
 
 StartChar: si_V.halant
-Encoding: 386 -1 320
+Encoding: 383 -1 320
 Width: 535
 VWidth: 0
 Flags: HW
@@ -24512,7 +24511,7 @@ Layer: 4
 EndChar
 
 StartChar: si_VI
-Encoding: 387 -1 321
+Encoding: 384 -1 321
 Width: 535
 VWidth: 0
 Flags: HW
@@ -24567,7 +24566,7 @@ Layer: 4
 EndChar
 
 StartChar: si_VIi
-Encoding: 388 -1 322
+Encoding: 385 -1 322
 Width: 535
 VWidth: 0
 Flags: HW
@@ -24633,7 +24632,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Va.reph
-Encoding: 391 -1 323
+Encoding: 388 -1 323
 Width: 535
 VWidth: 0
 Flags: HW
@@ -24700,7 +24699,7 @@ Layer: 4
 EndChar
 
 StartChar: si_VR.halant
-Encoding: 392 -1 324
+Encoding: 389 -1 324
 Width: 535
 VWidth: 0
 Flags: HW
@@ -24765,7 +24764,7 @@ Layer: 4
 EndChar
 
 StartChar: si_VRa
-Encoding: 393 -1 325
+Encoding: 390 -1 325
 Width: 535
 VWidth: 0
 Flags: HW
@@ -24817,7 +24816,7 @@ Layer: 4
 EndChar
 
 StartChar: si_VRI
-Encoding: 394 -1 326
+Encoding: 391 -1 326
 Width: 535
 VWidth: 0
 Flags: HW
@@ -24882,7 +24881,7 @@ Layer: 4
 EndChar
 
 StartChar: si_VRIi
-Encoding: 395 -1 327
+Encoding: 392 -1 327
 Width: 535
 VWidth: 0
 Flags: HW
@@ -24958,7 +24957,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ShU
-Encoding: 399 -1 328
+Encoding: 396 -1 328
 Width: 709
 VWidth: 0
 Flags: HW
@@ -25025,7 +25024,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ShUu
-Encoding: 400 -1 329
+Encoding: 397 -1 329
 Width: 740
 VWidth: 0
 Flags: HW
@@ -25098,7 +25097,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Sha.reph
-Encoding: 401 -1 330
+Encoding: 398 -1 330
 Width: 704
 VWidth: 0
 Flags: HW
@@ -25178,7 +25177,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ShR.halant
-Encoding: 402 -1 331
+Encoding: 399 -1 331
 Width: 718
 VWidth: 0
 Flags: HW
@@ -25204,7 +25203,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ShRa
-Encoding: 403 -1 332
+Encoding: 400 -1 332
 Width: 704
 VWidth: 0
 Flags: HW
@@ -25272,7 +25271,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ShRI
-Encoding: 404 -1 333
+Encoding: 401 -1 333
 Width: 704
 VWidth: 0
 Flags: HW
@@ -25298,7 +25297,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ShRIi
-Encoding: 405 -1 334
+Encoding: 402 -1 334
 Width: 704
 VWidth: 0
 Flags: HW
@@ -25324,7 +25323,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ss.halant
-Encoding: 406 -1 335
+Encoding: 403 -1 335
 Width: 607
 VWidth: 0
 Flags: HW
@@ -25404,7 +25403,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SsI
-Encoding: 407 -1 336
+Encoding: 404 -1 336
 Width: 573
 VWidth: 0
 Flags: HW
@@ -25477,7 +25476,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SsIi
-Encoding: 408 -1 337
+Encoding: 405 -1 337
 Width: 572
 VWidth: 0
 Flags: HW
@@ -25564,7 +25563,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SsU
-Encoding: 409 -1 338
+Encoding: 406 -1 338
 Width: 572
 VWidth: 0
 Flags: HW
@@ -25639,7 +25638,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SsUu
-Encoding: 410 -1 339
+Encoding: 407 -1 339
 Width: 572
 VWidth: 0
 Flags: HW
@@ -25716,7 +25715,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SsR.halant
-Encoding: 412 -1 340
+Encoding: 409 -1 340
 Width: 567
 VWidth: 0
 Flags: HW
@@ -25742,7 +25741,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SsRa
-Encoding: 413 -1 341
+Encoding: 410 -1 341
 Width: 572
 VWidth: 0
 Flags: HW
@@ -25812,7 +25811,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SsRI
-Encoding: 414 -1 342
+Encoding: 411 -1 342
 Width: 572
 VWidth: 0
 Flags: HW
@@ -25838,7 +25837,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SsRIi
-Encoding: 415 -1 343
+Encoding: 412 -1 343
 Width: 572
 VWidth: 0
 Flags: HW
@@ -25864,7 +25863,7 @@ Layer: 4
 EndChar
 
 StartChar: si_S.halant
-Encoding: 416 -1 344
+Encoding: 413 -1 344
 Width: 589
 VWidth: 0
 Flags: HW
@@ -25900,7 +25899,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SI
-Encoding: 417 -1 345
+Encoding: 414 -1 345
 Width: 589
 VWidth: 0
 Flags: HW
@@ -25929,7 +25928,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SIi
-Encoding: 418 -1 346
+Encoding: 415 -1 346
 Width: 589
 VWidth: 0
 Flags: HW
@@ -25970,7 +25969,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SU
-Encoding: 419 -1 347
+Encoding: 416 -1 347
 Width: 589
 VWidth: 0
 Flags: HW
@@ -26001,7 +26000,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SUu
-Encoding: 420 -1 348
+Encoding: 417 -1 348
 Width: 589
 VWidth: 0
 Flags: HW
@@ -26034,7 +26033,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SR.halant
-Encoding: 422 -1 349
+Encoding: 419 -1 349
 Width: 583
 VWidth: 0
 Flags: HW
@@ -26123,7 +26122,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SRa
-Encoding: 423 -1 350
+Encoding: 420 -1 350
 Width: 589
 VWidth: 0
 Flags: HW
@@ -26149,7 +26148,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SRI
-Encoding: 424 -1 351
+Encoding: 421 -1 351
 Width: 588
 VWidth: 0
 Flags: HW
@@ -26175,7 +26174,7 @@ Layer: 4
 EndChar
 
 StartChar: si_SRIi
-Encoding: 425 -1 352
+Encoding: 422 -1 352
 Width: 588
 VWidth: 0
 Flags: HW
@@ -26201,7 +26200,7 @@ Layer: 4
 EndChar
 
 StartChar: si_H.halant
-Encoding: 426 -1 353
+Encoding: 423 -1 353
 Width: 692
 VWidth: 0
 Flags: HW
@@ -26237,7 +26236,7 @@ Layer: 4
 EndChar
 
 StartChar: si_HI
-Encoding: 427 -1 354
+Encoding: 424 -1 354
 Width: 664
 VWidth: 0
 Flags: HW
@@ -26266,7 +26265,7 @@ Layer: 4
 EndChar
 
 StartChar: si_HIi
-Encoding: 428 -1 355
+Encoding: 425 -1 355
 Width: 664
 VWidth: 0
 Flags: HW
@@ -26307,7 +26306,7 @@ Layer: 4
 EndChar
 
 StartChar: si_HU
-Encoding: 429 -1 356
+Encoding: 426 -1 356
 Width: 664
 VWidth: 0
 Flags: HW
@@ -26338,7 +26337,7 @@ Layer: 4
 EndChar
 
 StartChar: si_HUu
-Encoding: 430 -1 357
+Encoding: 427 -1 357
 Width: 664
 VWidth: 0
 Flags: HW
@@ -26371,7 +26370,7 @@ Layer: 4
 EndChar
 
 StartChar: si_LlU
-Encoding: 439 -1 358
+Encoding: 436 -1 358
 Width: 720
 VWidth: 0
 Flags: HW
@@ -26434,7 +26433,7 @@ Layer: 4
 EndChar
 
 StartChar: si_LlUu
-Encoding: 440 -1 359
+Encoding: 437 -1 359
 Width: 1074
 VWidth: 0
 Flags: HW
@@ -26449,7 +26448,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KSsa
-Encoding: 451 -1 360
+Encoding: 448 -1 360
 Width: 1034
 VWidth: 0
 Flags: HW
@@ -26554,7 +26553,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KVa
-Encoding: 452 -1 361
+Encoding: 449 -1 361
 Width: 998
 VWidth: 0
 Flags: HW
@@ -26641,7 +26640,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDha
-Encoding: 453 -1 362
+Encoding: 450 -1 362
 Width: 1018
 VWidth: 0
 Flags: HW
@@ -26714,7 +26713,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDa
-Encoding: 454 -1 363
+Encoding: 451 -1 363
 Width: 833
 VWidth: 0
 Flags: HW
@@ -26794,7 +26793,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NTha
-Encoding: 455 -1 364
+Encoding: 452 -1 364
 Width: 986
 VWidth: 0
 Flags: HW
@@ -26872,7 +26871,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NVa
-Encoding: 456 -1 365
+Encoding: 453 -1 365
 Width: 967
 VWidth: 0
 Flags: HW
@@ -26950,7 +26949,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TTha
-Encoding: 457 -1 366
+Encoding: 454 -1 366
 Width: 989
 VWidth: 0
 Flags: HW
@@ -27028,7 +27027,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TtTtha
-Encoding: 458 -1 367
+Encoding: 455 -1 367
 Width: 754
 VWidth: 0
 Flags: HW
@@ -27087,7 +27086,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GDha
-Encoding: 459 -1 368
+Encoding: 456 -1 368
 Width: 996
 VWidth: 0
 Flags: HW
@@ -27148,7 +27147,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DVa
-Encoding: 461 -1 369
+Encoding: 458 -1 369
 Width: 709
 VWidth: 0
 Flags: HW
@@ -27199,7 +27198,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KSs.halant
-Encoding: 462 -1 370
+Encoding: 459 -1 370
 Width: 1050
 VWidth: 0
 Flags: HW
@@ -27324,7 +27323,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KSsI
-Encoding: 463 -1 371
+Encoding: 460 -1 371
 Width: 1034
 VWidth: 0
 Flags: HW
@@ -27442,7 +27441,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KSsIi
-Encoding: 464 -1 372
+Encoding: 461 -1 372
 Width: 1034
 VWidth: 0
 Flags: HW
@@ -27574,7 +27573,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KSsU
-Encoding: 465 -1 373
+Encoding: 462 -1 373
 Width: 1034
 VWidth: 0
 Flags: HW
@@ -27694,7 +27693,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KSsUu
-Encoding: 466 -1 374
+Encoding: 463 -1 374
 Width: 1034
 VWidth: 0
 Flags: HW
@@ -27816,7 +27815,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KV.halant
-Encoding: 467 -1 375
+Encoding: 464 -1 375
 Width: 997
 VWidth: 0
 Flags: HW
@@ -27916,7 +27915,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KVI
-Encoding: 468 -1 376
+Encoding: 465 -1 376
 Width: 997
 VWidth: 0
 Flags: HW
@@ -28016,7 +28015,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KVIi
-Encoding: 469 -1 377
+Encoding: 466 -1 377
 Width: 997
 VWidth: 0
 Flags: HW
@@ -28127,7 +28126,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KVU
-Encoding: 470 -1 378
+Encoding: 467 -1 378
 Width: 998
 VWidth: 0
 Flags: HW
@@ -28229,7 +28228,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KVUu
-Encoding: 471 -1 379
+Encoding: 468 -1 379
 Width: 998
 VWidth: 0
 Flags: HW
@@ -28333,7 +28332,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDh.halant
-Encoding: 472 -1 380
+Encoding: 469 -1 380
 Width: 1018
 VWidth: 0
 Flags: HW
@@ -28419,7 +28418,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDhI
-Encoding: 473 -1 381
+Encoding: 470 -1 381
 Width: 1018
 VWidth: 0
 Flags: HW
@@ -28505,7 +28504,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDhIi
-Encoding: 474 -1 382
+Encoding: 471 -1 382
 Width: 1018
 VWidth: 0
 Flags: HW
@@ -28602,7 +28601,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDhU
-Encoding: 475 -1 383
+Encoding: 472 -1 383
 Width: 1018
 VWidth: 0
 Flags: HW
@@ -28690,7 +28689,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDhUu
-Encoding: 476 -1 384
+Encoding: 473 -1 384
 Width: 1018
 VWidth: 0
 Flags: HW
@@ -28780,7 +28779,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ND.halant
-Encoding: 477 -1 385
+Encoding: 474 -1 385
 Width: 865
 VWidth: 0
 Flags: HW
@@ -28880,7 +28879,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDAa
-Encoding: 478 -1 386
+Encoding: 475 -1 386
 Width: 1118
 VWidth: 0
 Flags: HW
@@ -28971,7 +28970,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDAa.halant
-Encoding: 479 -1 387
+Encoding: 476 -1 387
 Width: 1126
 VWidth: 0
 Flags: HW
@@ -29082,7 +29081,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDAe
-Encoding: 480 -1 388
+Encoding: 477 -1 388
 Width: 1178
 VWidth: 0
 Flags: HW
@@ -29174,7 +29173,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDAee
-Encoding: 481 -1 389
+Encoding: 478 -1 389
 Width: 1191
 VWidth: 0
 Flags: HW
@@ -29276,7 +29275,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDI
-Encoding: 482 -1 390
+Encoding: 479 -1 390
 Width: 908
 VWidth: 0
 Flags: HW
@@ -29369,7 +29368,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDIi
-Encoding: 483 -1 391
+Encoding: 480 -1 391
 Width: 908
 VWidth: 0
 Flags: HW
@@ -29474,7 +29473,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDU
-Encoding: 484 -1 392
+Encoding: 481 -1 392
 Width: 857
 VWidth: 0
 Flags: HW
@@ -29559,7 +29558,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDUu
-Encoding: 485 -1 393
+Encoding: 482 -1 393
 Width: 857
 VWidth: 0
 Flags: HW
@@ -29646,7 +29645,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDRa
-Encoding: 486 -1 394
+Encoding: 483 -1 394
 Width: 874
 VWidth: 0
 Flags: HW
@@ -29725,7 +29724,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDRI
-Encoding: 487 -1 395
+Encoding: 484 -1 395
 Width: 908
 VWidth: 0
 Flags: HW
@@ -29817,7 +29816,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NDRIi
-Encoding: 488 -1 396
+Encoding: 485 -1 396
 Width: 908
 VWidth: 0
 Flags: HW
@@ -29921,7 +29920,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NTh.halant
-Encoding: 489 -1 397
+Encoding: 486 -1 397
 Width: 1071
 VWidth: 0
 Flags: HW
@@ -30021,7 +30020,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NThI
-Encoding: 490 -1 398
+Encoding: 487 -1 398
 Width: 1044
 VWidth: 0
 Flags: HW
@@ -30112,7 +30111,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NThIi
-Encoding: 491 -1 399
+Encoding: 488 -1 399
 Width: 1045
 VWidth: 0
 Flags: HW
@@ -30217,7 +30216,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NThU
-Encoding: 492 -1 400
+Encoding: 489 -1 400
 Width: 986
 VWidth: 0
 Flags: HW
@@ -30310,7 +30309,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NThUu
-Encoding: 493 -1 401
+Encoding: 490 -1 401
 Width: 986
 VWidth: 0
 Flags: HW
@@ -30405,7 +30404,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NV.halant
-Encoding: 494 -1 402
+Encoding: 491 -1 402
 Width: 966
 VWidth: 0
 Flags: HW
@@ -30496,7 +30495,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NVI
-Encoding: 495 -1 403
+Encoding: 492 -1 403
 Width: 966
 VWidth: 0
 Flags: HW
@@ -30587,7 +30586,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NVIi
-Encoding: 496 -1 404
+Encoding: 493 -1 404
 Width: 966
 VWidth: 0
 Flags: HW
@@ -30689,7 +30688,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NVU
-Encoding: 497 -1 405
+Encoding: 494 -1 405
 Width: 967
 VWidth: 0
 Flags: HW
@@ -30782,7 +30781,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NVUu
-Encoding: 498 -1 406
+Encoding: 495 -1 406
 Width: 967
 VWidth: 0
 Flags: HW
@@ -30877,7 +30876,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TTh.halant
-Encoding: 499 -1 407
+Encoding: 496 -1 407
 Width: 1073
 VWidth: 0
 Flags: HW
@@ -30977,7 +30976,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TThI
-Encoding: 500 -1 408
+Encoding: 497 -1 408
 Width: 1046
 VWidth: 0
 Flags: HW
@@ -31068,7 +31067,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TThIi
-Encoding: 501 -1 409
+Encoding: 498 -1 409
 Width: 1048
 VWidth: 0
 Flags: HW
@@ -31173,7 +31172,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TThU
-Encoding: 502 -1 410
+Encoding: 499 -1 410
 Width: 989
 VWidth: 0
 Flags: HW
@@ -31266,7 +31265,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TThUu
-Encoding: 503 -1 411
+Encoding: 500 -1 411
 Width: 989
 VWidth: 0
 Flags: HW
@@ -31361,7 +31360,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TVa
-Encoding: 504 -1 412
+Encoding: 501 -1 412
 Width: 971
 VWidth: 0
 Flags: HW
@@ -31439,7 +31438,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TV.halant
-Encoding: 505 -1 413
+Encoding: 502 -1 413
 Width: 970
 VWidth: 0
 Flags: HW
@@ -31530,7 +31529,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TVI
-Encoding: 506 -1 414
+Encoding: 503 -1 414
 Width: 970
 VWidth: 0
 Flags: HW
@@ -31621,7 +31620,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TVIi
-Encoding: 507 -1 415
+Encoding: 504 -1 415
 Width: 970
 VWidth: 0
 Flags: HW
@@ -31723,7 +31722,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TVU
-Encoding: 508 -1 416
+Encoding: 505 -1 416
 Width: 971
 VWidth: 0
 Flags: HW
@@ -31816,7 +31815,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TVUu
-Encoding: 509 -1 417
+Encoding: 506 -1 417
 Width: 971
 VWidth: 0
 Flags: HW
@@ -31911,7 +31910,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DDdh.halant
-Encoding: 510 -1 418
+Encoding: 507 -1 418
 Width: 754
 VWidth: 0
 Flags: HW
@@ -31970,7 +31969,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DDhI
-Encoding: 511 -1 419
+Encoding: 508 -1 419
 Width: 754
 VWidth: 0
 Flags: HW
@@ -32029,7 +32028,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DDhIi
-Encoding: 512 -1 420
+Encoding: 509 -1 420
 Width: 754
 VWidth: 0
 Flags: HW
@@ -32099,7 +32098,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DDhU
-Encoding: 513 -1 421
+Encoding: 510 -1 421
 Width: 754
 VWidth: 0
 Flags: HW
@@ -32160,7 +32159,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DDhUu
-Encoding: 514 -1 422
+Encoding: 511 -1 422
 Width: 754
 VWidth: 0
 Flags: HW
@@ -32223,7 +32222,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DV.halant
-Encoding: 515 -1 423
+Encoding: 512 -1 423
 Width: 708
 VWidth: 0
 Flags: HW
@@ -32287,7 +32286,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DVI
-Encoding: 516 -1 424
+Encoding: 513 -1 424
 Width: 708
 VWidth: 0
 Flags: HW
@@ -32351,7 +32350,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DVIi
-Encoding: 517 -1 425
+Encoding: 514 -1 425
 Width: 708
 VWidth: 0
 Flags: HW
@@ -32426,7 +32425,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DVU
-Encoding: 518 -1 426
+Encoding: 515 -1 426
 Width: 709
 VWidth: 0
 Flags: HW
@@ -32492,7 +32491,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DVUu
-Encoding: 519 -1 427
+Encoding: 516 -1 427
 Width: 709
 VWidth: 0
 Flags: HW
@@ -32560,7 +32559,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TtTth.halant
-Encoding: 520 -1 428
+Encoding: 517 -1 428
 Width: 859
 VWidth: 0
 Flags: HW
@@ -32640,7 +32639,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TtTthI
-Encoding: 521 -1 429
+Encoding: 518 -1 429
 Width: 847
 VWidth: 0
 Flags: HW
@@ -32711,7 +32710,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TtTthIi
-Encoding: 522 -1 430
+Encoding: 519 -1 430
 Width: 850
 VWidth: 0
 Flags: HW
@@ -32796,7 +32795,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TtTthU
-Encoding: 523 -1 431
+Encoding: 520 -1 431
 Width: 754
 VWidth: 0
 Flags: HW
@@ -32870,7 +32869,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TtTthUu
-Encoding: 524 -1 432
+Encoding: 521 -1 432
 Width: 754
 VWidth: 0
 Flags: HW
@@ -32946,7 +32945,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ka.touch
-Encoding: 525 -1 433
+Encoding: 522 -1 433
 Width: 697
 VWidth: 0
 Flags: HW
@@ -32960,7 +32959,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Kha.touch
-Encoding: 526 -1 434
+Encoding: 523 -1 434
 Width: 576
 VWidth: 0
 Flags: HW
@@ -32974,7 +32973,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ga.touch
-Encoding: 527 -1 435
+Encoding: 524 -1 435
 Width: 658
 VWidth: 0
 Flags: HW
@@ -32988,7 +32987,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Gha.touch
-Encoding: 528 -1 436
+Encoding: 525 -1 436
 Width: 589
 VWidth: 0
 Flags: HW
@@ -33002,7 +33001,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Nga.touch
-Encoding: 529 -1 437
+Encoding: 526 -1 437
 Width: 574
 VWidth: 0
 Flags: HW
@@ -33016,7 +33015,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Nnga.touch
-Encoding: 530 -1 438
+Encoding: 527 -1 438
 Width: 829
 VWidth: 0
 Flags: HW
@@ -33030,7 +33029,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ca.touch
-Encoding: 531 -1 439
+Encoding: 528 -1 439
 Width: 531
 VWidth: 0
 Flags: HW
@@ -33044,7 +33043,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Cha.touch
-Encoding: 532 -1 440
+Encoding: 529 -1 440
 Width: 566
 VWidth: 0
 Flags: HW
@@ -33058,7 +33057,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ja.touch
-Encoding: 533 -1 441
+Encoding: 530 -1 441
 Width: 566
 VWidth: 0
 Flags: HW
@@ -33072,7 +33071,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Jha.touch
-Encoding: 534 -1 442
+Encoding: 531 -1 442
 Width: 1050
 VWidth: 0
 Flags: HW
@@ -33086,7 +33085,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Nya.touch
-Encoding: 535 -1 443
+Encoding: 532 -1 443
 Width: 1062
 VWidth: 0
 Flags: HW
@@ -33100,7 +33099,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Jnya.touch
-Encoding: 536 -1 444
+Encoding: 533 -1 444
 Width: 998
 VWidth: 0
 Flags: HW
@@ -33114,7 +33113,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ndja.touch
-Encoding: 537 -1 445
+Encoding: 534 -1 445
 Width: 741
 VWidth: 0
 Flags: HW
@@ -33128,7 +33127,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Tta.touch
-Encoding: 538 -1 446
+Encoding: 535 -1 446
 Width: 535
 VWidth: 0
 Flags: HW
@@ -33142,7 +33141,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ttha.touch
-Encoding: 539 -1 447
+Encoding: 536 -1 447
 Width: 581
 VWidth: 0
 Flags: HW
@@ -33156,7 +33155,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Dda.touch
-Encoding: 540 -1 448
+Encoding: 537 -1 448
 Width: 583
 VWidth: 0
 Flags: HW
@@ -33170,7 +33169,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ddha.touch
-Encoding: 541 -1 449
+Encoding: 538 -1 449
 Width: 554
 VWidth: 0
 Flags: HW
@@ -33184,7 +33183,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Nna.touch
-Encoding: 542 -1 450
+Encoding: 539 -1 450
 Width: 878
 VWidth: 0
 Flags: HW
@@ -33198,7 +33197,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ndda.touch
-Encoding: 543 -1 451
+Encoding: 540 -1 451
 Width: 773
 VWidth: 0
 Flags: HW
@@ -33212,7 +33211,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ta.touch
-Encoding: 544 -1 452
+Encoding: 541 -1 452
 Width: 679
 VWidth: 0
 Flags: HW
@@ -33226,7 +33225,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Tha.touch
-Encoding: 545 -1 453
+Encoding: 542 -1 453
 Width: 548
 VWidth: 0
 Flags: HW
@@ -33240,7 +33239,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Da.touch
-Encoding: 546 -1 454
+Encoding: 543 -1 454
 Width: 410
 VWidth: 0
 Flags: HW
@@ -33254,7 +33253,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Dha.touch
-Encoding: 547 -1 455
+Encoding: 544 -1 455
 Width: 581
 VWidth: 0
 Flags: HW
@@ -33268,7 +33267,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Na.touch
-Encoding: 548 -1 456
+Encoding: 545 -1 456
 Width: 680
 VWidth: 0
 Flags: HW
@@ -33282,7 +33281,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Nda.touch
-Encoding: 549 -1 457
+Encoding: 546 -1 457
 Width: 578
 VWidth: 0
 Flags: HW
@@ -33296,7 +33295,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Pa.touch
-Encoding: 550 -1 458
+Encoding: 547 -1 458
 Width: 573
 VWidth: 0
 Flags: HW
@@ -33310,7 +33309,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Pha.touch
-Encoding: 551 -1 459
+Encoding: 548 -1 459
 Width: 548
 VWidth: 0
 Flags: HW
@@ -33324,7 +33323,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ba.touch
-Encoding: 552 -1 460
+Encoding: 549 -1 460
 Width: 575
 VWidth: 0
 Flags: HW
@@ -33338,7 +33337,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Bha.touch
-Encoding: 553 -1 461
+Encoding: 550 -1 461
 Width: 690
 VWidth: 0
 Flags: HW
@@ -33352,7 +33351,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ma.touch
-Encoding: 554 -1 462
+Encoding: 551 -1 462
 Width: 552
 VWidth: 0
 Flags: HW
@@ -33366,7 +33365,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Mba.touch
-Encoding: 555 -1 463
+Encoding: 552 -1 463
 Width: 578
 VWidth: 0
 Flags: HW
@@ -33380,7 +33379,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ya.touch
-Encoding: 556 -1 464
+Encoding: 553 -1 464
 Width: 582
 VWidth: 0
 Flags: HW
@@ -33394,7 +33393,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ra.touch
-Encoding: 557 -1 465
+Encoding: 554 -1 465
 Width: 497
 VWidth: 0
 Flags: HW
@@ -33408,7 +33407,7 @@ Layer: 4
 EndChar
 
 StartChar: si_La.touch
-Encoding: 558 -1 466
+Encoding: 555 -1 466
 Width: 586
 VWidth: 0
 Flags: HW
@@ -33422,7 +33421,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Va.touch
-Encoding: 559 -1 467
+Encoding: 556 -1 467
 Width: 535
 VWidth: 0
 Flags: HW
@@ -33436,7 +33435,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Sha.touch
-Encoding: 560 -1 468
+Encoding: 557 -1 468
 Width: 687
 VWidth: 0
 Flags: HW
@@ -33450,7 +33449,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ssa.touch
-Encoding: 561 -1 469
+Encoding: 558 -1 469
 Width: 572
 VWidth: 0
 Flags: HW
@@ -33464,7 +33463,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Sa.touch
-Encoding: 562 -1 470
+Encoding: 559 -1 470
 Width: 589
 VWidth: 0
 Flags: HW
@@ -33478,7 +33477,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ha.touch
-Encoding: 563 -1 471
+Encoding: 560 -1 471
 Width: 664
 VWidth: 0
 Flags: HW
@@ -33492,7 +33491,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Lla.touch
-Encoding: 564 -1 472
+Encoding: 561 -1 472
 Width: 565
 VWidth: 0
 Flags: HW
@@ -33506,7 +33505,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Fa.touch
-Encoding: 565 -1 473
+Encoding: 562 -1 473
 Width: 590
 VWidth: 0
 Flags: HW
@@ -33520,7 +33519,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KRI
-Encoding: 97 -1 474
+Encoding: 95 -1 474
 Width: 696
 VWidth: 0
 Flags: HW
@@ -33546,7 +33545,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KRIi
-Encoding: 98 -1 475
+Encoding: 96 -1 475
 Width: 696
 VWidth: 0
 Flags: HW
@@ -33572,7 +33571,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KRa
-Encoding: 96 -1 476
+Encoding: 94 -1 476
 Width: 696
 VWidth: 0
 Flags: HW
@@ -33598,7 +33597,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KhRa
-Encoding: 104 -1 477
+Encoding: 102 -1 477
 Width: 578
 VWidth: 0
 Flags: HW
@@ -33653,7 +33652,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GI
-Encoding: 109 -1 478
+Encoding: 107 -1 478
 Width: 658
 VWidth: 0
 Flags: HW
@@ -33709,7 +33708,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GIi
-Encoding: 110 -1 479
+Encoding: 108 -1 479
 Width: 658
 VWidth: 0
 Flags: HW
@@ -33777,7 +33776,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GRa
-Encoding: 114 -1 480
+Encoding: 112 -1 480
 Width: 658
 VWidth: 0
 Flags: HW
@@ -33830,7 +33829,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GRI
-Encoding: 116 -1 481
+Encoding: 114 -1 481
 Width: 658
 VWidth: 0
 Flags: HW
@@ -33856,7 +33855,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GRIi
-Encoding: 117 -1 482
+Encoding: 115 -1 482
 Width: 658
 VWidth: 0
 Flags: HW
@@ -33882,7 +33881,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GhI
-Encoding: 119 -1 483
+Encoding: 117 -1 483
 Width: 588
 VWidth: 0
 Flags: HW
@@ -33911,7 +33910,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GhIi
-Encoding: 120 -1 484
+Encoding: 118 -1 484
 Width: 588
 VWidth: 0
 Flags: HW
@@ -33952,7 +33951,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GhU
-Encoding: 121 -1 485
+Encoding: 119 -1 485
 Width: 588
 VWidth: 0
 Flags: HW
@@ -33983,7 +33982,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GhUu
-Encoding: 122 -1 486
+Encoding: 120 -1 486
 Width: 588
 VWidth: 0
 Flags: HW
@@ -34016,7 +34015,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GhRI
-Encoding: 125 -1 487
+Encoding: 122 -1 487
 Width: 588
 VWidth: 0
 Flags: HW
@@ -34042,7 +34041,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GhRIi
-Encoding: 126 -1 488
+Encoding: 123 -1 488
 Width: 588
 VWidth: 0
 Flags: HW
@@ -34068,7 +34067,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GhRa
-Encoding: 127 -1 489
+Encoding: 124 -1 489
 Width: 588
 VWidth: 0
 Flags: HW
@@ -34094,7 +34093,7 @@ Layer: 4
 EndChar
 
 StartChar: si_CU
-Encoding: 139 -1 490
+Encoding: 136 -1 490
 Width: 530
 VWidth: 0
 Flags: HW
@@ -34152,7 +34151,7 @@ Layer: 4
 EndChar
 
 StartChar: si_CUu
-Encoding: 140 -1 491
+Encoding: 137 -1 491
 Width: 530
 VWidth: 0
 Flags: HW
@@ -34212,7 +34211,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TtU
-Encoding: 209 -1 492
+Encoding: 206 -1 492
 Width: 535
 VWidth: 0
 Flags: HW
@@ -34257,7 +34256,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TtUu
-Encoding: 210 -1 493
+Encoding: 207 -1 493
 Width: 535
 VWidth: 0
 Flags: HW
@@ -34304,7 +34303,7 @@ Layer: 4
 EndChar
 
 StartChar: si_TtRa
-Encoding: 213 -1 494
+Encoding: 210 -1 494
 Width: 535
 VWidth: 0
 Flags: HW
@@ -34344,7 +34343,7 @@ Layer: 4
 EndChar
 
 StartChar: si_K.halant
-Encoding: 89 -1 495
+Encoding: 87 -1 495
 Width: 707
 VWidth: 0
 Flags: HW
@@ -34380,7 +34379,7 @@ Layer: 4
 EndChar
 
 StartChar: si_G.halant
-Encoding: 108 -1 496
+Encoding: 106 -1 496
 Width: 665
 VWidth: 0
 Flags: HW
@@ -34443,7 +34442,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Gh.halant
-Encoding: 118 -1 497
+Encoding: 116 -1 497
 Width: 583
 VWidth: 0
 Flags: HW
@@ -34479,7 +34478,7 @@ Layer: 4
 EndChar
 
 StartChar: si_GR.halant
-Encoding: 115 -1 498
+Encoding: 113 -1 498
 Width: 665
 VWidth: 0
 Flags: HW
@@ -34505,7 +34504,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ChU
-Encoding: 149 -1 499
+Encoding: 146 -1 499
 Width: 597
 VWidth: 0
 Flags: HW
@@ -34580,7 +34579,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ChUu
-Encoding: 150 -1 500
+Encoding: 147 -1 500
 Width: 597
 VWidth: 0
 Flags: HW
@@ -34657,7 +34656,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JU
-Encoding: 154 -1 501
+Encoding: 151 -1 501
 Width: 597
 VWidth: 0
 Flags: HW
@@ -34728,7 +34727,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JUu
-Encoding: 155 -1 502
+Encoding: 152 -1 502
 Width: 597
 VWidth: 0
 Flags: HW
@@ -34801,7 +34800,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DdU
-Encoding: 224 -1 503
+Encoding: 221 -1 503
 Width: 583
 VWidth: 0
 Flags: HW
@@ -34864,7 +34863,7 @@ Layer: 4
 EndChar
 
 StartChar: si_DdUu
-Encoding: 225 -1 504
+Encoding: 222 -1 504
 Width: 583
 VWidth: 0
 Flags: HW
@@ -34929,7 +34928,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JhU
-Encoding: 164 -1 505
+Encoding: 161 -1 505
 Width: 1052
 VWidth: 0
 Flags: HW
@@ -35026,7 +35025,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JhUu
-Encoding: 165 -1 506
+Encoding: 162 -1 506
 Width: 1052
 VWidth: 0
 Flags: HW
@@ -35125,7 +35124,7 @@ Layer: 4
 EndChar
 
 StartChar: si_CRa
-Encoding: 143 -1 507
+Encoding: 140 -1 507
 Width: 530
 VWidth: 0
 Flags: HW
@@ -35178,7 +35177,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ChIi
-Encoding: 148 -1 508
+Encoding: 145 -1 508
 Width: 617
 VWidth: 0
 Flags: HW
@@ -35263,7 +35262,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ny.halant
-Encoding: 173 -1 509
+Encoding: 170 -1 509
 Width: 1094
 VWidth: 0
 Flags: HW
@@ -35381,7 +35380,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NyI
-Encoding: 178 -1 510
+Encoding: 175 -1 510
 Width: 1137
 VWidth: 0
 Flags: HW
@@ -35492,7 +35491,7 @@ Layer: 4
 EndChar
 
 StartChar: si_NyIi
-Encoding: 179 -1 511
+Encoding: 176 -1 511
 Width: 1137
 VWidth: 0
 Flags: HW
@@ -35615,7 +35614,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BU
-Encoding: 329 -1 512
+Encoding: 326 -1 512
 Width: 575
 VWidth: 0
 Flags: HW
@@ -35666,7 +35665,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BUu
-Encoding: 330 -1 513
+Encoding: 327 -1 513
 Width: 575
 VWidth: 0
 Flags: HW
@@ -35719,7 +35718,7 @@ Layer: 4
 EndChar
 
 StartChar: si_BRa
-Encoding: 333 -1 514
+Encoding: 330 -1 514
 Width: 575
 VWidth: 0
 Flags: HW
@@ -35765,7 +35764,7 @@ Layer: 4
 EndChar
 
 StartChar: si_YU
-Encoding: 364 -1 515
+Encoding: 361 -1 515
 Width: 582
 VWidth: 0
 Flags: HW
@@ -35829,7 +35828,7 @@ Layer: 4
 EndChar
 
 StartChar: si_YUu
-Encoding: 365 -1 516
+Encoding: 362 -1 516
 Width: 582
 VWidth: 0
 Flags: HW
@@ -35895,7 +35894,7 @@ Layer: 4
 EndChar
 
 StartChar: si_L.halant
-Encoding: 381 -1 517
+Encoding: 378 -1 517
 Width: 592
 VWidth: 0
 Flags: HW
@@ -35950,7 +35949,7 @@ Layer: 4
 EndChar
 
 StartChar: si_LI
-Encoding: 382 -1 518
+Encoding: 379 -1 518
 Width: 586
 VWidth: 0
 Flags: HW
@@ -35998,10 +35997,10 @@ Layer: 4
 EndChar
 
 StartChar: si_LIi
-Encoding: 383 -1 519
+Encoding: 380 -1 519
 Width: 586
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 5
 Back
 Fore
@@ -36057,7 +36056,7 @@ Layer: 4
 EndChar
 
 StartChar: si_VU
-Encoding: 389 -1 520
+Encoding: 386 -1 520
 Width: 535
 VWidth: 0
 Flags: HW
@@ -36114,7 +36113,7 @@ Layer: 4
 EndChar
 
 StartChar: si_VUu
-Encoding: 390 -1 521
+Encoding: 387 -1 521
 Width: 535
 VWidth: 0
 Flags: HW
@@ -36173,7 +36172,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Sh.halant
-Encoding: 396 -1 522
+Encoding: 393 -1 522
 Width: 718
 VWidth: 0
 Flags: HW
@@ -36251,7 +36250,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ShI
-Encoding: 397 -1 523
+Encoding: 394 -1 523
 Width: 704
 VWidth: 0
 Flags: HW
@@ -36322,7 +36321,7 @@ Layer: 4
 EndChar
 
 StartChar: si_ShIi
-Encoding: 398 -1 524
+Encoding: 395 -1 524
 Width: 704
 VWidth: 0
 Flags: HW
@@ -36405,7 +36404,7 @@ Layer: 4
 EndChar
 
 StartChar: si_HR.halant
-Encoding: 432 -1 525
+Encoding: 429 -1 525
 Width: 692
 VWidth: 0
 Flags: HW
@@ -36431,7 +36430,7 @@ Layer: 4
 EndChar
 
 StartChar: si_HRa
-Encoding: 433 -1 526
+Encoding: 430 -1 526
 Width: 664
 VWidth: 0
 Flags: HW
@@ -36457,7 +36456,7 @@ Layer: 4
 EndChar
 
 StartChar: si_HRI
-Encoding: 434 -1 527
+Encoding: 431 -1 527
 Width: 664
 VWidth: 0
 Flags: HW
@@ -36483,7 +36482,7 @@ Layer: 4
 EndChar
 
 StartChar: si_HRIi
-Encoding: 435 -1 528
+Encoding: 432 -1 528
 Width: 664
 VWidth: 0
 Flags: HW
@@ -36509,7 +36508,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ll.halant
-Encoding: 436 -1 529
+Encoding: 433 -1 529
 Width: 567
 VWidth: 0
 Flags: HW
@@ -36587,7 +36586,7 @@ Layer: 4
 EndChar
 
 StartChar: si_LlI
-Encoding: 437 -1 530
+Encoding: 434 -1 530
 Width: 575
 VWidth: 0
 Flags: HW
@@ -36658,7 +36657,7 @@ Layer: 4
 EndChar
 
 StartChar: si_LlIi
-Encoding: 438 -1 531
+Encoding: 435 -1 531
 Width: 575
 VWidth: 0
 Flags: HW
@@ -36741,7 +36740,7 @@ Layer: 4
 EndChar
 
 StartChar: si_F.halant
-Encoding: 441 -1 532
+Encoding: 438 -1 532
 Width: 609
 VWidth: 0
 Flags: HW
@@ -36792,7 +36791,7 @@ Layer: 4
 EndChar
 
 StartChar: si_FI
-Encoding: 442 -1 533
+Encoding: 439 -1 533
 Width: 590
 VWidth: 0
 Flags: HW
@@ -36836,7 +36835,7 @@ Layer: 4
 EndChar
 
 StartChar: si_FIi
-Encoding: 443 -1 534
+Encoding: 440 -1 534
 Width: 590
 VWidth: 0
 Flags: HW
@@ -36894,7 +36893,7 @@ Layer: 4
 EndChar
 
 StartChar: si_FU
-Encoding: 444 -1 535
+Encoding: 441 -1 535
 Width: 590
 VWidth: 0
 Flags: HW
@@ -36940,7 +36939,7 @@ Layer: 4
 EndChar
 
 StartChar: si_FUu
-Encoding: 445 -1 536
+Encoding: 442 -1 536
 Width: 590
 VWidth: 0
 Flags: HW
@@ -36988,7 +36987,7 @@ Layer: 4
 EndChar
 
 StartChar: si_FR.halant
-Encoding: 447 -1 537
+Encoding: 444 -1 537
 Width: 609
 VWidth: 0
 Flags: HW
@@ -37014,7 +37013,7 @@ Layer: 4
 EndChar
 
 StartChar: si_FRa
-Encoding: 448 -1 538
+Encoding: 445 -1 538
 Width: 590
 VWidth: 0
 Flags: HW
@@ -37055,7 +37054,7 @@ Layer: 4
 EndChar
 
 StartChar: si_FRI
-Encoding: 449 -1 539
+Encoding: 446 -1 539
 Width: 590
 VWidth: 0
 Flags: HW
@@ -37081,7 +37080,7 @@ Layer: 4
 EndChar
 
 StartChar: si_FRIi
-Encoding: 450 -1 540
+Encoding: 447 -1 540
 Width: 590
 VWidth: 0
 Flags: HW
@@ -37107,7 +37106,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ka.reph
-Encoding: 94 -1 541
+Encoding: 92 -1 541
 Width: 697
 VWidth: 0
 Flags: HW
@@ -37145,7 +37144,7 @@ Layer: 4
 EndChar
 
 StartChar: si_KU.reph
-Encoding: 95 -1 542
+Encoding: 93 -1 542
 Width: 704
 VWidth: 0
 Flags: HW
@@ -37239,7 +37238,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ga.reph
-Encoding: 113 -1 543
+Encoding: 111 -1 543
 Width: 658
 VWidth: 0
 Flags: HW
@@ -37304,7 +37303,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Gha.reph
-Encoding: 123 -1 544
+Encoding: 121 -1 544
 Width: 588
 VWidth: 0
 Flags: HW
@@ -37342,7 +37341,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ca.reph
-Encoding: 141 -1 545
+Encoding: 138 -1 545
 Width: 531
 VWidth: 0
 Flags: HW
@@ -37410,7 +37409,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Jha.reph
-Encoding: 166 -1 546
+Encoding: 163 -1 546
 Width: 1050
 VWidth: 0
 Flags: HW
@@ -37517,7 +37516,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JhU.reph
-Encoding: 167 -1 547
+Encoding: 164 -1 547
 Width: 1050
 VWidth: 0
 Flags: HW
@@ -37639,7 +37638,7 @@ Layer: 4
 EndChar
 
 StartChar: si_JhUu.reph
-Encoding: 168 -1 548
+Encoding: 165 -1 548
 Width: 1050
 VWidth: 0
 Flags: HW
@@ -37763,7 +37762,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Tta.reph
-Encoding: 211 -1 549
+Encoding: 208 -1 549
 Width: 535
 VWidth: 0
 Flags: HW
@@ -37818,7 +37817,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Dda.reph
-Encoding: 226 -1 550
+Encoding: 223 -1 550
 Width: 583
 VWidth: 0
 Flags: HW
@@ -37891,7 +37890,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Nna.reph
-Encoding: 241 -1 551
+Encoding: 238 -1 551
 Width: 878
 VWidth: 0
 Flags: HW
@@ -37992,7 +37991,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ta.reph
-Encoding: 252 -1 552
+Encoding: 249 -1 552
 Width: 679
 VWidth: 0
 Flags: HW
@@ -38069,7 +38068,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Dha.reph
-Encoding: 289 -1 553
+Encoding: 286 -1 553
 Width: 581
 VWidth: 0
 Flags: HW
@@ -38131,7 +38130,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Pa.reph
-Encoding: 315 -1 554
+Encoding: 312 -1 554
 Width: 573
 VWidth: 0
 Flags: HW
@@ -38204,7 +38203,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Pha.reph
-Encoding: 325 -1 555
+Encoding: 322 -1 555
 Width: 548
 VWidth: 0
 Flags: HW
@@ -38280,7 +38279,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ba.reph
-Encoding: 331 -1 556
+Encoding: 328 -1 556
 Width: 575
 VWidth: 0
 Flags: HW
@@ -38341,7 +38340,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ma.reph
-Encoding: 351 -1 557
+Encoding: 348 -1 557
 Width: 552
 VWidth: 0
 Flags: HW
@@ -38406,7 +38405,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ya.reph
-Encoding: 366 -1 558
+Encoding: 363 -1 558
 Width: 582
 VWidth: 0
 Flags: HW
@@ -38477,7 +38476,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ssa.reph
-Encoding: 411 -1 559
+Encoding: 408 -1 559
 Width: 572
 VWidth: 0
 Flags: HW
@@ -38559,7 +38558,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Sa.reph
-Encoding: 421 -1 560
+Encoding: 418 -1 560
 Width: 589
 VWidth: 0
 Flags: HW
@@ -38597,7 +38596,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Ha.reph
-Encoding: 431 -1 561
+Encoding: 428 -1 561
 Width: 664
 VWidth: 0
 Flags: HW
@@ -38635,7 +38634,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Fa.reph
-Encoding: 446 -1 562
+Encoding: 443 -1 562
 Width: 590
 VWidth: 0
 Flags: HW
@@ -38688,7 +38687,7 @@ Layer: 4
 EndChar
 
 StartChar: si_Tha.reph
-Encoding: 262 -1 563
+Encoding: 259 -1 563
 Width: 548
 VWidth: 0
 Flags: HW
@@ -38745,6 +38744,31 @@ SplineSet
  471.854492188 726 526 555.741210938 526 340 c 0
  526 104 432 0 252 0 c 0
  74 0 21.8544921875 136.287109375 21.8544921875 252.395507812 c 0
+EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar
+
+StartChar: mooniak
+Encoding: 564 -1 564
+Width: 952
+VWidth: 0
+Flags: HW
+LayerCount: 5
+Back
+Fore
+SplineSet
+692.599609375 566 m 260
+ 692.599609375 629.2002158 743.7997842 680.400390625 807 680.400390625 c 260
+ 870.2002158 680.400390625 921.400390625 629.2002158 921.400390625 566 c 260
+ 921.400390625 502.7997842 870.2002158 451.599609375 807 451.599609375 c 260
+ 743.7997842 451.599609375 692.599609375 502.7997842 692.599609375 566 c 260
+30.400390625 361 m 260
+ 30.400390625 534.7997842 171.199994821 675.599609375 345 675.599609375 c 260
+ 518.7997842 675.599609375 659.599609375 534.7997842 659.599609375 361 c 260
+ 659.599609375 187.199994821 518.7997842 46.400390625 345 46.400390625 c 260
+ 171.199994821 46.400390625 30.400390625 187.199994821 30.400390625 361 c 260
 EndSplineSet
 Layer: 2
 Layer: 3
