@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425560291
-ModificationTime: 1449408000
+ModificationTime: 1449497862
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -7296,7 +7296,13 @@ Flags: HW
 LayerCount: 5
 Back
 Fore
-Validated: 1
+SplineSet
+-60 -1 m 257
+ -60 733 l 257
+ 50 733 l 261
+ 50 -1 l 261
+ -60 -1 l 257
+EndSplineSet
 Layer: 2
 Layer: 3
 Layer: 4
@@ -7310,7 +7316,23 @@ Flags: HW
 LayerCount: 5
 Back
 Fore
-Validated: 1
+SplineSet
+-50 1 m 257
+ -50 621 l 257
+ 50 621 l 257
+ 50 1 l 257
+ -50 1 l 257
+-124.522460938 489 m 257
+ -188.586914062 563 l 257
+ 118.935546875 784 l 257
+ 175 714 l 257
+ -124.522460938 489 l 257
+184.458007812 563 m 257
+ 130.393554688 489 l 257
+ -181.12890625 714 l 261
+ -120.064453125 784 l 257
+ 184.458007812 563 l 257
+EndSplineSet
 Layer: 2
 Layer: 3
 Layer: 4

@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425560291
-ModificationTime: 1449405024
+ModificationTime: 1449498043
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -48,7 +48,7 @@ NameList: sinhala
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 120 30 15
+WinInfo: 0 30 15
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -85,7 +85,7 @@ Grid
 -1024 3 m 0
  2048 3 l 1024
 EndSplineSet
-BeginChars: 65539 565
+BeginChars: 65561 565
 
 StartChar: si_Tta
 Encoding: 34 3495 0
@@ -5354,24 +5354,48 @@ EndChar
 
 StartChar: zwnj
 Encoding: 81 8204 66
-Width: 40
+Width: 0
 VWidth: 0
 Flags: HW
 LayerCount: 4
 Back
 Fore
+SplineSet
+-18 2 m 261
+ -18 737 l 261
+ 17 737 l 261
+ 17 2 l 261
+ -18 2 l 261
+EndSplineSet
 Layer: 2
 Layer: 3
 EndChar
 
 StartChar: zwj
 Encoding: 82 8205 67
-Width: 40
+Width: 0
 VWidth: 0
 Flags: HW
 LayerCount: 4
 Back
 Fore
+SplineSet
+-19 9 m 261
+ -19 629 l 261
+ 17 629 l 261
+ 17 9 l 261
+ -19 9 l 261
+-144.522 488.881 m 257
+ -167.255 521.794 l 257
+ 156.471 744.62 l 257
+ 179.201 711.707 l 257
+ -144.522 488.881 l 257
+168.051 521.844 m 257
+ 145.394 488.881 l 257
+ -178.129 712 l 257
+ -155.472 744.964 l 257
+ 168.051 521.844 l 257
+EndSplineSet
 Layer: 2
 Layer: 3
 EndChar
