@@ -119,10 +119,10 @@
       <point x="60.8584" y="156.9"/>
       <point x="58" y="155" type="curve"/>
       <point x="65" y="184" type="line"/>
-      <point x="82" y="190" type="line"/>
-      <point x="83.6406" y="190.461"/>
-      <point x="85.1094" y="190.739"/>
-      <point x="87.001" y="190.739" type="curve" smooth="yes"/>
+      <point x="82" y="190.739" type="line"/>
+      <point x="84" y="190.739"/>
+      <point x="85" y="190.739"/>
+      <point x="86" y="190.739" type="curve" smooth="yes"/>
       <point x="105.916" y="190.739"/>
       <point x="108.251" y="155.333"/>
       <point x="108.251" y="127.894" type="curve" smooth="yes"/>

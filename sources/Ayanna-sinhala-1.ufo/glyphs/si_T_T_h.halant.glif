@@ -53,19 +53,19 @@
       <point x="780.607" y="636.649"/>
       <point x="770.616" y="619.604"/>
       <point x="770.616" y="605" type="curve" smooth="yes"/>
-      <point x="770.616" y="587.891"/>
-      <point x="789.999" y="565.247"/>
-      <point x="820.573" y="558.715" type="curve" smooth="yes"/>
-      <point x="824.722" y="557.829"/>
-      <point x="829.076" y="557.239"/>
-      <point x="833.616" y="557" type="curve"/>
+      <point x="770.616" y="584.662"/>
+      <point x="785.837" y="558"/>
+      <point x="822.479" y="558" type="curve" smooth="yes"/>
+      <point x="826.108" y="558"/>
+      <point x="829.946" y="558.641"/>
+      <point x="834" y="560" type="curve"/>
       <point x="920.942" y="524" type="line"/>
-      <point x="858.616" y="448" type="line"/>
-      <point x="840.332" y="449.147"/>
-      <point x="820.417" y="453.068"/>
-      <point x="800.573" y="459.511" type="curve" smooth="yes"/>
-      <point x="733.684" y="481.229"/>
-      <point x="667.616" y="531.607"/>
+      <point x="859" y="461.236" type="line"/>
+      <point x="851.844" y="460.402"/>
+      <point x="844.758" y="460"/>
+      <point x="837.768" y="460" type="curve" smooth="yes"/>
+      <point x="744.145" y="460"/>
+      <point x="667.616" y="529.569"/>
     </contour>
     <contour>
       <point x="462.616" y="252.396" type="curve" smooth="yes"/>
@@ -138,11 +138,11 @@
       <point x="29.2451" y="125.771" type="curve"/>
       <point x="43.6172" y="191.771" type="line"/>
       <point x="96.9766" y="216" type="line"/>
-      <point x="106.923" y="216"/>
+      <point x="105.827" y="216"/>
       <point x="118.04" y="213.805"/>
-      <point x="127.977" y="208.687" type="curve" smooth="yes"/>
+      <point x="124.562" y="210.445" type="curve" smooth="yes"/>
       <point x="144.015" y="200.426"/>
-      <point x="156.977" y="184.55"/>
+      <point x="156.977" y="185.471"/>
       <point x="156.977" y="158" type="curve" smooth="yes"/>
       <point x="156.977" y="120.083"/>
       <point x="188.701" y="106"/>

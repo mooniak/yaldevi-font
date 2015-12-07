@@ -101,19 +101,19 @@
     <contour>
       <point x="244.257" y="105" type="curve" smooth="yes"/>
       <point x="244.257" y="110.711"/>
-      <point x="245.059" y="120.668"/>
+      <point x="245.059" y="120.669"/>
       <point x="245.059" y="130.404" type="curve" smooth="yes"/>
       <point x="245.059" y="144.302"/>
       <point x="243.425" y="157.747"/>
       <point x="235.494" y="157.747" type="curve" smooth="yes"/>
       <point x="233.503" y="157.747"/>
-      <point x="231.115" y="156.899"/>
+      <point x="231.115" y="156.9"/>
       <point x="228.257" y="155" type="curve"/>
       <point x="235.257" y="184" type="line"/>
-      <point x="252.257" y="190" type="line"/>
-      <point x="253.897" y="190.461"/>
-      <point x="255.367" y="190.739"/>
-      <point x="257.258" y="190.739" type="curve" smooth="yes"/>
+      <point x="252.257" y="190.739" type="line"/>
+      <point x="254.257" y="190.739"/>
+      <point x="255.257" y="190.739"/>
+      <point x="256.257" y="190.739" type="curve" smooth="yes"/>
       <point x="276.173" y="190.739"/>
       <point x="278.508" y="155.333"/>
       <point x="278.508" y="127.894" type="curve" smooth="yes"/>

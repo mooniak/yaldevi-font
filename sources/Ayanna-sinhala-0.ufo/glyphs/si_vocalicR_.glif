@@ -126,18 +126,18 @@
     </contour>
     <contour>
       <point x="33" y="194.103" type="curve" smooth="yes"/>
-      <point x="33" y="255.352"/>
-      <point x="45.7003" y="336.482"/>
-      <point x="91.1104" y="378" type="curve" smooth="yes"/>
-      <point x="109.385" y="394.708"/>
-      <point x="133.145" y="405"/>
+      <point x="33" y="260.151"/>
+      <point x="48.5098" y="348.409"/>
+      <point x="100.957" y="385.997" type="curve" smooth="yes"/>
+      <point x="117.607" y="397.93"/>
+      <point x="138" y="405"/>
       <point x="163.129" y="405" type="curve" smooth="yes"/>
       <point x="408.828" y="405" type="line" smooth="yes"/>
-      <point x="439.145" y="405"/>
-      <point x="462.572" y="394.708"/>
-      <point x="480.847" y="378" type="curve" smooth="yes"/>
-      <point x="526.257" y="336.482"/>
-      <point x="538.957" y="255.352"/>
+      <point x="434" y="405"/>
+      <point x="454.349" y="397.93"/>
+      <point x="471" y="385.997" type="curve" smooth="yes"/>
+      <point x="523.447" y="348.409"/>
+      <point x="538.957" y="260.151"/>
       <point x="538.957" y="194.103" type="curve" smooth="yes"/>
       <point x="538.957" y="86.6836"/>
       <point x="494.936" y="3"/>

@@ -40,19 +40,19 @@
       <point x="780.99" y="636.649"/>
       <point x="770.999" y="619.604"/>
       <point x="770.999" y="605" type="curve" smooth="yes"/>
-      <point x="770.999" y="587.891"/>
-      <point x="790.382" y="565.247"/>
-      <point x="820.956" y="558.715" type="curve" smooth="yes"/>
-      <point x="825.105" y="557.829"/>
-      <point x="829.459" y="557.239"/>
-      <point x="833.999" y="557" type="curve"/>
+      <point x="770.999" y="584.662"/>
+      <point x="786.22" y="558"/>
+      <point x="822.862" y="558" type="curve" smooth="yes"/>
+      <point x="826.49" y="558"/>
+      <point x="830.329" y="558.641"/>
+      <point x="834.383" y="560" type="curve"/>
       <point x="921.325" y="524" type="line"/>
-      <point x="858.999" y="448" type="line"/>
-      <point x="840.715" y="449.147"/>
-      <point x="820.799" y="453.068"/>
-      <point x="800.956" y="459.511" type="curve" smooth="yes"/>
-      <point x="734.067" y="481.229"/>
-      <point x="667.999" y="531.607"/>
+      <point x="859.383" y="461.236" type="line"/>
+      <point x="852.227" y="460.402"/>
+      <point x="845.141" y="460"/>
+      <point x="838.15" y="460" type="curve" smooth="yes"/>
+      <point x="744.528" y="460"/>
+      <point x="667.999" y="529.569"/>
     </contour>
     <contour>
       <point x="462.999" y="252.396" type="curve" smooth="yes"/>
@@ -119,11 +119,11 @@
       <point x="29.6279" y="125.771" type="curve"/>
       <point x="44" y="191.771" type="line"/>
       <point x="97.3594" y="216" type="line"/>
-      <point x="107.306" y="216"/>
+      <point x="106.21" y="216"/>
       <point x="118.423" y="213.805"/>
-      <point x="128.359" y="208.687" type="curve" smooth="yes"/>
+      <point x="124.945" y="210.445" type="curve" smooth="yes"/>
       <point x="144.397" y="200.426"/>
-      <point x="157.359" y="184.55"/>
+      <point x="157.359" y="185.471"/>
       <point x="157.359" y="158" type="curve" smooth="yes"/>
       <point x="157.359" y="120.083"/>
       <point x="189.084" y="106"/>
