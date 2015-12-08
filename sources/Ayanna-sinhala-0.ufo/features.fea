@@ -78,7 +78,7 @@
 	\si_TThIi \si_TThU \si_TThUu \si_TVa \si_TV.halant \si_TVI \si_TVIi \si_TVU 
 	\si_TVUu \si_DDdh.halant \si_DDhI \si_DDhIi \si_DDhU \si_DDhUu \si_DV.halant 
 	\si_DVI \si_DVIi \si_DVU \si_DVUu \si_TtTth.halant \si_TtTthI \si_TtTthIi 
-	\si_TtTthU \si_TtTthUu \si_Jnya.touch ];
+	\si_TtTthU \si_TtTthUu \si_Jnya.touch \mooniak ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
