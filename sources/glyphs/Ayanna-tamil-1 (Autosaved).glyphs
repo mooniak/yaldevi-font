@@ -3,17 +3,11 @@ DisplayStrings = (
 /tml_A/tml_Aa/tml_I/tml_Ii/tml_U/tml_Uu/tml_E/tml_E/tml_Ee/tml_Ai/tml_O/tml_Oo/tml_Au/tml_Ka/tml_Nga/tml_Ca/tml_Ja/tml_Nya/tml_Tta/tml_Nna/tml_Ta/tml_Na/tml_Nnna/tml_Pa/tml_Ma/tml_Ya/tml_Ra/tml_Rra/tml_La/tml_Lla/tml_Llla/tml_Va/tml_Sha/tml_Ssa/tml_Sa/tml_Ha,
 /tml_Na/tml_Ta,
 /tml_La/tml_La,
-/tml_Pa,
-/tml_A,
-/tml_Ka,
-/tml_Va,
 /tml_MatraE/tml_Ka,
-/tml_Ten,
-/tml_Hundred,
-/tml_Ya,
 /tml_MatraEe/tml_Ka,
-/tml_Nna,
-/tml_MatraAi
+/tml_MatraAi,
+/tml_Thousand/tml_Ta,
+/tml_Ca
 );
 copyright = "Licensed under the SIL Open Font License 1.1 (see file OFL.txt)";
 customParameters = (
@@ -4162,7 +4156,7 @@ unicode = 0BF1;
 },
 {
 glyphname = tml_Thousand;
-lastChange = "2015-11-24 00:05:41 +0000";
+lastChange = "2015-12-09 14:36:41 +0000";
 layers = (
 {
 components = (
@@ -4172,7 +4166,67 @@ name = tml_Ca;
 );
 layerId = "A6FF5082-DE18-4D2D-8E01-54AF1261B41D";
 name = Bold;
-width = 558;
+paths = (
+{
+closed = 1;
+nodes = (
+"481 -191 OFFCURVE",
+"490 -83 OFFCURVE",
+"631 -81 CURVE",
+"687 -81 LINE",
+"767 -80 OFFCURVE",
+"789 -26 OFFCURVE",
+"789 19 CURVE SMOOTH",
+"789 90 OFFCURVE",
+"752 118 OFFCURVE",
+"680 118 CURVE SMOOTH",
+"574 118 LINE SMOOTH",
+"539 118 OFFCURVE",
+"527 99 OFFCURVE",
+"527 73 CURVE SMOOTH",
+"527 52 OFFCURVE",
+"546 36 OFFCURVE",
+"574 36 CURVE SMOOTH",
+"614 36 OFFCURVE",
+"622 62 OFFCURVE",
+"622 102 CURVE",
+"622 246 LINE",
+"721 246 LINE",
+"720 96 LINE",
+"720 25 OFFCURVE",
+"691 -52 OFFCURVE",
+"575 -51 CURVE",
+"468 -51 OFFCURVE",
+"433 23 OFFCURVE",
+"433 73 CURVE SMOOTH",
+"433 126 OFFCURVE",
+"474 205 OFFCURVE",
+"558 205 CURVE",
+"671 205 LINE",
+"730 205 OFFCURVE",
+"885 208 OFFCURVE",
+"885 21 CURVE SMOOTH",
+"885 -75 OFFCURVE",
+"830 -170 OFFCURVE",
+"701 -170 CURVE",
+"649 -170 LINE",
+"577 -170 OFFCURVE",
+"586 -221 OFFCURVE",
+"586 -237 CURVE",
+"481 -237 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"486 341 LINE",
+"811 341 LINE",
+"811 242 LINE",
+"486 242 LINE"
+);
+}
+);
+width = 925;
 },
 {
 layerId = "E14DABE6-6E32-45CC-852E-073741854548";
@@ -5434,7 +5488,7 @@ unicode = 0BC7;
 },
 {
 glyphname = tml_MatraAi;
-lastChange = "2015-12-07 19:02:08 +0000";
+lastChange = "2015-12-07 19:02:21 +0000";
 layers = (
 {
 layerId = "A6FF5082-DE18-4D2D-8E01-54AF1261B41D";
