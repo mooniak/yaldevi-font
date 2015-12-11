@@ -12,7 +12,9 @@ DisplayStrings = (
 /tml_Six,
 /tml_Hundred,
 /tml_Two,
-/tml_One
+/tml_One,
+/tml_A,
+/tml_Eight
 );
 copyright = "Licensed under the SIL Open Font License 1.1 (see file OFL.txt)";
 customParameters = (
@@ -4756,12 +4758,17 @@ unicode = 0BED;
 },
 {
 glyphname = tml_Eight;
-lastChange = "2015-11-24 00:05:41 +0000";
+lastChange = "2015-12-10 22:38:05 +0000";
 layers = (
 {
+components = (
+{
+name = tml_A;
+}
+);
 layerId = "A6FF5082-DE18-4D2D-8E01-54AF1261B41D";
 name = Bold;
-width = 0;
+width = 904;
 },
 {
 layerId = "E14DABE6-6E32-45CC-852E-073741854548";
