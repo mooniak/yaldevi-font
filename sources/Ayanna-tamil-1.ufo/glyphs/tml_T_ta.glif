@@ -4,6 +4,9 @@
   <unicode hex="0B9F"/>
   <outline>
     <contour>
+      <point x="338" y="0" type="move" name="Anchor0"/>
+    </contour>
+    <contour>
       <point x="50" y="1" type="line"/>
       <point x="50" y="560" type="line"/>
       <point x="157" y="560" type="line"/>
@@ -11,8 +14,8 @@
       <point x="647" y="99" type="line"/>
       <point x="647" y="1" type="line"/>
     </contour>
-    <contour>
-      <point x="338" y="0" type="move" name="Anchor0"/>
-    </contour>
   </outline>
+  <lib>
+    <dict/>
+  </lib>
 </glyph>

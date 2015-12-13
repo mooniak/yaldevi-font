@@ -4,6 +4,15 @@
   <unicode hex="0BB6"/>
   <outline>
     <contour>
+      <point x="681" y="1" type="move" name="Anchor1"/>
+    </contour>
+    <contour>
+      <point x="569" y="0" type="move" name="Anchor0"/>
+    </contour>
+    <contour>
+      <point x="385" y="1" type="move" name="tml_virama"/>
+    </contour>
+    <contour>
       <point x="50" y="560" type="line"/>
       <point x="157" y="560" type="line"/>
       <point x="157" y="153" type="line" smooth="yes"/>
@@ -34,33 +43,24 @@
       <point x="445" y="545" type="line" smooth="yes"/>
       <point x="557" y="545" type="line"/>
       <point x="557" y="143" type="line" smooth="yes"/>
-      <point x="557" y="95"/>
+      <point x="557" y="95.3582"/>
       <point x="581" y="86"/>
       <point x="598" y="86" type="curve" smooth="yes"/>
-      <point x="643" y="86"/>
+      <point x="643.246" y="86"/>
       <point x="665" y="156"/>
       <point x="665" y="284" type="curve" smooth="yes"/>
       <point x="665" y="427"/>
-      <point x="628" y="463"/>
+      <point x="628.053" y="463"/>
       <point x="566" y="462" type="curve"/>
       <point x="557" y="560" type="line"/>
-      <point x="679" y="560"/>
-      <point x="767" y="521"/>
+      <point x="679.155" y="560"/>
+      <point x="766.954" y="521"/>
       <point x="766" y="284" type="curve" smooth="yes"/>
-      <point x="765" y="96"/>
-      <point x="705" y="-15"/>
+      <point x="765.196" y="95.9989"/>
+      <point x="705.46" y="-15"/>
       <point x="595" y="-15" type="curve" smooth="yes"/>
-      <point x="524" y="-15"/>
-      <point x="445" y="15"/>
-    </contour>
-    <contour>
-      <point x="681" y="1" type="move" name="Anchor1"/>
-    </contour>
-    <contour>
-      <point x="569" y="0" type="move" name="Anchor0"/>
-    </contour>
-    <contour>
-      <point x="385" y="1" type="move" name="tml_virama"/>
+      <point x="523.75" y="-15"/>
+      <point x="445" y="15.0952"/>
     </contour>
   </outline>
 </glyph>
