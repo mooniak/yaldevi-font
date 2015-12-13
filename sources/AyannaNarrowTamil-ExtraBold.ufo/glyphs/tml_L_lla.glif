@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_Llla" format="1">
+  <advance width="642"/>
+  <unicode hex="0BB4"/>
+  <outline>
+    <contour>
+      <point x="284" y="0" type="move" name="Anchor1"/>
+    </contour>
+    <contour>
+      <point x="377" y="0" type="move" name="Anchor0"/>
+    </contour>
+    <contour>
+      <point x="241" y="33" type="line"/>
+      <point x="346" y="32" type="line"/>
+      <point x="346" y="-3" type="line" smooth="yes"/>
+      <point x="347" y="-96"/>
+      <point x="463" y="-99"/>
+      <point x="540" y="-99" type="curve"/>
+      <point x="540" y="-195" type="line"/>
+      <point x="457" y="-195" type="line"/>
+      <point x="357" y="-195"/>
+      <point x="310" y="-253"/>
+      <point x="210" y="-253" type="curve" smooth="yes"/>
+      <point x="107" y="-253"/>
+      <point x="48" y="-197"/>
+      <point x="48" y="-97" type="curve" smooth="yes"/>
+      <point x="48" y="-87"/>
+      <point x="48" y="-76"/>
+      <point x="48" y="-63" type="curve"/>
+      <point x="152" y="-62" type="line"/>
+      <point x="152" y="-99"/>
+      <point x="163" y="-154"/>
+      <point x="210" y="-154" type="curve" smooth="yes"/>
+      <point x="264" y="-154"/>
+      <point x="277" y="-140"/>
+      <point x="319" y="-132" type="curve"/>
+      <point x="293" y="-117"/>
+      <point x="244" y="-84"/>
+      <point x="241" y="-8" type="curve" smooth="yes"/>
+    </contour>
+    <component base="tml_Ma"/>
+  </outline>
+</glyph>

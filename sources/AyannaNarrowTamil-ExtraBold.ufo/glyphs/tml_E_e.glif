@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_Ee" format="1">
+  <advance width="645"/>
+  <unicode hex="0B8F"/>
+  <outline>
+    <contour>
+      <point x="306" y="8" type="move" name="tml_virama"/>
+    </contour>
+    <contour>
+      <point x="182" y="-162" type="line"/>
+      <point x="410" y="52" type="line"/>
+      <point x="518" y="2" type="line"/>
+      <point x="257" y="-239" type="line"/>
+    </contour>
+    <component base="tml_E" xOffset="-14"/>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>
