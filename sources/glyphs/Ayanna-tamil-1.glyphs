@@ -6,7 +6,8 @@ DisplayStrings = (
 /tml_NgUu,
 /tml_TU,
 /tml_Six,
-/tml_Ca
+/tml_Ca,
+/tml_Nga
 );
 copyright = "Licensed under the SIL Open Font License 1.1 (see file OFL.txt)";
 customParameters = (
@@ -2423,7 +2424,7 @@ unicode = 0B95;
 },
 {
 glyphname = tml_Nga;
-lastChange = "2015-12-21 17:00:32 +0000";
+lastChange = "2015-12-23 23:08:59 +0000";
 layers = (
 {
 anchors = (
@@ -2545,8 +2546,8 @@ nodes = (
 "303 366 OFFCURVE",
 "274 319 OFFCURVE",
 "274 274 CURVE",
-"238 275 LINE",
-"238 348 OFFCURVE",
+"244 275 LINE",
+"244 348 OFFCURVE",
 "293 408 OFFCURVE",
 "371 408 CURVE SMOOTH",
 "448 408 OFFCURVE",

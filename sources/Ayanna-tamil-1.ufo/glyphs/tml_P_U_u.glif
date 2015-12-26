@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_PUu" format="1">
-  <advance width="0"/>
+  <advance width="980"/>
   <outline>
+    <contour>
+      <point x="670" y="-153" type="line"/>
+      <point x="671" y="32" type="line"/>
+      <point x="779" y="33" type="line"/>
+      <point x="779" y="-153" type="line"/>
+    </contour>
+    <contour>
+      <point x="751" y="43"/>
+      <point x="783" y="59"/>
+      <point x="814" y="58" type="curve" smooth="yes"/>
+      <point x="881" y="58"/>
+      <point x="950" y="9"/>
+      <point x="950" y="-98" type="curve" smooth="yes"/>
+      <point x="950" y="-237"/>
+      <point x="807" y="-349"/>
+      <point x="622" y="-349" type="curve" smooth="yes"/>
+      <point x="428" y="-349"/>
+      <point x="319" y="-282"/>
+      <point x="319" y="-175" type="curve" smooth="yes"/>
+      <point x="319" y="-97"/>
+      <point x="368" y="-44"/>
+      <point x="437" y="-44" type="curve" smooth="yes"/>
+      <point x="513" y="-44"/>
+      <point x="559" y="-103"/>
+      <point x="559" y="-169" type="curve" smooth="yes"/>
+      <point x="559" y="-250"/>
+      <point x="508" y="-279"/>
+      <point x="445" y="-279" type="curve" smooth="yes"/>
+      <point x="411" y="-279"/>
+      <point x="371" y="-251"/>
+      <point x="365" y="-208" type="curve"/>
+      <point x="404" y="-188" type="line"/>
+      <point x="407" y="-203"/>
+      <point x="419" y="-215"/>
+      <point x="437" y="-215" type="curve" smooth="yes"/>
+      <point x="458" y="-215"/>
+      <point x="472" y="-200"/>
+      <point x="472" y="-178" type="curve" smooth="yes"/>
+      <point x="472" y="-157"/>
+      <point x="464" y="-138"/>
+      <point x="437" y="-138" type="curve" smooth="yes"/>
+      <point x="414" y="-138"/>
+      <point x="403" y="-156"/>
+      <point x="403" y="-178" type="curve" smooth="yes"/>
+      <point x="403" y="-236"/>
+      <point x="494" y="-259"/>
+      <point x="622" y="-259" type="curve" smooth="yes"/>
+      <point x="745" y="-259"/>
+      <point x="852" y="-191"/>
+      <point x="852" y="-95" type="curve" smooth="yes"/>
+      <point x="852" y="-36"/>
+      <point x="825" y="-22"/>
+      <point x="803" y="-22" type="curve" smooth="yes"/>
+      <point x="790" y="-22"/>
+      <point x="779" y="-30"/>
+      <point x="779" y="-47" type="curve"/>
+      <point x="723" y="5" type="line"/>
+    </contour>
+    <component base="tml_Pa" xOffset="279"/>
   </outline>
 </glyph>

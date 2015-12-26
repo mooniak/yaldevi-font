@@ -2,10 +2,84 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>GSDimensionPlugin.Dimensions</key>
+	<dict>
+		<key>A6FF5082-DE18-4D2D-8E01-54AF1261B41D</key>
+		<dict>
+		</dict>
+		<key>E14DABE6-6E32-45CC-852E-073741854548</key>
+		<dict>
+		</dict>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>A6FF5082-DE18-4D2D-8E01-54AF1261B41D</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<integer>0</integer>
+	<key>com.schriftgestaltung.weight</key>
+	<string>Bold</string>
+	<key>com.typemytype.robofont.guides</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>663</integer>
+			<key>y</key>
+			<integer>560</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>279</integer>
+			<key>y</key>
+			<integer>573</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>223</integer>
+			<key>y</key>
+			<integer>461</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>1169</integer>
+			<key>y</key>
+			<integer>-13</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>352</integer>
+			<key>y</key>
+			<integer>-267</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>632</integer>
+			<key>y</key>
+			<integer>-349</integer>
+		</dict>
+	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>tml_A</string>
@@ -131,6 +205,7 @@
 		<string>tml_TUu</string>
 		<string>tml_TtUu</string>
 		<string>tml_YUu</string>
+		<string>tml_A.001</string>
 	</array>
 </dict>
 </plist>

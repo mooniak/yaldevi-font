@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_RrUu" format="1">
-  <advance width="0"/>
+  <advance width="1180"/>
   <outline>
+    <contour>
+      <point x="1150" y="560" type="line"/>
+      <point x="1150" y="463" type="line"/>
+      <point x="1050" y="463" type="line"/>
+      <point x="1050" y="-13" type="line"/>
+      <point x="943" y="-13" type="line"/>
+      <point x="943" y="463" type="line"/>
+      <point x="828" y="463" type="line"/>
+      <point x="828" y="560" type="line"/>
+    </contour>
+    <component base="tml_RrU"/>
   </outline>
 </glyph>

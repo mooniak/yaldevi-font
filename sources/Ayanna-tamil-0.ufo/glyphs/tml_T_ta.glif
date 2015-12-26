@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_Tta" format="1">
+  <advance width="569"/>
+  <unicode hex="0B9F"/>
+  <outline>
+    <contour>
+      <point x="30" y="1" type="line"/>
+      <point x="30" y="560" type="line"/>
+      <point x="72" y="560" type="line"/>
+      <point x="72" y="43" type="line"/>
+      <point x="539" y="43" type="line"/>
+      <point x="539" y="1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

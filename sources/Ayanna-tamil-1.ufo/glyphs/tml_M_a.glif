@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_Ma" format="1">
-  <advance width="642"/>
+  <advance width="647"/>
   <unicode hex="0BAE"/>
   <outline>
     <contour>
-      <point x="46" y="0" type="line"/>
-      <point x="46" y="559" type="line"/>
-      <point x="153" y="559" type="line"/>
-      <point x="153" y="98" type="line"/>
-      <point x="372" y="98" type="line"/>
-      <point x="388" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="559" type="line"/>
+      <point x="137" y="559" type="line"/>
+      <point x="137" y="98" type="line"/>
+      <point x="376" y="98" type="line"/>
+      <point x="392" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="261" y="68" type="line" smooth="yes"/>
-      <point x="261" y="432" type="line"/>
-      <point x="261" y="524"/>
-      <point x="301" y="575"/>
-      <point x="394" y="576" type="curve" smooth="yes"/>
-      <point x="541" y="577"/>
-      <point x="591" y="426"/>
-      <point x="592" y="299" type="curve" smooth="yes"/>
-      <point x="593" y="114"/>
-      <point x="526" y="0"/>
-      <point x="384" y="0" type="curve"/>
-      <point x="365" y="98" type="line"/>
-      <point x="485" y="97"/>
-      <point x="494" y="185"/>
-      <point x="494" y="299" type="curve" smooth="yes"/>
-      <point x="494" y="381"/>
-      <point x="468" y="487"/>
-      <point x="405" y="487" type="curve" smooth="yes"/>
-      <point x="381" y="487"/>
-      <point x="369" y="466"/>
-      <point x="369" y="432" type="curve"/>
-      <point x="369" y="68" type="line"/>
+      <point x="265" y="68" type="line" smooth="yes"/>
+      <point x="265" y="442" type="line"/>
+      <point x="265" y="534"/>
+      <point x="305" y="575"/>
+      <point x="398" y="576" type="curve" smooth="yes"/>
+      <point x="561" y="577"/>
+      <point x="616" y="426"/>
+      <point x="617" y="299" type="curve" smooth="yes"/>
+      <point x="618" y="114"/>
+      <point x="544" y="0"/>
+      <point x="388" y="0" type="curve"/>
+      <point x="369" y="98" type="line"/>
+      <point x="509" y="97"/>
+      <point x="520" y="215"/>
+      <point x="520" y="299" type="curve" smooth="yes"/>
+      <point x="520" y="381"/>
+      <point x="487" y="487"/>
+      <point x="409" y="487" type="curve" smooth="yes"/>
+      <point x="382" y="487"/>
+      <point x="373" y="467"/>
+      <point x="373" y="432" type="curve"/>
+      <point x="373" y="68" type="line"/>
     </contour>
     <contour>
-      <point x="303" y="0" type="move" name="Anchor1"/>
+      <point x="373" y="0" type="move" name="Anchor0"/>
     </contour>
     <contour>
-      <point x="389" y="0" type="move" name="Anchor0"/>
+      <point x="287" y="0" type="move" name="Anchor1"/>
     </contour>
     <contour>
-      <point x="297" y="0" type="move" name="tml_virama"/>
+      <point x="281" y="0" type="move" name="tml_virama"/>
     </contour>
   </outline>
 </glyph>
