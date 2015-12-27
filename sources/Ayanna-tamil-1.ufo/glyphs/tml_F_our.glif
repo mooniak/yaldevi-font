@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_Four" format="1">
-  <advance width="0"/>
+  <advance width="697"/>
   <unicode hex="0BEA"/>
+<<<<<<< HEAD
+=======
+  <outline>
+    <contour>
+      <point x="586" y="341" type="line"/>
+      <point x="586" y="560" type="line"/>
+      <point x="677" y="560" type="line"/>
+      <point x="677" y="243" type="line"/>
+      <point x="459" y="243" type="line"/>
+      <point x="459" y="344" type="line"/>
+      <point x="459" y="341" type="line"/>
+    </contour>
+    <component base="tml_Ca"/>
+  </outline>
+>>>>>>> remotes/origin/tamil-dev
 </glyph>

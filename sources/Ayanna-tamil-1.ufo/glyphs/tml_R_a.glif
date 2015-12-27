@@ -1,36 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_Ra" format="1">
-  <advance width="528"/>
+  <advance width="549"/>
   <unicode hex="0BB0"/>
   <outline>
     <contour>
-      <point x="87" y="-6" type="move" name="Anchor1"/>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="560" type="line"/>
+      <point x="519" y="560" type="line"/>
+      <point x="519" y="461" type="line"/>
+      <point x="416" y="461" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="380" y="0"/>
+      <point x="344" y="0"/>
+      <point x="308" y="0" type="curve"/>
+      <point x="308" y="461" type="line"/>
+      <point x="157" y="461" type="line"/>
+      <point x="157" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="228" y="0" type="move" name="Anchor0"/>
+      <point x="88" y="-174" type="line"/>
+      <point x="309" y="33" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="154" y="-241" type="line"/>
     </contour>
     <contour>
-      <point x="49" y="0" type="line"/>
-      <point x="49" y="560" type="line"/>
-      <point x="518" y="560" type="line"/>
-      <point x="518" y="462" type="line"/>
-      <point x="415" y="462" type="line"/>
-      <point x="415" y="0" type="line"/>
-      <point x="379" y="0"/>
-      <point x="343" y="0"/>
-      <point x="307" y="0" type="curve"/>
-      <point x="307" y="462" type="line"/>
-      <point x="156" y="462" type="line"/>
-      <point x="156" y="0" type="line"/>
+      <point x="229" y="0" type="move" name="Anchor0"/>
     </contour>
     <contour>
-      <point x="87" y="-174" type="line"/>
-      <point x="308" y="33" type="line"/>
-      <point x="415" y="0" type="line"/>
-      <point x="153" y="-241" type="line"/>
+      <point x="88" y="-6" type="move" name="Anchor1"/>
     </contour>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

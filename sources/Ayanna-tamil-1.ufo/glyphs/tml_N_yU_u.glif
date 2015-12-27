@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_NyUu" format="1">
-  <advance width="0"/>
+  <advance width="1253"/>
+  <outline>
+    <contour>
+      <point x="1223" y="560" type="line"/>
+      <point x="1223" y="463" type="line"/>
+      <point x="1123" y="463" type="line"/>
+      <point x="1123" y="-13" type="line"/>
+      <point x="1016" y="-13" type="line"/>
+      <point x="1016" y="463" type="line"/>
+      <point x="901" y="463" type="line"/>
+      <point x="901" y="560" type="line"/>
+    </contour>
+    <component base="tml_NyU"/>
+  </outline>
 </glyph>

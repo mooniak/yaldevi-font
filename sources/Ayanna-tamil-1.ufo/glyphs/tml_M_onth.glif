@@ -1,5 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_Month" format="1">
-  <advance width="0"/>
+  <advance width="646"/>
   <unicode hex="0BF4"/>
+  <outline>
+    <contour>
+      <point x="316" y="686"/>
+      <point x="413" y="800"/>
+      <point x="567" y="800" type="curve" smooth="yes"/>
+      <point x="694" y="800"/>
+      <point x="760" y="724"/>
+      <point x="760" y="640" type="curve" smooth="yes"/>
+      <point x="760" y="567"/>
+      <point x="707" y="532"/>
+      <point x="649" y="532" type="curve" smooth="yes"/>
+      <point x="590" y="532"/>
+      <point x="538" y="567"/>
+      <point x="538" y="640" type="curve" smooth="yes"/>
+      <point x="538" y="730"/>
+      <point x="610" y="800"/>
+      <point x="730" y="800" type="curve" smooth="yes"/>
+      <point x="830" y="800"/>
+      <point x="936" y="739"/>
+      <point x="904" y="644" type="curve"/>
+      <point x="1030" y="644" type="line"/>
+      <point x="1030" y="557" type="line"/>
+      <point x="822" y="557" type="line"/>
+      <point x="822" y="644" type="line"/>
+      <point x="839" y="684"/>
+      <point x="790" y="719"/>
+      <point x="738" y="719" type="curve" smooth="yes"/>
+      <point x="667" y="719"/>
+      <point x="616" y="697"/>
+      <point x="616" y="640" type="curve" smooth="yes"/>
+      <point x="616" y="614"/>
+      <point x="632" y="605"/>
+      <point x="649" y="605" type="curve" smooth="yes"/>
+      <point x="665" y="605"/>
+      <point x="682" y="613"/>
+      <point x="682" y="640" type="curve" smooth="yes"/>
+      <point x="682" y="697"/>
+      <point x="610" y="721"/>
+      <point x="563" y="721" type="curve" smooth="yes"/>
+      <point x="500" y="721"/>
+      <point x="409" y="681"/>
+      <point x="450" y="550" type="curve"/>
+      <point x="368" y="532" type="line"/>
+    </contour>
+    <component base="tml_Ma"/>
+  </outline>
 </glyph>
