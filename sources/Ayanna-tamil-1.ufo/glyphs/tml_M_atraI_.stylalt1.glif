@@ -1,23 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_MatraI.stylalt1" format="1">
-  <advance width="641"/>
-  <outline>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>x</key>
-          <integer>1149</integer>
-          <key>y</key>
-          <integer>-274</integer>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+  <advance width="0"/>
 </glyph>

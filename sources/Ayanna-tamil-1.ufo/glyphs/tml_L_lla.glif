@@ -4,7 +4,6 @@
   <unicode hex="0BB4"/>
   <outline>
     <contour>
-<<<<<<< HEAD
       <point x="284" y="0" type="move" name="Anchor1"/>
     </contour>
     <contour>
@@ -37,80 +36,5 @@
       <point x="263" y="-8" type="curve" smooth="yes"/>
     </contour>
     <component base="tml_Ma"/>
-=======
-      <point x="563" y="0"/>
-      <point x="639" y="128"/>
-      <point x="633" y="299" type="curve" smooth="yes"/>
-      <point x="629" y="432"/>
-      <point x="575" y="573"/>
-      <point x="414" y="573" type="curve" smooth="yes"/>
-      <point x="317" y="573"/>
-      <point x="281" y="518"/>
-      <point x="281" y="429" type="curve"/>
-      <point x="281" y="8" type="line"/>
-      <point x="281" y="-136"/>
-      <point x="354" y="-175"/>
-      <point x="401" y="-175" type="curve"/>
-      <point x="398" y="-178"/>
-      <point x="354" y="-133"/>
-      <point x="354" y="-133" type="curve"/>
-      <point x="354" y="-133"/>
-      <point x="329" y="-190"/>
-      <point x="262" y="-190" type="curve" smooth="yes"/>
-      <point x="180" y="-190"/>
-      <point x="163" y="-133"/>
-      <point x="163" y="-82" type="curve"/>
-      <point x="50" y="-83" type="line"/>
-      <point x="50" y="-206"/>
-      <point x="134" y="-293"/>
-      <point x="255" y="-293" type="curve" smooth="yes"/>
-      <point x="382" y="-293"/>
-      <point x="456" y="-197"/>
-      <point x="456" y="-166" type="curve"/>
-      <point x="456" y="-163"/>
-      <point x="429" y="-179"/>
-      <point x="429" y="-179" type="curve"/>
-      <point x="562" y="-179" type="line"/>
-      <point x="562" y="-89" type="line"/>
-      <point x="523" y="-89"/>
-      <point x="499" y="-89"/>
-      <point x="473" y="-89" type="curve"/>
-      <point x="408" y="-89"/>
-      <point x="389" y="-57"/>
-      <point x="389" y="-2" type="curve"/>
-      <point x="389" y="429" type="line"/>
-      <point x="389" y="467"/>
-      <point x="401" y="484"/>
-      <point x="430" y="484" type="curve" smooth="yes"/>
-      <point x="490" y="484"/>
-      <point x="535" y="414"/>
-      <point x="535" y="275" type="curve" smooth="yes"/>
-      <point x="535" y="182"/>
-      <point x="515" y="95"/>
-      <point x="385" y="98" type="curve"/>
-      <point x="153" y="98" type="line"/>
-      <point x="153" y="559" type="line"/>
-      <point x="46" y="559" type="line"/>
-      <point x="46" y="0" type="line"/>
-      <point x="404" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="377" y="0" type="move" name="Anchor0"/>
-    </contour>
-    <contour>
-      <point x="224" y="0" type="move" name="Anchor1"/>
-    </contour>
-    <contour>
-      <point x="297" y="0" type="move" name="tml_virama"/>
-    </contour>
->>>>>>> remotes/origin/tamil-dev
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

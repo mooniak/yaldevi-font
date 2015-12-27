@@ -1,61 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_Ii" format="1">
-  <advance width="626"/>
+  <advance width="631"/>
   <unicode hex="0B88"/>
   <outline>
     <contour>
       <point x="46" y="1" type="line"/>
-      <point x="46" y="560" type="line"/>
-      <point x="616" y="559" type="line"/>
-      <point x="616" y="461" type="line"/>
-      <point x="153" y="462" type="line"/>
+      <point x="46" y="566" type="line"/>
+      <point x="606" y="566" type="line"/>
+      <point x="606" y="468" type="line"/>
+      <point x="153" y="468" type="line"/>
       <point x="153" y="1" type="line"/>
     </contour>
     <contour>
-      <point x="207" y="314"/>
-      <point x="181" y="285"/>
-      <point x="181" y="255" type="curve" smooth="yes"/>
-      <point x="181" y="225"/>
-      <point x="207" y="197"/>
-      <point x="239" y="197" type="curve" smooth="yes"/>
-      <point x="269" y="197"/>
-      <point x="297" y="225"/>
-      <point x="297" y="255" type="curve" smooth="yes"/>
-      <point x="297" y="285"/>
-      <point x="269" y="314"/>
-      <point x="239" y="314" type="curve" smooth="yes"/>
+      <point x="181" y="285" type="curve" smooth="yes"/>
+      <point x="181" y="255"/>
+      <point x="207" y="227"/>
+      <point x="239" y="227" type="curve" smooth="yes"/>
+      <point x="269" y="227"/>
+      <point x="297" y="255"/>
+      <point x="297" y="285" type="curve" smooth="yes"/>
+      <point x="297" y="315"/>
+      <point x="269" y="344"/>
+      <point x="239" y="344" type="curve" smooth="yes"/>
+      <point x="207" y="344"/>
+      <point x="181" y="315"/>
     </contour>
     <contour>
-      <point x="337" y="1" type="line"/>
-      <point x="337" y="494" type="line"/>
-      <point x="444" y="494" type="line"/>
-      <point x="444" y="1" type="line"/>
+      <point x="327" y="1" type="line"/>
+      <point x="327" y="500" type="line"/>
+      <point x="434" y="500" type="line"/>
+      <point x="434" y="1" type="line"/>
     </contour>
     <contour>
-      <point x="507" y="314"/>
-      <point x="479" y="285"/>
-      <point x="479" y="255" type="curve" smooth="yes"/>
-      <point x="479" y="225"/>
-      <point x="507" y="197"/>
-      <point x="537" y="197" type="curve" smooth="yes"/>
-      <point x="569" y="197"/>
-      <point x="595" y="225"/>
-      <point x="595" y="255" type="curve" smooth="yes"/>
-      <point x="595" y="285"/>
-      <point x="569" y="314"/>
-      <point x="537" y="314" type="curve" smooth="yes"/>
+      <point x="469" y="285" type="curve" smooth="yes"/>
+      <point x="469" y="255"/>
+      <point x="497" y="227"/>
+      <point x="527" y="227" type="curve" smooth="yes"/>
+      <point x="559" y="227"/>
+      <point x="585" y="255"/>
+      <point x="585" y="285" type="curve" smooth="yes"/>
+      <point x="585" y="315"/>
+      <point x="559" y="344"/>
+      <point x="527" y="344" type="curve" smooth="yes"/>
+      <point x="497" y="344"/>
+      <point x="469" y="315"/>
     </contour>
   </outline>
   <lib>
-<<<<<<< HEAD
     <dict/>
-=======
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
->>>>>>> remotes/origin/tamil-dev
   </lib>
 </glyph>
