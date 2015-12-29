@@ -2,10 +2,13 @@
 
 languagesystem DFLT dflt;
 languagesystem sinh dflt;
+languagesystem taml dflt;
+languagesystem tml2 dflt;
 
 # include (../../features/GENERATED_classes.fea);
 include (../../features/tables.fea);
 
+##--------------- Lookups Sinhala ---------------##
 
 #---- --AKHN ------------
 
@@ -1098,8 +1101,6 @@ feature salt {
 } salt;
 
 feature ss01 {
-  # script sinh;
-  #   lookup si_da_style;
   script taml;
      lookup tml_stylistic_alternates_1;
   script tml2;
@@ -1140,7 +1141,7 @@ feature liga {
     sub f l by fl;
 } liga;
 
-# ---numr features
+##------------- Numeric Features -------------##
 
 # @FIGURES = [ zero one two three four five six seven eight nine ];
 
