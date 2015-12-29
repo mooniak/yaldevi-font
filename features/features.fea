@@ -989,6 +989,10 @@ feature akhn {
   script sinh;
       lookup si_akhands;
       lookup si_touching;
+  script taml;
+      lookup tml_akhands;
+  script tml2;
+      lookup tml_akhands;
 } akhn;
 
 #-------------
@@ -1027,6 +1031,12 @@ feature abvs {
       lookup si_abvs_5;
       lookup si_abvs_6;
       lookup si_abvs_7;
+  script taml;
+      lookup tml_above_base_sub_1;
+      lookup tml_above_base_sub_2;
+  script tml2;
+      lookup tml_above_base_sub_1;
+      lookup tml_above_base_sub_2;
 } abvs;
 
 #-------------
@@ -1045,6 +1055,12 @@ feature blws {
 feature psts {
   script sinh;
       lookup si_raer;
+  script taml;
+      lookup tml_post_base_sub_1;
+      lookup tml_post_base_sub_2;
+  script tml2;
+      lookup tml_post_base_sub_1;
+      lookup tml_post_base_sub_2;
 } psts;
 
 #-------------
@@ -1066,12 +1082,58 @@ feature blwm {
     script sinh;
 } blwm;
 
-# feature ss01 {
-#   script sinh;
-#     lookup si_da_style;
-# } ss01;
 #-------------
-#---std ligatures
+
+feature salt {
+    script taml;
+        lookup tml_stylistic_alternates_1;
+        lookup tml_stylistic_alternates_2;
+        lookup tml_stylistic_alternates_3;
+        lookup tml_stylistic_alternates_4;
+    script tml2;
+        lookup tml_stylistic_alternates_1;
+        lookup tml_stylistic_alternates_2;
+        lookup tml_stylistic_alternates_3;
+        lookup tml_stylistic_alternates_4;
+} salt;
+
+feature ss01 {
+  # script sinh;
+  #   lookup si_da_style;
+  script taml;
+     lookup tml_stylistic_alternates_1;
+  script tml2;
+     lookup tml_stylistic_alternates_1;
+} ss01;
+
+#-------------
+
+feature ss02 {
+    script taml;
+        lookup tml_stylistic_alternates_2;
+    script tml2;
+        lookup tml_stylistic_alternates_2;
+} ss02;
+
+#-------------
+
+feature ss03 {
+    script taml;
+        lookup tml_stylistic_alternates_3;
+    script tml2;
+        lookup tml_stylistic_alternates_3;
+} ss03;
+
+#-------------
+
+feature ss04 {
+    script taml;
+        lookup tml_stylistic_alternates_4;
+    script tml2;
+        lookup tml_stylistic_alternates_4;
+} ss04;
+
+##--------------- Std Ligature ---------------##
 
 feature liga {
     sub f i by fi;
