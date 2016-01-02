@@ -3,14 +3,14 @@
   <advance width="1399"/>
   <outline>
     <contour>
-      <point x="1369" y="573" type="line"/>
-      <point x="1369" y="476" type="line"/>
-      <point x="1269" y="476" type="line"/>
       <point x="1269" y="-13" type="line"/>
-      <point x="1162" y="-13" type="line"/>
-      <point x="1162" y="476" type="line"/>
-      <point x="1047" y="476" type="line"/>
+      <point x="1269" y="476" type="line"/>
+      <point x="1369" y="476" type="line"/>
+      <point x="1369" y="573" type="line"/>
       <point x="1047" y="573" type="line"/>
+      <point x="1047" y="476" type="line"/>
+      <point x="1162" y="476" type="line"/>
+      <point x="1162" y="-13" type="line"/>
     </contour>
     <component base="tml_NU" xOffset="-17"/>
   </outline>

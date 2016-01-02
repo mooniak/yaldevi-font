@@ -4,7 +4,7 @@
   <dict>
     <key>public.glyphOrder</key>
     <array>
-      <string>tml_A</string>
+      <string>a-tamil</string>
       <string>tml_Aa</string>
       <string>tml_I</string>
       <string>tml_Ii</string>
@@ -34,7 +34,7 @@
       <string>tml_La</string>
       <string>tml_Lla</string>
       <string>tml_Llla</string>
-      <string>tml_Va</string>
+      <string>va-tamil</string>
       <string>tml_Sha</string>
       <string>tml_Ssa</string>
       <string>tml_Sa</string>
@@ -128,19 +128,10 @@
       <string>tml_TtUu</string>
       <string>tml_YUu</string>
       <string>tml_A.001</string>
+      <string>newGlyph</string>
     </array>
     <key>com.typemytype.robofont.guides</key>
     <array>
-      <dict>
-        <key>y</key>
-        <integer>560</integer>
-        <key>x</key>
-        <integer>663</integer>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>isGlobal</key>
-        <true/>
-      </dict>
       <dict>
         <key>y</key>
         <integer>573</integer>
@@ -156,16 +147,6 @@
         <integer>461</integer>
         <key>x</key>
         <integer>223</integer>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>isGlobal</key>
-        <true/>
-      </dict>
-      <dict>
-        <key>y</key>
-        <integer>-13</integer>
-        <key>x</key>
-        <integer>1169</integer>
         <key>angle</key>
         <integer>0</integer>
         <key>isGlobal</key>

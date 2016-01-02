@@ -4,23 +4,26 @@
   <unicode hex="0BB0"/>
   <outline>
     <contour>
-      <point x="30" y="0" type="line"/>
-      <point x="30" y="560" type="line"/>
-      <point x="459" y="560" type="line"/>
-      <point x="459" y="518" type="line"/>
-      <point x="326" y="518" type="line"/>
-      <point x="323" y="0" type="line"/>
-      <point x="287" y="0"/>
-      <point x="314" y="0"/>
-      <point x="278" y="0" type="curve"/>
-      <point x="281" y="518" type="line"/>
-      <point x="72" y="518" type="line"/>
-      <point x="72" y="0" type="line"/>
+      <point x="169" y="0" type="move" name="Anchor0"/>
     </contour>
     <contour>
-      <point x="33" y="-212" type="line"/>
-      <point x="278" y="17" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="72" y="518" type="line"/>
+      <point x="281" y="518" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="314" y="0"/>
+      <point x="287" y="0"/>
+      <point x="323" y="0" type="curve"/>
+      <point x="326" y="518" type="line"/>
+      <point x="459" y="518" type="line"/>
+      <point x="459" y="560" type="line"/>
+      <point x="30" y="560" type="line"/>
+      <point x="30" y="0" type="line"/>
+    </contour>
+    <contour>
       <point x="323" y="0" type="line"/>
+      <point x="278" y="17" type="line"/>
+      <point x="33" y="-212" type="line"/>
       <point x="61" y="-241" type="line"/>
     </contour>
   </outline>

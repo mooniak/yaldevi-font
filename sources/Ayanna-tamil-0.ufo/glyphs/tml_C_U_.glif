@@ -3,16 +3,16 @@
   <advance width="638"/>
   <outline>
     <contour>
-      <point x="524" y="307" type="line"/>
       <point x="524" y="0" type="line" smooth="yes"/>
-      <point x="482" y="0" type="line"/>
+      <point x="524" y="307" type="line"/>
       <point x="482" y="307" type="line"/>
+      <point x="482" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="608" y="341" type="line"/>
       <point x="608" y="299" type="line" smooth="yes"/>
-      <point x="512" y="299" type="line"/>
+      <point x="608" y="341" type="line"/>
       <point x="512" y="341" type="line"/>
+      <point x="512" y="299" type="line"/>
     </contour>
     <component base="tml_Ca"/>
   </outline>
