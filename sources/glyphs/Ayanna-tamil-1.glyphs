@@ -5,12 +5,12 @@ DisplayStrings = (
 /tml_LlUu,
 /tml_NgUu,
 /tml_Year,
-/tml_Debit,
-/tml_RrU,
-/tml_MU,
-/tml_LllU,
-/tml_Va,
-/tml_RU
+/tml_Credit,
+/tml_LllUu,
+/tml_NnnUu,
+/tml_Nga,
+/tml_Number,
+/tml_Day
 );
 copyright = "Licensed under the SIL Open Font License 1.1 (see file OFL.txt)";
 customParameters = (
@@ -218,10 +218,11 @@ position = "{955, -148}";
 position = "{652, -342}";
 },
 {
-position = "{1143, 339}";
+position = "{671, 576}";
 }
 );
 id = "E14DABE6-6E32-45CC-852E-073741854548";
+visible = 1;
 weight = Light;
 weightValue = 0;
 widthValue = 0;
@@ -3805,7 +3806,7 @@ unicode = 0BAA;
 },
 {
 glyphname = tml_Ma;
-lastChange = "2015-12-29 10:17:32 +0000";
+lastChange = "2016-01-02 09:21:08 +0000";
 layers = (
 {
 layerId = "A6FF5082-DE18-4D2D-8E01-54AF1261B41D";
@@ -7955,7 +7956,7 @@ unicode = 0BF6;
 },
 {
 glyphname = tml_Credit;
-lastChange = "2015-12-29 10:17:32 +0000";
+lastChange = "2016-01-01 16:36:56 +0000";
 layers = (
 {
 components = (
@@ -7968,9 +7969,58 @@ name = Bold;
 width = 649;
 },
 {
+components = (
+{
+name = tml_E;
+}
+);
 layerId = "E14DABE6-6E32-45CC-852E-073741854548";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"527 231 LINE",
+"609 231 OFFCURVE",
+"685 201 OFFCURVE",
+"685 103 CURVE SMOOTH",
+"685 44 OFFCURVE",
+"657 17 OFFCURVE",
+"621 17 CURVE SMOOTH",
+"572 17 OFFCURVE",
+"553 64 OFFCURVE",
+"553 103 CURVE SMOOTH",
+"553 138 OFFCURVE",
+"577 231 OFFCURVE",
+"700 231 CURVE SMOOTH",
+"804 231 OFFCURVE",
+"847 118 OFFCURVE",
+"794 37 CURVE",
+"794 0 LINE",
+"964 0 LINE",
+"964 42 LINE",
+"842 42 LINE",
+"895 165 OFFCURVE",
+"813 273 OFFCURVE",
+"700 273 CURVE SMOOTH",
+"591 273 OFFCURVE",
+"511 213 OFFCURVE",
+"511 103 CURVE SMOOTH",
+"511 30 OFFCURVE",
+"552 -25 OFFCURVE",
+"621 -25 CURVE SMOOTH",
+"679 -25 OFFCURVE",
+"727 13 OFFCURVE",
+"727 103 CURVE SMOOTH",
+"727 204 OFFCURVE",
+"665 273 OFFCURVE",
+"506 273 CURVE",
+"467 273 LINE",
+"467 231 LINE"
+);
+}
+);
+width = 994;
 }
 );
 unicode = 0BF7;
@@ -7994,7 +8044,7 @@ unicode = 0BF8;
 },
 {
 glyphname = tml_Number;
-lastChange = "2015-12-29 10:17:32 +0000";
+lastChange = "2016-01-02 11:03:18 +0000";
 layers = (
 {
 layerId = "A6FF5082-DE18-4D2D-8E01-54AF1261B41D";
@@ -8002,9 +8052,108 @@ name = Bold;
 width = 0;
 },
 {
+guideLines = (
+{
+position = "{1578, 755}";
+}
+);
 layerId = "E14DABE6-6E32-45CC-852E-073741854548";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"327 537 LINE",
+"291 627 OFFCURVE",
+"336 755 OFFCURVE",
+"480 755 CURVE SMOOTH",
+"647 755 OFFCURVE",
+"789 603 OFFCURVE",
+"789 368 CURVE SMOOTH",
+"789 281 OFFCURVE",
+"755 204 OFFCURVE",
+"666 204 CURVE SMOOTH",
+"584 204 OFFCURVE",
+"537 274 OFFCURVE",
+"537 376 CURVE SMOOTH",
+"537 502 OFFCURVE",
+"622 574 OFFCURVE",
+"728 574 CURVE SMOOTH",
+"842 574 OFFCURVE",
+"949 493 OFFCURVE",
+"950 305 CURVE SMOOTH",
+"951 178 OFFCURVE",
+"887 84 OFFCURVE",
+"845 42 CURVE",
+"997 42 LINE",
+"997 0 LINE",
+"777 0 LINE",
+"776 32 LINE",
+"835 86 OFFCURVE",
+"908 178 OFFCURVE",
+"908 305 CURVE SMOOTH",
+"908 433 OFFCURVE",
+"845 532 OFFCURVE",
+"728 532 CURVE SMOOTH",
+"636 532 OFFCURVE",
+"579 452 OFFCURVE",
+"579 376 CURVE SMOOTH",
+"579 310 OFFCURVE",
+"603 246 OFFCURVE",
+"667 246 CURVE SMOOTH",
+"732 246 OFFCURVE",
+"747 310 OFFCURVE",
+"747 368 CURVE SMOOTH",
+"747 583 OFFCURVE",
+"621 716 OFFCURVE",
+"486 715 CURVE SMOOTH",
+"369 714 OFFCURVE",
+"336 621 OFFCURVE",
+"370 537 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"30 0 LINE",
+"30 560 LINE",
+"386 560 LINE",
+"386 518 LINE",
+"274 518 LINE",
+"274 0 LINE",
+"232 0 LINE",
+"232 518 LINE",
+"72 518 LINE",
+"72 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"343 42 LINE",
+"400 42 OFFCURVE",
+"461 114 OFFCURVE",
+"461 227 CURVE SMOOTH",
+"461 308 OFFCURVE",
+"429 366 OFFCURVE",
+"362 366 CURVE SMOOTH",
+"303 366 OFFCURVE",
+"274 319 OFFCURVE",
+"274 274 CURVE",
+"238 275 LINE",
+"238 348 OFFCURVE",
+"293 408 OFFCURVE",
+"371 408 CURVE SMOOTH",
+"448 408 OFFCURVE",
+"503 339 OFFCURVE",
+"503 229 CURVE SMOOTH",
+"503 98 OFFCURVE",
+"439 0 OFFCURVE",
+"343 0 CURVE"
+);
+}
+);
+width = 1020;
 }
 );
 unicode = 0BFA;
