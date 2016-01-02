@@ -4,7 +4,7 @@
   <dict>
     <key>public.glyphOrder</key>
     <array>
-      <string>a-tamil</string>
+      <string>tml_A</string>
       <string>tml_Aa</string>
       <string>tml_I</string>
       <string>tml_Ii</string>
@@ -34,7 +34,7 @@
       <string>tml_La</string>
       <string>tml_Lla</string>
       <string>tml_Llla</string>
-      <string>va-tamil</string>
+      <string>tml_Va</string>
       <string>tml_Sha</string>
       <string>tml_Ssa</string>
       <string>tml_Sa</string>
@@ -164,9 +164,9 @@
       </dict>
       <dict>
         <key>y</key>
-        <integer>339</integer>
+        <integer>576</integer>
         <key>x</key>
-        <integer>1143</integer>
+        <integer>671</integer>
         <key>angle</key>
         <integer>0</integer>
         <key>isGlobal</key>
@@ -188,5 +188,7 @@
     <integer>0</integer>
     <key>com.schriftgestaltung.weight</key>
     <string>Light</string>
+    <key>com.schriftgestaltung.widthValue</key>
+    <integer>0</integer>
   </dict>
 </plist>

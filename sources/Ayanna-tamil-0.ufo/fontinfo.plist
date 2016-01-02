@@ -31,7 +31,7 @@
     <key>note</key>
     <string></string>
     <key>openTypeHeadCreated</key>
-    <string>2015/12/28 15:59:59</string>
+    <string>2016/01/02 15:48:12</string>
     <key>openTypeHheaAscender</key>
     <integer>954</integer>
     <key>openTypeHheaDescender</key>
@@ -43,7 +43,7 @@
     <key>openTypeNamePreferredFamilyName</key>
     <string>ayanna-tamil</string>
     <key>openTypeNamePreferredSubfamilyName</key>
-    <string>medium</string>
+    <string>regular</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>2</integer>
@@ -60,7 +60,7 @@
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WeightClass</key>
-    <integer>500</integer>
+    <integer>400</integer>
     <key>openTypeOS2VendorID</key>
     <string>ACE </string>
     <key>openTypeOS2FamilyClass</key>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tml_Day" format="1">
-  <advance width="600"/>
-  <unicode hex="0BF3"/>
+<glyph name="tml_Va" format="1">
+  <advance width="687"/>
+  <unicode hex="0BB5"/>
   <outline>
     <contour>
       <point x="78" y="-20"/>
@@ -52,9 +52,17 @@
     <contour>
       <point x="367" y="34" type="line"/>
       <point x="416" y="43" type="line"/>
-      <point x="587" y="43" type="line"/>
-      <point x="587" y="1" type="line"/>
+      <point x="615" y="43" type="line"/>
+      <point x="615" y="559" type="line"/>
+      <point x="657" y="559" type="line"/>
+      <point x="657" y="1" type="line"/>
       <point x="367" y="1" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=tml_Pa</string>
+    </dict>
+  </lib>
 </glyph>

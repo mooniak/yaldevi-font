@@ -2,4 +2,20 @@
 <glyph name="tml_MatraAa" format="1">
   <advance width="600"/>
   <unicode hex="0BBE"/>
+  <outline>
+    <contour>
+      <point x="71" y="0" type="line"/>
+      <point x="71" y="560" type="line"/>
+      <point x="520" y="560" type="line"/>
+      <point x="520" y="518" type="line"/>
+      <point x="387" y="518" type="line"/>
+      <point x="384" y="0" type="line"/>
+      <point x="348" y="0"/>
+      <point x="375" y="0"/>
+      <point x="339" y="0" type="curve"/>
+      <point x="342" y="518" type="line"/>
+      <point x="113" y="518" type="line"/>
+      <point x="113" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

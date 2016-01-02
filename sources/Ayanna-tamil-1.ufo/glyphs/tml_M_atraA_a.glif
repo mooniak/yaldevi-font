@@ -4,22 +4,16 @@
   <unicode hex="0BBE"/>
   <outline>
     <contour>
-      <point x="273" y="0" type="move" name="Anchor0"/>
-    </contour>
-    <contour>
-      <point x="122" y="0" type="move" name="Anchor1"/>
-    </contour>
-    <contour>
-      <point x="178" y="1" type="line"/>
-      <point x="178" y="462" type="line"/>
-      <point x="339" y="462" type="line"/>
-      <point x="339" y="1" type="line"/>
-      <point x="447" y="1" type="line"/>
-      <point x="447" y="462" type="line"/>
-      <point x="550" y="462" type="line"/>
-      <point x="550" y="560" type="line"/>
-      <point x="71" y="560" type="line"/>
       <point x="71" y="1" type="line"/>
+      <point x="71" y="560" type="line"/>
+      <point x="550" y="560" type="line"/>
+      <point x="550" y="462" type="line"/>
+      <point x="447" y="462" type="line"/>
+      <point x="447" y="1" type="line"/>
+      <point x="339" y="1" type="line"/>
+      <point x="339" y="462" type="line"/>
+      <point x="178" y="462" type="line"/>
+      <point x="178" y="1" type="line"/>
     </contour>
   </outline>
 </glyph>

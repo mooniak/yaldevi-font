@@ -1,6 +1,6 @@
 
 
-@GDEF_Simple = [\a-tamil \newGlyph \space \tml_A.001 \tml_Aa \tml_Above \tml_Ai 
+@GDEF_Simple = [\newGlyph \space \tml_A \tml_A.001 \tml_Aa \tml_Above \tml_Ai 
 	\tml_Anusvara \tml_Au \tml_AuLengthmark \tml_CU \tml_CUu \tml_Ca \tml_Credit 
 	\tml_Day \tml_Debit \tml_E \tml_Ee \tml_Eight \tml_Five \tml_Four \tml_Ha 
 	\tml_Hundred \tml_I \tml_Ii \tml_Ja \tml_KSsa \tml_KU \tml_KUu \tml_Ka \tml_LU 
@@ -16,8 +16,8 @@
 	\tml_Om \tml_One \tml_Oo \tml_PUu \tml_Pa \tml_RU \tml_RUu \tml_Ra \tml_RrAa.alt 
 	\tml_RrU \tml_RrUu \tml_Rra \tml_Rupee \tml_Sa \tml_Seven \tml_Sha \tml_Shree 
 	\tml_Six \tml_Ssa \tml_TU \tml_TUu \tml_Ta \tml_Ten \tml_Thousand \tml_Three 
-	\tml_TtI \tml_TtIi \tml_TtU \tml_TtUu \tml_Tta \tml_Two \tml_U \tml_Uu 
-	\tml_Virama \tml_Visarga \tml_YUu \tml_Ya \tml_Year \tml_Zero \va-tamil ];
+	\tml_TtI \tml_TtIi \tml_TtU \tml_TtUu \tml_Tta \tml_Two \tml_U \tml_Uu \tml_Va 
+	\tml_Virama \tml_Visarga \tml_YUu \tml_Ya \tml_Year \tml_Zero ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
