@@ -22,8 +22,8 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1451749582
-ModificationTime: 1451749582
+CreationTime: 1451953434
+ModificationTime: 1451953434
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -364,26 +364,35 @@ sg132
 I0
 sg133
 I01
+sa(dp138
+S'y'
+I404
+sS'x'
+I1427
+sg132
+I0
+sg133
+I01
 sasS'com.schriftgestaltung.fontMasterID'
-p138
-S'A6FF5082-DE18-4D2D-8E01-54AF1261B41D'
 p139
-sS'GSDimensionPlugin.Dimensions'
+S'A6FF5082-DE18-4D2D-8E01-54AF1261B41D'
 p140
-(dp141
+sS'GSDimensionPlugin.Dimensions'
+p141
+(dp142
 S'E14DABE6-6E32-45CC-852E-073741854548'
-p142
-(dp143
+p143
+(dp144
 sS'A6FF5082-DE18-4D2D-8E01-54AF1261B41D'
-p144
-(dp145
+p145
+(dp146
 ssS'com.schriftgestaltung.useNiceNames'
-p146
+p147
 I0
 sS'com.schriftgestaltung.weight'
-p147
-S'Bold'
 p148
+S'Bold'
+p149
 s."
 Encoding: Custom
 UnicodeInterp: none
@@ -393,9 +402,9 @@ AntiAlias: 1
 FitToEm: 1
 WinInfo: 0 8 2
 BeginPrivate: 3
-BlueShift 1 0
 StemSnapH 13 [34 35 36 64]
 StemSnapV 21 [8 10 34 35 36 37 64]
+BlueShift 1 0
 EndPrivate
 BeginChars: 125 125
 
@@ -404,6 +413,7 @@ Encoding: 0 -1 0
 GlifName: newG_lyph
 Width: 600
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -415,6 +425,7 @@ Encoding: 1 32 1
 GlifName: space
 Width: 204
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -426,6 +437,7 @@ Encoding: 2 2949 2
 GlifName: tml_A_
 Width: 905
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -468,6 +480,7 @@ Encoding: 3 -1 3
 GlifName: tml_A_.001
 Width: 854
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -475,7 +488,7 @@ Fore
 SplineSet
 282 -106 m 256
  434 -106 508 7 508 171 c 256
- 508 173 510 203 510 207 c 256
+ 510 207 l 256
  510 388 475 524 334 524 c 256
  243 524 231 444 231 406 c 256
  231 371 245 346 275 346 c 256
@@ -518,6 +531,7 @@ Encoding: 4 2950 4
 GlifName: tml_A_a
 Width: 1045
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -578,12 +592,58 @@ EndChar
 StartChar: tml_Above
 Encoding: 5 3064 5
 GlifName: tml_A_bove
-Width: 0
+Width: 1277
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
+SplineSet
+353 756 m 256
+ 536 756 678 586 678 339 c 256
+ 678 140 624 0 506 0 c 256
+ 425 0 374 49 374 139 c 256
+ 374 289 464 404 606 404 c 256
+ 709 404 820 328 820 190 c 256
+ 820 157 811 125 797 97 c 257
+ 1069 97 l 258
+ 1073 97 1080 100 1080 107 c 256
+ 1080 114 1075 118 1070 121 c 258
+ 902 228 l 258
+ 862 253 838 288 839 335 c 256
+ 840 425 910 461 964 461 c 256
+ 1058 461 1099 376 1081 296 c 258
+ 981 -148 l 257
+ 879 -148 l 257
+ 979 300 l 258
+ 981 309 993 359 962 359 c 256
+ 945 359 938 345 938 337 c 256
+ 938 322 944 317 963 306 c 257
+ 1125 198 l 257
+ 1177 167 1180 131 1180 103 c 256
+ 1180 33 1127 0 1069 0 c 258
+ 674 0 l 257
+ 674 78 l 257
+ 698 108 720 138 720 186 c 256
+ 720 248 679 306 606 306 c 256
+ 501 306 472 212 472 147 c 256
+ 472 124 481 102 505 102 c 256
+ 559 102 571 275 571 337 c 256
+ 571 489 483 648 353 648 c 256
+ 168 648 125 389 143 180 c 256
+ 147 130 160 69 198 69 c 256
+ 240 69 252 125 252 183 c 256
+ 252 251 236 302 200 302 c 256
+ 167 302 143 260 143 181 c 257
+ 74 232 l 257
+ 74 294 110 402 206 402 c 256
+ 301 402 350 305 350 175 c 256
+ 350 50 290 -29 195 -29 c 256
+ 77 -29 29 127 29 297 c 256
+ 29 579 168 756 353 756 c 256
+  PathStart: -2
+EndSplineSet
 EndChar
 
 StartChar: tml_Ai
@@ -591,6 +651,7 @@ Encoding: 6 2960 6
 GlifName: tml_A_i
 Width: 749
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -608,12 +669,12 @@ SplineSet
  222 131 146 89 146 27 c 256
  146 -18 182 -49 228 -49 c 256
  281 -49 337 -18 337 74 c 257
- 337 74 450 74 450 74 c 257
+ 450 74 l 257
  450 12 472 -57 541 -54 c 256
  586 -52 614 0 594 65 c 257
- 594 65 697 81 697 81 c 257
+ 697 81 l 257
  697 95 763 -153 542 -153 c 256
- 414 -153 398 -57 398 -57 c 257
+ 414 -153 398 -57 398 -57 c 256
  398 -57 381 -155 224 -155 c 256
  133 -155 33 -99 33 21 c 256
   PathStart: -2
@@ -640,10 +701,20 @@ Encoding: 7 2946 7
 GlifName: tml_A_nusvara
 Width: 0
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.ColorIndex'
+p2
+I0
+sS'public.markColor'
+p3
+S'0.85,0.26,0.06,1'
+p4
+s."
 EndChar
 
 StartChar: tml_Au
@@ -651,6 +722,7 @@ Encoding: 8 2964 8
 GlifName: tml_A_u
 Width: 1570
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -662,13 +734,14 @@ EndChar
 StartChar: tml_AuLengthmark
 Encoding: 9 3031 9
 GlifName: tml_A_uL_engthmark
-Width: 968
+Width: 908
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
-Refer: 79 2985 N 1 0 0 1 0 0 2
+Refer: 35 2995 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tml_CU
@@ -676,18 +749,19 @@ Encoding: 10 -1 10
 GlifName: tml_C_U_
 Width: 641
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
 561 252 m 257
- 561 0 l 256
+ 561 0 l 257
  465 0 l 257
  465 252 l 257
  561 252 l 257
 611 341 m 257
- 611 244 l 256
+ 611 244 l 257
  515 244 l 257
  515 341 l 257
  611 341 l 257
@@ -700,6 +774,7 @@ Encoding: 11 -1 11
 GlifName: tml_C_U_u
 Width: 974
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -719,12 +794,12 @@ SplineSet
  895 179 944 108 944 12 c 256
  944 -116 825 -275 518 -274 c 256
 763 252 m 257
- 763 0 l 256
+ 763 0 l 257
  667 0 l 257
  667 252 l 257
  763 252 l 257
 813 341 m 257
- 813 244 l 256
+ 813 244 l 257
  717 244 l 257
  717 341 l 257
  813 341 l 257
@@ -737,15 +812,15 @@ Encoding: 12 2970 12
 GlifName: tml_C_a
 Width: 558
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
-30 172 m 256
- 30 271 94 341 212 341 c 258
+212 341 m 258
  518 341 l 257
- 518 341 518 244 518 244 c 257
+ 518 244 l 257
  212 244 l 258
  159 244 130 212 130 167 c 256
  130 124 166 85 217 85 c 256
@@ -763,6 +838,7 @@ SplineSet
  415 207 l 258
  415 103 375 -13 217 -13 c 256
  82 -13 30 75 30 172 c 256
+ 30 271 94 341 212 341 c 258
   PathStart: -2
 EndSplineSet
 EndChar
@@ -770,12 +846,40 @@ EndChar
 StartChar: tml_Credit
 Encoding: 13 3063 13
 GlifName: tml_C_redit
-Width: 649
+Width: 1152
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
+SplineSet
+874 144 m 256
+ 874 35 817 -23 725 -23 c 256
+ 620 -23 569 52 569 156 c 256
+ 569 297 664 404 807 404 c 256
+ 965 404 1030 282 1030 173 c 256
+ 1030 65 980 14 980 14 c 256
+ 901 50 l 256
+ 901 50 940 81 940 161 c 256
+ 940 250 886 321 810 321 c 256
+ 723 321 669 229 669 151 c 256
+ 669 110 690 75 726 75 c 256
+ 752 75 767 103 767 144 c 256
+ 767 192 744 221 688 221 c 258
+ 474 221 l 257
+ 474 319 l 257
+ 660 319 l 257
+ 701 309 l 256
+ 748 309 874 285 874 144 c 256
+  PathStart: -2
+900 0 m 257
+ 901 50 l 257
+ 936 92 l 257
+ 1122 92 l 257
+ 1121 0 l 257
+ 900 0 l 257
+EndSplineSet
 Refer: 16 2958 N 1 0 0 1 0 0 2
 EndChar
 
@@ -784,6 +888,7 @@ Encoding: 14 3059 14
 GlifName: tml_D_ay
 Width: 621
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -820,10 +925,27 @@ Encoding: 15 3062 15
 GlifName: tml_D_ebit
 Width: 510
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
+SplineSet
+221 -349 m 256
+ 74 -349 -19 -262 -19 -180 c 256
+ -19 -125 22 -64 120 -64 c 258
+ 569 -62 l 257
+ 569 560 l 257
+ 676 560 l 257
+ 676 -159 l 257
+ 134 -158 l 258
+ 103 -158 88 -165 88 -190 c 256
+ 88 -222 151 -252 221 -252 c 256
+ 313 -252 375 -187 373 4 c 257
+ 480 4 l 257
+ 480 -228 374 -349 221 -349 c 256
+  PathStart: -2
+EndSplineSet
 Refer: 89 2986 N 1 0 0 1 0 0 2
 EndChar
 
@@ -832,6 +954,7 @@ Encoding: 16 2958 16
 GlifName: tml_E_
 Width: 649
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -854,7 +977,7 @@ SplineSet
  282 362 348 297 348 174 c 256
  348 53 291 -24 197 -24 c 256
  92 -24 30 90 30 245 c 256
- 30 442 121 560 277 560 c 257
+ 30 442 121 560 277 560 c 258
  624 560 l 257
 EndSplineSet
 EndChar
@@ -864,6 +987,7 @@ Encoding: 17 2959 17
 GlifName: tml_E_e
 Width: 645
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -883,6 +1007,7 @@ Encoding: 18 3054 18
 GlifName: tml_E_ight
 Width: 905
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -895,6 +1020,7 @@ Encoding: 19 3051 19
 GlifName: tml_F_ive
 Width: 1138
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -906,7 +1032,7 @@ SplineSet
  806 462 l 257
  703 462 l 257
  703 0 l 257
- 667 0 631 0 595 0 c 257
+ 595 0 l 257
  595 462 l 257
  444 462 l 257
  444 0 l 257
@@ -914,7 +1040,7 @@ SplineSet
 1113 316 m 258
  1113 -1 l 257
  1001 -1 l 257
- 1001 143 1001 139 1001 281 c 256
+ 1001 281 l 258
  1001 557 810 694 577 694 c 256
  364 694 159 569 159 244 c 256
  159 20 290 -161 529 -160 c 256
@@ -929,7 +1055,6 @@ SplineSet
  40 568 245 803 571 801 c 256
  912 799 1113 601 1113 316 c 258
   PathStart: -2
-207 527 m 1281
 EndSplineSet
 EndChar
 
@@ -938,6 +1063,7 @@ Encoding: 20 3050 20
 GlifName: tml_F_our
 Width: 697
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -948,7 +1074,6 @@ SplineSet
  677 560 l 257
  677 243 l 257
  459 243 l 257
- 459 344 l 257
  459 341 l 257
  586 341 l 257
 EndSplineSet
@@ -960,6 +1085,7 @@ Encoding: 21 3001 21
 GlifName: tml_H_a
 Width: 1253
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1027,6 +1153,7 @@ Encoding: 22 3057 22
 GlifName: tml_H_undred
 Width: 768
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1062,6 +1189,7 @@ Encoding: 23 2951 23
 GlifName: tml_I_
 Width: 1041
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1109,6 +1237,7 @@ Encoding: 24 2952 24
 GlifName: tml_I_i
 Width: 626
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1118,6 +1247,10 @@ SplineSet
  46 560 l 257
  616 559 l 257
  616 461 l 257
+ 444 461.371 l 257
+ 444 1 l 257
+ 337 1 l 257
+ 337 461.603 l 257
  153 462 l 257
  153 1 l 257
  46 1 l 257
@@ -1127,11 +1260,6 @@ SplineSet
  297 285 269 314 239 314 c 256
  207 314 181 285 181 255 c 256
   PathStart: -2
-337 1 m 257
- 337 494 l 257
- 444 494 l 257
- 444 1 l 257
- 337 1 l 257
 479 255 m 256
  479 225 507 197 537 197 c 256
  569 197 595 225 595 255 c 256
@@ -1146,17 +1274,17 @@ Encoding: 25 2972 25
 GlifName: tml_J_a
 Width: 757
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
-21 24 m 256
- 21 202 217 236 356 250 c 256
+356 250 m 256
  477 262 592 275 592 397 c 256
  592 444 575 475 534 475 c 256
- 487 475 447 435 447 354 c 256
- 447 340 447 321 447 299 c 257
+ 487 475 447 435 447 354 c 258
+ 447 299 l 257
  342 299 l 257
  346 465 399 581 537 581 c 256
  637 581 707 520 707 396 c 256
@@ -1173,8 +1301,12 @@ SplineSet
  599 16 579 33 552 33 c 256
  456 33 410 -155 219 -155 c 256
  115 -155 21 -99 21 24 c 256
-337 299 m 257
- 337 318 337 319 337 344 c 256
+ 21 202 217 236 356 250 c 256
+  PathStart: -2
+216 582 m 256
+ 375 579 437 432 439 299 c 257
+ 337 299 l 257
+ 337 344 l 258
  337 415 278 488 223 488 c 256
  155 488 105 441 105 377 c 256
  105 332 124 317 143 317 c 256
@@ -1187,8 +1319,7 @@ SplineSet
  260 273 203 234 139 234 c 256
  62 234 18 289 18 384 c 256
  19 518 108 584 216 582 c 256
- 375 579 437 432 439 299 c 257
- 337 299 l 257
+  PathStart: -2
 EndSplineSet
 EndChar
 
@@ -1197,6 +1328,7 @@ Encoding: 26 -1 26
 GlifName: tml_K_S_sa
 Width: 1511
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1250,6 +1382,7 @@ Encoding: 27 -1 27
 GlifName: tml_K_U_
 Width: 853
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1293,6 +1426,7 @@ Encoding: 28 -1 28
 GlifName: tml_K_U_u
 Width: 1100
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1308,10 +1442,10 @@ SplineSet
  634 473 586 359 586 239 c 256
  586 142 609 74 663 74 c 256
  707 74 711 120 711 140 c 256
- 711 208 673 244 587 244 c 257
+ 711 208 673 244 587 244 c 258
  493 244 l 257
  493 341 l 257
- 598 341 l 257
+ 598 341 l 258
  721 341 807 264 807 151 c 256
  807 55 750 -24 656 -24 c 256
  551 -24 489 75 489 241 c 256
@@ -1331,16 +1465,16 @@ Encoding: 29 2965 29
 GlifName: tml_K_a
 Width: 641
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
-30 172 m 256
- 30 271 92 341 210 341 c 258
+210 341 m 258
  441 341 l 258
  535 341 611 306 611 167 c 256
- 611 17 528 0 446 0 c 257
+ 611 17 528 0 446 0 c 258
  425 0 l 257
  425 93 l 257
  441 93 l 258
@@ -1363,6 +1497,8 @@ SplineSet
  415 207 l 258
  415 103 375 -9 217 -9 c 256
  82 -9 30 75 30 172 c 256
+ 30 271 92 341 210 341 c 258
+  PathStart: -2
 EndSplineSet
 EndChar
 
@@ -1371,6 +1507,7 @@ Encoding: 30 -1 30
 GlifName: tml_L_U_
 Width: 977
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1378,12 +1515,12 @@ Fore
 SplineSet
 313 -252 m 256
  190 -252 174 -215 174 -199 c 256
- 174 -177 191 -169 209 -169 c 257
+ 174 -177 191 -169 209 -169 c 258
  899 -171 l 257
  899 573 l 257
  792 573 l 257
  792 -74 l 257
- 194 -74 l 257
+ 194 -74 l 258
  118 -74 67 -124 67 -193 c 256
  67 -275 155 -349 313 -349 c 256
  546 -349 615 -173 615 0 c 257
@@ -1399,6 +1536,7 @@ Encoding: 31 -1 31
 GlifName: tml_L_U_u
 Width: 977
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1422,6 +1560,7 @@ Encoding: 32 2994 32
 GlifName: tml_L_a
 Width: 772
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1458,12 +1597,17 @@ Encoding: 33 -1 33
 GlifName: tml_L_lU_
 Width: 1225
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
-624 -168 m 256
+20 242 m 256
+ 20 388 68 510 116 572 c 257
+ 205 527 l 257
+ 196 514 124 417 124 252 c 256
+ 124 -64 379 -168 624 -168 c 256
  847 -168 1083 -84 1083 137 c 256
  1083 208 1059 267 1012 267 c 256
  976 267 964 231 964 204 c 257
@@ -1472,11 +1616,6 @@ SplineSet
  1121 358 1185 274 1185 138 c 256
  1185 -147 965 -271 628 -271 c 256
  328 -271 20 -147 20 242 c 256
- 20 388 68 510 116 572 c 257
- 205 527 l 257
- 196 514 124 417 124 252 c 256
- 124 -64 379 -168 624 -168 c 256
-  PathStart: -2
 EndSplineSet
 Refer: 35 2995 N 1 0 0 1 189 0 2
 EndChar
@@ -1486,6 +1625,7 @@ Encoding: 34 -1 34
 GlifName: tml_L_lU_u
 Width: 1360
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1522,13 +1662,13 @@ Encoding: 35 2995 35
 GlifName: tml_L_la
 Width: 908
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
-30 245 m 256
- 30 450 119 573 269 573 c 256
+269 573 m 256
  399 573 490 436 490 235 c 256
  409 257 l 256
  409 388 354 476 269 476 c 256
@@ -1542,10 +1682,9 @@ SplineSet
  282 362 350 297 350 174 c 256
  350 53 293 -24 197 -24 c 256
  92 -24 30 90 30 245 c 256
-409 1 m 257
- 409 462 l 257
- 424 466 l 257
- 424 560 l 257
+ 30 450 119 573 269 573 c 256
+  PathStart: -2
+424 560 m 257
  878 560 l 257
  878 462 l 257
  775 462 l 257
@@ -1555,6 +1694,9 @@ SplineSet
  517 462 l 257
  517 1 l 257
  409 1 l 257
+ 409 462 l 257
+ 424 466 l 257
+ 424 560 l 257
 EndSplineSet
 EndChar
 
@@ -1563,6 +1705,7 @@ Encoding: 36 -1 36
 GlifName: tml_L_llU_
 Width: 920
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1575,12 +1718,12 @@ SplineSet
  646 33 l 257
  646 -61 l 257
  676 -32 821 -28 821 -173 c 256
- 821 -271 714 -386 503 -386 c 257
+ 821 -271 714 -386 503 -386 c 256
  188 -385 30 -124 30 167 c 256
  30 348 81 476 138 572 c 257
  227 527 l 257
  189 454 134 350 134 167 c 256
- 134 -27 215 -279 504 -278 c 257
+ 134 -27 215 -279 504 -278 c 256
  644 -278 718 -233 718 -173 c 256
   PathStart: -2
 EndSplineSet
@@ -1884,12 +2027,24 @@ Encoding: 37 -1 37
 GlifName: tml_L_llU_u
 Width: 1007
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
-130 214 m 256
+30 181 m 256
+ 30 334 72 573 227 573 c 256
+ 318 573 355 492 355 428 c 256
+ 355 362 316 287 233 287 c 256
+ 154 287 123 354 123 408 c 256
+ 123 461 154 501 199 511 c 257
+ 218 487 l 257
+ 197 482 184 460 184 426 c 256
+ 184 390 199 366 228 366 c 256
+ 255 366 271 390 271 425 c 256
+ 271 460 258 488 229 488 c 256
+ 154 488 130 336 130 214 c 256
  130 -94 283 -278 570 -278 c 256
  700 -278 805 -240 805 -167 c 256
  805 -113 748 -111 732 -160 c 257
@@ -1900,18 +2055,6 @@ SplineSet
  763 -30 908 -36 908 -166 c 256
  908 -271 812 -386 571 -386 c 256
  221 -386 30 -144 30 181 c 256
- 30 334 72 573 227 573 c 256
- 318 573 355 492 355 428 c 256
- 355 362 316 287 233 287 c 256
- 154 287 123 354 123 408 c 256
- 123 461 154 501 199 511 c 257
- 218 487 l 257
- 197 482 184 460 184 426 c 256
- 184 390 199 366 228 366 c 256
- 255 366 271 390 271 425 c 256
- 271 460 258 488 229 488 c 257
- 154 488 130 336 130 214 c 256
-  PathStart: -2
 EndSplineSet
 Refer: 41 2990 N 1 0 0 1 340 0 2
 EndChar
@@ -1921,6 +2064,7 @@ Encoding: 38 2996 38
 GlifName: tml_L_lla
 Width: 642
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1928,29 +2072,29 @@ Fore
 SplineSet
 633 299 m 256
  629 432 575 573 414 573 c 256
- 317 573 281 518 281 429 c 257
- 281 8 l 257
+ 317 573 281 518 281 429 c 258
+ 281 8 l 258
  281 -136 354 -175 401 -175 c 257
- 398 -178 354 -133 354 -133 c 257
+ 398 -178 354 -133 354 -133 c 256
  354 -133 329 -190 262 -190 c 256
  180 -190 163 -133 163 -82 c 257
  50 -83 l 257
  50 -206 134 -293 255 -293 c 256
- 382 -293 456 -197 456 -166 c 257
+ 382 -293 456 -197 456 -166 c 256
  456 -163 429 -179 429 -179 c 257
  562 -179 l 257
  562 -89 l 257
- 523 -89 499 -89 473 -89 c 257
- 408 -89 389 -57 389 -2 c 257
- 389 429 l 257
+ 473 -89 l 258
+ 408 -89 389 -57 389 -2 c 258
+ 389 429 l 258
  389 467 401 484 430 484 c 256
  490 484 535 414 535 275 c 256
- 535 182 515 95 385 98 c 257
+ 535 182 515 95 385 98 c 258
  153 98 l 257
  153 559 l 257
  46 559 l 257
  46 0 l 257
- 404 0 l 257
+ 404 0 l 258
  563 0 639 128 633 299 c 256
   PathStart: -2
 EndSplineSet
@@ -1961,6 +2105,7 @@ Encoding: 39 -1 39
 GlifName: tml_M_U_
 Width: 929
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1985,6 +2130,7 @@ Encoding: 40 -1 40
 GlifName: tml_M_U_u
 Width: 1022
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1994,7 +2140,7 @@ SplineSet
  537 -170 640 -101 640 29 c 257
  748 29 l 257
  748 -170 586 -267 436 -267 c 256
- 227 -267 44 -99 44 181 c 257
+ 227 -267 44 -99 44 181 c 256
  44 334 86 573 241 573 c 256
  332 573 369 492 369 428 c 256
  369 362 330 287 247 287 c 256
@@ -2004,8 +2150,8 @@ SplineSet
  211 482 198 460 198 426 c 256
  198 390 213 366 242 366 c 256
  269 366 285 390 285 425 c 256
- 285 460 272 488 243 488 c 257
- 168 488 144 336 144 214 c 257
+ 285 460 272 488 243 488 c 256
+ 168 488 144 336 144 214 c 256
  144 -17 258 -170 435 -170 c 256
   PathStart: -2
 EndSplineSet
@@ -2017,6 +2163,7 @@ Encoding: 41 2990 41
 GlifName: tml_M_a
 Width: 647
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2029,17 +2176,17 @@ SplineSet
  376 98 l 257
  392 0 l 257
  30 0 l 257
-265 68 m 256
- 265 442 l 257
+265 68 m 257
+ 265 442 l 258
  265 534 305 575 398 576 c 256
  561 577 616 426 617 299 c 256
  618 114 544 0 388 0 c 257
  369 98 l 257
  509 97 520 215 520 299 c 256
  520 381 487 487 409 487 c 256
- 382 487 373 467 373 432 c 257
+ 382 487 373 467 373 432 c 258
  373 68 l 257
- 265 68 l 256
+ 265 68 l 257
 EndSplineSet
 EndChar
 
@@ -2048,6 +2195,7 @@ Encoding: 42 3006 42
 GlifName: tml_M_atraA_a
 Width: 560
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2072,6 +2220,7 @@ Encoding: 43 3016 43
 GlifName: tml_M_atraA_i
 Width: 996
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2111,6 +2260,7 @@ Encoding: 44 -1 44
 GlifName: tml_M_atraA_i.alt
 Width: 0
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2122,6 +2272,7 @@ Encoding: 45 3020 45
 GlifName: tml_M_atraA_u
 Width: 611
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2134,6 +2285,7 @@ Encoding: 46 3014 46
 GlifName: tml_M_atraE_
 Width: 611
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2165,6 +2317,7 @@ Encoding: 47 3015 47
 GlifName: tml_M_atraE_e
 Width: 488
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2201,6 +2354,7 @@ Encoding: 48 3007 48
 GlifName: tml_M_atraI_
 Width: 269
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2209,8 +2363,8 @@ SplineSet
 -236 550 m 256
  -191 703 -96 745 -14 746 c 256
  137 747 216 659 217 479 c 258
- 219 0 l 256
- 111 0 l 256
+ 219 0 l 257
+ 111 0 l 257
  110 479 l 258
  110 583 78 638 -18 638 c 256
  -75 638 -136 608 -161 503 c 256
@@ -2223,6 +2377,7 @@ Encoding: 49 -1 49
 GlifName: tml_M_atraI_.alt1
 Width: 269
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2231,8 +2386,8 @@ SplineSet
 -236 550 m 256
  -191 703 -96 745 -14 746 c 256
  137 747 216 659 217 479 c 258
- 219 0 l 256
- 111 0 l 256
+ 219 0 l 257
+ 111 0 l 257
  110 479 l 258
  110 583 78 638 -18 638 c 256
  -75 638 -136 608 -161 503 c 256
@@ -2245,6 +2400,7 @@ Encoding: 50 -1 50
 GlifName: tml_M_atraI_.alt2
 Width: 219
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2254,8 +2410,8 @@ SplineSet
  -252 523 -263 554 -263 582 c 256
  -263 696 -158 756 -74 756 c 256
  77 757 156 671 157 496 c 258
- 159 0 l 256
- 51 0 l 256
+ 159 0 l 257
+ 51 0 l 257
  50 496 l 258
  50 595 18 648 -78 648 c 256
  -125 648 -161 612 -162 566 c 256
@@ -2269,6 +2425,7 @@ Encoding: 51 -1 51
 GlifName: tml_M_atraI_.alt3
 Width: 250
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2278,8 +2435,8 @@ SplineSet
  -246 555 -251 578 -251 599 c 256
  -251 716 -134 755 -74 756 c 256
  87 757 187 672 188 499 c 258
- 190 0 l 256
- 82 0 l 256
+ 190 0 l 257
+ 82 0 l 257
  81 499 l 258
  81 596 44 648 -67 648 c 256
  -95 648 -147 634 -148 583 c 256
@@ -2293,6 +2450,7 @@ Encoding: 52 -1 52
 GlifName: tml_M_atraI_.alt4
 Width: 269
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2301,8 +2459,8 @@ SplineSet
 -236 560 m 256
  -191 713 -96 755 -14 756 c 256
  137 757 216 669 217 489 c 258
- 219 0 l 256
- 111 0 l 256
+ 219 0 l 257
+ 111 0 l 257
  110 489 l 258
  110 593 78 648 -18 648 c 256
  -75 648 -136 618 -161 513 c 256
@@ -2315,6 +2473,7 @@ Encoding: 53 -1 53
 GlifName: tml_M_atraI_.alt5
 Width: 199
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2324,8 +2483,8 @@ SplineSet
  -244 498 -273 554 -272 590 c 256
  -271 717 -150 758 -84 758 c 256
  67 759 146 668 147 481 c 258
- 149 1 l 256
- 41 1 l 256
+ 149 1 l 257
+ 41 1 l 257
  40 481 l 258
  40 592 8 650 -88 650 c 256
  -148 650 -175 615 -175 586 c 256
@@ -2339,6 +2498,7 @@ Encoding: 54 -1 54
 GlifName: tml_M_atraI_.alt6
 Width: 269
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2348,8 +2508,8 @@ SplineSet
  -328 530 -331 572 -331 600 c 256
  -331 716 -186 757 -114 757 c 256
  70 756 166 667 167 480 c 258
- 169 0 l 256
- 61 0 l 256
+ 169 0 l 257
+ 61 0 l 257
  60 480 l 258
  60 591 16 649 -118 649 c 256
  -180 649 -231 630 -231 600 c 256
@@ -2363,6 +2523,7 @@ Encoding: 55 -1 55
 GlifName: tml_M_atraI_.alt7
 Width: 558
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2374,6 +2535,7 @@ Encoding: 56 -1 56
 GlifName: tml_M_atraI_.stylalt1
 Width: 641
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2401,6 +2563,7 @@ Encoding: 57 3008 57
 GlifName: tml_M_atraI_i
 Width: 419
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2429,6 +2592,7 @@ Encoding: 58 -1 58
 GlifName: tml_M_atraI_i.alt1
 Width: 558
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2440,6 +2604,7 @@ Encoding: 59 -1 59
 GlifName: tml_M_atraI_i.stylalt1
 Width: 600
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2451,6 +2616,7 @@ Encoding: 60 3018 60
 GlifName: tml_M_atraO_
 Width: 1171
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2464,6 +2630,7 @@ Encoding: 61 3019 61
 GlifName: tml_M_atraO_o
 Width: 488
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2476,6 +2643,7 @@ Encoding: 62 3009 62
 GlifName: tml_M_atraU_
 Width: 388
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2502,6 +2670,7 @@ Encoding: 63 -1 63
 GlifName: tml_M_atraU_.alt1
 Width: 600
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2513,6 +2682,7 @@ Encoding: 64 3010 64
 GlifName: tml_M_atraU_u
 Width: 549
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2544,6 +2714,7 @@ Encoding: 65 3060 65
 GlifName: tml_M_onth
 Width: 1051
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2577,21 +2748,13 @@ Encoding: 66 -1 66
 GlifName: tml_N_U_
 Width: 1126
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
-149 256 m 256
- 149 159 166 75 214 75 c 256
- 260 75 269 139 269 178 c 256
- 269 239 241 272 215 272 c 256
- 175 272 147 222 159 148 c 257
- 72 217 l 257
- 94 267 124 373 221 373 c 256
- 290 373 371 316 371 175 c 256
- 371 54 312 -23 214 -23 c 256
- 109 -23 47 91 47 246 c 256
+47 246 m 256
  47 450 162 572 367 573 c 256
  532 573 696 470 696 214 c 256
  696 53 653 -23 548 -23 c 256
@@ -2600,12 +2763,12 @@ SplineSet
  855 573 911 381 912 215 c 256
  913 -102 768 -349 411 -349 c 256
  160 -349 60 -270 60 -185 c 256
- 60 -114 114 -61 209 -61 c 257
+ 60 -114 114 -61 209 -61 c 258
  974 -61 l 257
  974 573 l 257
  1081 573 l 257
  1081 -158 l 257
- 202 -158 l 257
+ 202 -158 l 258
  181 -158 167 -165 167 -183 c 256
  167 -225 263 -250 411 -250 c 256
  706 -250 805 -26 805 207 c 256
@@ -2615,7 +2778,15 @@ SplineSet
  576 75 588 134 588 213 c 256
  588 414 470 474 367 474 c 256
  208 474 149 378 149 256 c 256
-  PathStart: -2
+ 149 159 166 75 214 75 c 256
+ 260 75 269 139 269 178 c 256
+ 269 239 241 272 215 272 c 256
+ 175 272 147 222 159 148 c 257
+ 72 217 l 257
+ 94 267 124 373 221 373 c 256
+ 290 373 371 316 371 175 c 256
+ 371 54 312 -23 214 -23 c 256
+ 109 -23 47 91 47 246 c 256
 EndSplineSet
 EndChar
 
@@ -2624,6 +2795,7 @@ Encoding: 67 -1 67
 GlifName: tml_N_U_u
 Width: 1399
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2647,6 +2819,7 @@ Encoding: 68 2984 68
 GlifName: tml_N_a
 Width: 632
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2670,8 +2843,7 @@ SplineSet
  385 266 379 218 379 179 c 257
  310 220 l 257
  312 265 350 359 439 358 c 256
- 558 357 602 253 602 118 c 257
- 602 118 l 257
+ 558 357 602 253 602 118 c 256
  602 -46 521 -155 333 -157 c 258
  229 -158 l 258
  131 -159 141 -197 140 -236 c 257
@@ -2700,8 +2872,9 @@ EndChar
 StartChar: tml_NgUu
 Encoding: 69 -1 69
 GlifName: tml_N_gU_u
-Width: 790
+Width: 941
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2714,15 +2887,19 @@ SplineSet
  631 -153 l 257
 775 58 m 256
  842 58 911 9 911 -98 c 256
- 911 -237 737 -349 483 -349 c 256
- 213 -349 44 -283 44 -176 c 256
- 44 -98 98 -50 203 -50 c 257
- 564 -54 l 257
- 564 -151 l 257
- 183 -151 l 257
- 155 -151 144 -161 144 -178 c 256
- 144 -225 311 -252 469 -252 c 256
- 684 -252 813 -191 813 -95 c 256
+ 911 -237 769 -349 553 -349 c 256
+ 379 -349 220 -300 220 -175 c 256
+ 220 -97 269 -44 338 -44 c 256
+ 414 -44 460 -103 460 -169 c 256
+ 460 -250 409 -279 346 -279 c 256
+ 312 -279 272 -251 266 -208 c 257
+ 305 -188 l 257
+ 308 -203 320 -215 338 -215 c 256
+ 359 -215 373 -200 373 -178 c 256
+ 373 -157 365 -138 338 -138 c 256
+ 315 -138 304 -156 304 -178 c 256
+ 304 -234 427 -261 553 -262 c 256
+ 697 -263 813 -191 813 -95 c 256
  813 -36 786 -22 764 -22 c 256
  751 -22 740 -30 740 -47 c 257
  684 5 l 257
@@ -2737,6 +2914,7 @@ Encoding: 70 2969 70
 GlifName: tml_N_ga
 Width: 750
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2780,6 +2958,7 @@ Encoding: 71 3055 71
 GlifName: tml_N_ine
 Width: 954
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2792,7 +2971,7 @@ SplineSet
  481 302 604 360 708 360 c 256
  831 360 915 280 915 165 c 256
  915 80 873 15 837 -14 c 257
- 837 -14 772 46 772 46 c 257
+ 772 46 l 257
  805 81 826 120 826 171 c 256
  826 233 768 279 708 279 c 256
  622 279 567 223 567 147 c 256
@@ -2811,6 +2990,7 @@ Encoding: 72 -1 72
 GlifName: tml_N_nA_a.alt
 Width: 0
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2822,6 +3002,7 @@ Encoding: 73 -1 73
 GlifName: tml_N_nU_
 Width: 837
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2838,7 +3019,15 @@ SplineSet
  177 462 l 257
  177 1 l 257
  70 1 l 257
-306 -252 m 256
+22 -180 m 256
+ 22 -125 63 -64 161 -64 c 258
+ 700 -62 l 257
+ 700 560 l 257
+ 807 560 l 257
+ 807 -159 l 257
+ 175 -158 l 258
+ 144 -158 129 -165 129 -190 c 256
+ 129 -222 186 -252 306 -252 c 256
  484 -252 541 -108 541 97 c 256
  541 174 517 266 465 266 c 256
  422 266 416 218 416 179 c 257
@@ -2847,15 +3036,6 @@ SplineSet
  595 357 644 227 644 92 c 256
  644 -175 547 -349 306 -349 c 256
  92 -349 22 -252 22 -180 c 256
- 22 -125 63 -64 161 -64 c 257
- 700 -62 l 257
- 700 560 l 257
- 807 560 l 257
- 807 -159 l 257
- 175 -158 l 257
- 144 -158 129 -165 129 -190 c 256
- 129 -222 186 -252 306 -252 c 256
-  PathStart: -2
 EndSplineSet
 EndChar
 
@@ -2864,6 +3044,7 @@ Encoding: 74 -1 74
 GlifName: tml_N_nU_u
 Width: 837
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2887,6 +3068,7 @@ Encoding: 75 2979 75
 GlifName: tml_N_na
 Width: 1307
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2895,14 +3077,14 @@ SplineSet
 1026 207 m 256
  1026 57 972 -23 869 -23 c 256
  768 -23 709 55 709 215 c 256
- 709 410 815 561 1000 561 c 257
+ 709 410 815 561 1000 561 c 258
  1277 561 l 257
  1277 463 l 257
  1174 461 l 257
  1174 1 l 257
  1066 1 l 257
  1066 461 l 257
- 1001 461 l 257
+ 1001 461 l 258
  882 461 814 359 814 208 c 256
  814 133 831 65 867 65 c 256
  905 65 920 137 920 209 c 256
@@ -2936,6 +3118,7 @@ Encoding: 76 -1 76
 GlifName: tml_N_nnA_a.alt
 Width: 0
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2947,6 +3130,7 @@ Encoding: 77 -1 77
 GlifName: tml_N_nnU_
 Width: 1456
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -2982,12 +3166,12 @@ SplineSet
  1185 573 1257 381 1257 215 c 256
  1257 -90 1097 -349 594 -349 c 256
  156 -349 68 -268 68 -185 c 256
- 68 -106 116 -61 211 -61 c 257
+ 68 -106 116 -61 211 -61 c 258
  1319 -61 l 257
  1319 573 l 257
  1426 573 l 257
  1426 -158 l 257
- 208 -158 l 257
+ 208 -158 l 258
  187 -158 175 -169 175 -184 c 256
  175 -208 249 -250 589 -250 c 256
  1032 -250 1135 0 1135 207 c 256
@@ -3002,6 +3186,7 @@ Encoding: 78 -1 78
 GlifName: tml_N_nnU_u
 Width: 1761
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3025,45 +3210,46 @@ Encoding: 79 2985 79
 GlifName: tml_N_nna
 Width: 968
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
-30 246 m 257
+30 246 m 256
  30 450 145 571 340 572 c 257
  340 474 l 257
- 191 474 132 378 132 256 c 257
- 132 159 149 75 197 75 c 257
- 243 75 252 139 252 178 c 257
- 252 239 224 272 198 272 c 257
+ 191 474 132 378 132 256 c 256
+ 132 159 149 75 197 75 c 256
+ 243 75 252 139 252 178 c 256
+ 252 239 224 272 198 272 c 256
  158 272 130 222 142 148 c 256
  55 217 l 256
- 77 267 107 373 204 373 c 257
- 273 373 354 316 354 175 c 257
- 354 54 295 -23 197 -23 c 257
- 92 -23 30 91 30 246 c 257
-340 474 m 256
- 340 572 l 256
- 362 572 l 256
- 362 474 l 256
- 340 474 l 256
+ 77 267 107 373 204 373 c 256
+ 273 373 354 316 354 175 c 256
+ 354 54 295 -23 197 -23 c 256
+ 92 -23 30 91 30 246 c 256
+340 474 m 257
+ 340 572 l 257
+ 362 572 l 257
+ 362 474 l 257
+ 340 474 l 257
 360 474 m 257
  360 572 l 257
- 515 572 679 470 679 214 c 257
- 679 53 636 -23 531 -23 c 257
- 429 -23 379 55 379 214 c 257
+ 515 572 679 470 679 214 c 256
+ 679 53 636 -23 531 -23 c 256
+ 429 -23 379 55 379 214 c 256
  379 425 461 560 653 561 c 258
- 938 561 l 256
- 938 463 l 256
- 836 463 l 256
- 836 1 l 256
- 728 1 l 256
- 728 463 l 256
+ 938 561 l 257
+ 938 463 l 257
+ 836 463 l 257
+ 836 1 l 257
+ 728 1 l 257
+ 728 463 l 257
  654 463 l 258
- 533 463 487 368 487 214 c 257
- 487 142 502 75 531 75 c 257
- 559 75 571 134 571 213 c 257
+ 533 463 487 368 487 214 c 256
+ 487 142 502 75 531 75 c 256
+ 559 75 571 134 571 213 c 256
  571 414 453 474 360 474 c 257
 EndSplineSet
 EndChar
@@ -3071,12 +3257,55 @@ EndChar
 StartChar: tml_Number
 Encoding: 80 3066 80
 GlifName: tml_N_umber
-Width: 0
+Width: 946
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
+SplineSet
+30 0 m 257
+ 30 560 l 257
+ 440 560 l 257
+ 440 462 l 257
+ 338 462 l 257
+ 338 0 l 257
+ 230 0 l 257
+ 230 462 l 257
+ 137 462 l 257
+ 137 0 l 257
+ 30 0 l 257
+387 76 m 257
+ 423 76 449 141 449 213 c 256
+ 449 276 424 317 387 317 c 256
+ 348 317 338 279 338 254 c 257
+ 289 285 l 257
+ 289 358 340 408 413 408 c 256
+ 491 408 546 327 546 232 c 256
+ 546 121 501 0 387 0 c 257
+ 387 76 l 257
+327 537 m 257
+ 291 627 336 755 480 755 c 256
+ 647 755 830 620 830 375 c 256
+ 830 288 805 204 706 204 c 256
+ 624 204 577 274 577 376 c 256
+ 577 482 662 574 768 574 c 256
+ 882 574 997 503 999 325 c 256
+ 1000 218 952 140 910 98 c 257
+ 1037 98 l 257
+ 1037 0 l 257
+ 772 0 l 257
+ 771 83 l 257
+ 830 130 898 204 898 315 c 256
+ 898 443 835 471 768 471 c 256
+ 698 471 669 419 669 363 c 256
+ 669 314 685 295 706 295 c 256
+ 726 295 741 311 741 355 c 256
+ 741 540 633 659 486 657 c 256
+ 429 656 376 621 410 537 c 257
+ 327 537 l 257
+EndSplineSet
 EndChar
 
 StartChar: tml_NyU
@@ -3084,6 +3313,7 @@ Encoding: 81 -1 81
 GlifName: tml_N_yU_
 Width: 948
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3099,12 +3329,12 @@ SplineSet
  686 358 750 270 750 121 c 256
  750 -142 622 -350 314 -349 c 256
  100 -349 30 -252 30 -180 c 256
- 30 -125 71 -64 169 -64 c 257
+ 30 -125 71 -64 169 -64 c 258
  811 -64 l 257
  811 560 l 257
  918 560 l 257
  918 -159 l 257
- 183 -158 l 257
+ 183 -158 l 258
  152 -158 137 -165 137 -190 c 256
   PathStart: -2
 EndSplineSet
@@ -3116,6 +3346,7 @@ Encoding: 82 -1 82
 GlifName: tml_N_yU_u
 Width: 1253
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3139,6 +3370,7 @@ Encoding: 83 2974 83
 GlifName: tml_N_ya
 Width: 974
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3187,6 +3419,7 @@ Encoding: 84 2962 84
 GlifName: tml_O_
 Width: 662
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3217,8 +3450,8 @@ SplineSet
  607 12 l 257
  607 98 l 257
  486 98 l 258
- 451 98 434 109 434 159 c 256
- 434 191 434 276 434 299 c 257
+ 451 98 434 109 434 159 c 258
+ 434 299 l 257
  337 299 l 257
  337 160 l 258
  337 73 387 14 461 14 c 257
@@ -3235,31 +3468,9 @@ EndChar
 StartChar: tml_Om
 Encoding: 85 3024 85
 GlifName: tml_O_m
-Width: 0
+Width: 683
 VWidth: 0
-Flags: W
-LayerCount: 2
-Back
-Fore
-EndChar
-
-StartChar: tml_One
-Encoding: 86 3047 86
-GlifName: tml_O_ne
-Width: 641
-VWidth: 0
-Flags: W
-LayerCount: 2
-Back
-Fore
-Refer: 29 2965 N 1 0 0 1 0 0 2
-EndChar
-
-StartChar: tml_Oo
-Encoding: 87 2963 87
-GlifName: tml_O_o
-Width: 663
-VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3290,8 +3501,96 @@ SplineSet
  607 12 l 257
  607 98 l 257
  486 98 l 258
- 451 98 434 109 434 159 c 256
- 434 191 434 276 434 299 c 257
+ 451 98 434 109 434 159 c 258
+ 434 299 l 257
+ 337 299 l 257
+ 337 160 l 258
+ 337 73 387 14 461 14 c 257
+ 435 62 l 257
+ 428 -10 408 -63 338 -63 c 256
+ 285 -63 247 -27 247 23 c 257
+ 148 23 l 257
+ 148 -85 225 -164 332 -164 c 256
+ 442 -164 515 -89 528 15 c 257
+  PathStart: -2
+309 -41 m 257
+ 309 27 l 257
+ 325 27 l 257
+ 325 -26 l 257
+ 350 -26 l 257
+ 352 -41 l 257
+ 309 -41 l 257
+337 -30 m 257
+ 337 12 l 258
+ 337 23 342 29 353 29 c 256
+ 372 29 381 12 381 -3 c 256
+ 381 -24 369 -41 352 -41 c 257
+ 349 -26 l 257
+ 362 -26 366 -13 366 -3 c 256
+ 366 5 363 14 356 14 c 256
+ 353 14 352 11 352 7 c 258
+ 352 -30 l 257
+ 337 -30 l 257
+350 45 m 256
+ 350 51 345 56 339 56 c 256
+ 333 56 329 51 329 45 c 256
+ 329 39 333 35 339 35 c 256
+ 345 35 350 39 350 45 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_One
+Encoding: 86 3047 86
+GlifName: tml_O_ne
+Width: 641
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+Refer: 29 2965 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_Oo
+Encoding: 87 2963 87
+GlifName: tml_O_o
+Width: 663
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+643 350 m 256
+ 643 501 517 610 354 610 c 256
+ 158 610 41 483 41 307 c 256
+ 41 214 92 146 176 146 c 256
+ 256 146 303 204 303 285 c 256
+ 303 364 262 422 192 422 c 256
+ 118 422 74 369 74 296 c 257
+ 132 290 l 257
+ 133 321 146 343 176 343 c 256
+ 207 343 219 320 219 289 c 256
+ 219 255 206 231 174 231 c 256
+ 144 231 132 260 132 300 c 256
+ 132 423 211 512 354 512 c 256
+ 458 512 541 442 541 345 c 256
+ 541 286 514 243 477 243 c 256
+ 444 243 436 269 436 299 c 257
+ 337 299 l 257
+ 337 230 389 152 476 152 c 256
+ 573 152 643 235 643 350 c 256
+  PathStart: -2
+528 15 m 257
+ 491 12 l 257
+ 607 12 l 257
+ 607 98 l 257
+ 486 98 l 258
+ 451 98 434 109 434 159 c 258
+ 434 299 l 257
  337 299 l 257
  337 160 l 258
  337 73 387 14 461 14 c 257
@@ -3316,6 +3615,7 @@ Encoding: 88 -1 88
 GlifName: tml_P_U_u
 Width: 691
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3355,6 +3655,7 @@ Encoding: 89 2986 89
 GlifName: tml_P_a
 Width: 510
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3377,19 +3678,19 @@ Encoding: 90 -1 90
 GlifName: tml_R_U_
 Width: 944
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
 327 0 m 257
- 327 473 l 257
  327 560 l 257
  796 560 l 257
  796 462 l 257
  693 462 l 257
  693 0 l 257
- 657 0 621 0 585 0 c 257
+ 585 0 l 257
  585 462 l 257
  434 462 l 257
  434 0 l 257
@@ -3415,19 +3716,19 @@ Encoding: 91 -1 91
 GlifName: tml_R_U_u
 Width: 529
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
 30 0 m 257
- 30 473 l 257
  30 560 l 257
  499 560 l 257
  499 462 l 257
  396 462 l 257
  396 0 l 257
- 360 0 324 0 288 0 c 257
+ 288 0 l 257
  288 462 l 257
  137 462 l 257
  137 0 l 257
@@ -3442,7 +3743,7 @@ SplineSet
  -163 482 -176 460 -176 426 c 256
  -176 390 -161 366 -132 366 c 256
  -105 366 -89 390 -89 425 c 256
- -89 460 -102 488 -131 488 c 257
+ -89 460 -102 488 -131 488 c 256
  -206 488 -240 326 -240 204 c 256
  -240 -64 5 -160 192 -160 c 256
  383 -160 515 -34 515 134 c 256
@@ -3462,6 +3763,7 @@ Encoding: 92 2992 92
 GlifName: tml_R_a
 Width: 549
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3473,7 +3775,7 @@ SplineSet
  519 461 l 257
  416 461 l 257
  416 0 l 257
- 380 0 344 0 308 0 c 257
+ 308 0 l 257
  308 461 l 257
  157 461 l 257
  157 0 l 257
@@ -3491,6 +3793,7 @@ Encoding: 93 -1 93
 GlifName: tml_R_rA_a.alt
 Width: 0
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3502,6 +3805,7 @@ Encoding: 94 -1 94
 GlifName: tml_R_rU_
 Width: 875
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3523,12 +3827,12 @@ SplineSet
  394 -1 l 257
  289 0 l 257
 30 -180 m 256
- 30 -125 71 -64 169 -64 c 257
+ 30 -125 71 -64 169 -64 c 258
  738 -62 l 257
  738 560 l 257
  845 560 l 257
  845 -159 l 257
- 183 -158 l 257
+ 183 -158 l 258
  152 -158 137 -165 137 -190 c 256
  137 -222 207 -252 304 -252 c 256
  566 -252 569 43 567 234 c 256
@@ -3548,6 +3852,7 @@ Encoding: 95 -1 95
 GlifName: tml_R_rU_u
 Width: 1180
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3571,6 +3876,7 @@ Encoding: 96 2993 96
 GlifName: tml_R_ra
 Width: 689
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3613,6 +3919,7 @@ Encoding: 97 3065 97
 GlifName: tml_R_upee
 Width: 932
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3636,8 +3943,7 @@ SplineSet
  665 266 659 218 659 179 c 257
  590 220 l 257
  594 268 625 358 725 358 c 256
- 834 358 882 252 882 118 c 257
- 882 118 l 257
+ 834 358 882 252 882 118 c 256
  882 -104 722 -267 490 -267 c 256
  186 -267 50 4 50 340 c 256
  50 746 272 954 523 954 c 256
@@ -3652,7 +3958,7 @@ SplineSet
  667 700 685 680 710 680 c 256
  736 680 754 701 754 729 c 256
  754 771 713 796 689 815 c 256
- 652 844 591 850 523 848 c 257
+ 652 844 591 850 523 848 c 256
  267 843 160 601 160 341 c 256
   PathStart: -2
 EndSplineSet
@@ -3663,6 +3969,7 @@ Encoding: 98 3000 98
 GlifName: tml_S_a
 Width: 1004
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3686,10 +3993,10 @@ SplineSet
   PathStart: -2
 30 245 m 256
  30 450 119 573 282 573 c 256
- 387 573 504 502 504 340 c 256
- 504 322 504 41 504 0 c 257
+ 387 573 504 502 504 340 c 258
+ 504 0 l 257
  403 1 l 257
- 403 35 403 328 403 339 c 256
+ 403 339 l 258
  403 427 347 476 282 476 c 256
  176 476 132 378 132 255 c 256
  132 158 149 74 197 74 c 256
@@ -3709,6 +4016,7 @@ Encoding: 99 3053 99
 GlifName: tml_S_even
 Width: 571
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3743,6 +4051,7 @@ Encoding: 100 2998 100
 GlifName: tml_S_ha
 Width: 776
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3765,7 +4074,7 @@ SplineSet
  561 462 l 257
  230 462 l 257
 425 143 m 258
- 425 545 l 256
+ 425 545 l 257
  530 545 l 257
  530 143 l 258
  530 95 561 86 578 86 c 256
@@ -3781,12 +4090,73 @@ EndChar
 StartChar: tml_Shree
 Encoding: 101 -1 101
 GlifName: tml_S_hree
-Width: 0
+Width: 1418
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
+SplineSet
+698 578 m 256
+ 803 578 838 493 843 402 c 257
+ 787 383 l 257
+ 787 440 762 478 719 478 c 256
+ 685 478 653 454 653 394 c 258
+ 653 1 l 257
+ 546 1 l 257
+ 546 429 l 258
+ 546 528 610 578 698 578 c 256
+  PathStart: -2
+1254 559 m 257
+ 1254 460 l 257
+ 1154 461 l 257
+ 1154 1 l 257
+ 1047 1 l 257
+ 1047 462 l 257
+ 894 462 l 257
+ 894 1 l 257
+ 787 1 l 257
+ 787 414 l 257
+ 827 560 l 257
+ 1254 559 l 257
+286 1 m 257
+ 286 560 l 257
+ 393 560 l 257
+ 393 99 l 257
+ 653 99 l 257
+ 653 1 l 257
+ 286 1 l 257
+704 -168 m 256
+ 977 -168 1273 -84 1273 137 c 256
+ 1273 208 1249 267 1202 267 c 256
+ 1166 267 1154 231 1154 204 c 257
+ 1105 235 l 257
+ 1105 308 1151 358 1221 358 c 256
+ 1311 358 1375 274 1375 138 c 256
+ 1375 -147 1065 -271 708 -271 c 256
+ 348 -271 30 -107 30 242 c 256
+ 30 388 78 510 126 572 c 257
+ 215 527 l 257
+ 206 514 134 417 134 252 c 256
+ 134 -64 419 -168 704 -168 c 256
+  PathStart: -2
+1005 664 m 256
+ 1005 831 1125 901 1238 900 c 256
+ 1340 899 1388 828 1388 736 c 256
+ 1388 614 1318 588 1264 588 c 256
+ 1196 588 1140 627 1139 726 c 256
+ 1139 795 1190 853 1227 879 c 257
+ 1263 804 l 257
+ 1237 804 1221 766 1221 734 c 256
+ 1221 682 1240 662 1265 662 c 256
+ 1291 662 1304 691 1304 736 c 256
+ 1304 762 1298 804 1262 804 c 256
+ 1166 804 1109 761 1109 663 c 256
+ 1109 598 1140 559 1184 558 c 256
+ 1184 465 l 256
+ 1117 465 1005 517 1005 664 c 256
+EndSplineSet
 EndChar
 
 StartChar: tml_Six
@@ -3794,12 +4164,18 @@ Encoding: 102 3052 102
 GlifName: tml_S_ix
 Width: 897
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
-438 244 m 257
+30 172 m 256
+ 30 271 94 341 212 341 c 258
+ 438 341 l 258
+ 536 341 575 240 575 204 c 257
+ 478 180 l 257
+ 478 212 469 244 438 244 c 258
  212 244 l 258
  159 244 130 212 130 167 c 256
  130 124 166 85 217 85 c 256
@@ -3817,22 +4193,16 @@ SplineSet
  415 207 l 258
  415 103 375 -13 217 -13 c 256
  82 -13 30 75 30 172 c 256
- 30 271 94 341 212 341 c 258
- 438 341 l 257
- 536 341 575 240 575 204 c 257
- 478 180 l 257
- 478 212 469 244 438 244 c 257
-  PathStart: -2
 867 244 m 257
  767 244 l 257
  767 0 l 257
  670 0 l 257
  670 245 l 257
- 624 245 575 234 575 164 c 257
+ 624 245 575 234 575 164 c 258
  575 0 l 257
  478 0 l 257
- 478 183 l 257
- 478 265 529 341 650 341 c 257
+ 478 183 l 258
+ 478 265 529 341 650 341 c 258
  867 341 l 257
  867 244 l 257
 EndSplineSet
@@ -3843,6 +4213,7 @@ Encoding: 103 2999 103
 GlifName: tml_S_sa
 Width: 1037
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -3895,14 +4266,13 @@ Encoding: 104 -1 104
 GlifName: tml_T_U_
 Width: 800
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
-391 341 m 258
- 172 341 l 258
- 84 341 29 268 30 175 c 256
+30 175 m 256
  31 75 82 1 212 1 c 256
  375 1 415 100 415 207 c 258
  415 464 l 257
@@ -3923,17 +4293,18 @@ SplineSet
  478 241 504 139 504 47 c 256
  504 -143 411 -252 293 -252 c 256
  157 -252 138 -205 138 -189 c 256
- 138 -167 148 -149 183 -149 c 257
+ 138 -167 148 -149 183 -149 c 258
  770 -151 l 257
  770 573 l 257
  663 573 l 257
  663 -54 l 257
- 158 -54 l 257
+ 158 -54 l 258
  75 -54 31 -120 31 -189 c 256
  31 -271 135 -349 293 -349 c 256
  526 -349 603 -127 603 46 c 256
  603 199 538 341 391 341 c 258
-  PathStart: -2
+ 172 341 l 258
+ 84 341 29 268 30 175 c 256
 EndSplineSet
 PickledDataWithLists: "(dp1
 S'com.typemytype.robofont.layerData'
@@ -4494,6 +4865,7 @@ Encoding: 105 -1 105
 GlifName: tml_T_U_u
 Width: 1105
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4517,6 +4889,7 @@ Encoding: 106 2980 106
 GlifName: tml_T_a
 Width: 633
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4559,6 +4932,7 @@ Encoding: 107 3056 107
 GlifName: tml_T_en
 Width: 719
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4594,32 +4968,33 @@ Encoding: 108 3058 108
 GlifName: tml_T_housand
 Width: 925
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
-631 -81 m 257
- 687 -81 l 257
+631 -81 m 258
+ 687 -81 l 258
  767 -80 789 -26 789 19 c 256
  789 90 752 118 680 118 c 258
  574 118 l 258
  539 118 527 99 527 73 c 256
  527 52 546 36 574 36 c 256
- 614 36 622 62 622 102 c 257
+ 614 36 622 62 622 102 c 258
  622 246 l 257
  721 246 l 257
- 720 96 l 257
- 720 25 691 -52 575 -51 c 257
+ 720 96 l 258
+ 720 25 691 -52 575 -51 c 256
  468 -51 433 23 433 73 c 256
- 433 126 474 205 558 205 c 257
- 671 205 l 257
+ 433 126 474 205 558 205 c 258
+ 671 205 l 258
  730 205 885 208 885 21 c 256
- 885 -75 830 -170 701 -170 c 257
- 649 -170 l 257
+ 885 -75 830 -170 701 -170 c 258
+ 649 -170 l 258
  577 -170 586 -221 586 -237 c 257
  481 -237 l 257
- 481 -191 490 -83 631 -81 c 257
+ 481 -191 490 -83 631 -81 c 258
   PathStart: -2
 486 341 m 257
  811 341 l 257
@@ -4635,6 +5010,7 @@ Encoding: 109 3049 109
 GlifName: tml_T_hree
 Width: 727
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4673,6 +5049,7 @@ Encoding: 110 -1 110
 GlifName: tml_T_tI_
 Width: 657
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4682,8 +5059,8 @@ SplineSet
  274 47 219 200 219 319 c 256
  219 471 278 572 396 573 c 256
  482 573 561 525 562 374 c 258
- 564 -146 l 256
- 456 -146 l 256
+ 564 -146 l 257
+ 456 -146 l 257
  455 393 l 258
  455 444 435 475 396 475 c 256
  349 475 317 417 317 319 c 256
@@ -4698,6 +5075,7 @@ Encoding: 111 -1 111
 GlifName: tml_T_tI_i
 Width: 657
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4727,6 +5105,7 @@ Encoding: 112 -1 112
 GlifName: tml_T_tU_
 Width: 664
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4734,7 +5113,7 @@ Fore
 SplineSet
 412 560 m 257
  413 0 l 257
- 377 0 341 0 305 0 c 257
+ 305 0 l 257
  305 560 l 257
  412 560 l 257
 214 529 m 257
@@ -4758,6 +5137,7 @@ Encoding: 113 -1 113
 GlifName: tml_T_tU_u
 Width: 0
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4769,6 +5149,7 @@ Encoding: 114 2975 114
 GlifName: tml_T_ta
 Width: 577
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4789,6 +5170,7 @@ Encoding: 115 3048 115
 GlifName: tml_T_wo
 Width: 534
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4797,7 +5179,7 @@ SplineSet
 169 1 m 257
  80 0 36 46 36 108 c 256
  36 182 85 224 154 224 c 258
- 214 224 l 257
+ 214 224 l 258
  318 226 350 302 350 376 c 256
  350 447 311 512 231 512 c 256
  139 512 117 425 117 386 c 256
@@ -4812,7 +5194,7 @@ SplineSet
  80 247 30 313 30 402 c 256
  30 516 112 596 235 597 c 256
  368 598 447 501 447 371 c 256
- 447 245 375 135 219 132 c 257
+ 447 245 375 135 219 132 c 258
  153 131 l 258
  143 131 132 125 132 113 c 256
  132 99 147 96 162 96 c 257
@@ -4830,6 +5212,7 @@ Encoding: 116 2953 116
 GlifName: tml_U_
 Width: 804
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4868,6 +5251,7 @@ Encoding: 117 2954 117
 GlifName: tml_U_u
 Width: 1164
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4876,7 +5260,7 @@ SplineSet
 169 1 m 257
  80 0 36 46 36 108 c 256
  36 182 85 224 154 224 c 258
- 214 224 l 257
+ 214 224 l 258
  318 226 350 302 350 376 c 256
  350 447 311 512 231 512 c 256
  139 512 117 425 117 386 c 256
@@ -4891,7 +5275,7 @@ SplineSet
  80 247 30 313 30 402 c 256
  30 516 112 596 235 597 c 256
  368 598 447 501 447 371 c 256
- 447 245 375 135 219 132 c 257
+ 447 245 375 135 219 132 c 258
  153 131 l 258
  143 131 132 125 132 113 c 256
  132 99 147 96 162 96 c 257
@@ -4937,6 +5321,7 @@ Encoding: 118 2997 118
 GlifName: tml_V_a
 Width: 730
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4982,6 +5367,7 @@ Encoding: 119 3021 119
 GlifName: tml_V_irama
 Width: 0
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -5000,6 +5386,7 @@ Encoding: 120 2947 120
 GlifName: tml_V_isarga
 Width: 773
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -5049,6 +5436,7 @@ Encoding: 121 -1 121
 GlifName: tml_Y_U_u
 Width: 0
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -5060,6 +5448,7 @@ Encoding: 122 2991 122
 GlifName: tml_Y_a
 Width: 678
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -5092,6 +5481,7 @@ Encoding: 123 3061 123
 GlifName: tml_Y_ear
 Width: 1757
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -5129,7 +5519,7 @@ SplineSet
  1276 462 l 257
  1173 462 l 257
  1173 0 l 257
- 1137 0 1101 0 1065 0 c 257
+ 1065 0 l 257
  1065 462 l 257
  807 462 l 257
 797 -243 m 256
@@ -5144,10 +5534,10 @@ SplineSet
  30 633 333 850 788 850 c 256
  1244 850 1500 680 1532 411 c 256
  1537 369 1560 357 1585 357 c 256
- 1605 357 1630 366 1630 417 c 257
+ 1605 357 1630 366 1630 417 c 258
  1630 560 l 257
  1737 560 l 257
- 1737 400 l 257
+ 1737 400 l 258
  1737 304 1674 250 1586 250 c 256
  1504 250 1434 307 1425 399 c 256
  1404 609 1126 743 788 743 c 256
@@ -5162,6 +5552,7 @@ Encoding: 124 3046 124
 GlifName: tml_Z_ero
 Width: 543
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
