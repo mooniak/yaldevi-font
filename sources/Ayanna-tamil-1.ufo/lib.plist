@@ -182,6 +182,16 @@
         <key>isGlobal</key>
         <true/>
       </dict>
+      <dict>
+        <key>y</key>
+        <integer>404</integer>
+        <key>x</key>
+        <integer>1427</integer>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>isGlobal</key>
+        <true/>
+      </dict>
     </array>
     <key>com.schriftgestaltung.fontMasterID</key>
     <string>A6FF5082-DE18-4D2D-8E01-54AF1261B41D</string>
