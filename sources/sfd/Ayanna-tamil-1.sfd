@@ -22,8 +22,8 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1451953434
-ModificationTime: 1451953434
+CreationTime: 1451990929
+ModificationTime: 1451992660
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -397,10 +397,10 @@ s."
 Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -72
+DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 8 2
+WinInfo: 90 9 4
 BeginPrivate: 3
 StemSnapH 13 [34 35 36 64]
 StemSnapV 21 [8 10 34 35 36 37 64]
@@ -4017,14 +4017,12 @@ GlifName: tml_S_even
 Width: 571
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HWO
 LayerCount: 2
 Back
 Fore
 SplineSet
-30 245 m 256
- 30 442 123 560 279 560 c 256
- 277 462 l 256
+277 462 m 257
  178 462 132 370 132 255 c 256
  132 158 149 74 197 74 c 256
  243 74 252 139 252 178 c 256
@@ -4035,14 +4033,12 @@ SplineSet
  282 362 348 297 348 174 c 256
  348 53 291 -24 197 -24 c 256
  92 -24 30 90 30 245 c 256
-  PathStart: -2
-269 462 m 257
- 277 560 l 257
+ 30 442 123 560 279 560 c 257
  521 560 l 257
  521 1 l 257
  414 1 l 257
  414 462 l 257
- 269 462 l 257
+ 277 462 l 257
 EndSplineSet
 EndChar
 
@@ -5252,12 +5248,12 @@ GlifName: tml_U_u
 Width: 1164
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
 SplineSet
-169 1 m 257
+170 1 m 257
  80 0 36 46 36 108 c 256
  36 182 85 224 154 224 c 258
  214 224 l 258
@@ -5278,13 +5274,10 @@ SplineSet
  447 245 375 135 219 132 c 258
  153 131 l 258
  143 131 132 125 132 113 c 256
- 132 99 147 96 162 96 c 257
- 169 1 l 257
-1144 97 m 257
- 1144 1 l 257
- 160 1 l 257
- 156 96 l 257
+ 132 99 147 96 163 96 c 257
  1144 97 l 257
+ 1144 1 l 257
+ 170 1 l 257
 499 325 m 256
  499 477 560 569 672 569 c 256
  769 569 843 467 843 317 c 256
