@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1452006469
-ModificationTime: 1452006469
+ModificationTime: 1452187578
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -400,13 +400,14 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 8 2
+WinInfo: 84 12 5
 BeginPrivate: 3
 StemSnapH 13 [34 35 36 64]
 StemSnapV 21 [8 10 34 35 36 37 64]
 BlueShift 1 0
 EndPrivate
-BeginChars: 125 125
+AnchorClass2: "Virama" "" 
+BeginChars: 137 125
 
 StartChar: newGlyph
 Encoding: 0 -1 0
@@ -750,7 +751,7 @@ GlifName: tml_C_U_
 Width: 641
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
@@ -775,7 +776,7 @@ GlifName: tml_C_U_u
 Width: 974
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
@@ -813,7 +814,8 @@ GlifName: tml_C_a
 Width: 558
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+AnchorPoint: "Virama" 318 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -839,7 +841,6 @@ SplineSet
  415 103 375 -13 217 -13 c 256
  82 -13 30 75 30 172 c 256
  30 271 94 341 212 341 c 258
-  PathStart: -2
 EndSplineSet
 EndChar
 
@@ -1063,7 +1064,7 @@ GlifName: tml_F_our
 Width: 697
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
@@ -1086,6 +1087,7 @@ Width: 1253
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 631 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -1272,6 +1274,7 @@ Width: 757
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 375 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -1323,7 +1326,8 @@ GlifName: tml_K_S_sa
 Width: 1511
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+AnchorPoint: "Virama" 747 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -1420,7 +1424,7 @@ GlifName: tml_K_U_u
 Width: 1100
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
@@ -1459,7 +1463,8 @@ GlifName: tml_K_a
 Width: 641
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+AnchorPoint: "Virama" 318 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -1491,7 +1496,6 @@ SplineSet
  415 103 375 -9 217 -9 c 256
  82 -9 30 75 30 172 c 256
  30 271 92 341 210 341 c 258
-  PathStart: -2
 EndSplineSet
 EndChar
 
@@ -1554,6 +1558,7 @@ Width: 772
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 364 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -1656,6 +1661,7 @@ Width: 908
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 508 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -2058,6 +2064,7 @@ Width: 642
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 288 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -2156,6 +2163,7 @@ Width: 647
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 275 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -2811,6 +2819,7 @@ Width: 632
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 271 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -2906,6 +2915,7 @@ Width: 750
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 338 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -2949,7 +2959,7 @@ GlifName: tml_N_ine
 Width: 954
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
@@ -3060,6 +3070,7 @@ Width: 1307
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 687 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -3201,6 +3212,7 @@ Width: 968
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 518 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -3534,7 +3546,7 @@ GlifName: tml_O_ne
 Width: 641
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
@@ -3644,6 +3656,7 @@ Width: 510
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 251 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -3751,6 +3764,7 @@ Width: 549
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 238 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -3863,7 +3877,8 @@ GlifName: tml_R_ra
 Width: 689
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+AnchorPoint: "Virama" 328 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -3878,11 +3893,11 @@ SplineSet
  30 506 106 575 195 574 c 256
  271 573 348 534 351 426 c 257
   PathStart: -2
-271 1 m 257
+271 0 m 261
  271 460 l 257
  378 460 l 257
- 376 -1 l 257
- 271 1 l 257
+ 376 0 l 257
+ 271 0 l 261
 363 -164 m 258
  219 -165 l 258
  151 -165 141 -204 140 -243 c 257
@@ -3956,7 +3971,8 @@ GlifName: tml_S_a
 Width: 1004
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: WO
+AnchorPoint: "Virama" 504 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -4035,6 +4051,7 @@ Width: 776
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 371 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -4196,6 +4213,7 @@ Width: 1037
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 546 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -4872,6 +4890,7 @@ Width: 633
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 318 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -4950,7 +4969,7 @@ GlifName: tml_T_housand
 Width: 925
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
@@ -5132,6 +5151,7 @@ Width: 577
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 322 1 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -5301,6 +5321,7 @@ Width: 730
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 379 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -5346,7 +5367,8 @@ GlifName: tml_V_irama
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+AnchorPoint: "Virama" 0 0 mark 0
 LayerCount: 2
 Back
 Fore
@@ -5428,6 +5450,7 @@ Width: 678
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Virama" 328 0 basechar 0
 LayerCount: 2
 Back
 Fore
