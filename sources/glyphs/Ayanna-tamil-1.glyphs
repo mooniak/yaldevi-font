@@ -6,7 +6,8 @@ DisplayStrings = (
 /tml_Rupee,
 /tml_MatraIi,
 /tml_Shree,
-/tml_MatraIi.alt2
+/tml_MatraIi.alt2,
+/tml_Ii
 );
 copyright = "Licensed under the SIL Open Font License 1.1 (see file OFL.txt)";
 customParameters = (
@@ -878,7 +879,7 @@ unicode = 0B87;
 },
 {
 glyphname = tml_Ii;
-lastChange = "2016-01-05 00:02:24 +0000";
+lastChange = "2016-01-10 20:17:33 +0000";
 layers = (
 {
 layerId = "A6FF5082-DE18-4D2D-8E01-54AF1261B41D";
@@ -8899,21 +8900,17 @@ unicode = 0BFA;
 },
 {
 glyphname = tml_MatraIi;
-lastChange = "2016-01-10 19:36:48 +0000";
+lastChange = "2016-01-10 20:32:46 +0000";
 layers = (
 {
-components = (
-{
-name = tml_Ka;
-transform = "{1, 0, 0, 1, -280, 0}";
-}
-);
 layerId = "A6FF5082-DE18-4D2D-8E01-54AF1261B41D";
 name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
+"130 467 OFFCURVE",
+"18 519 OFFCURVE",
 "18 666 CURVE SMOOTH",
 "18.313 833.059 OFFCURVE",
 "138.246 902.638 OFFCURVE",
@@ -8949,9 +8946,7 @@ nodes = (
 "122.217 600.278 OFFCURVE",
 "153 561 OFFCURVE",
 "197 560 CURVE SMOOTH",
-"197 467 LINE SMOOTH",
-"130 467 OFFCURVE",
-"17.724 518.885 OFFCURVE"
+"197 467 LINE SMOOTH"
 );
 }
 );
