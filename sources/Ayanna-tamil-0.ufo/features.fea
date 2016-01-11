@@ -1,4 +1,48 @@
+languagesystem DFLT dflt;
+languagesystem taml dflt;
 
+
+# GPOS 
+
+
+lookup abvmAboveBaseMarkinTamillookup0 {
+  lookupflag 0;
+  markClass [\tml_Virama ] <anchor 0 0> @virama;
+  pos base [\tml_Ca \tml_Ta ] <anchor 367 0> mark @virama;
+  pos base [\tml_Ha ] <anchor 600 0> mark @virama;
+  pos base [\tml_Ja ] <anchor 381 0> mark @virama;
+  pos base [\tml_KSsa ] <anchor 738 0> mark @virama;
+  pos base [\tml_Ka ] <anchor 373 0> mark @virama;
+  pos base [\tml_La ] <anchor 390 0> mark @virama;
+  pos base [\tml_Lla ] <anchor 451 0> mark @virama;
+  pos base [\tml_Llla ] <anchor 254 0> mark @virama;
+  pos base [\tml_Ma ] <anchor 256 0> mark @virama;
+  pos base [\tml_Na ] <anchor 291 0> mark @virama;
+  pos base [\tml_Nga ] <anchor 350 0> mark @virama;
+  pos base [\tml_Nna ] <anchor 695 0> mark @virama;
+  pos base [\tml_Nnna ] <anchor 495 0> mark @virama;
+  pos base [\tml_Nya ] <anchor 520 0> mark @virama;
+  pos base [\tml_Pa ] <anchor 258 0> mark @virama;
+  pos base [\tml_Ra ] <anchor 220 0> mark @virama;
+  pos base [\tml_Rra ] <anchor 321 0> mark @virama;
+  pos base [\tml_Sa ] <anchor 440 0> mark @virama;
+  pos base [\tml_Sha \tml_Va ] <anchor 380 0> mark @virama;
+  pos base [\tml_Ssa ] <anchor 515 0> mark @virama;
+  pos base [\tml_Tta ] <anchor 304 0> mark @virama;
+  pos base [\tml_Ya ] <anchor 313 0> mark @virama;
+} abvmAboveBaseMarkinTamillookup0;
+
+feature abvm {
+
+ script DFLT;
+     language dflt ;
+      lookup abvmAboveBaseMarkinTamillookup0;
+
+ script taml;
+     language dflt ;
+      lookup abvmAboveBaseMarkinTamillookup0;
+} abvm;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\newGlyph.001 \space \tml_A \tml_A.001 \tml_Aa \tml_Above \tml_Ai 
 	\tml_Anusvara \tml_Au \tml_AuLengthmark \tml_CU \tml_CUu \tml_Ca \tml_Credit 
@@ -17,10 +61,11 @@
 	\tml_RrU \tml_RrUu \tml_Rra \tml_Rupee \tml_Sa \tml_Seven \tml_Sha \tml_Shree 
 	\tml_Six \tml_Ssa \tml_TU \tml_TUu \tml_Ta \tml_Ten \tml_Thousand \tml_Three 
 	\tml_TtI \tml_TtIi \tml_TtU \tml_TtUu \tml_Tta \tml_Two \tml_U \tml_Uu \tml_Va 
-	\tml_Virama \tml_Visarga \tml_YUu \tml_Ya \tml_Year \tml_Zero ];
+	\tml_Visarga \tml_YUu \tml_Ya \tml_Year \tml_Zero ];
+@GDEF_Mark = [\tml_Virama ];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple, , , ;
+  GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
 
 } GDEF;
 

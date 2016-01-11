@@ -3,6 +3,9 @@
   <advance width="1511"/>
   <outline>
     <contour>
+      <point x="790" y="0" type="move" name="virama"/>
+    </contour>
+    <contour>
       <point x="566" y="-24"/>
       <point x="504" y="90"/>
       <point x="504" y="245" type="curve" smooth="yes"/>

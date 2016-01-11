@@ -4,6 +4,9 @@
   <unicode hex="0BB6"/>
   <outline>
     <contour>
+      <point x="390" y="0" type="move" name="virama"/>
+    </contour>
+    <contour>
       <point x="30" y="560" type="line"/>
       <point x="137" y="560" type="line"/>
       <point x="137" y="153" type="line" smooth="yes"/>

@@ -1,4 +1,48 @@
+languagesystem DFLT dflt;
+languagesystem taml dflt;
 
+
+# GPOS 
+
+
+lookup abvmAboveBaseMarkinTamillookup0 {
+  lookupflag 0;
+  markClass [\tml_Virama ] <anchor 0 0> @virama;
+  pos base [\tml_Ca ] <anchor 372 0> mark @virama;
+  pos base [\tml_Ha ] <anchor 630 0> mark @virama;
+  pos base [\tml_Ja ] <anchor 384 0> mark @virama;
+  pos base [\tml_KSsa ] <anchor 790 0> mark @virama;
+  pos base [\tml_Ka \tml_Ta ] <anchor 368 0> mark @virama;
+  pos base [\tml_La ] <anchor 410 0> mark @virama;
+  pos base [\tml_Lla ] <anchor 476 0> mark @virama;
+  pos base [\tml_Llla ] <anchor 296 0> mark @virama;
+  pos base [\tml_Ma ] <anchor 310 0> mark @virama;
+  pos base [\tml_Na ] <anchor 328 0> mark @virama;
+  pos base [\tml_Nga ] <anchor 350 0> mark @virama;
+  pos base [\tml_Nna ] <anchor 700 0> mark @virama;
+  pos base [\tml_Nnna ] <anchor 486 0> mark @virama;
+  pos base [\tml_Nya ] <anchor 590 0> mark @virama;
+  pos base [\tml_Pa ] <anchor 262 0> mark @virama;
+  pos base [\tml_Ra ] <anchor 275 0> mark @virama;
+  pos base [\tml_Rra ] <anchor 327 0> mark @virama;
+  pos base [\tml_Sa ] <anchor 450 0> mark @virama;
+  pos base [\tml_Sha ] <anchor 390 0> mark @virama;
+  pos base [\tml_Ssa ] <anchor 550 0> mark @virama;
+  pos base [\tml_Tta \tml_Ya ] <anchor 330 0> mark @virama;
+  pos base [\tml_Va ] <anchor 413 0> mark @virama;
+} abvmAboveBaseMarkinTamillookup0;
+
+feature abvm {
+
+ script DFLT;
+     language dflt ;
+      lookup abvmAboveBaseMarkinTamillookup0;
+
+ script taml;
+     language dflt ;
+      lookup abvmAboveBaseMarkinTamillookup0;
+} abvm;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\newGlyph.001 \space \tml_A \tml_A.001 \tml_Aa \tml_Above \tml_Ai 
 	\tml_Anusvara \tml_Au \tml_AuLengthmark \tml_CU \tml_CUu \tml_Ca \tml_Credit 
