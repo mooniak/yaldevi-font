@@ -2,8 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>newGlyph</key>
-    <string>newG_lyph.glif</string>
+    <key>newGlyph.001</key>
+    <string>newG_lyph.001.glif</string>
     <key>space</key>
     <string>space.glif</string>
     <key>tml_A</key>
@@ -112,14 +112,14 @@
     <string>tml_M_atraI_.alt5.glif</string>
     <key>tml_MatraI.alt6</key>
     <string>tml_M_atraI_.alt6.glif</string>
-    <key>tml_MatraI.alt7</key>
-    <string>tml_M_atraI_.alt7.glif</string>
     <key>tml_MatraI.stylalt1</key>
     <string>tml_M_atraI_.stylalt1.glif</string>
     <key>tml_MatraIi</key>
     <string>tml_M_atraI_i.glif</string>
     <key>tml_MatraIi.alt1</key>
     <string>tml_M_atraI_i.alt1.glif</string>
+    <key>tml_MatraIi.alt2</key>
+    <string>tml_M_atraI_i.alt2.glif</string>
     <key>tml_MatraIi.stylalt1</key>
     <string>tml_M_atraI_i.stylalt1.glif</string>
     <key>tml_MatraO</key>
