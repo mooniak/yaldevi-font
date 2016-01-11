@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1452457255
-ModificationTime: 1452517416
+ModificationTime: 1452541208
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -390,11 +390,15 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 81 9 5
+WinInfo: 27 9 7
 BeginPrivate: 1
 BlueShift 1 0
 EndPrivate
-AnchorClass2: "virama" "'abvm' Above Base Mark in Tamil lookup 0-1" 
+Grid
+-1000 189 m 0
+ 2000 189 l 1024
+EndSplineSet
+AnchorClass2: "MatraAi.alt" "'abvm' Above Base Mark in Tamil lookup 0-1" "MatraIi.stylalt1" "'abvm' Above Base Mark in Tamil lookup 0-1" "MatraI.stylalt1" "'abvm' Above Base Mark in Tamil lookup 0-1" "MatraIi.alt2" "'abvm' Above Base Mark in Tamil lookup 0-1" "MatraIi.alt1" "'abvm' Above Base Mark in Tamil lookup 0-1" "MatraIi" "'abvm' Above Base Mark in Tamil lookup 0-1" "MatraI.alt6" "'abvm' Above Base Mark in Tamil lookup 0-1" "MatraI.alt5" "'abvm' Above Base Mark in Tamil lookup 0-1" "MatraI.alt4" "'abvm' Above Base Mark in Tamil lookup 0-1" "MatraI.alt3" "'abvm' Above Base Mark in Tamil lookup 0-1" "MatraI.alt2" "'abvm' Above Base Mark in Tamil lookup 0-1" "MatraI.alt1" "'abvm' Above Base Mark in Tamil lookup 0-1" "virama" "'abvm' Above Base Mark in Tamil lookup 0-1" 
 BeginChars: 125 125
 
 StartChar: newGlyph.001
@@ -787,6 +791,10 @@ GlifName: tml_C_a
 Width: 552
 VWidth: 0
 Flags: HW
+AnchorPoint: "MatraIi.stylalt1" 109 304 basechar 0
+AnchorPoint: "MatraI.stylalt1" 109 304 basechar 0
+AnchorPoint: "MatraIi" 462 560 basechar 0
+AnchorPoint: "MatraI.alt2" 462 560 basechar 0
 AnchorPoint: "virama" 367 0 basechar 0
 LayerCount: 2
 Back
@@ -1290,7 +1298,7 @@ Encoding: 26 -1 26
 GlifName: tml_K_S_sa
 Width: 1402
 VWidth: 0
-Flags: HWO
+Flags: HW
 AnchorPoint: "virama" 738 0 basechar 0
 LayerCount: 2
 Back
@@ -1424,6 +1432,10 @@ GlifName: tml_K_a
 Width: 641
 VWidth: 0
 Flags: HW
+AnchorPoint: "MatraIi.stylalt1" 109 304 basechar 0
+AnchorPoint: "MatraI.stylalt1" 109 304 basechar 0
+AnchorPoint: "MatraIi" 462 560 basechar 0
+AnchorPoint: "MatraI.alt1" 462 560 basechar 0
 AnchorPoint: "virama" 373 0 basechar 0
 LayerCount: 2
 Back
@@ -1516,6 +1528,9 @@ GlifName: tml_L_a
 Width: 739
 VWidth: 0
 Flags: W
+AnchorPoint: "MatraAi.alt" 33 190 basechar 0
+AnchorPoint: "MatraIi.alt2" 589 584 basechar 0
+AnchorPoint: "MatraI.alt5" 572 573 basechar 0
 AnchorPoint: "virama" 390 0 basechar 0
 LayerCount: 2
 Back
@@ -1617,6 +1632,9 @@ GlifName: tml_L_la
 Width: 887
 VWidth: 0
 Flags: HW
+AnchorPoint: "MatraAi.alt" 43 190 basechar 0
+AnchorPoint: "MatraIi" 792 560 basechar 0
+AnchorPoint: "MatraI.alt2" 792 560 basechar 0
 AnchorPoint: "virama" 451 0 basechar 0
 LayerCount: 2
 Back
@@ -1725,6 +1743,8 @@ GlifName: tml_L_lla
 Width: 600
 VWidth: 0
 Flags: W
+AnchorPoint: "MatraIi.alt1" 466 556 basechar 0
+AnchorPoint: "MatraI.alt6" 455 561 basechar 0
 AnchorPoint: "virama" 254 0 basechar 0
 LayerCount: 2
 Back
@@ -1821,6 +1841,8 @@ GlifName: tml_M_a
 Width: 614
 VWidth: 0
 Flags: W
+AnchorPoint: "MatraIi.alt1" 459 556 basechar 0
+AnchorPoint: "MatraI.alt6" 447 561 basechar 0
 AnchorPoint: "virama" 256 0 basechar 0
 LayerCount: 2
 Back
@@ -1915,7 +1937,8 @@ Encoding: 44 -1 44
 GlifName: tml_M_atraA_i.alt
 Width: 600
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "MatraAi.alt" 421 189 mark 0
 LayerCount: 2
 Back
 Fore
@@ -2053,7 +2076,8 @@ Encoding: 49 -1 49
 GlifName: tml_M_atraI_.alt1
 Width: 459
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "MatraI.alt1" 150 560 mark 0
 LayerCount: 2
 Back
 Fore
@@ -2077,7 +2101,8 @@ Encoding: 50 -1 50
 GlifName: tml_M_atraI_.alt2
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "MatraI.alt2" 178 560 mark 0
 LayerCount: 2
 Back
 Fore
@@ -2101,7 +2126,8 @@ Encoding: 51 -1 51
 GlifName: tml_M_atraI_.alt3
 Width: 249
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "MatraI.alt3" -111 499 mark 0
 LayerCount: 2
 Back
 Fore
@@ -2126,6 +2152,7 @@ GlifName: tml_M_atraI_.alt4
 Width: 600
 VWidth: 0
 Flags: W
+AnchorPoint: "MatraI.alt4" -83 560 mark 0
 LayerCount: 2
 Back
 Fore
@@ -2149,7 +2176,8 @@ Encoding: 53 -1 53
 GlifName: tml_M_atraI_.alt5
 Width: 600
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "MatraI.alt5" -143 573 mark 0
 LayerCount: 2
 Back
 Fore
@@ -2173,7 +2201,8 @@ Encoding: 54 -1 54
 GlifName: tml_M_atraI_.alt6
 Width: 600
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "MatraI.alt6" -129 561 mark 0
 LayerCount: 2
 Back
 Fore
@@ -2181,7 +2210,7 @@ SplineSet
 -141 530 m 257
  -162 537 -229 555 -229 621 c 256
  -229 704 -156 757 -64 757 c 256
- 82 757 140 647 141 500 c 258
+ 82 757 142 647 143 500 c 258
  143 0 l 257
  101 0 l 257
  100 480 l 258
@@ -2197,7 +2226,8 @@ Encoding: 55 -1 55
 GlifName: tml_M_atraI_.stylalt1
 Width: 600
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "MatraI.stylalt1" 175 304 mark 0
 LayerCount: 2
 Back
 Fore
@@ -2206,8 +2236,8 @@ SplineSet
  104 295 33 345 33 481 c 256
  33 670 173 800 411 800 c 256
  658 800 797 642 797 359 c 257
- 797 -13 l 257
- 755 -13 l 257
+ 797 0 l 257
+ 755 0 l 257
  755 357 l 257
  755 644 598 760 411 758 c 256
  217 756 75 663 75 481 c 256
@@ -2221,7 +2251,8 @@ Encoding: 56 3008 56
 GlifName: tml_M_atraI_i
 Width: 399
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "MatraIi" 145 560 mark 0
 LayerCount: 2
 Back
 Fore
@@ -2250,7 +2281,8 @@ Encoding: 57 -1 57
 GlifName: tml_M_atraI_i.alt1
 Width: 600
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "MatraIi.alt1" 158 556 mark 0
 LayerCount: 2
 Back
 Fore
@@ -2279,7 +2311,8 @@ Encoding: 58 -1 58
 GlifName: tml_M_atraI_i.alt2
 Width: 600
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "MatraIi.alt2" 179 584 mark 0
 LayerCount: 2
 Back
 Fore
@@ -2308,7 +2341,8 @@ Encoding: 59 -1 59
 GlifName: tml_M_atraI_i.stylalt1
 Width: 600
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "MatraIi.stylalt1" 175 304 mark 0
 LayerCount: 2
 Back
 Fore
@@ -2545,6 +2579,7 @@ GlifName: tml_N_a
 Width: 586
 VWidth: 0
 Flags: W
+AnchorPoint: "MatraI.alt1" 396 560 basechar 0
 AnchorPoint: "virama" 291 0 basechar 0
 LayerCount: 2
 Back
@@ -2623,6 +2658,8 @@ GlifName: tml_N_ga
 Width: 681
 VWidth: 0
 Flags: W
+AnchorPoint: "MatraIi" 640 560 basechar 0
+AnchorPoint: "MatraI.alt4" 634 560 basechar 0
 AnchorPoint: "virama" 350 0 basechar 0
 LayerCount: 2
 Back
@@ -2820,6 +2857,9 @@ GlifName: tml_N_na
 Width: 1272
 VWidth: 0
 Flags: W
+AnchorPoint: "MatraAi.alt" 32 190 basechar 0
+AnchorPoint: "MatraIi" 1206 561 basechar 0
+AnchorPoint: "MatraI.alt2" 1196 561 basechar 0
 AnchorPoint: "virama" 695 0 basechar 0
 LayerCount: 2
 Back
@@ -3004,6 +3044,9 @@ GlifName: tml_N_nna
 Width: 919
 VWidth: 0
 Flags: HW
+AnchorPoint: "MatraAi.alt" 33 190 basechar 0
+AnchorPoint: "MatraIi" 862 561 basechar 0
+AnchorPoint: "MatraI.alt2" 852 561 basechar 0
 AnchorPoint: "virama" 495 0 basechar 0
 LayerCount: 2
 Back
@@ -3019,14 +3062,14 @@ SplineSet
  481 572 646 470 646 214 c 256
  646 73 603 -23 498 -23 c 256
  396 -23 346 75 346 214 c 256
- 346 425 444 560 636 561 c 262
+ 346 425 444 560 636 561 c 258
  905 561 l 257
  905 519 l 257
  787 519 l 257
  787 1 l 257
  745 1 l 257
  745 519 l 257
- 637 519 l 262
+ 637 519 l 258
  464 519 388 388 388 214 c 256
  388 115 419 19 498 19 c 256
  576 19 604 115 604 214 c 256
@@ -3179,6 +3222,8 @@ GlifName: tml_N_ya
 Width: 882
 VWidth: 0
 Flags: W
+AnchorPoint: "MatraIi" 709 560 basechar 0
+AnchorPoint: "MatraI.alt1" 709 560 basechar 0
 AnchorPoint: "virama" 520 0 basechar 0
 LayerCount: 2
 Back
@@ -3461,6 +3506,8 @@ GlifName: tml_P_a
 Width: 510
 VWidth: 0
 Flags: W
+AnchorPoint: "MatraIi" 456 560 basechar 0
+AnchorPoint: "MatraI.alt3" 437 500 basechar 0
 AnchorPoint: "virama" 258 0 basechar 0
 LayerCount: 2
 Back
@@ -3567,6 +3614,8 @@ GlifName: tml_R_a
 Width: 469
 VWidth: 0
 Flags: W
+AnchorPoint: "MatraIi" 399 560 basechar 0
+AnchorPoint: "MatraI.alt2" 399 560 basechar 0
 AnchorPoint: "virama" 220 0 basechar 0
 LayerCount: 2
 Back
@@ -3713,6 +3762,8 @@ GlifName: tml_R_ra
 Width: 659
 VWidth: 0
 Flags: W
+AnchorPoint: "MatraIi.alt1" 533 556 basechar 0
+AnchorPoint: "MatraI.alt6" 522 561 basechar 0
 AnchorPoint: "virama" 321 0 basechar 0
 LayerCount: 2
 Back
@@ -4166,6 +4217,10 @@ GlifName: tml_T_a
 Width: 621
 VWidth: 0
 Flags: HW
+AnchorPoint: "MatraIi.stylalt1" 109 304 basechar 0
+AnchorPoint: "MatraI.stylalt1" 109 304 basechar 0
+AnchorPoint: "MatraIi" 452 560 basechar 0
+AnchorPoint: "MatraI.alt1" 452 560 basechar 0
 AnchorPoint: "virama" 367 0 basechar 0
 LayerCount: 2
 Back
@@ -4624,6 +4679,8 @@ GlifName: tml_V_a
 Width: 687
 VWidth: 0
 Flags: W
+AnchorPoint: "MatraIi" 635 559 basechar 0
+AnchorPoint: "MatraI.alt3" 616 500 basechar 0
 AnchorPoint: "virama" 380 0 basechar 0
 LayerCount: 2
 Back
@@ -4794,6 +4851,8 @@ GlifName: tml_Y_a
 Width: 648
 VWidth: 0
 Flags: W
+AnchorPoint: "MatraIi" 596 560 basechar 0
+AnchorPoint: "MatraI.alt3" 577 500 basechar 0
 AnchorPoint: "virama" 313 0 basechar 0
 LayerCount: 2
 Back
