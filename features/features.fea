@@ -7,6 +7,8 @@ languagesystem tml2 dflt;
 
 include (../../features/GENERATED_classes.fea);
 include (../../features/tables.fea);
+include (markclasses.fea);
+include (mark.fea);
 
 ##--------------- Lookups Sinhala ---------------##
 
@@ -1080,9 +1082,9 @@ feature dist {
 feature abvm {
     script sinh;
     script taml;
-    lookup MARK_BASE_tml_virama;
+    lookup MARK_BASE_virama;
     script tml2;
-    lookup MARK_BASE_tml_virama;
+    lookup MARK_BASE_virama;
 } abvm;
 
 feature blwm {
