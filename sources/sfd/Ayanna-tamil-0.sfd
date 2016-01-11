@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1452457255
-ModificationTime: 1452458189
+ModificationTime: 1452517416
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -58,6 +58,8 @@ OS2XHeight: 500
 OS2Vendor: 'ACE '
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80108003.00002042.00000000.00000000
+Lookup: 260 0 0 "'abvm' Above Base Mark in Tamil lookup 0" { "'abvm' Above Base Mark in Tamil lookup 0-1"  } ['abvm' ('DFLT' <'dflt' > 'taml' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "Licensed under the SIL Open Font License 1.1 (see file OFL.txt)" "" "" "" "" "Version 2.5.0" "" "" "" "" "" "" "" "" "" "" "ayanna-tamil" "regular"
 PickledDataWithLists: "(dp1
@@ -388,10 +390,11 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 36 9 5
+WinInfo: 81 9 5
 BeginPrivate: 1
 BlueShift 1 0
 EndPrivate
+AnchorClass2: "virama" "'abvm' Above Base Mark in Tamil lookup 0-1" 
 BeginChars: 125 125
 
 StartChar: newGlyph.001
@@ -784,6 +787,7 @@ GlifName: tml_C_a
 Width: 552
 VWidth: 0
 Flags: HW
+AnchorPoint: "virama" 367 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -796,7 +800,7 @@ SplineSet
  72 96 128 43 209 43 c 256
  282 43 347 86 347 207 c 258
  347 289 l 257
- 347 318 l 5
+ 347 318 l 1
  347 518 l 257
  191 518 l 257
  191 309 l 257
@@ -1048,6 +1052,7 @@ GlifName: tml_H_a
 Width: 1244
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 600 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -1234,26 +1239,27 @@ GlifName: tml_J_a
 Width: 756
 VWidth: 0
 Flags: HW
+AnchorPoint: "virama" 381 0 basechar 0
 LayerCount: 2
 Back
 Fore
 SplineSet
-221 582 m 260
- 381 581 403 426 404 299 c 261
- 362 299 l 261
- 362.055664062 302.684570312 362.083007812 306.352539062 362.08203125 310 c 5
- 362.055664062 438.010742188 326.896484375 542 218 542 c 260
- 127 542 62 489 62 370 c 260
- 62 305 98 274 142 274 c 260
- 190 274 222 318 222 362 c 260
- 222 417 193 455 149 455 c 260
- 84 455 62 405 62 369 c 261
- 31 380 l 261
- 31 453 92 495 147 495 c 260
- 189 495 262 467 262 362 c 260
- 262 273 204 234 142 234 c 260
- 61 234 19 294 20 384 c 260
- 21 513 106 583 221 582 c 260
+221 582 m 256
+ 381 581 403 426 404 299 c 257
+ 362 299 l 257
+ 362.055664062 302.684570312 362.083007812 306.352539062 362.08203125 310 c 1
+ 362.055664062 438.010742188 326.896484375 542 218 542 c 256
+ 127 542 62 489 62 370 c 256
+ 62 305 98 274 142 274 c 256
+ 190 274 222 318 222 362 c 256
+ 222 417 193 455 149 455 c 256
+ 84 455 62 405 62 369 c 257
+ 31 380 l 257
+ 31 453 92 495 147 495 c 256
+ 189 495 262 467 262 362 c 256
+ 262 273 204 234 142 234 c 256
+ 61 234 19 294 20 384 c 256
+ 21 513 106 583 221 582 c 256
 358 218 m 256
  528 242 674 258 674 402 c 256
  674 480 637 539 553 539 c 256
@@ -1284,7 +1290,8 @@ Encoding: 26 -1 26
 GlifName: tml_K_S_sa
 Width: 1402
 VWidth: 0
-Flags: HW
+Flags: HWO
+AnchorPoint: "virama" 738 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -1417,6 +1424,7 @@ GlifName: tml_K_a
 Width: 641
 VWidth: 0
 Flags: HW
+AnchorPoint: "virama" 373 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -1435,7 +1443,7 @@ SplineSet
  72 96 128 43 209 43 c 256
  282 43 347 86 347 207 c 258
  347 289 l 257
- 347 326 l 5
+ 347 326 l 1
  347 518 l 257
  191 518 l 257
  191 309 l 257
@@ -1508,6 +1516,7 @@ GlifName: tml_L_a
 Width: 739
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 390 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -1608,6 +1617,7 @@ GlifName: tml_L_la
 Width: 887
 VWidth: 0
 Flags: HW
+AnchorPoint: "virama" 451 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -1622,7 +1632,7 @@ SplineSet
  473 518 l 257
  473 1 l 257
  430 1 l 257
- 430 440 l 5
+ 430 440 l 1
  430 460 l 1
  430 560 l 257
 265 571 m 256
@@ -1715,6 +1725,7 @@ GlifName: tml_L_lla
 Width: 600
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 254 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -1810,6 +1821,7 @@ GlifName: tml_M_a
 Width: 614
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 256 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -2533,6 +2545,7 @@ GlifName: tml_N_a
 Width: 586
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 291 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -2610,6 +2623,7 @@ GlifName: tml_N_ga
 Width: 681
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 350 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -2806,6 +2820,7 @@ GlifName: tml_N_na
 Width: 1272
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 695 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -2988,7 +3003,8 @@ Encoding: 79 2985 79
 GlifName: tml_N_nna
 Width: 919
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "virama" 495 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -3003,15 +3019,15 @@ SplineSet
  481 572 646 470 646 214 c 256
  646 73 603 -23 498 -23 c 256
  396 -23 346 75 346 214 c 256
- 346 425 438 560 630 561 c 258
+ 346 425 444 560 636 561 c 262
  905 561 l 257
  905 519 l 257
  787 519 l 257
  787 1 l 257
  745 1 l 257
  745 519 l 257
- 631 519 l 258
- 458 519 388 388 388 214 c 256
+ 637 519 l 262
+ 464 519 388 388 388 214 c 256
  388 115 419 19 498 19 c 256
  576 19 604 115 604 214 c 256
  604 455 449 531 326 531 c 257
@@ -3163,6 +3179,7 @@ GlifName: tml_N_ya
 Width: 882
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 520 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -3444,6 +3461,7 @@ GlifName: tml_P_a
 Width: 510
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 258 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -3549,6 +3567,7 @@ GlifName: tml_R_a
 Width: 469
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 220 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -3694,6 +3713,7 @@ GlifName: tml_R_ra
 Width: 659
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 321 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -3785,6 +3805,7 @@ GlifName: tml_S_a
 Width: 960
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 440 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -3863,6 +3884,7 @@ GlifName: tml_S_ha
 Width: 747
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 380 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -4022,6 +4044,7 @@ GlifName: tml_S_sa
 Width: 932
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 515 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -4143,6 +4166,7 @@ GlifName: tml_T_a
 Width: 621
 VWidth: 0
 Flags: HW
+AnchorPoint: "virama" 367 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -4159,7 +4183,7 @@ SplineSet
  72 96 128 43 209 43 c 256
  282 43 347 86 347 207 c 258
  347 289 l 257
- 347 321 l 5
+ 347 321 l 1
  347 518 l 257
  191 518 l 257
  191 309 l 257
@@ -4433,6 +4457,7 @@ GlifName: tml_T_ta
 Width: 569
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 304 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -4599,6 +4624,7 @@ GlifName: tml_V_a
 Width: 687
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 380 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -4644,6 +4670,7 @@ GlifName: tml_V_irama
 Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 0 0 mark 0
 LayerCount: 2
 Back
 Fore
@@ -4767,6 +4794,7 @@ GlifName: tml_Y_a
 Width: 648
 VWidth: 0
 Flags: W
+AnchorPoint: "virama" 313 0 basechar 0
 LayerCount: 2
 Back
 Fore
