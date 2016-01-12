@@ -847,59 +847,59 @@ lookup tml_akhands {
 
 #---- ABVS ----
 
-# lookup tml_above_base_sub_1 {
-#     sub tml_Ka tml_MatraI by tml_KI;
-#     sub tml_Nga tml_MatraI by tml_NgI;
-#     sub tml_Ca tml_MatraI by tml_CI;
-#     sub tml_Ja tml_MatraI by tml_JI;
-#     sub tml_Nya tml_MatraI by tml_NyI;
-#     sub tml_Tta tml_MatraI by tml_TtI;
-#     sub tml_Nna tml_MatraI by tml_NnI;
-#     sub tml_Ta tml_MatraI by tml_TI;
-#     sub tml_Na tml_MatraI by tml_NI;
-#     sub tml_Nnna tml_MatraI by tml_NnnI;
-#     sub tml_Pa tml_MatraI by tml_PI;
-#     sub tml_Ma tml_MatraI by tml_MI;
-#     sub tml_Ya tml_MatraI by tml_YI;
-#     sub tml_Ra tml_MatraI by tml_RI;
-#     sub tml_Rra tml_MatraI by tml_RrI;
-#     sub tml_La tml_MatraI by tml_LI;
-#     sub tml_Lla tml_MatraI by tml_LlI;
-#     sub tml_Llla tml_MatraI by tml_LllI;
-#     sub tml_Va tml_MatraI by tml_VI;
-#     sub tml_Sa tml_MatraI by tml_SI;
-#     sub tml_Sha tml_MatraI by tml_ShI;
-#     sub tml_Ssa tml_MatraI by tml_SsI;
-#     sub tml_Ha tml_MatraI by tml_HI;
-#     sub tml_KSsa tml_MatraI by tml_KSsI;
-# } tml_above_base_sub_1;
+lookup tml_above_base_sub_1 {
+    sub tml_Ka tml_MatraI' by tml_MatraI.alt1;
+    sub tml_Nga tml_MatraI' by tml_MatraI.alt4;
+    sub tml_Ca tml_MatraI' by tml_MatraI.alt2;
+    #sub tml_Ja tml_MatraI' by tml_JI;
+    sub tml_Nya tml_MatraI' by tml_MatraI.alt1;
+    sub tml_Tta tml_MatraI' by tml_TtI;
+    sub tml_Nna tml_MatraI' by tml_MatraI.alt2;
+    sub tml_Ta tml_MatraI' by tml_MatraI.alt1;
+    sub tml_Na tml_MatraI' by tml_MatraI.alt1;
+    sub tml_Nnna tml_MatraI' by tml_MatraI.alt2;
+    sub tml_Pa tml_MatraI' by tml_MatraI.alt3;
+    sub tml_Ma tml_MatraI' by tml_MatraI.alt6;
+    sub tml_Ya tml_MatraI' by tml_MatraI.alt3;
+    sub tml_Ra tml_MatraI' by tml_MatraI.alt2;
+    sub tml_Rra tml_MatraI' by tml_MatraI.alt6;
+    sub tml_La tml_MatraI' by tml_MatraI.alt5;
+    sub tml_Lla tml_MatraI' by tml_MatraI.alt2;
+    sub tml_Llla tml_MatraI' by tml_MatraI.alt6;
+    sub tml_Va tml_MatraI' by tml_MatraI.alt3;
+    #sub tml_Sa tml_MatraI' by tml_SI;
+    # sub tml_Sha tml_MatraI' by tml_ShI;
+    # sub tml_Ssa tml_MatraI' by tml_SsI;
+    # sub tml_Ha tml_MatraI' by tml_HI;
+    # sub tml_KSsa tml_MatraI' by tml_KSsI;
+} tml_above_base_sub_1;
 
-# lookup tml_above_base_sub_2 {
-#     sub tml_Ka tml_MatraIi by tml_KIi;
-#     sub tml_Nga tml_MatraIi by tml_NgIi;
-#     sub tml_Ca tml_MatraIi by tml_CIi;
-#     sub tml_Ja tml_MatraIi by tml_JIi;
-#     sub tml_Nya tml_MatraIi by tml_NyIi;
-#     sub tml_Tta tml_MatraIi by tml_TtIi;
-#     sub tml_Nna tml_MatraIi by tml_NnIi;
-#     sub tml_Ta tml_MatraIi by tml_TIi;
-#     sub tml_Na tml_MatraIi by tml_NIi;
-#     sub tml_Nnna tml_MatraIi by tml_NnnIi;
-#     sub tml_Pa tml_MatraIi by tml_PIi;
-#     sub tml_Ma tml_MatraIi by tml_MIi;
-#     sub tml_Ya tml_MatraIi by tml_YIi;
-#     sub tml_Ra tml_MatraIi by tml_RIi;
-#     sub tml_Rra tml_MatraIi by tml_RrIi;
-#     sub tml_La tml_MatraIi by tml_LIi;
-#     sub tml_Lla tml_MatraIi by tml_LlIi;
-#     sub tml_Llla tml_MatraIi by tml_LllIi;
-#     sub tml_Va tml_MatraIi by tml_VIi;
-#     sub tml_Sa tml_MatraIi by tml_SIi;
-#     sub tml_Sha tml_MatraIi by tml_ShIi;
-#     sub tml_Ssa tml_MatraIi by tml_SsIi;
-#     sub tml_Ha tml_MatraIi by tml_HIi;
-#     sub tml_KSsa tml_MatraIi by tml_KSsIi;
-#  } tml_above_base_sub_2;
+lookup tml_above_base_sub_2 {
+    # sub tml_Ka tml_MatraIi' by tml_KIi;
+    # sub tml_Nga tml_MatraIi' by tml_NgIi;
+    # sub tml_Ca tml_MatraIi' by tml_CIi;
+    # sub tml_Ja tml_MatraIi' by tml_JIi;
+    # sub tml_Nya tml_MatraIi' by tml_NyIi;
+    # sub tml_Tta tml_MatraIi' by tml_TtIi;
+    # sub tml_Nna tml_MatraIi' by tml_NnIi;
+    # sub tml_Ta tml_MatraIi' by tml_TIi;
+    # sub tml_Na tml_MatraIi' by tml_NIi;
+    # sub tml_Nnna tml_MatraIi' by tml_NnnIi;
+    # sub tml_Pa tml_MatraIi' by tml_PIi;
+    sub tml_Ma tml_MatraIi' by tml_MatraIi.alt1;
+    # sub tml_Ya tml_MatraIi' by tml_YIi;
+    # sub tml_Ra tml_MatraIi' by tml_RIi;
+    sub tml_Rra tml_MatraIi' by tml_MatraIi.alt1;
+    sub tml_La tml_MatraIi' by tml_MatraIi.alt2;
+    # sub tml_Lla tml_MatraIi' by tml_LlIi;
+    sub tml_Llla tml_MatraIi' by tml_MatraIi.alt1;
+    # sub tml_Va tml_MatraIi' by tml_VIi;
+    # sub tml_Sa tml_MatraIi' by tml_SIi;
+    # sub tml_Sha tml_MatraIi' by tml_ShIi;
+    # sub tml_Ssa tml_MatraIi' by tml_SsIi;
+    # sub tml_Ha tml_MatraIi' by tml_HIi;
+    # sub tml_KSsa tml_MatraIi' by tml_KSsIi;
+ } tml_above_base_sub_2;
 
 
 #---- PSTS ----
@@ -960,33 +960,33 @@ lookup tml_post_base_sub_2 {
 
 #---- SALT ----
 
-# lookup tml_stylistic_alternates_1 {
-#     sub tml_Nna tml_MatraAa by tml_NnAa.alt;
-#     sub tml_Nnna tml_MatraAa by tml_NnnAa.alt;
-#     sub tml_Rra tml_MatraAa by tml_RrAa.alt;
-# } tml_stylistic_alternates_1;
-#
+lookup tml_stylistic_alternates_1 {
+    sub tml_Nna tml_MatraAa by tml_NnAa.alt;
+    sub tml_Nnna tml_MatraAa by tml_NnnAa.alt;
+    sub tml_Rra tml_MatraAa by tml_RrAa.alt;
+} tml_stylistic_alternates_1;
+
 # lookup tml_stylistic_alternates_2 {
 #     sub tml_Ra tml_Virama by tml_RVirama.alt;
 #     sub tml_Ra tml_MatraI by tml_RI.alt;
 #     sub tml_Ra tml_MatraIi by tml_RIi.alt;
 # } tml_stylistic_alternates_2;
 #
-# lookup tml_stylistic_alternates_3 {
-#     sub tml_Nna tml_MatraAi by tml_NnAi;
-#     sub tml_Nnna tml_MatraAi by tml_NnnAi;
-#     sub tml_La tml_MatraAi by tml_LAi;
-#     sub tml_Lla tml_MatraAi by tml_LlAi;
-# } tml_stylistic_alternates_3;
-#
-# lookup tml_stylistic_alternates_4 {
-#     sub tml_KI by tml_KI.alt;
-#     sub tml_CI by tml_CI.alt;
-#     sub tml_TI by tml_TI.alt;
-#     sub tml_KIi by tml_KIi.alt;
-#     sub tml_CIi by tml_CIi.alt;
-#     sub tml_TIi by tml_TIi.alt;
-# } tml_stylistic_alternates_4;
+lookup tml_stylistic_alternates_3 {
+    sub tml_Nna tml_MatraAi' by tml_MatraAi.alt;
+    sub tml_Nnna tml_MatraAi' by tml_MatraAi.alt;
+    sub tml_La tml_MatraAi' by tml_MatraAi.alt;
+    sub tml_Lla tml_MatraAi' by tml_MatraAi.alt;
+} tml_stylistic_alternates_3;
+
+lookup tml_stylistic_alternates_4 {
+    sub tml_Ka tml_MatraI' by tml_MatraI.stylalt1;
+    sub tml_Ca tml_MatraI' by tml_MatraI.stylalt1;
+    sub tml_Ta tml_MatraI' by tml_MatraI.stylalt1;
+    sub tml_Ka tml_MatraIi' by tml_MatraIi.stylalt1;
+    sub tml_Ca tml_MatraIi' by tml_MatraIi.stylalt1;
+    sub tml_Ta tml_MatraIi' by tml_MatraIi.stylalt1;
+} tml_stylistic_alternates_4;
 
 ##--------------- Features ---------------##
 
@@ -1037,11 +1037,11 @@ feature abvs {
       lookup si_abvs_6;
       lookup si_abvs_7;
   script taml;
-    #   lookup tml_above_base_sub_1;
-    #   lookup tml_above_base_sub_2;
+      lookup tml_above_base_sub_1;
+      lookup tml_above_base_sub_2;
   script tml2;
-    #   lookup tml_above_base_sub_1;
-    #   lookup tml_above_base_sub_2;
+      lookup tml_above_base_sub_1;
+      lookup tml_above_base_sub_2;
 } abvs;
 
 #-------------
@@ -1083,8 +1083,29 @@ feature abvm {
     script sinh;
     script taml;
     lookup MARK_BASE_virama;
+    lookup MARK_BASE_MatraAi.alt;
+    lookup MARK_BASE_MatraI.alt1;
+    lookup MARK_BASE_MatraI.alt2;
+    lookup MARK_BASE_MatraI.alt3;
+    lookup MARK_BASE_MatraI.alt4;
+    lookup MARK_BASE_MatraI.alt5;
+    lookup MARK_BASE_MatraI.alt6;
+    lookup MARK_BASE_MatraIi;
+    lookup MARK_BASE_MatraIi.alt1;
+    lookup MARK_BASE_MatraIi.alt2;
+    lookup MARK_BASE_MatraIi.stylalt1;
     script tml2;
     lookup MARK_BASE_virama;
+    lookup MARK_BASE_MatraAi.alt;
+    lookup MARK_BASE_MatraI.alt1;
+    lookup MARK_BASE_MatraI.alt2;
+    lookup MARK_BASE_MatraI.alt3;
+    lookup MARK_BASE_MatraI.alt4;
+    lookup MARK_BASE_MatraI.alt5;
+    lookup MARK_BASE_MatraI.alt6;
+    lookup MARK_BASE_MatraIi.alt1;
+    lookup MARK_BASE_MatraIi.alt2;
+    lookup MARK_BASE_MatraIi.stylalt1;
 } abvm;
 
 feature blwm {
@@ -1093,26 +1114,26 @@ feature blwm {
 
 #-------------
 
-# feature salt {
-#     script taml;
-#         lookup tml_stylistic_alternates_1;
+feature salt {
+    script taml;
+        lookup tml_stylistic_alternates_1;
 #         lookup tml_stylistic_alternates_2;
-#         lookup tml_stylistic_alternates_3;
-#         lookup tml_stylistic_alternates_4;
-#     script tml2;
-#         lookup tml_stylistic_alternates_1;
+        lookup tml_stylistic_alternates_3;
+        lookup tml_stylistic_alternates_4;
+    script tml2;
+        lookup tml_stylistic_alternates_1;
 #         lookup tml_stylistic_alternates_2;
-#         lookup tml_stylistic_alternates_3;
-#         lookup tml_stylistic_alternates_4;
-# } salt;
-#
-# feature ss01 {
-#   script taml;
-#      lookup tml_stylistic_alternates_1;
-#   script tml2;
-#      lookup tml_stylistic_alternates_1;
-# } ss01;
-#
+        lookup tml_stylistic_alternates_3;
+        lookup tml_stylistic_alternates_4;
+} salt;
+
+feature ss01 {
+  script taml;
+     lookup tml_stylistic_alternates_1;
+  script tml2;
+     lookup tml_stylistic_alternates_1;
+} ss01;
+
 # #-------------
 #
 # feature ss02 {
