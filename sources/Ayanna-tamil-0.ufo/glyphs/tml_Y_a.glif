@@ -4,6 +4,12 @@
   <unicode hex="0BAF"/>
   <outline>
     <contour>
+      <point x="596" y="560" type="move" name="MatraIi"/>
+    </contour>
+    <contour>
+      <point x="577" y="500" type="move" name="MatraI.alt3"/>
+    </contour>
+    <contour>
       <point x="313" y="0" type="move" name="virama"/>
     </contour>
     <contour>

@@ -3,6 +3,9 @@
   <advance width="600"/>
   <outline>
     <contour>
+      <point x="175" y="304" type="move" name="_MatraI.stylalt1"/>
+    </contour>
+    <contour>
       <point x="149" y="268" type="line"/>
       <point x="104" y="295"/>
       <point x="33" y="345"/>
@@ -13,8 +16,8 @@
       <point x="658" y="800"/>
       <point x="797" y="642"/>
       <point x="797" y="359" type="curve"/>
-      <point x="797" y="-13" type="line"/>
-      <point x="755" y="-13" type="line"/>
+      <point x="797" y="0" type="line"/>
+      <point x="755" y="0" type="line"/>
       <point x="755" y="357" type="line"/>
       <point x="755" y="644"/>
       <point x="598" y="760"/>

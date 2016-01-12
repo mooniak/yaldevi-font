@@ -3,6 +3,9 @@
   <advance width="528"/>
   <outline>
     <contour>
+      <point x="420" y="244" type="move" name="_MatraAi.alt"/>
+    </contour>
+    <contour>
       <point x="342" y="800"/>
       <point x="439" y="724"/>
       <point x="439" y="566" type="curve" smooth="yes"/>

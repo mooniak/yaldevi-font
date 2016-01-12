@@ -4,6 +4,9 @@
   <unicode hex="0BC0"/>
   <outline>
     <contour>
+      <point x="197" y="560" type="move" name="_MatraIi"/>
+    </contour>
+    <contour>
       <point x="197" y="467" type="line" smooth="yes"/>
       <point x="130" y="467"/>
       <point x="18" y="519"/>
