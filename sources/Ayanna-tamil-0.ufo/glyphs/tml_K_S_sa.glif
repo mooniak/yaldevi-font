@@ -3,62 +3,13 @@
   <advance width="1402"/>
   <outline>
     <contour>
-      <point x="738" y="0" type="move" name="virama"/>
-    </contour>
-    <contour>
-      <point x="548" y="-20"/>
-      <point x="500" y="86"/>
-      <point x="500" y="237" type="curve" smooth="yes"/>
-      <point x="500" y="434"/>
-      <point x="581" y="571"/>
-      <point x="725" y="571" type="curve" smooth="yes"/>
-      <point x="839" y="571"/>
-      <point x="933" y="475"/>
-      <point x="933" y="280" type="curve" smooth="yes"/>
-      <point x="933" y="174"/>
-      <point x="903" y="84"/>
-      <point x="871" y="1" type="curve"/>
-      <point x="837" y="34" type="line"/>
-      <point x="851" y="63"/>
-      <point x="890" y="169"/>
-      <point x="890" y="281" type="curve" smooth="yes"/>
-      <point x="890" y="428"/>
-      <point x="829" y="531"/>
-      <point x="727" y="531" type="curve" smooth="yes"/>
-      <point x="608" y="531"/>
-      <point x="541" y="407"/>
-      <point x="541" y="238" type="curve" smooth="yes"/>
-      <point x="541" y="151"/>
-      <point x="559" y="22"/>
-      <point x="643" y="22" type="curve" smooth="yes"/>
-      <point x="701" y="22"/>
-      <point x="734" y="84"/>
-      <point x="734" y="172" type="curve" smooth="yes"/>
-      <point x="734" y="265"/>
-      <point x="697" y="314"/>
-      <point x="644" y="314" type="curve" smooth="yes"/>
-      <point x="578" y="314"/>
-      <point x="541" y="236"/>
-      <point x="548" y="148" type="curve"/>
-      <point x="514" y="168" type="line"/>
-      <point x="515" y="290"/>
-      <point x="577" y="354"/>
-      <point x="647" y="354" type="curve" smooth="yes"/>
-      <point x="714" y="354"/>
-      <point x="774" y="291"/>
-      <point x="774" y="171" type="curve" smooth="yes"/>
-      <point x="774" y="59"/>
-      <point x="722" y="-20"/>
-      <point x="641" y="-20" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
+      <point x="837" y="1" type="line"/>
       <point x="837" y="34" type="line"/>
       <point x="886" y="43" type="line"/>
       <point x="1330" y="43" type="line"/>
       <point x="1330" y="472" type="line"/>
       <point x="1372" y="472" type="line"/>
       <point x="1372" y="1" type="line"/>
-      <point x="837" y="1" type="line"/>
     </contour>
     <contour>
       <point x="1227" y="-146" type="line"/>
@@ -90,6 +41,51 @@
       <point x="1227" y="463"/>
       <point x="1227" y="438" type="curve" smooth="yes"/>
     </contour>
-    <component base="tml_Ca"/>
+    <contour>
+      <point x="555" y="-20"/>
+      <point x="485" y="46"/>
+      <point x="485" y="197" type="curve" smooth="yes"/>
+      <point x="485" y="374"/>
+      <point x="586" y="475"/>
+      <point x="720" y="475" type="curve" smooth="yes"/>
+      <point x="866" y="475"/>
+      <point x="938" y="373"/>
+      <point x="938" y="218" type="curve" smooth="yes"/>
+      <point x="938" y="105"/>
+      <point x="891" y="40"/>
+      <point x="875" y="13" type="curve"/>
+      <point x="837" y="34" type="line"/>
+      <point x="854" y="59"/>
+      <point x="897" y="117"/>
+      <point x="897" y="218" type="curve" smooth="yes"/>
+      <point x="897" y="335"/>
+      <point x="844" y="435"/>
+      <point x="722" y="435" type="curve" smooth="yes"/>
+      <point x="603" y="435"/>
+      <point x="526" y="337"/>
+      <point x="526" y="198" type="curve" smooth="yes"/>
+      <point x="526" y="111"/>
+      <point x="563" y="22"/>
+      <point x="647" y="22" type="curve" smooth="yes"/>
+      <point x="706" y="22"/>
+      <point x="734" y="78"/>
+      <point x="734" y="151" type="curve" smooth="yes"/>
+      <point x="734" y="273"/>
+      <point x="621" y="299"/>
+      <point x="547" y="299" type="curve" smooth="yes"/>
+      <point x="461" y="299" type="line"/>
+      <point x="461" y="341" type="line"/>
+      <point x="552" y="341" type="line" smooth="yes"/>
+      <point x="655" y="341"/>
+      <point x="774" y="296"/>
+      <point x="774" y="150" type="curve" smooth="yes"/>
+      <point x="774" y="46"/>
+      <point x="728" y="-20"/>
+      <point x="645" y="-20" type="curve" smooth="yes"/>
+    </contour>
+    <component base="tml_Ca" xOffset="15"/>
+    <contour>
+      <point x="738" y="0" type="move" name="virama"/>
+    </contour>
   </outline>
 </glyph>
