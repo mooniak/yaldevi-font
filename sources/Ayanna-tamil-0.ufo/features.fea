@@ -1,10 +1,7 @@
+# Prefix: Prefix
 languagesystem DFLT dflt;
 languagesystem taml dflt;
-
-
 # GPOS 
-
-
 lookup abvmAboveBaseMarkinTamillookup0 {
   lookupflag 0;
   markClass [\tml_MatraIi.alt3 ] <anchor 193 543> @MatraIi.alt3;
@@ -90,17 +87,6 @@ lookup abvmAboveBaseMarkinTamillookup0 {
 	<anchor 313 0> mark @virama;
 } abvmAboveBaseMarkinTamillookup0;
 
-feature abvm {
-
- script DFLT;
-     language dflt ;
-      lookup abvmAboveBaseMarkinTamillookup0;
-
- script taml;
-     language dflt ;
-      lookup abvmAboveBaseMarkinTamillookup0;
-} abvm;
-
 @GDEF_Simple = [\newGlyph.001 \space \tml_A \tml_A.001 \tml_Aa \tml_Above \tml_Ai 
 	\tml_Anusvara \tml_Au \tml_AuLengthmark \tml_CU \tml_CUu \tml_Ca \tml_Credit 
 	\tml_Day \tml_Debit \tml_E \tml_Ee \tml_Eight \tml_Five \tml_Four \tml_Ha 
@@ -127,4 +113,14 @@ table GDEF {
   GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
 
 } GDEF;
+
+feature abvm {
+ script DFLT;
+     language dflt ;
+      lookup abvmAboveBaseMarkinTamillookup0;
+
+ script taml;
+     language dflt ;
+      lookup abvmAboveBaseMarkinTamillookup0;
+} abvm;
 
