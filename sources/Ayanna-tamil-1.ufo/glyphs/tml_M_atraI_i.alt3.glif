@@ -3,6 +3,9 @@
   <advance width="600"/>
   <outline>
     <contour>
+      <point x="226" y="542" type="move" name="_MatraIi.alt3"/>
+    </contour>
+    <contour>
       <point x="145" y="470"/>
       <point x="30" y="519"/>
       <point x="30" y="666" type="curve" smooth="yes"/>

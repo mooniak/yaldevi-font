@@ -3,6 +3,9 @@
   <advance width="600"/>
   <outline>
     <contour>
+      <point x="249" y="562" type="move" name="_MatraI.alt7"/>
+    </contour>
+    <contour>
       <point x="239" y="530" type="line"/>
       <point x="218" y="537"/>
       <point x="151" y="563"/>
