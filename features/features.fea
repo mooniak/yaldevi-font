@@ -925,7 +925,6 @@ lookup tml_post_base_sub_2 {
     sub tml_Ka tml_MatraUu by tml_KUu;
     sub tml_Nga tml_MatraUu by tml_NgUu;
     sub tml_Ca tml_MatraUu by tml_CUu;
-    #sub tml_Ja tml_MatraUu by tml_JUu;
     sub tml_Nya tml_MatraUu by tml_NyUu;
     sub tml_Tta tml_MatraUu by tml_TtUu;
     sub tml_Nna tml_MatraUu by tml_NnUu;
@@ -940,12 +939,10 @@ lookup tml_post_base_sub_2 {
     sub tml_La tml_MatraUu by tml_LUu;
     sub tml_Lla tml_MatraUu by tml_LlUu;
     sub tml_Llla tml_MatraUu by tml_LllUu;
-    #sub tml_Va tml_MatraUu by tml_VUu;
-    #sub tml_Sa tml_MatraUu by tml_SUu;
-    #sub tml_Sha tml_MatraUu by tml_ShUu;
-    #sub tml_Ssa tml_MatraUu by tml_SsUu;
-    #sub tml_Ha tml_MatraUu by tml_HUu;
-    #sub tml_KSsa tml_MatraUu by tml_KSsUu;
+    sub tml_Va tml_MatraUu by tml_VUu;
+    sub tml_Sa tml_MatraUu by tml_SUu;
+    sub tml_Ssa tml_MatraUu by tml_SsUu;
+    sub tml_KSsa tml_MatraUu by tml_KSsUu;
  } tml_post_base_sub_2;
 
 #---- SALT ----
