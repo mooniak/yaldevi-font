@@ -1,10 +1,7 @@
+# Prefix: Prefix
 languagesystem DFLT dflt;
 languagesystem taml dflt;
-
-
 # GPOS 
-
-
 lookup abvmAboveBaseMarkinTamillookup0 {
   lookupflag 0;
   markClass [\tml_MatraIi.alt3 ] <anchor 226 542> @MatraIi.alt3;
@@ -105,16 +102,6 @@ lookup abvmAboveBaseMarkinTamillookup0 {
 	<anchor 330 0> mark @virama;
 } abvmAboveBaseMarkinTamillookup0;
 
-feature abvm {
-
- script DFLT;
-     language dflt ;
-      lookup abvmAboveBaseMarkinTamillookup0;
-
- script taml;
-     language dflt ;
-      lookup abvmAboveBaseMarkinTamillookup0;
-} abvm;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\newGlyph.001 \space \tml_A \tml_A.001 \tml_Aa \tml_Above \tml_Ai 
@@ -142,4 +129,14 @@ table GDEF {
   GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
 
 } GDEF;
+
+feature abvm {
+ script DFLT;
+     language dflt ;
+      lookup abvmAboveBaseMarkinTamillookup0;
+
+ script taml;
+     language dflt ;
+      lookup abvmAboveBaseMarkinTamillookup0;
+} abvm;
 

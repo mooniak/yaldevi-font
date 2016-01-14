@@ -22,8 +22,8 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1452698728
-ModificationTime: 1452706685
+CreationTime: 1452715129
+ModificationTime: 1452716854
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -58,10 +58,11 @@ OS2XHeight: 0
 OS2Vendor: 'ACE '
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80108003.00002042.00000000.00000000
+Lookup: 260 0 0 "'blwm' Below Base Mark in Tamil lookup 1" { "'blwm' Below Base Mark in Tamil lookup 1-1"  } ['blwm' ('DFLT' <'dflt' > 'taml' <'dflt' > ) ]
 Lookup: 260 0 0 "abvmAboveBaseMarkinTamillookup0" { "abvmAboveBaseMarkinTamillookup0 subtable"  } ['abvm' ('taml' <'dflt' > 'DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "Licensed under the SIL Open Font License 1.1 (see file OFL.txt)" "" "" "" "" "Version 2.5.0" "" "" "" "" "" "" "" "" "" "" "ayanna-tamil" "regular"
+LangName: 1033 "+BY0ADQAA" "" "" "" "" "Version 2.5.0" "" "" "" "" "" "" "" "" "" "" "ayanna-tamil" "regular"
 PickledDataWithLists: "(dp1
 S'public.glyphOrder'
 p2
@@ -316,367 +317,373 @@ aS'tml_MatraIi.alt2'
 p127
 aS'newGlyph.001'
 p128
-aS'tml_MatraI.alt7'
-p129
-aS'tml_MatraI.alt8'
-p130
-aS'tml_MatraIi.alt3'
-p131
-aS'tml_Sa.alt'
-p132
 aS'tml_KSsU'
-p133
-aS'tml_SsU'
-p134
+p129
 aS'tml_KSsUu'
+p130
+aS'tml_MatraI.alt7'
+p131
+aS'tml_MatraI.alt8'
+p132
+aS'tml_MatraIi.alt3'
+p133
+aS'tml_Sa.alt'
+p134
+aS'tml_SsU'
 p135
 aS'tml_SsUu'
 p136
-aS'tml_SU'
-p137
 aS'tml_SUu'
+p137
+aS'tml_SU'
 p138
-asS'com.typemytype.robofont.guides'
+aS'tml_VUu'
 p139
-(lp140
-(dp141
+aS'tml_RI.alt'
+p140
+aS'tml_RIi.alt'
+p141
+asS'com.typemytype.robofont.guides'
+p142
+(lp143
+(dp144
 S'y'
 I573
 sS'x'
 I279
 sS'angle'
-p142
+p145
 I0
 sS'isGlobal'
-p143
+p146
 I01
-sa(dp144
+sa(dp147
 S'y'
 I461
 sS'x'
 I223
-sg142
+sg145
 I0
-sg143
+sg146
 I01
-sa(dp145
+sa(dp148
 S'y'
 I-13
 sS'x'
 I1169
-sg142
+sg145
 I0
-sg143
+sg146
 I01
-sa(dp146
+sa(dp149
 S'y'
 I-267
 sS'x'
 I861
-sg142
+sg145
 I0
-sg143
+sg146
 I01
-sa(dp147
+sa(dp150
 S'y'
 I-350
 sS'x'
 I742
-sg142
+sg145
 I0
-sg143
+sg146
 I01
-sa(dp148
+sa(dp151
 S'y'
 I404
 sS'x'
 I1427
-sg142
+sg145
 I0
-sg143
+sg146
 I01
-sa(dp149
+sa(dp152
 S'y'
 I560
 sS'x'
 I813
-sg142
+sg145
 I0
-sg143
+sg146
 I01
 sasS'com.schriftgestaltung.fontMasterID'
-p150
+p153
 S'A6FF5082-DE18-4D2D-8E01-54AF1261B41D'
-p151
-sS'GSDimensionPlugin.Dimensions'
-p152
-(dp153
-S'E14DABE6-6E32-45CC-852E-073741854548'
 p154
-(dp155
+sS'GSDimensionPlugin.Dimensions'
+p155
+(dp156
+S'E14DABE6-6E32-45CC-852E-073741854548'
+p157
+(dp158
 sS'A6FF5082-DE18-4D2D-8E01-54AF1261B41D'
-p156
-(dp157
+p159
+(dp160
 ssS'com.schriftgestaltung.useNiceNames'
-p158
+p161
 I0
 sS'com.schriftgestaltung.glyphOrder'
-p159
-(lp160
-S'tml_A'
-p161
-aS'tml_Aa'
 p162
-aS'tml_I'
-p163
-aS'tml_Ii'
+(lp163
+S'tml_A'
 p164
-aS'tml_U'
+aS'tml_Aa'
 p165
-aS'tml_Uu'
+aS'tml_I'
 p166
-aS'tml_E'
+aS'tml_Ii'
 p167
-aS'tml_Ee'
+aS'tml_U'
 p168
-aS'tml_Ai'
+aS'tml_Uu'
 p169
-aS'tml_O'
+aS'tml_E'
 p170
-aS'tml_Oo'
+aS'tml_Ee'
 p171
-aS'tml_Au'
+aS'tml_Ai'
 p172
-aS'tml_Ka'
+aS'tml_O'
 p173
-aS'tml_Nga'
+aS'tml_Oo'
 p174
-aS'tml_Ca'
+aS'tml_Au'
 p175
-aS'tml_Ja'
+aS'tml_Ka'
 p176
-aS'tml_Nya'
+aS'tml_Nga'
 p177
-aS'tml_Tta'
+aS'tml_Ca'
 p178
-aS'tml_Nna'
+aS'tml_Ja'
 p179
-aS'tml_Ta'
+aS'tml_Nya'
 p180
-aS'tml_Na'
+aS'tml_Tta'
 p181
-aS'tml_Nnna'
+aS'tml_Nna'
 p182
-aS'tml_Pa'
+aS'tml_Ta'
 p183
-aS'tml_Ma'
+aS'tml_Na'
 p184
-aS'tml_Ya'
+aS'tml_Nnna'
 p185
-aS'tml_Ra'
+aS'tml_Pa'
 p186
-aS'tml_Rra'
+aS'tml_Ma'
 p187
-aS'tml_La'
+aS'tml_Ya'
 p188
-aS'tml_Lla'
+aS'tml_Ra'
 p189
-aS'tml_Llla'
+aS'tml_Rra'
 p190
-aS'tml_Va'
+aS'tml_La'
 p191
-aS'tml_Sha'
+aS'tml_Lla'
 p192
-aS'tml_Ssa'
+aS'tml_Llla'
 p193
-aS'tml_Sa'
+aS'tml_Va'
 p194
-aS'tml_Ha'
+aS'tml_Sha'
 p195
-aS'tml_Om'
+aS'tml_Ssa'
 p196
-aS'tml_Visarga'
+aS'tml_Sa'
 p197
-aS'tml_Ten'
+aS'tml_Ha'
 p198
-aS'tml_Hundred'
+aS'tml_Om'
 p199
-aS'tml_Thousand'
+aS'tml_Visarga'
 p200
-aS'tml_Zero'
+aS'tml_Ten'
 p201
-aS'tml_One'
+aS'tml_Hundred'
 p202
-aS'tml_Two'
+aS'tml_Thousand'
 p203
-aS'tml_Three'
+aS'tml_Zero'
 p204
-aS'tml_Four'
+aS'tml_One'
 p205
-aS'tml_Five'
+aS'tml_Two'
 p206
-aS'tml_Six'
+aS'tml_Three'
 p207
-aS'tml_Seven'
+aS'tml_Four'
 p208
-aS'tml_Eight'
+aS'tml_Five'
 p209
-aS'tml_Nine'
+aS'tml_Six'
 p210
-aS'space'
+aS'tml_Seven'
 p211
-aS'tml_Rupee'
+aS'tml_Eight'
 p212
-aS'tml_Day'
+aS'tml_Nine'
 p213
-aS'tml_Month'
+aS'space'
 p214
-aS'tml_Year'
+aS'tml_Rupee'
 p215
-aS'tml_Debit'
+aS'tml_Day'
 p216
-aS'tml_Credit'
+aS'tml_Month'
 p217
-aS'tml_Above'
+aS'tml_Year'
 p218
-aS'tml_Number'
+aS'tml_Debit'
 p219
-aS'tml_MatraIi'
+aS'tml_Credit'
 p220
-aS'tml_Virama'
+aS'tml_Above'
 p221
-aS'tml_Anusvara'
+aS'tml_Number'
 p222
-aS'tml_MatraAa'
+aS'tml_MatraIi'
 p223
-aS'tml_MatraI'
+aS'tml_Virama'
 p224
-aS'tml_MatraU'
+aS'tml_Anusvara'
 p225
-aS'tml_MatraUu'
+aS'tml_MatraAa'
 p226
-aS'tml_MatraE'
+aS'tml_MatraI'
 p227
-aS'tml_MatraEe'
+aS'tml_MatraU'
 p228
-aS'tml_MatraAi'
+aS'tml_MatraUu'
 p229
-aS'tml_MatraO'
+aS'tml_MatraE'
 p230
-aS'tml_MatraOo'
+aS'tml_MatraEe'
 p231
-aS'tml_MatraAu'
+aS'tml_MatraAi'
 p232
-aS'tml_AuLengthmark'
+aS'tml_MatraO'
 p233
-aS'tml_CUu'
+aS'tml_MatraOo'
 p234
-aS'tml_CU'
+aS'tml_MatraAu'
 p235
-aS'tml_KSsa'
+aS'tml_AuLengthmark'
 p236
-aS'tml_KU'
+aS'tml_CUu'
 p237
-aS'tml_KUu'
+aS'tml_CU'
 p238
-aS'tml_LllU'
+aS'tml_KSsa'
 p239
-aS'tml_LllUu'
+aS'tml_KU'
 p240
-aS'tml_LlUu'
+aS'tml_KUu'
 p241
-aS'tml_LlU'
+aS'tml_LllU'
 p242
-aS'tml_LU'
+aS'tml_LllUu'
 p243
-aS'tml_LUu'
+aS'tml_LlUu'
 p244
-aS'tml_MatraAi.alt'
+aS'tml_LlU'
 p245
-aS'tml_MatraI.alt1'
+aS'tml_LU'
 p246
-aS'tml_MatraI.alt2'
+aS'tml_LUu'
 p247
-aS'tml_MatraI.alt3'
+aS'tml_MatraAi.alt'
 p248
-aS'tml_MatraI.alt4'
+aS'tml_MatraI.alt1'
 p249
-aS'tml_MatraI.alt5'
+aS'tml_MatraI.alt2'
 p250
-aS'tml_MatraI.alt6'
+aS'tml_MatraI.alt3'
 p251
-aS'tml_MatraI.stylalt1'
+aS'tml_MatraI.alt4'
 p252
-aS'tml_MatraIi.alt1'
+aS'tml_MatraI.alt5'
 p253
-aS'tml_MatraU.alt1'
+aS'tml_MatraI.alt6'
 p254
-aS'tml_MatraIi.stylalt1'
+aS'tml_MatraI.stylalt1'
 p255
-aS'tml_MU'
+aS'tml_MatraIi.alt1'
 p256
-aS'tml_MUu'
+aS'tml_MatraU.alt1'
 p257
-aS'tml_NgUu'
+aS'tml_MatraIi.stylalt1'
 p258
-aS'tml_NnAa.alt'
+aS'tml_MU'
 p259
-aS'tml_NnnAa.alt'
+aS'tml_MUu'
 p260
-aS'tml_NnnUu'
+aS'tml_NgUu'
 p261
-aS'tml_NnnU'
+aS'tml_NnAa.alt'
 p262
-aS'tml_NnU'
+aS'tml_NnnAa.alt'
 p263
-aS'tml_NnUu'
+aS'tml_NnnUu'
 p264
-aS'tml_NU'
+aS'tml_NnnU'
 p265
-aS'tml_NUu'
+aS'tml_NnU'
 p266
-aS'tml_NyUu'
+aS'tml_NnUu'
 p267
-aS'tml_NyU'
+aS'tml_NU'
 p268
-aS'tml_PUu'
+aS'tml_NUu'
 p269
-aS'tml_RrAa.alt'
+aS'tml_NyUu'
 p270
-aS'tml_RrUu'
+aS'tml_NyU'
 p271
-aS'tml_RrU'
+aS'tml_PUu'
 p272
-aS'tml_RU'
+aS'tml_RrAa.alt'
 p273
-aS'tml_RUu'
+aS'tml_RrUu'
 p274
-aS'tml_Shree'
+aS'tml_RrU'
 p275
-aS'tml_TtI'
+aS'tml_RU'
 p276
-aS'tml_TtU'
+aS'tml_RUu'
 p277
-aS'tml_TtIi'
+aS'tml_Shree'
 p278
-aS'tml_TU'
+aS'tml_TtI'
 p279
-aS'tml_TUu'
+aS'tml_TtU'
 p280
-aS'tml_TtUu'
+aS'tml_TtIi'
 p281
-aS'tml_YUu'
+aS'tml_TU'
 p282
-aS'tml_A.001'
+aS'tml_TUu'
 p283
-aS'tml_MatraIi.alt2'
+aS'tml_TtUu'
 p284
-aS'newGlyph.001'
+aS'tml_YUu'
 p285
-asS'com.schriftgestaltung.weight'
+aS'tml_A.001'
 p286
-S'Bold'
+aS'tml_MatraIi.alt2'
 p287
+aS'newGlyph.001'
+p288
+asS'com.schriftgestaltung.weight'
+p289
+S'Bold'
+p290
 s."
 Encoding: Custom
 UnicodeInterp: none
@@ -684,18 +691,14 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 72 9 7
+WinInfo: 50 10 9
 BeginPrivate: 3
 BlueShift 1 0
 StemSnapH 13 [34 35 36 64]
 StemSnapV 21 [8 10 34 35 36 37 64]
 EndPrivate
-Grid
--1000 581.999982655 m 0
- 2000 581.999982655 l 1024
-EndSplineSet
-AnchorClass2: "MatraIi.alt3" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt8" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt7" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt4" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt3" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt6" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.alt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt5" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.alt2" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraAi.alt" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.stylalt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt2" "abvmAboveBaseMarkinTamillookup0 subtable" "virama" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.stylalt1" "abvmAboveBaseMarkinTamillookup0 subtable" 
-BeginChars: 135 135
+AnchorClass2: "MatraUu" "'blwm' Below Base Mark in Tamil lookup 1-1" "MatraU.alt1" "'blwm' Below Base Mark in Tamil lookup 1-1" "MatraU" "'blwm' Below Base Mark in Tamil lookup 1-1" "MatraIi.alt3" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt4" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt3" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt5" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.alt2" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraAi.alt" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt8" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt7" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt6" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.alt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.stylalt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt2" "abvmAboveBaseMarkinTamillookup0 subtable" "virama" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.stylalt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi" "abvmAboveBaseMarkinTamillookup0 subtable" 
+BeginChars: 138 138
 
 StartChar: newGlyph.001
 Encoding: 0 -1 0
@@ -1131,8 +1134,8 @@ Width: 558
 VWidth: 0
 GlyphClass: 2
 Flags: W
-AnchorPoint: "MatraI.stylalt1" 111 275 basechar 0
 AnchorPoint: "MatraIi" 473 560 basechar 0
+AnchorPoint: "MatraI.stylalt1" 111 275 basechar 0
 AnchorPoint: "virama" 372 0 basechar 0
 AnchorPoint: "MatraI.alt2" 453 560 basechar 0
 AnchorPoint: "MatraIi.stylalt1" 115 280 basechar 0
@@ -1408,6 +1411,8 @@ Width: 1253
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "MatraU" 1014 573 basechar 0
+AnchorPoint: "MatraUu" 1014 573 basechar 0
 AnchorPoint: "MatraIi.alt1" 1106 552 basechar 0
 AnchorPoint: "MatraI.alt6" 1106 553 basechar 0
 AnchorPoint: "virama" 630 0 basechar 0
@@ -1597,7 +1602,9 @@ GlifName: tml_J_a
 Width: 757
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+AnchorPoint: "MatraU" 537 581 basechar 0
+AnchorPoint: "MatraUu" 537 581 basechar 0
 AnchorPoint: "MatraIi.alt1" 635 554 basechar 0
 AnchorPoint: "MatraI.alt7" 635 554 basechar 0
 AnchorPoint: "virama" 384 0 basechar 0
@@ -1627,7 +1634,6 @@ SplineSet
  579 -48 599 -31 599 -7 c 256
  599 16 579 33 552 33 c 256
  456 33 410 -155 219 -155 c 256
-  PathStart: -2
 139 234 m 256
  62 234 18 289 18 384 c 256
  19 518 108 584 216 582 c 256
@@ -1644,7 +1650,6 @@ SplineSet
  45 412 73 495 143 495 c 256
  184 495 260 467 260 363 c 256
  260 273 203 234 139 234 c 256
-  PathStart: -2
 EndSplineSet
 EndChar
 
@@ -1653,6 +1658,7 @@ Encoding: 26 -1 26
 GlifName: tml_K_S_sU_
 Width: 1838
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1683,6 +1689,7 @@ Encoding: 27 -1 27
 GlifName: tml_K_S_sU_u
 Width: 2004
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -1858,8 +1865,8 @@ Width: 641
 VWidth: 0
 GlyphClass: 2
 Flags: W
-AnchorPoint: "MatraI.stylalt1" 120 275 basechar 0
 AnchorPoint: "MatraIi" 463 560 basechar 0
+AnchorPoint: "MatraI.stylalt1" 120 275 basechar 0
 AnchorPoint: "virama" 368 0 basechar 0
 AnchorPoint: "MatraIi.stylalt1" 124 280 basechar 0
 AnchorPoint: "MatraI.alt1" 438 560 basechar 0
@@ -1956,10 +1963,10 @@ GlifName: tml_L_a
 Width: 772
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
+AnchorPoint: "virama" 410 0 basechar 0
 AnchorPoint: "MatraAi.alt" 32 244 basechar 0
 AnchorPoint: "MatraIi.alt2" 624 584 basechar 0
-AnchorPoint: "virama" 410 0 basechar 0
 AnchorPoint: "MatraI.alt5" 606 573 basechar 0
 LayerCount: 2
 Back
@@ -2964,7 +2971,8 @@ Encoding: 57 -1 57
 GlifName: tml_M_atraI_.alt7
 Width: 600
 VWidth: 0
-Flags: HW
+GlyphClass: 4
+Flags: W
 AnchorPoint: "MatraI.alt7" 185 554 mark 0
 LayerCount: 2
 Back
@@ -2989,6 +2997,7 @@ Encoding: 58 -1 58
 GlifName: tml_M_atraI_.alt8
 Width: 600
 VWidth: 0
+GlyphClass: 4
 Flags: W
 AnchorPoint: "MatraI.alt8" 157 510 mark 0
 LayerCount: 2
@@ -3148,6 +3157,7 @@ Encoding: 63 -1 63
 GlifName: tml_M_atraI_i.alt3
 Width: 600
 VWidth: 0
+GlyphClass: 4
 Flags: W
 AnchorPoint: "MatraIi.alt3" 226 542 mark 0
 LayerCount: 2
@@ -3240,6 +3250,7 @@ Width: 388
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "MatraU" -170 560 mark 0
 LayerCount: 2
 Back
 Fore
@@ -3267,15 +3278,16 @@ GlifName: tml_M_atraU_.alt1
 Width: 169
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+AnchorPoint: "MatraU.alt1" 30 33 mark 0
 LayerCount: 2
 Back
 Fore
 SplineSet
 30 -153 m 257
- 30 32 l 257
+ 30 33 l 257
  139 33 l 257
- 139 -153 l 257
+ 139 -153 l 261
  30 -153 l 257
 EndSplineSet
 EndChar
@@ -3286,7 +3298,8 @@ GlifName: tml_M_atraU_u
 Width: 549
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+AnchorPoint: "MatraUu" -181 560 mark 0
 LayerCount: 2
 Back
 Fore
@@ -3305,8 +3318,8 @@ SplineSet
  143 351 164 316 200 316 c 256
  226 316 241 344 241 385 c 256
  241 433 218 462 162 462 c 258
- -171 462 l 257
- -171 560 l 257
+ -181 462 l 261
+ -181 560 l 261
  134 560 l 257
  175 550 l 257
 EndSplineSet
@@ -3522,6 +3535,7 @@ Width: 750
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "MatraU.alt1" 611 33 basechar 0
 AnchorPoint: "MatraIi" 663 560 basechar 0
 AnchorPoint: "MatraI.alt4" 639 560 basechar 0
 AnchorPoint: "virama" 350 0 basechar 0
@@ -4363,6 +4377,7 @@ Width: 510
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "MatraU.alt1" 371 33 basechar 0
 AnchorPoint: "MatraIi" 442 560 basechar 0
 AnchorPoint: "MatraI.alt3" 372 530 basechar 0
 AnchorPoint: "virama" 262 0 basechar 0
@@ -4382,8 +4397,58 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tml_RU
+StartChar: tml_RI.alt
 Encoding: 95 -1 95
+GlifName: tml_R_I_.alt
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+71 1 m 257
+ 71 560 l 257
+ 550 560 l 257
+ 550 462 l 257
+ 447 462 l 257
+ 447 1 l 257
+ 339 1 l 257
+ 339 462 l 257
+ 178 462 l 257
+ 178 1 l 257
+ 71 1 l 257
+EndSplineSet
+Refer: 52 -1 N 1 0 0 1 300 0 2
+EndChar
+
+StartChar: tml_RIi.alt
+Encoding: 96 -1 96
+GlifName: tml_R_I_i.alt
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+71 1 m 257
+ 71 560 l 257
+ 550 560 l 257
+ 550 462 l 257
+ 447 462 l 257
+ 447 1 l 257
+ 339 1 l 257
+ 339 462 l 257
+ 178 462 l 257
+ 178 1 l 257
+ 71 1 l 257
+EndSplineSet
+Refer: 60 3008 N 1 0 0 1 290 0 2
+EndChar
+
+StartChar: tml_RU
+Encoding: 97 -1 97
 GlifName: tml_R_U_
 Width: 944
 VWidth: 0
@@ -4421,7 +4486,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_RUu
-Encoding: 96 -1 96
+Encoding: 98 -1 98
 GlifName: tml_R_U_u
 Width: 529
 VWidth: 0
@@ -4467,7 +4532,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Ra
-Encoding: 97 2992 97
+Encoding: 99 2992 99
 GlifName: tml_R_a
 Width: 549
 VWidth: 0
@@ -4500,7 +4565,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_RrAa.alt
-Encoding: 98 -1 98
+Encoding: 100 -1 100
 GlifName: tml_R_rA_a.alt
 Width: 907
 VWidth: 0
@@ -4548,7 +4613,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_RrU
-Encoding: 99 -1 99
+Encoding: 101 -1 101
 GlifName: tml_R_rU_
 Width: 875
 VWidth: 0
@@ -4595,7 +4660,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_RrUu
-Encoding: 100 -1 100
+Encoding: 102 -1 102
 GlifName: tml_R_rU_u
 Width: 1180
 VWidth: 0
@@ -4615,11 +4680,11 @@ SplineSet
  828 560 l 257
  1150 560 l 257
 EndSplineSet
-Refer: 99 -1 N 1 0 0 1 0 0 2
+Refer: 101 -1 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tml_Rra
-Encoding: 101 2993 101
+Encoding: 103 2993 103
 GlifName: tml_R_ra
 Width: 689
 VWidth: 0
@@ -4665,7 +4730,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Rupee
-Encoding: 102 3065 102
+Encoding: 104 3065 104
 GlifName: tml_R_upee
 Width: 932
 VWidth: 0
@@ -4715,10 +4780,11 @@ EndSplineSet
 EndChar
 
 StartChar: tml_SU
-Encoding: 103 -1 103
+Encoding: 105 -1 105
 GlifName: tml_S_U_
 Width: 1368
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4776,10 +4842,11 @@ EndSplineSet
 EndChar
 
 StartChar: tml_SUu
-Encoding: 104 -1 104
+Encoding: 106 -1 106
 GlifName: tml_S_U_u
 Width: 1528
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -4841,12 +4908,12 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Sa
-Encoding: 105 3000 105
+Encoding: 107 3000 107
 GlifName: tml_S_a
 Width: 1004
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 AnchorPoint: "virama" 450 0 basechar 0
 LayerCount: 2
 Back
@@ -4890,13 +4957,14 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Sa.alt
-Encoding: 106 -1 106
+Encoding: 108 -1 108
 GlifName: tml_S_a.alt
 Width: 1143
 VWidth: 0
-Flags: HW
-AnchorPoint: "MatraIi.alt2" 896 584 basechar 0
+GlyphClass: 2
+Flags: W
 AnchorPoint: "MatraI.alt5" 876 572 basechar 0
+AnchorPoint: "MatraIi.alt2" 896 584 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -4937,7 +5005,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Seven
-Encoding: 107 3053 107
+Encoding: 109 3053 109
 GlifName: tml_S_even
 Width: 571
 VWidth: 0
@@ -4968,15 +5036,17 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Sha
-Encoding: 108 2998 108
+Encoding: 110 2998 110
 GlifName: tml_S_ha
 Width: 776
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
+AnchorPoint: "MatraU" 560 560 basechar 0
+AnchorPoint: "MatraUu" 560 560 basechar 0
+AnchorPoint: "virama" 390 0 basechar 0
 AnchorPoint: "MatraIi.alt3" 651 542 basechar 0
 AnchorPoint: "MatraI.alt1" 596 558 basechar 0
-AnchorPoint: "virama" 390 0 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -5013,7 +5083,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Shree
-Encoding: 109 -1 109
+Encoding: 111 -1 111
 GlifName: tml_S_hree
 Width: 1418
 VWidth: 0
@@ -5084,7 +5154,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Six
-Encoding: 110 3052 110
+Encoding: 112 3052 112
 GlifName: tml_S_ix
 Width: 897
 VWidth: 0
@@ -5133,10 +5203,11 @@ EndSplineSet
 EndChar
 
 StartChar: tml_SsU
-Encoding: 111 -1 111
+Encoding: 113 -1 113
 GlifName: tml_S_sU_
 Width: 1398
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -5159,14 +5230,15 @@ SplineSet
  1248 560 1358 539 1358 385 c 256
   PathStart: -2
 EndSplineSet
-Refer: 113 2999 N 1 0 0 1 10 0 2
+Refer: 115 2999 N 1 0 0 1 10 0 2
 EndChar
 
 StartChar: tml_SsUu
-Encoding: 112 -1 112
+Encoding: 114 -1 114
 GlifName: tml_S_sU_u
 Width: 1564
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -5193,16 +5265,16 @@ SplineSet
  1154 560 l 257
  1195 550 l 257
 EndSplineSet
-Refer: 113 2999 N 1 0 0 1 10 0 2
+Refer: 115 2999 N 1 0 0 1 10 0 2
 EndChar
 
 StartChar: tml_Ssa
-Encoding: 113 2999 113
+Encoding: 115 2999 115
 GlifName: tml_S_sa
 Width: 1037
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 AnchorPoint: "MatraIi.alt1" 765 552 basechar 0
 AnchorPoint: "MatraI.alt8" 803 510 basechar 0
 AnchorPoint: "virama" 550 0 basechar 0
@@ -5253,7 +5325,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_TU
-Encoding: 114 -1 114
+Encoding: 116 -1 116
 GlifName: tml_T_U_
 Width: 800
 VWidth: 0
@@ -5852,7 +5924,7 @@ sss."
 EndChar
 
 StartChar: tml_TUu
-Encoding: 115 -1 115
+Encoding: 117 -1 117
 GlifName: tml_T_U_u
 Width: 1105
 VWidth: 0
@@ -5872,18 +5944,18 @@ SplineSet
  975 -13 l 257
  868 -13 l 257
 EndSplineSet
-Refer: 114 -1 N 1 0 0 1 0 0 2
+Refer: 116 -1 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tml_Ta
-Encoding: 116 2980 116
+Encoding: 118 2980 118
 GlifName: tml_T_a
 Width: 633
 VWidth: 0
 GlyphClass: 2
 Flags: W
-AnchorPoint: "MatraI.stylalt1" 115 275 basechar 0
 AnchorPoint: "MatraIi" 463 560 basechar 0
+AnchorPoint: "MatraI.stylalt1" 115 275 basechar 0
 AnchorPoint: "virama" 368 0 basechar 0
 AnchorPoint: "MatraIi.stylalt1" 118 280 basechar 0
 AnchorPoint: "MatraI.alt1" 438 560 basechar 0
@@ -5924,7 +5996,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Ten
-Encoding: 117 3056 117
+Encoding: 119 3056 119
 GlifName: tml_T_en
 Width: 719
 VWidth: 0
@@ -5960,7 +6032,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Thousand
-Encoding: 118 3058 118
+Encoding: 120 3058 120
 GlifName: tml_T_housand
 Width: 925
 VWidth: 0
@@ -6002,7 +6074,7 @@ Refer: 12 2970 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tml_Three
-Encoding: 119 3049 119
+Encoding: 121 3049 121
 GlifName: tml_T_hree
 Width: 727
 VWidth: 0
@@ -6041,7 +6113,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_TtI
-Encoding: 120 -1 120
+Encoding: 122 -1 122
 GlifName: tml_T_tI_
 Width: 657
 VWidth: 0
@@ -6063,11 +6135,11 @@ SplineSet
  317 189 371 98 444 98 c 256
  408 45 l 256
 EndSplineSet
-Refer: 124 2975 N 1 0 0 1 0 0 2
+Refer: 126 2975 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tml_TtIi
-Encoding: 121 -1 121
+Encoding: 123 -1 123
 GlifName: tml_T_tI_i
 Width: 657
 VWidth: 0
@@ -6093,11 +6165,11 @@ SplineSet
  398 6 l 256
  331 6 219 58 219 205 c 256
 EndSplineSet
-Refer: 124 2975 N 1 0 0 1 0 0 2
+Refer: 126 2975 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tml_TtU
-Encoding: 122 -1 122
+Encoding: 124 -1 124
 GlifName: tml_T_tU_
 Width: 878
 VWidth: 0
@@ -6134,7 +6206,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_TtUu
-Encoding: 123 -1 123
+Encoding: 125 -1 125
 GlifName: tml_T_tU_u
 Width: 868
 VWidth: 0
@@ -6178,7 +6250,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Tta
-Encoding: 124 2975 124
+Encoding: 126 2975 126
 GlifName: tml_T_ta
 Width: 577
 VWidth: 0
@@ -6200,7 +6272,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Two
-Encoding: 125 3048 125
+Encoding: 127 3048 127
 GlifName: tml_T_wo
 Width: 534
 VWidth: 0
@@ -6242,7 +6314,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_U
-Encoding: 126 2953 126
+Encoding: 128 2953 128
 GlifName: tml_U_
 Width: 804
 VWidth: 0
@@ -6281,7 +6353,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Uu
-Encoding: 127 2954 127
+Encoding: 129 2954 129
 GlifName: tml_U_u
 Width: 1164
 VWidth: 0
@@ -6347,13 +6419,53 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: tml_VUu
+Encoding: 130 -1 130
+GlifName: tml_V_U_u
+Width: 730
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+591 -153 m 257
+ 591 32 l 257
+ 700 33 l 257
+ 700 -153 l 257
+ 591 -153 l 257
+735 58 m 256
+ 802 58 871 9 871 -98 c 256
+ 871 -237 729 -349 513 -349 c 256
+ 339 -349 180 -300 180 -175 c 256
+ 180 -97 229 -44 298 -44 c 256
+ 374 -44 420 -103 420 -169 c 256
+ 420 -250 369 -279 306 -279 c 256
+ 272 -279 232 -251 226 -208 c 257
+ 265 -188 l 257
+ 268 -203 280 -215 298 -215 c 256
+ 319 -215 333 -200 333 -178 c 256
+ 333 -157 325 -138 298 -138 c 256
+ 275 -138 264 -156 264 -178 c 256
+ 264 -234 387 -261 513 -262 c 256
+ 657 -263 773 -191 773 -95 c 256
+ 773 -36 746 -22 724 -22 c 256
+ 711 -22 700 -30 700 -47 c 257
+ 644 5 l 257
+ 672 43 704 59 735 58 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 131 2997 N 1 0 0 1 0 0 2
+EndChar
+
 StartChar: tml_Va
-Encoding: 128 2997 128
+Encoding: 131 2997 131
 GlifName: tml_V_a
 Width: 730
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: WO
+AnchorPoint: "MatraU.alt1" 591 33 basechar 0
 AnchorPoint: "MatraIi" 663 559 basechar 0
 AnchorPoint: "MatraI.alt3" 594 530 basechar 0
 AnchorPoint: "virama" 413 0 basechar 0
@@ -6397,7 +6509,7 @@ s."
 EndChar
 
 StartChar: tml_Virama
-Encoding: 129 3021 129
+Encoding: 132 3021 132
 GlifName: tml_V_irama
 Width: 0
 VWidth: 0
@@ -6417,7 +6529,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Visarga
-Encoding: 130 2947 130
+Encoding: 133 2947 133
 GlifName: tml_V_isarga
 Width: 773
 VWidth: 0
@@ -6467,7 +6579,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_YUu
-Encoding: 131 -1 131
+Encoding: 134 -1 134
 GlifName: tml_Y_U_u
 Width: 678
 VWidth: 0
@@ -6503,16 +6615,17 @@ SplineSet
  622 43 654 59 685 58 c 256
   PathStart: -2
 EndSplineSet
-Refer: 132 2991 N 1 0 0 1 0 0 2
+Refer: 135 2991 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tml_Ya
-Encoding: 132 2991 132
+Encoding: 135 2991 135
 GlifName: tml_Y_a
 Width: 678
 VWidth: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "MatraU.alt1" 539 33 basechar 0
 AnchorPoint: "MatraIi" 611 560 basechar 0
 AnchorPoint: "MatraI.alt3" 542 529 basechar 0
 AnchorPoint: "virama" 330 0 basechar 0
@@ -6543,7 +6656,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Year
-Encoding: 133 3061 133
+Encoding: 136 3061 136
 GlifName: tml_Y_ear
 Width: 1757
 VWidth: 0
@@ -6613,7 +6726,7 @@ EndSplineSet
 EndChar
 
 StartChar: tml_Zero
-Encoding: 134 3046 134
+Encoding: 137 3046 137
 GlifName: tml_Z_ero
 Width: 543
 VWidth: 0

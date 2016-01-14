@@ -4,9 +4,6 @@
   <unicode hex="0BB8"/>
   <outline>
     <contour>
-      <point x="450" y="0" type="move" name="virama"/>
-    </contour>
-    <contour>
       <point x="350" y="53"/>
       <point x="293" y="-24"/>
       <point x="197" y="-24" type="curve" smooth="yes"/>
@@ -83,6 +80,9 @@
       <point x="911" y="525"/>
       <point x="964" y="401"/>
       <point x="964" y="255" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="450" y="0" type="move" name="virama"/>
     </contour>
   </outline>
 </glyph>

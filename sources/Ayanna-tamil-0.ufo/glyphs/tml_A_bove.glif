@@ -116,14 +116,14 @@
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
-          <key>y</key>
-          <integer>755</integer>
-          <key>x</key>
-          <integer>-218</integer>
           <key>angle</key>
           <integer>0</integer>
           <key>isGlobal</key>
           <false/>
+          <key>x</key>
+          <integer>-218</integer>
+          <key>y</key>
+          <integer>755</integer>
         </dict>
       </array>
     </dict>
