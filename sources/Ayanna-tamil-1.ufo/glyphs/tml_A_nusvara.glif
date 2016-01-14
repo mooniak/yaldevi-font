@@ -39,14 +39,14 @@
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
-          <key>y</key>
-          <integer>704</integer>
-          <key>x</key>
-          <integer>17</integer>
           <key>angle</key>
           <integer>0</integer>
           <key>isGlobal</key>
           <false/>
+          <key>x</key>
+          <integer>17</integer>
+          <key>y</key>
+          <integer>704</integer>
         </dict>
       </array>
       <key>public.markColor</key>
