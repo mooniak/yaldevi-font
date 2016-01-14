@@ -853,7 +853,6 @@ lookup tml_above_base_sub_1 {
     sub tml_Ca tml_MatraI' by tml_MatraI.alt2;
     sub tml_Ja tml_MatraI' by tml_MatraI.alt7;
     sub tml_Nya tml_MatraI' by tml_MatraI.alt1;
-    sub tml_Tta tml_MatraI by tml_TtI;
     sub tml_Nna tml_MatraI' by tml_MatraI.alt2;
     sub tml_Ta tml_MatraI' by tml_MatraI.alt1;
     sub tml_Na tml_MatraI' by tml_MatraI.alt1;
@@ -867,32 +866,39 @@ lookup tml_above_base_sub_1 {
     sub tml_Lla tml_MatraI' by tml_MatraI.alt2;
     sub tml_Llla tml_MatraI' by tml_MatraI.alt6;
     sub tml_Va tml_MatraI' by tml_MatraI.alt3;
-    sub tml_Sa tml_MatraI by tml_SI;
-    sub tml_Sha tml_MatraI by tml_ShI;
     sub tml_Ssa tml_MatraI' by tml_MatraI.alt8;
-    sub tml_Ha tml_MatraI by tml_HI;
     sub tml_KSsa tml_MatraI' by tml_MatraI.alt8;
 } tml_above_base_sub_1;
 
-lookup tml_above_base_sub_2 {
+lookup tml_above_base_sub_2{
+  sub tml_Tta tml_MatraI by tml_TtI;
+  #sub tml_Sa tml_MatraI by tml_SI;
+  sub tml_Sha tml_MatraI by tml_ShI;
+  sub tml_Ha tml_MatraI by tml_HI;
+}tml_above_base_sub_2;
+
+lookup tml_above_base_sub_3 {
     sub tml_Nga tml_MatraIi' by tml_NgIi;
     sub tml_Ja tml_MatraIi' by tml_MatraIi.alt1;
-    sub tml_Tta tml_MatraIi' by tml_TtIi;
-    sub tml_Pa tml_MatraIi' by tml_PIi;
     sub tml_Ma tml_MatraIi' by tml_MatraIi.alt1;
-    sub tml_Ya tml_MatraIi' by tml_YIi;
-    sub tml_Ra tml_MatraIi' by tml_RIi;
     sub tml_Rra tml_MatraIi' by tml_MatraIi.alt1;
     sub tml_La tml_MatraIi' by tml_MatraIi.alt2;
-    sub tml_Lla tml_MatraIi' by tml_LlIi;
     sub tml_Llla tml_MatraIi' by tml_MatraIi.alt1;
-    sub tml_Va tml_MatraIi' by tml_VIi;
-    sub tml_Sa tml_MatraIi' by tml_SIi;
     sub tml_Sha tml_MatraIi' by tml_MatraIi.alt3;
     sub tml_Ssa tml_MatraIi' by tml_MatraIi.alt1;
     sub tml_Ha tml_MatraIi' by tml_MatraIi.alt1;
     sub tml_KSsa tml_MatraIi' by tml_MatraIi.alt1;
- } tml_above_base_sub_2;
+ } tml_above_base_sub_3;
+
+ lookup tml_above_base_sub_4 {
+   sub tml_Tta tml_MatraIi by tml_TtIi;
+   sub tml_Pa tml_MatraIi by tml_PIi;
+   sub tml_Ya tml_MatraIi by tml_YIi;
+   sub tml_Ra tml_MatraIi by tml_RIi;
+   sub tml_Lla tml_MatraIi by tml_LlIi;
+   sub tml_Va tml_MatraIi by tml_VIi;
+   #sub tml_Sa tml_MatraIi by tml_SIi;
+ }tml_above_base_sub_4;
 
 
 #---- PSTS ----
