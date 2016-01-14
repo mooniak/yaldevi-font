@@ -4,8 +4,11 @@
   <unicode hex="0BC2"/>
   <outline>
     <contour>
-      <point x="-146" y="560" type="line"/>
-      <point x="-146" y="518" type="line"/>
+      <point x="-166" y="560" type="move" name="_MatraUu"/>
+    </contour>
+    <contour>
+      <point x="-166" y="560" type="line"/>
+      <point x="-166" y="518" type="line"/>
       <point x="118" y="518" type="line" smooth="yes"/>
       <point x="200" y="518"/>
       <point x="286" y="490"/>
