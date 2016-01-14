@@ -868,17 +868,16 @@ lookup tml_above_base_sub_1 {
     sub tml_Va tml_MatraI' by tml_MatraI.alt3;
     sub tml_Ssa tml_MatraI' by tml_MatraI.alt8;
     sub tml_KSsa tml_MatraI' by tml_MatraI.alt8;
+    sub tml_Sha tml_MatraI' by tml_MatraI.alt1;
+    sub tml_Ha tml_MatraI' by tml_MatraI.alt6;
 } tml_above_base_sub_1;
 
 lookup tml_above_base_sub_2{
   sub tml_Tta tml_MatraI by tml_TtI;
   #sub tml_Sa tml_MatraI by tml_SI;
-  sub tml_Sha tml_MatraI by tml_ShI;
-  sub tml_Ha tml_MatraI by tml_HI;
 }tml_above_base_sub_2;
 
 lookup tml_above_base_sub_3 {
-    sub tml_Nga tml_MatraIi' by tml_NgIi;
     sub tml_Ja tml_MatraIi' by tml_MatraIi.alt1;
     sub tml_Ma tml_MatraIi' by tml_MatraIi.alt1;
     sub tml_Rra tml_MatraIi' by tml_MatraIi.alt1;
@@ -892,11 +891,6 @@ lookup tml_above_base_sub_3 {
 
  lookup tml_above_base_sub_4 {
    sub tml_Tta tml_MatraIi by tml_TtIi;
-   sub tml_Pa tml_MatraIi by tml_PIi;
-   sub tml_Ya tml_MatraIi by tml_YIi;
-   sub tml_Ra tml_MatraIi by tml_RIi;
-   sub tml_Lla tml_MatraIi by tml_LlIi;
-   sub tml_Va tml_MatraIi by tml_VIi;
    #sub tml_Sa tml_MatraIi by tml_SIi;
  }tml_above_base_sub_4;
 
@@ -905,7 +899,6 @@ lookup tml_above_base_sub_3 {
 
 lookup tml_post_base_sub_1 {
     sub tml_Ka tml_MatraU by tml_KU;
-    sub tml_Nga tml_MatraU' by tml_MatraU.alt1;
     sub tml_Ca tml_MatraU by tml_CU;
     sub tml_Nya tml_MatraU by tml_NyU;
     sub tml_Tta tml_MatraU by tml_TtU;
@@ -913,21 +906,25 @@ lookup tml_post_base_sub_1 {
     sub tml_Ta tml_MatraU by tml_TU;
     sub tml_Na tml_MatraU by tml_NU;
     sub tml_Nnna tml_MatraU by tml_NnnU;
-    sub tml_Pa tml_MatraU' by tml_MatraU.alt1;
     sub tml_Ma tml_MatraU by tml_MU;
-    sub tml_Ya tml_MatraU' by tml_MatraU.alt1;
     sub tml_Ra tml_MatraU by tml_RU;
     sub tml_Rra tml_MatraU by tml_RrU;
     sub tml_La tml_MatraU by tml_LU;
     sub tml_Lla tml_MatraU by tml_LlU;
     sub tml_Llla tml_MatraU by tml_LllU;
-    sub tml_Va tml_MatraU' by tml_MatraU.alt1;
     sub tml_Sa tml_MatraU by tml_SU;
     sub tml_Ssa tml_MatraU by tml_SsU;
     sub tml_KSsa tml_MatraU by tml_KSsU;
 } tml_post_base_sub_1;
 
-lookup tml_post_base_sub_2 {
+lookup tml_post_base_sub_2{
+  sub tml_Nga tml_MatraU' by tml_MatraU.alt1;
+  sub tml_Pa tml_MatraU' by tml_MatraU.alt1;
+  sub tml_Ya tml_MatraU' by tml_MatraU.alt1;
+  sub tml_Va tml_MatraU' by tml_MatraU.alt1;
+}tml_post_base_sub_2;
+
+lookup tml_post_base_sub_3 {
     sub tml_Ka tml_MatraUu by tml_KUu;
     sub tml_Nga tml_MatraUu by tml_NgUu;
     sub tml_Ca tml_MatraUu by tml_CUu;
@@ -949,7 +946,7 @@ lookup tml_post_base_sub_2 {
     sub tml_Sa tml_MatraUu by tml_SUu;
     sub tml_Ssa tml_MatraUu by tml_SsUu;
     sub tml_KSsa tml_MatraUu by tml_KSsUu;
- } tml_post_base_sub_2;
+ } tml_post_base_sub_3;
 
 #---- SALT ----
 
@@ -1032,9 +1029,13 @@ feature abvs {
   script taml;
       lookup tml_above_base_sub_1;
       lookup tml_above_base_sub_2;
+      lookup tml_above_base_sub_3;
+      lookup tml_above_base_sub_4;
   script tml2;
       lookup tml_above_base_sub_1;
       lookup tml_above_base_sub_2;
+      lookup tml_above_base_sub_3;
+      lookup tml_above_base_sub_4;
 } abvs;
 
 #-------------
@@ -1056,9 +1057,11 @@ feature psts {
   script taml;
       lookup tml_post_base_sub_1;
       lookup tml_post_base_sub_2;
+      lookup tml_post_base_sub_3;
   script tml2;
       lookup tml_post_base_sub_1;
       lookup tml_post_base_sub_2;
+      lookup tml_post_base_sub_3;
 } psts;
 
 #-------------
