@@ -1086,10 +1086,17 @@ feature abvm {
     lookup MARK_BASE_MatraI.alt4;
     lookup MARK_BASE_MatraI.alt5;
     lookup MARK_BASE_MatraI.alt6;
+    lookup MARK_BASE_MatraI.alt7;
+    lookup MARK_BASE_MatraI.alt8;
+    lookup MARK_BASE_MatraI.stylalt1;
     lookup MARK_BASE_MatraIi;
     lookup MARK_BASE_MatraIi.alt1;
     lookup MARK_BASE_MatraIi.alt2;
+    lookup MARK_BASE_MatraIi.alt3;
     lookup MARK_BASE_MatraIi.stylalt1;
+    lookup MARK_BASE_MatraU;
+    lookup MARK_BASE_MatraU.alt1;
+    lookup MARK_BASE_MatraUu;
     script tml2;
     lookup MARK_BASE_virama;
     lookup MARK_BASE_MatraAi.alt;
@@ -1099,9 +1106,17 @@ feature abvm {
     lookup MARK_BASE_MatraI.alt4;
     lookup MARK_BASE_MatraI.alt5;
     lookup MARK_BASE_MatraI.alt6;
+    lookup MARK_BASE_MatraI.alt7;
+    lookup MARK_BASE_MatraI.alt8;
+    lookup MARK_BASE_MatraI.stylalt1;
+    lookup MARK_BASE_MatraIi;
     lookup MARK_BASE_MatraIi.alt1;
     lookup MARK_BASE_MatraIi.alt2;
+    lookup MARK_BASE_MatraIi.alt3;
     lookup MARK_BASE_MatraIi.stylalt1;
+    lookup MARK_BASE_MatraU;
+    lookup MARK_BASE_MatraU.alt1;
+    lookup MARK_BASE_MatraUu;
 } abvm;
 
 feature blwm {
