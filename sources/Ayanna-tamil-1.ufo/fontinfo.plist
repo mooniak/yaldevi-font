@@ -15,9 +15,13 @@
     <key>versionMinor</key>
     <integer>5</integer>
     <key>copyright</key>
-    <stringLicensed under the SIL Open Font License 1.1 (see file OFL.txt)</string>
+    <string>Licensed under the SIL Open Font License 1.1 (see file OFL.txt)</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
+    <key>capHeight</key>
+    <integer>700</integer>
+    <key>xHeight</key>
+    <integer>500</integer>
     <key>ascender</key>
     <integer>800</integer>
     <key>descender</key>
@@ -27,11 +31,11 @@
     <key>note</key>
     <string></string>
     <key>openTypeHeadCreated</key>
-    <string>2016/01/13 19:58:49</string>
+    <string>2016/01/13 19:58:56</string>
     <key>openTypeHheaAscender</key>
-    <integer>528</integer>
+    <integer>954</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-232</integer>
+    <integer>-386</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameVersion</key>
@@ -73,9 +77,9 @@
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>522</integer>
+    <integer>954</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>216</integer>
+    <integer>386</integer>
     <key>openTypeOS2SubscriptXSize</key>
     <integer>841</integer>
     <key>openTypeOS2SubscriptYSize</key>
@@ -120,24 +124,7 @@
     <key>postscriptUnderlineThickness</key>
     <integer>0</integer>
     <key>postscriptUnderlinePosition</key>
-    <integer>-122</integer>
-    <key>postscriptStemSnapH</key>
-    <array>
-      <integer>34</integer>
-      <integer>35</integer>
-      <integer>36</integer>
-      <integer>64</integer>
-    </array>
-    <key>postscriptStemSnapV</key>
-    <array>
-      <integer>8</integer>
-      <integer>10</integer>
-      <integer>34</integer>
-      <integer>35</integer>
-      <integer>36</integer>
-      <integer>37</integer>
-      <integer>64</integer>
-    </array>
+    <integer>0</integer>
     <key>postscriptBlueShift</key>
     <integer>0</integer>
   </dict>
