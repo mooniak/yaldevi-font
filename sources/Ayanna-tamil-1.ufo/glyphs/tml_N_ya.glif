@@ -4,6 +4,15 @@
   <unicode hex="0B9E"/>
   <outline>
     <contour>
+      <point x="771" y="560" type="move" name="MatraIi"/>
+    </contour>
+    <contour>
+      <point x="786" y="560" type="move" name="MatraI.alt1"/>
+    </contour>
+    <contour>
+      <point x="590" y="0" type="move" name="virama"/>
+    </contour>
+    <contour>
       <point x="409" y="-24" type="curve" smooth="yes"/>
       <point x="304" y="-24"/>
       <point x="242" y="90"/>
@@ -80,15 +89,6 @@
       <point x="723" y="1" type="line"/>
       <point x="616" y="1" type="line"/>
       <point x="616" y="462" type="line"/>
-    </contour>
-    <contour>
-      <point x="771" y="560" type="move" name="MatraIi"/>
-    </contour>
-    <contour>
-      <point x="786" y="560" type="move" name="MatraI.alt1"/>
-    </contour>
-    <contour>
-      <point x="590" y="0" type="move" name="virama"/>
     </contour>
   </outline>
 </glyph>

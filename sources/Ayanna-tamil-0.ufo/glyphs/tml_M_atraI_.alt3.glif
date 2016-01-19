@@ -3,6 +3,9 @@
   <advance width="249"/>
   <outline>
     <contour>
+      <point x="-111" y="499" type="move" name="_MatraI.alt3"/>
+    </contour>
+    <contour>
       <point x="-112" y="458" type="line"/>
       <point x="-186" y="458"/>
       <point x="-264" y="495"/>
@@ -25,9 +28,6 @@
       <point x="-222" y="536"/>
       <point x="-182" y="500"/>
       <point x="-112" y="500" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-111" y="499" type="move" name="_MatraI.alt3"/>
     </contour>
   </outline>
 </glyph>

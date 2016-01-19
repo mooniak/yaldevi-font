@@ -3,6 +3,9 @@
   <advance width="874"/>
   <outline>
     <contour>
+      <point x="207" y="275" type="move" name="_MatraI.stylalt1"/>
+    </contour>
+    <contour>
       <point x="140" y="192" type="line"/>
       <point x="95" y="226"/>
       <point x="30" y="305"/>
@@ -26,23 +29,20 @@
       <point x="159" y="314"/>
       <point x="207" y="275" type="curve"/>
     </contour>
-    <contour>
-      <point x="207" y="275" type="move" name="_MatraI.stylalt1"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
+          <key>y</key>
+          <integer>-274</integer>
+          <key>x</key>
+          <integer>1215</integer>
           <key>angle</key>
           <integer>0</integer>
           <key>isGlobal</key>
           <false/>
-          <key>x</key>
-          <integer>1215</integer>
-          <key>y</key>
-          <integer>-274</integer>
         </dict>
       </array>
     </dict>

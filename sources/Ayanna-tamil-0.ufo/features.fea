@@ -1,20 +1,23 @@
-# Prefix: Prefix
 languagesystem DFLT dflt;
 languagesystem taml dflt;
+
+
 # GPOS 
+
+
 lookup blwmBelowBaseMarkinTamillookup1 {
   lookupflag 0;
-  markClass [\tml_MatraUu ] <anchor -166 560> @MatraUu;
   markClass [\tml_MatraU.alt1 ] <anchor 529 33> @MatraU.alt1;
   markClass [\tml_MatraU ] <anchor -161 560> @MatraU;
-  pos base [\tml_Ha ] <anchor 1038 573> mark @MatraU
-	<anchor 1038 573> mark @MatraUu;
-  pos base [\tml_Ja ] <anchor 553 581> mark @MatraU
-	<anchor 553 581> mark @MatraUu;
+  markClass [\tml_MatraUu ] <anchor -166 560> @MatraUu;
+  pos base [\tml_Ha ] <anchor 1038 573> mark @MatraUu
+	<anchor 1038 573> mark @MatraU;
+  pos base [\tml_Ja ] <anchor 553 581> mark @MatraUu
+	<anchor 553 581> mark @MatraU;
   pos base [\tml_Nga ] <anchor 629 33> mark @MatraU.alt1;
   pos base [\tml_Pa ] <anchor 438 33> mark @MatraU.alt1;
-  pos base [\tml_Sha ] <anchor 546 560> mark @MatraU
-	<anchor 546 560> mark @MatraUu;
+  pos base [\tml_Sha ] <anchor 546 560> mark @MatraUu
+	<anchor 546 560> mark @MatraU;
   pos base [\tml_Va ] <anchor 615 33> mark @MatraU.alt1;
   pos base [\tml_Ya ] <anchor 576 33> mark @MatraU.alt1;
 } blwmBelowBaseMarkinTamillookup1;
@@ -30,8 +33,8 @@ lookup abvmAboveBaseMarkinTamillookup0 {
   markClass [\tml_MatraI.alt1 ] <anchor 150 560> @MatraI.alt1;
   markClass [\tml_MatraI.alt8 ] <anchor 140 561> @MatraI.alt8;
   markClass [\tml_MatraI.alt7 ] <anchor 249 562> @MatraI.alt7;
-  markClass [\tml_MatraI.alt6 ] <anchor -129 561> @MatraI.alt6;
   markClass [\tml_MatraIi.alt1 ] <anchor 158 556> @MatraIi.alt1;
+  markClass [\tml_MatraI.alt6 ] <anchor -129 561> @MatraI.alt6;
   markClass [\tml_MatraIi.stylalt1 ] <anchor 175 304> @MatraIi.stylalt1;
   markClass [\tml_MatraI.alt2 ] <anchor 178 560> @MatraI.alt2;
   markClass [\tml_Virama ] <anchor 0 0> @virama;
@@ -42,12 +45,12 @@ lookup abvmAboveBaseMarkinTamillookup0 {
 	<anchor 367 0> mark @virama
 	<anchor 462 560> mark @MatraI.alt2
 	<anchor 109 304> mark @MatraIi.stylalt1;
-  pos base [\tml_Ha ] <anchor 1118 556> mark @MatraIi.alt1
+  pos base [\tml_Ha ] <anchor 600 0> mark @virama
 	<anchor 1107 561> mark @MatraI.alt6
-	<anchor 600 0> mark @virama;
-  pos base [\tml_Ja ] <anchor 646 556> mark @MatraIi.alt1
-	<anchor 636 562> mark @MatraI.alt7
-	<anchor 381 0> mark @virama;
+	<anchor 1118 556> mark @MatraIi.alt1;
+  pos base [\tml_Ja ] <anchor 636 562> mark @MatraI.alt7
+	<anchor 381 0> mark @virama
+	<anchor 646 556> mark @MatraIi.alt1;
   pos base [\tml_KSsa ] <anchor 1176 556> mark @MatraIi.alt1
 	<anchor 1168 561> mark @MatraI.alt8
 	<anchor 738 0> mark @virama;
@@ -68,15 +71,15 @@ lookup abvmAboveBaseMarkinTamillookup0 {
   pos base [\tml_Na ] <anchor 291 0> mark @virama
 	<anchor 396 560> mark @MatraI.alt1;
   pos base [\tml_Nga ] <anchor 640 560> mark @MatraIi
-	<anchor 634 560> mark @MatraI.alt4
-	<anchor 350 0> mark @virama;
+	<anchor 350 0> mark @virama
+	<anchor 634 560> mark @MatraI.alt4;
   pos base [\tml_Nna ] <anchor 1206 561> mark @MatraIi
 	<anchor 32 190> mark @MatraAi.alt
 	<anchor 695 0> mark @virama
 	<anchor 1196 561> mark @MatraI.alt2;
   pos base [\tml_Nnna ] <anchor 862 561> mark @MatraIi
-	<anchor 589 584> mark @MatraIi.alt2
 	<anchor 33 190> mark @MatraAi.alt
+	<anchor 589 584> mark @MatraIi.alt2
 	<anchor 495 0> mark @virama
 	<anchor 572 573> mark @MatraI.alt5
 	<anchor 852 561> mark @MatraI.alt2;
@@ -93,8 +96,6 @@ lookup abvmAboveBaseMarkinTamillookup0 {
 	<anchor 522 561> mark @MatraI.alt6
 	<anchor 321 0> mark @virama;
   pos base [\tml_Sa ] <anchor 440 0> mark @virama;
-  pos base [\tml_Sa.alt ] <anchor 816 572> mark @MatraI.alt5
-	<anchor 833 584> mark @MatraIi.alt2;
   pos base [\tml_Sha ] <anchor 380 0> mark @virama
 	<anchor 629 543> mark @MatraIi.alt3
 	<anchor 546 560> mark @MatraI.alt1;
@@ -116,6 +117,28 @@ lookup abvmAboveBaseMarkinTamillookup0 {
 	<anchor 313 0> mark @virama;
 } abvmAboveBaseMarkinTamillookup0;
 
+feature blwm {
+
+ script DFLT;
+     language dflt ;
+      lookup blwmBelowBaseMarkinTamillookup1;
+
+ script taml;
+     language dflt ;
+      lookup blwmBelowBaseMarkinTamillookup1;
+} blwm;
+
+feature abvm {
+
+ script DFLT;
+     language dflt ;
+      lookup abvmAboveBaseMarkinTamillookup0;
+
+ script taml;
+     language dflt ;
+      lookup abvmAboveBaseMarkinTamillookup0;
+} abvm;
+
 @GDEF_Simple = [\newGlyph.001 \space \tml_A \tml_A.001 \tml_Aa \tml_Above \tml_Ai 
 	\tml_Anusvara \tml_Au \tml_AuLengthmark \tml_CU \tml_CUu \tml_Ca \tml_Credit 
 	\tml_Day \tml_Debit \tml_E \tml_Ee \tml_Eight \tml_Five \tml_Four \tml_Ha 
@@ -127,12 +150,12 @@ lookup abvmAboveBaseMarkinTamillookup0 {
 	\tml_NgUu \tml_Nga \tml_Nine \tml_NnAa.alt \tml_NnU \tml_NnUu \tml_Nna 
 	\tml_NnnAa.alt \tml_NnnU \tml_NnnUu \tml_Nnna \tml_Number \tml_NyU \tml_NyUu 
 	\tml_Nya \tml_O \tml_Om \tml_One \tml_Oo \tml_PUu \tml_Pa \tml_RI.alt 
-	\tml_RIi.alt \tml_RU \tml_RUu \tml_Ra \tml_RrAa.alt \tml_RrU \tml_RrUu \tml_Rra 
-	\tml_Rupee \tml_SU \tml_SUu \tml_Sa \tml_Sa.alt \tml_Seven \tml_Sha \tml_Shree 
-	\tml_Six \tml_SsU \tml_SsUu \tml_Ssa \tml_TU \tml_TUu \tml_Ta \tml_Ten 
-	\tml_Thousand \tml_Three \tml_TtI \tml_TtIi \tml_TtU \tml_TtUu \tml_Tta 
-	\tml_Two \tml_U \tml_Uu \tml_VUu \tml_Va \tml_Visarga \tml_YUu \tml_Ya \tml_Year 
-	\tml_Zero ];
+	\tml_RIi.alt \tml_RU \tml_RUu \tml_Ra \tml_Ra.alt \tml_RrAa.alt \tml_RrU 
+	\tml_RrUu \tml_Rra \tml_Rupee \tml_SI \tml_SIi \tml_SU \tml_SUu \tml_Sa 
+	\tml_Seven \tml_Sha \tml_Shree \tml_Six \tml_SsU \tml_SsUu \tml_Ssa \tml_TU 
+	\tml_TUu \tml_Ta \tml_Ten \tml_Thousand \tml_Three \tml_TtI \tml_TtIi \tml_TtU 
+	\tml_TtUu \tml_Tta \tml_Two \tml_U \tml_Uu \tml_VUu \tml_Va \tml_Visarga 
+	\tml_YUu \tml_Ya \tml_Year \tml_Zero ];
 @GDEF_Mark = [\tml_MatraAi.alt \tml_MatraI.alt1 \tml_MatraI.alt2 
 	\tml_MatraI.alt3 \tml_MatraI.alt4 \tml_MatraI.alt5 \tml_MatraI.alt6 
 	\tml_MatraI.alt7 \tml_MatraI.alt8 \tml_MatraI.stylalt1 \tml_MatraIi 
@@ -143,24 +166,4 @@ table GDEF {
   GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
 
 } GDEF;
-
-feature blwm {
- script DFLT;
-     language dflt ;
-      lookup blwmBelowBaseMarkinTamillookup1;
-
- script taml;
-     language dflt ;
-      lookup blwmBelowBaseMarkinTamillookup1;
-} blwm;
-
-feature abvm {
- script DFLT;
-     language dflt ;
-      lookup abvmAboveBaseMarkinTamillookup0;
-
- script taml;
-     language dflt ;
-      lookup abvmAboveBaseMarkinTamillookup0;
-} abvm;
 

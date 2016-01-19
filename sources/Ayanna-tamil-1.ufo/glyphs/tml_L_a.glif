@@ -4,6 +4,18 @@
   <unicode hex="0BB2"/>
   <outline>
     <contour>
+      <point x="624" y="584" type="move" name="MatraIi.alt2"/>
+    </contour>
+    <contour>
+      <point x="32" y="244" type="move" name="MatraAi.alt"/>
+    </contour>
+    <contour>
+      <point x="410" y="0" type="move" name="virama"/>
+    </contour>
+    <contour>
+      <point x="606" y="573" type="move" name="MatraI.alt5"/>
+    </contour>
+    <contour>
       <point x="197" y="-23" type="curve" smooth="yes"/>
       <point x="92" y="-23"/>
       <point x="30" y="90"/>
@@ -66,18 +78,6 @@
       <point x="348" y="175" type="curve" smooth="yes"/>
       <point x="348" y="54"/>
       <point x="292" y="-23"/>
-    </contour>
-    <contour>
-      <point x="624" y="584" type="move" name="MatraIi.alt2"/>
-    </contour>
-    <contour>
-      <point x="32" y="244" type="move" name="MatraAi.alt"/>
-    </contour>
-    <contour>
-      <point x="410" y="0" type="move" name="virama"/>
-    </contour>
-    <contour>
-      <point x="606" y="573" type="move" name="MatraI.alt5"/>
     </contour>
   </outline>
 </glyph>

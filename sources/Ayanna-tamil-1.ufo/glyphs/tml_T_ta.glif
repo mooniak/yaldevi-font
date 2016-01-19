@@ -4,15 +4,15 @@
   <unicode hex="0B9F"/>
   <outline>
     <contour>
+      <point x="330" y="0" type="move" name="virama"/>
+    </contour>
+    <contour>
       <point x="30" y="1" type="line"/>
       <point x="30" y="560" type="line"/>
       <point x="137" y="560" type="line"/>
       <point x="137" y="99" type="line"/>
       <point x="547" y="99" type="line"/>
       <point x="547" y="1" type="line"/>
-    </contour>
-    <contour>
-      <point x="330" y="0" type="move" name="virama"/>
     </contour>
   </outline>
 </glyph>
