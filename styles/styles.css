@@ -26,8 +26,7 @@ vertical-align: baseline;
 }
 body {
 font-size: 1vw;
-line-height: 1;
-    font-variant: normal; 
+    font-variant: normal;
 font-feature-settings: "kern" on, "liga" on, "calt" on, "dlig", "swsh"
 -moz-font-feature-settings: "kern" on, "liga" on, "calt" on, "dlig", "swsh"
 -webkit-font-feature-settings: "kern" on, "liga" on, "calt" on, "dlig", "swsh"
@@ -41,7 +40,7 @@ font-feature-settings: "kern" on, "liga" on, "calt" on, "dlig", "swsh"
 h1{    font-size: 3em;
  }
 
-h3{ 
+h3{
     font-size: 2em;
     font-weight: 100;}
 
