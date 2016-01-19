@@ -3,24 +3,6 @@
   <advance width="1564"/>
   <outline>
     <contour>
-      <point x="1195" y="550" type="line"/>
-      <point x="1242" y="550"/>
-      <point x="1368" y="526"/>
-      <point x="1368" y="385" type="curve" smooth="yes"/>
-      <point x="1368" y="276"/>
-      <point x="1311" y="218"/>
-      <point x="1219" y="218" type="curve" smooth="yes"/>
-      <point x="1114" y="218"/>
-      <point x="1063" y="293"/>
-      <point x="1063" y="397" type="curve" smooth="yes"/>
-      <point x="1063" y="538"/>
-      <point x="1158" y="645"/>
-      <point x="1301" y="645" type="curve" smooth="yes"/>
-      <point x="1459" y="645"/>
-      <point x="1524" y="523"/>
-      <point x="1524" y="414" type="curve" smooth="yes"/>
-      <point x="1524" y="296"/>
-      <point x="1465" y="196"/>
       <point x="1465" y="196" type="curve"/>
       <point x="1383" y="230" type="line"/>
       <point x="1383" y="230"/>
@@ -46,6 +28,24 @@
       <point x="910" y="452" type="line"/>
       <point x="910" y="560" type="line"/>
       <point x="1154" y="560" type="line"/>
+      <point x="1195" y="550" type="line"/>
+      <point x="1242" y="550"/>
+      <point x="1368" y="526"/>
+      <point x="1368" y="385" type="curve" smooth="yes"/>
+      <point x="1368" y="276"/>
+      <point x="1311" y="218"/>
+      <point x="1219" y="218" type="curve" smooth="yes"/>
+      <point x="1114" y="218"/>
+      <point x="1063" y="293"/>
+      <point x="1063" y="397" type="curve" smooth="yes"/>
+      <point x="1063" y="538"/>
+      <point x="1158" y="645"/>
+      <point x="1301" y="645" type="curve" smooth="yes"/>
+      <point x="1459" y="645"/>
+      <point x="1524" y="523"/>
+      <point x="1524" y="414" type="curve" smooth="yes"/>
+      <point x="1524" y="296"/>
+      <point x="1465" y="196"/>
     </contour>
     <component base="tml_Ssa" xOffset="10"/>
   </outline>
