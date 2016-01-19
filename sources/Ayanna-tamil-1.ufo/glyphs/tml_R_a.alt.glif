@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_Ra.alt" format="1">
+  <advance width="559"/>
+  <outline>
+    <contour>
+      <point x="40" y="1" type="line"/>
+      <point x="40" y="560" type="line"/>
+      <point x="519" y="560" type="line"/>
+      <point x="519" y="462" type="line"/>
+      <point x="416" y="462" type="line"/>
+      <point x="416" y="1" type="line"/>
+      <point x="308" y="1" type="line"/>
+      <point x="308" y="462" type="line"/>
+      <point x="147" y="462" type="line"/>
+      <point x="147" y="1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

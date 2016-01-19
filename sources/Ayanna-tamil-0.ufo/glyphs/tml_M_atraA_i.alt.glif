@@ -3,9 +3,6 @@
   <advance width="600"/>
   <outline>
     <contour>
-      <point x="421" y="189" type="move" name="_MatraAi.alt"/>
-    </contour>
-    <contour>
       <point x="332" y="800"/>
       <point x="411" y="704"/>
       <point x="411" y="576" type="curve" smooth="yes"/>
@@ -62,6 +59,9 @@
       <point x="32" y="720"/>
       <point x="108" y="800"/>
       <point x="218" y="800" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="421" y="189" type="move" name="_MatraAi.alt"/>
     </contour>
   </outline>
 </glyph>

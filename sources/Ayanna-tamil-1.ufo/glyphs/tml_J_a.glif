@@ -4,21 +4,6 @@
   <unicode hex="0B9C"/>
   <outline>
     <contour>
-      <point x="537" y="581" type="move" name="MatraU"/>
-    </contour>
-    <contour>
-      <point x="537" y="581" type="move" name="MatraUu"/>
-    </contour>
-    <contour>
-      <point x="635" y="554" type="move" name="MatraIi.alt1"/>
-    </contour>
-    <contour>
-      <point x="635" y="554" type="move" name="MatraI.alt7"/>
-    </contour>
-    <contour>
-      <point x="384" y="0" type="move" name="virama"/>
-    </contour>
-    <contour>
       <point x="219" y="-155" type="curve" smooth="yes"/>
       <point x="115" y="-155"/>
       <point x="21" y="-99"/>
@@ -113,6 +98,21 @@
       <point x="260" y="363" type="curve" smooth="yes"/>
       <point x="260" y="273"/>
       <point x="203" y="234"/>
+    </contour>
+    <contour>
+      <point x="635" y="554" type="move" name="MatraI.alt7"/>
+    </contour>
+    <contour>
+      <point x="537" y="581" type="move" name="MatraUu"/>
+    </contour>
+    <contour>
+      <point x="384" y="0" type="move" name="virama"/>
+    </contour>
+    <contour>
+      <point x="537" y="581" type="move" name="MatraU"/>
+    </contour>
+    <contour>
+      <point x="635" y="554" type="move" name="MatraIi.alt1"/>
     </contour>
   </outline>
 </glyph>
