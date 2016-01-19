@@ -873,7 +873,7 @@ lookup tml_above_base_sub_1 {
 
 lookup tml_above_base_sub_2{
   sub tml_Tta tml_MatraI by tml_TtI;
-  #sub tml_Sa tml_MatraI by tml_SI;
+  sub tml_Sa tml_MatraI by tml_SI;
 }tml_above_base_sub_2;
 
 lookup tml_above_base_sub_3 {
@@ -890,7 +890,7 @@ lookup tml_above_base_sub_3 {
 
  lookup tml_above_base_sub_4 {
    sub tml_Tta tml_MatraIi by tml_TtIi;
-   #sub tml_Sa tml_MatraIi by tml_SIi;
+   sub tml_Sa tml_MatraIi by tml_SIi;
  }tml_above_base_sub_4;
 
 
@@ -955,12 +955,12 @@ lookup tml_stylistic_alternates_1 {
     sub tml_Rra tml_MatraAa by tml_RrAa.alt;
 } tml_stylistic_alternates_1;
 
-# lookup tml_stylistic_alternates_2 {
+lookup tml_stylistic_alternates_2 {
 #     sub tml_Ra tml_Virama by tml_RVirama.alt;
-#     sub tml_Ra tml_MatraI by tml_RI.alt;
-#     sub tml_Ra tml_MatraIi by tml_RIi.alt;
-# } tml_stylistic_alternates_2;
-#
+     sub tml_Ra tml_MatraI by tml_RI.alt;
+     sub tml_Ra tml_MatraIi by tml_RIi.alt;
+} tml_stylistic_alternates_2;
+
 lookup tml_stylistic_alternates_3 {
     sub tml_Nna tml_MatraAi' by tml_MatraAi.alt;
     sub tml_Nnna tml_MatraAi' by tml_MatraAi.alt;
