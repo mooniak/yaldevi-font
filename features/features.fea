@@ -7,10 +7,9 @@ languagesystem tml2 dflt;
 
 include (../../features/GENERATED_classes.fea);
 include (../../features/tables.fea);
-include (markclasses.fea);
-include (mark.fea);
 
-##--------------- Lookups Sinhala ---------------##
+
+##--------------- GSUB Lookups Sinhala ---------------##
 
 #---- --AKHN ------------
 
@@ -835,7 +834,7 @@ lookup si_touch_pos {
   pos cursive si_Fa.touch <anchor NULL> <anchor 558 0>;
 } si_touch_pos;
 
-##--------------- Lookups Tamil ---------------##
+##---------------GSUB Lookups Tamil ---------------##
 
 #---- AKHN ----
 
@@ -978,7 +977,7 @@ lookup tml_stylistic_alternates_4 {
     sub tml_Ta tml_MatraIi' by tml_MatraIi.stylalt1;
 } tml_stylistic_alternates_4;
 
-##--------------- Features ---------------##
+##--------------- GSUB Features ---------------##
 
 feature akhn {
   script sinh;
@@ -1064,7 +1063,12 @@ feature psts {
       lookup tml_post_base_sub_3;
 } psts;
 
-#-------------
+##---------------GPOS Lookups Tamil ---------------##
+
+include (markclasses.fea);
+include (mark.fea);
+
+##--------------- GPOS Features ---------------##
 
 feature kern {
     include (kern.fea);
@@ -1121,6 +1125,14 @@ feature abvm {
 
 feature blwm {
     script sinh;
+    script taml;
+    lookup MARK_BASE_MatraU;
+    lookup MARK_BASE_MatraU.alt1;
+    lookup MARK_BASE_MatraUu;
+    script tml2;
+    lookup MARK_BASE_MatraU;
+    lookup MARK_BASE_MatraU.alt1;
+    lookup MARK_BASE_MatraUu;
 } blwm;
 
 #-------------

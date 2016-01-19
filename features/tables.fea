@@ -18,6 +18,7 @@ table OS/2 {
      0   # Basic Latin
      1   # Latin-1 Supplement
      2   # Latin Extended-A
+     20  # Tamil
      73  # Sinhala 0D80-0DFF
     ;
   # CodePageRange;
@@ -89,6 +90,6 @@ table GDEF {
   # 4. Components: part of single character, spacing glyphs.
 
   # GlyphClassDef , , @generated_MARKS, ;
-  GlyphClassDef , , , ;
+  GlyphClassDef , , @generated_MARKS, ;
 
 } GDEF;
