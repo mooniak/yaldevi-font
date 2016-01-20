@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_Pa" format="1">
-  <advance width="510"/>
+  <advance width="530"/>
   <unicode hex="0BAA"/>
   <outline>
     <contour>
-      <point x="442" y="560" type="move" name="MatraIi"/>
+      <point x="452" y="560" type="move" name="MatraIi"/>
     </contour>
     <contour>
-      <point x="372" y="530" type="move" name="MatraI.alt3"/>
+      <point x="382" y="530" type="move" name="MatraI.alt3"/>
     </contour>
     <contour>
-      <point x="262" y="0" type="move" name="virama"/>
+      <point x="272" y="0" type="move" name="virama"/>
     </contour>
     <contour>
-      <point x="371" y="33" type="move" name="MatraU.alt1"/>
+      <point x="381" y="33" type="move" name="MatraU.alt1"/>
     </contour>
     <contour>
-      <point x="30" y="1" type="line"/>
-      <point x="30" y="560" type="line"/>
-      <point x="137" y="560" type="line"/>
-      <point x="137" y="99" type="line"/>
-      <point x="372" y="99" type="line"/>
-      <point x="372" y="560" type="line"/>
-      <point x="480" y="560" type="line"/>
-      <point x="480" y="1" type="line"/>
+      <point x="40" y="1" type="line"/>
+      <point x="40" y="560" type="line"/>
+      <point x="147" y="560" type="line"/>
+      <point x="147" y="99" type="line"/>
+      <point x="382" y="99" type="line"/>
+      <point x="382" y="560" type="line"/>
+      <point x="490" y="560" type="line"/>
+      <point x="490" y="1" type="line"/>
     </contour>
   </outline>
 </glyph>

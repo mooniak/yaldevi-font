@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_Nga" format="1">
-  <advance width="750"/>
+  <advance width="770"/>
   <unicode hex="0B99"/>
   <outline>
     <contour>
-      <point x="663" y="560" type="move" name="MatraIi"/>
+      <point x="673" y="560" type="move" name="MatraIi"/>
     </contour>
     <contour>
-      <point x="350" y="0" type="move" name="virama"/>
+      <point x="360" y="0" type="move" name="virama"/>
     </contour>
     <contour>
-      <point x="611" y="33" type="move" name="MatraU.alt1"/>
+      <point x="621" y="33" type="move" name="MatraU.alt1"/>
     </contour>
     <contour>
-      <point x="639" y="560" type="move" name="MatraI.alt4"/>
+      <point x="649" y="560" type="move" name="MatraI.alt4"/>
     </contour>
     <contour>
-      <point x="30" y="0" type="line"/>
-      <point x="30" y="560" type="line"/>
-      <point x="440" y="560" type="line"/>
-      <point x="440" y="462" type="line"/>
-      <point x="338" y="462" type="line"/>
-      <point x="338" y="164" type="line"/>
-      <point x="230" y="164" type="line"/>
-      <point x="230" y="462" type="line"/>
-      <point x="137" y="462" type="line"/>
-      <point x="137" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="560" type="line"/>
+      <point x="450" y="560" type="line"/>
+      <point x="450" y="462" type="line"/>
+      <point x="348" y="462" type="line"/>
+      <point x="348" y="164" type="line"/>
+      <point x="240" y="164" type="line"/>
+      <point x="240" y="462" type="line"/>
+      <point x="147" y="462" type="line"/>
+      <point x="147" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="228" y="98" type="line"/>
-      <point x="697" y="97" type="line"/>
-      <point x="697" y="0" type="line"/>
-      <point x="228" y="0" type="line"/>
+      <point x="238" y="98" type="line"/>
+      <point x="707" y="97" type="line"/>
+      <point x="707" y="0" type="line"/>
+      <point x="238" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="298" y="98" type="line"/>
-      <point x="415" y="98"/>
-      <point x="443" y="187"/>
-      <point x="443" y="240" type="curve" smooth="yes"/>
-      <point x="443" y="283"/>
-      <point x="424" y="317"/>
-      <point x="387" y="317" type="curve" smooth="yes"/>
-      <point x="348" y="317"/>
-      <point x="338" y="279"/>
-      <point x="338" y="254" type="curve"/>
-      <point x="289" y="285" type="line"/>
-      <point x="289" y="358"/>
-      <point x="340" y="408"/>
-      <point x="413" y="408" type="curve" smooth="yes"/>
-      <point x="491" y="408"/>
-      <point x="548" y="352"/>
-      <point x="548" y="257" type="curve" smooth="yes"/>
-      <point x="548" y="136"/>
-      <point x="454" y="22"/>
-      <point x="307" y="22" type="curve"/>
+      <point x="308" y="98" type="line"/>
+      <point x="425" y="98"/>
+      <point x="453" y="187"/>
+      <point x="453" y="240" type="curve" smooth="yes"/>
+      <point x="453" y="283"/>
+      <point x="434" y="317"/>
+      <point x="397" y="317" type="curve" smooth="yes"/>
+      <point x="358" y="317"/>
+      <point x="348" y="279"/>
+      <point x="348" y="254" type="curve"/>
+      <point x="299" y="285" type="line"/>
+      <point x="299" y="358"/>
+      <point x="350" y="408"/>
+      <point x="423" y="408" type="curve" smooth="yes"/>
+      <point x="501" y="408"/>
+      <point x="558" y="352"/>
+      <point x="558" y="257" type="curve" smooth="yes"/>
+      <point x="558" y="136"/>
+      <point x="464" y="22"/>
+      <point x="317" y="22" type="curve"/>
     </contour>
     <contour>
-      <point x="613" y="560" type="line"/>
-      <point x="720" y="560" type="line"/>
-      <point x="720" y="0" type="line"/>
-      <point x="613" y="0" type="line"/>
+      <point x="623" y="560" type="line"/>
+      <point x="730" y="560" type="line"/>
+      <point x="730" y="0" type="line"/>
+      <point x="623" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

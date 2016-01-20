@@ -12,10 +12,10 @@ lookup blwmBelowBaseMarkinTamillookup1 {
   markClass [\tml_MatraUu ] <anchor -166 560> @MatraUu;
   pos base [\tml_Ha ] <anchor 1038 573> mark @MatraUu
 	<anchor 1038 573> mark @MatraU;
-  pos base [\tml_Ja ] <anchor 553 581> mark @MatraUu
-	<anchor 553 581> mark @MatraU;
-  pos base [\tml_Nga ] <anchor 629 33> mark @MatraU.alt1;
-  pos base [\tml_Pa ] <anchor 438 33> mark @MatraU.alt1;
+  pos base [\tml_Ja ] <anchor 573 581> mark @MatraUu
+	<anchor 573 581> mark @MatraU;
+  pos base [\tml_Nga ] <anchor 639 33> mark @MatraU.alt1;
+  pos base [\tml_Pa ] <anchor 448 33> mark @MatraU.alt1;
   pos base [\tml_Sha ] <anchor 546 560> mark @MatraUu
 	<anchor 546 560> mark @MatraU;
   pos base [\tml_Va ] <anchor 615 33> mark @MatraU.alt1;
@@ -24,23 +24,23 @@ lookup blwmBelowBaseMarkinTamillookup1 {
 
 lookup abvmAboveBaseMarkinTamillookup0 {
   lookupflag 0;
-  markClass [\tml_MatraIi.alt3 ] <anchor 193 543> @MatraIi.alt3;
-  markClass [\tml_MatraI.alt4 ] <anchor -83 560> @MatraI.alt4;
-  markClass [\tml_MatraI.alt3 ] <anchor -111 499> @MatraI.alt3;
-  markClass [\tml_MatraI.alt5 ] <anchor -143 573> @MatraI.alt5;
-  markClass [\tml_MatraIi.alt2 ] <anchor 179 584> @MatraIi.alt2;
+  markClass [\tml_MatraIi.alt3 ] <anchor 0 543> @MatraIi.alt3;
+  markClass [\tml_MatraI.alt4 ] <anchor -80 560> @MatraI.alt4;
+  markClass [\tml_MatraI.alt3 ] <anchor -82 499> @MatraI.alt3;
+  markClass [\tml_MatraI.alt5 ] <anchor -177 573> @MatraI.alt5;
+  markClass [\tml_MatraIi.alt2 ] <anchor 0 584> @MatraIi.alt2;
   markClass [\tml_MatraAi.alt ] <anchor 421 189> @MatraAi.alt;
-  markClass [\tml_MatraI.alt1 ] <anchor 150 560> @MatraI.alt1;
-  markClass [\tml_MatraI.alt8 ] <anchor 140 561> @MatraI.alt8;
-  markClass [\tml_MatraI.alt7 ] <anchor 249 562> @MatraI.alt7;
-  markClass [\tml_MatraIi.alt1 ] <anchor 158 556> @MatraIi.alt1;
-  markClass [\tml_MatraI.alt6 ] <anchor -129 561> @MatraI.alt6;
+  markClass [\tml_MatraI.alt1 ] <anchor -190 560> @MatraI.alt1;
+  markClass [\tml_MatraI.alt8 ] <anchor -204 561> @MatraI.alt8;
+  markClass [\tml_MatraI.alt7 ] <anchor -120 562> @MatraI.alt7;
+  markClass [\tml_MatraIi.alt1 ] <anchor 0 556> @MatraIi.alt1;
+  markClass [\tml_MatraI.alt6 ] <anchor -146 561> @MatraI.alt6;
   markClass [\tml_MatraIi.stylalt1 ] <anchor 175 304> @MatraIi.stylalt1;
-  markClass [\tml_MatraI.alt2 ] <anchor 178 560> @MatraI.alt2;
+  markClass [\tml_MatraI.alt2 ] <anchor -87 560> @MatraI.alt2;
   markClass [\tml_Virama ] <anchor 0 0> @virama;
   markClass [\tml_MatraI.stylalt1 ] <anchor 175 304> @MatraI.stylalt1;
-  markClass [\tml_MatraIi ] <anchor 145 560> @MatraIi;
-  pos base [\tml_Ca \tml_Ka ] <anchor 462 560> mark @MatraIi
+  markClass [\tml_MatraIi ] <anchor 0 560> @MatraIi;
+  pos base [\tml_Ca ] <anchor 462 560> mark @MatraIi
 	<anchor 109 304> mark @MatraI.stylalt1
 	<anchor 367 0> mark @virama
 	<anchor 462 560> mark @MatraI.alt2
@@ -48,16 +48,22 @@ lookup abvmAboveBaseMarkinTamillookup0 {
   pos base [\tml_Ha ] <anchor 600 0> mark @virama
 	<anchor 1107 561> mark @MatraI.alt6
 	<anchor 1118 556> mark @MatraIi.alt1;
-  pos base [\tml_Ja ] <anchor 636 562> mark @MatraI.alt7
-	<anchor 381 0> mark @virama
-	<anchor 646 556> mark @MatraIi.alt1;
-  pos base [\tml_KSsa ] <anchor 1176 556> mark @MatraIi.alt1
-	<anchor 1168 561> mark @MatraI.alt8
-	<anchor 738 0> mark @virama;
-  pos base [\tml_La ] <anchor 390 0> mark @virama
-	<anchor 33 190> mark @MatraAi.alt
-	<anchor 589 584> mark @MatraIi.alt2
-	<anchor 572 573> mark @MatraI.alt5;
+  pos base [\tml_Ja ] <anchor 656 562> mark @MatraI.alt7
+	<anchor 401 0> mark @virama
+	<anchor 666 556> mark @MatraIi.alt1;
+  pos base [\tml_KSsa ] <anchor 1171 556> mark @MatraIi.alt1
+	<anchor 1163 561> mark @MatraI.alt8
+	<anchor 733 0> mark @virama;
+  pos base [\tml_Ka ] <anchor 472 560> mark @MatraIi
+	<anchor 119 304> mark @MatraI.stylalt1
+	<anchor 383 0> mark @virama
+	<anchor 472 560> mark @MatraI.alt2
+	<anchor 119 304> mark @MatraIi.stylalt1
+	<anchor 472 560> mark @MatraI.alt1;
+  pos base [\tml_La ] <anchor 400 0> mark @virama
+	<anchor 43 190> mark @MatraAi.alt
+	<anchor 599 584> mark @MatraIi.alt2
+	<anchor 582 573> mark @MatraI.alt5;
   pos base [\tml_Lla ] <anchor 792 560> mark @MatraIi
 	<anchor 43 190> mark @MatraAi.alt
 	<anchor 451 0> mark @virama
@@ -68,15 +74,16 @@ lookup abvmAboveBaseMarkinTamillookup0 {
   pos base [\tml_Ma ] <anchor 459 556> mark @MatraIi.alt1
 	<anchor 447 561> mark @MatraI.alt6
 	<anchor 256 0> mark @virama;
-  pos base [\tml_Na ] <anchor 291 0> mark @virama
+  pos base [\tml_Na ] <anchor 386 560> mark @MatraIi
+	<anchor 291 0> mark @virama
 	<anchor 396 560> mark @MatraI.alt1;
-  pos base [\tml_Nga ] <anchor 640 560> mark @MatraIi
-	<anchor 350 0> mark @virama
-	<anchor 634 560> mark @MatraI.alt4;
-  pos base [\tml_Nna ] <anchor 1206 561> mark @MatraIi
-	<anchor 32 190> mark @MatraAi.alt
-	<anchor 695 0> mark @virama
-	<anchor 1196 561> mark @MatraI.alt2;
+  pos base [\tml_Nga ] <anchor 650 560> mark @MatraIi
+	<anchor 360 0> mark @virama
+	<anchor 644 560> mark @MatraI.alt4;
+  pos base [\tml_Nna ] <anchor 1216 561> mark @MatraIi
+	<anchor 42 190> mark @MatraAi.alt
+	<anchor 705 0> mark @virama
+	<anchor 1206 561> mark @MatraI.alt2;
   pos base [\tml_Nnna ] <anchor 862 561> mark @MatraIi
 	<anchor 33 190> mark @MatraAi.alt
 	<anchor 589 584> mark @MatraIi.alt2
@@ -86,15 +93,15 @@ lookup abvmAboveBaseMarkinTamillookup0 {
   pos base [\tml_Nya ] <anchor 709 560> mark @MatraIi
 	<anchor 709 560> mark @MatraI.alt1
 	<anchor 520 0> mark @virama;
-  pos base [\tml_Pa ] <anchor 456 560> mark @MatraIi
-	<anchor 437 500> mark @MatraI.alt3
-	<anchor 258 0> mark @virama;
+  pos base [\tml_Pa ] <anchor 466 560> mark @MatraIi
+	<anchor 447 500> mark @MatraI.alt3
+	<anchor 268 0> mark @virama;
   pos base [\tml_Ra ] <anchor 399 560> mark @MatraIi
 	<anchor 399 560> mark @MatraI.alt2
 	<anchor 220 0> mark @virama;
-  pos base [\tml_Rra ] <anchor 533 556> mark @MatraIi.alt1
-	<anchor 522 561> mark @MatraI.alt6
-	<anchor 321 0> mark @virama;
+  pos base [\tml_Rra ] <anchor 543 556> mark @MatraIi.alt1
+	<anchor 532 561> mark @MatraI.alt6
+	<anchor 331 0> mark @virama;
   pos base [\tml_Sa ] <anchor 440 0> mark @virama;
   pos base [\tml_Sha ] <anchor 380 0> mark @virama
 	<anchor 629 543> mark @MatraIi.alt3
@@ -139,23 +146,23 @@ feature abvm {
       lookup abvmAboveBaseMarkinTamillookup0;
 } abvm;
 
-@GDEF_Simple = [\newGlyph.001 \space \tml_A \tml_A.001 \tml_Aa \tml_Above \tml_Ai 
-	\tml_Anusvara \tml_Au \tml_AuLengthmark \tml_CU \tml_CUu \tml_Ca \tml_Credit 
-	\tml_Day \tml_Debit \tml_E \tml_Ee \tml_Eight \tml_Five \tml_Four \tml_Ha 
-	\tml_Hundred \tml_I \tml_Ii \tml_Ja \tml_KSsU \tml_KSsUu \tml_KSsa \tml_KU 
-	\tml_KUu \tml_Ka \tml_LU \tml_LUu \tml_La \tml_LlU \tml_LlUu \tml_Lla \tml_LllU 
-	\tml_LllUu \tml_Llla \tml_MU \tml_MUu \tml_Ma \tml_MatraAa \tml_MatraAi 
-	\tml_MatraAu \tml_MatraE \tml_MatraEe \tml_MatraI \tml_MatraO \tml_MatraOo 
-	\tml_MatraU \tml_MatraU.alt1 \tml_MatraUu \tml_Month \tml_NU \tml_NUu \tml_Na 
-	\tml_NgUu \tml_Nga \tml_Nine \tml_NnAa.alt \tml_NnU \tml_NnUu \tml_Nna 
-	\tml_NnnAa.alt \tml_NnnU \tml_NnnUu \tml_Nnna \tml_Number \tml_NyU \tml_NyUu 
-	\tml_Nya \tml_O \tml_Om \tml_One \tml_Oo \tml_PUu \tml_Pa \tml_RI.alt 
-	\tml_RIi.alt \tml_RU \tml_RUu \tml_Ra \tml_Ra.alt \tml_RrAa.alt \tml_RrU 
-	\tml_RrUu \tml_Rra \tml_Rupee \tml_SI \tml_SIi \tml_SU \tml_SUu \tml_Sa 
-	\tml_Seven \tml_Sha \tml_Shree \tml_Six \tml_SsU \tml_SsUu \tml_Ssa \tml_TU 
-	\tml_TUu \tml_Ta \tml_Ten \tml_Thousand \tml_Three \tml_TtI \tml_TtIi \tml_TtU 
-	\tml_TtUu \tml_Tta \tml_Two \tml_U \tml_Uu \tml_VUu \tml_Va \tml_Visarga 
-	\tml_YUu \tml_Ya \tml_Year \tml_Zero ];
+@GDEF_Simple = [\space \tml_A \tml_Aa \tml_Above \tml_Ai \tml_Anusvara \tml_Au 
+	\tml_AuLengthmark \tml_CU \tml_CUu \tml_Ca \tml_Credit \tml_Day \tml_Debit 
+	\tml_E \tml_Ee \tml_Eight \tml_Five \tml_Four \tml_Ha \tml_Hundred \tml_I 
+	\tml_Ii \tml_Ja \tml_KSsU \tml_KSsUu \tml_KSsa \tml_KU \tml_KUu \tml_Ka \tml_LU 
+	\tml_LUu \tml_La \tml_LlU \tml_LlUu \tml_Lla \tml_LllU \tml_LllUu \tml_Llla 
+	\tml_MU \tml_MUu \tml_Ma \tml_MatraAa \tml_MatraAi \tml_MatraAu \tml_MatraE 
+	\tml_MatraEe \tml_MatraI \tml_MatraO \tml_MatraOo \tml_MatraU 
+	\tml_MatraU.alt1 \tml_MatraUu \tml_Month \tml_NU \tml_NUu \tml_Na \tml_NgUu 
+	\tml_Nga \tml_Nine \tml_NnAa.alt \tml_NnU \tml_NnUu \tml_Nna \tml_NnnAa.alt 
+	\tml_NnnU \tml_NnnUu \tml_Nnna \tml_Number \tml_NyU \tml_NyUu \tml_Nya \tml_O 
+	\tml_Om \tml_One \tml_Oo \tml_PUu \tml_Pa \tml_RI.alt \tml_RIi.alt \tml_RU 
+	\tml_RUu \tml_Ra \tml_Ra.alt \tml_RrAa.alt \tml_RrU \tml_RrUu \tml_Rra 
+	\tml_Rupee \tml_SI \tml_SIi \tml_SU \tml_SUu \tml_Sa \tml_Seven \tml_Sha 
+	\tml_Shree \tml_Six \tml_SsU \tml_SsUu \tml_Ssa \tml_TU \tml_TUu \tml_Ta 
+	\tml_Ten \tml_Thousand \tml_Three \tml_TtI \tml_TtIi \tml_TtU \tml_TtUu 
+	\tml_Tta \tml_Two \tml_U \tml_Uu \tml_VUu \tml_Va \tml_Visarga \tml_YUu \tml_Ya 
+	\tml_Year \tml_Zero ];
 @GDEF_Mark = [\tml_MatraAi.alt \tml_MatraI.alt1 \tml_MatraI.alt2 
 	\tml_MatraI.alt3 \tml_MatraI.alt4 \tml_MatraI.alt5 \tml_MatraI.alt6 
 	\tml_MatraI.alt7 \tml_MatraI.alt8 \tml_MatraI.stylalt1 \tml_MatraIi 
