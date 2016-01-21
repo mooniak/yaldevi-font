@@ -4,6 +4,6 @@
   <unicode hex="0BCC"/>
   <outline>
     <component base="tml_MatraE"/>
-    <component base="tml_Lla" xOffset="600"/>
+    <component base="tml_AuLengthmark" xOffset="600"/>
   </outline>
 </glyph>

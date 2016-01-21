@@ -3,7 +3,7 @@
   <advance width="1171"/>
   <unicode hex="0BCA"/>
   <outline>
-    <component base="tml_MatraAa"/>
-    <component base="tml_MatraE" xOffset="560"/>
+    <component base="tml_MatraE"/>
+    <component base="tml_MatraAa" xOffset="611"/>
   </outline>
 </glyph>

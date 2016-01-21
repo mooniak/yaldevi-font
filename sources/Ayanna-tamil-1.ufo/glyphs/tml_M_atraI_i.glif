@@ -4,9 +4,6 @@
   <unicode hex="0BC0"/>
   <outline>
     <contour>
-      <point x="0" y="560" type="move" name="_MatraIi"/>
-    </contour>
-    <contour>
       <point x="0" y="467" type="line" smooth="yes"/>
       <point x="-67" y="467"/>
       <point x="-179" y="519"/>
@@ -45,6 +42,9 @@
       <point x="-75" y="600"/>
       <point x="-44" y="561"/>
       <point x="0" y="560" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="0" y="560" type="move" name="_MatraIi"/>
     </contour>
   </outline>
 </glyph>

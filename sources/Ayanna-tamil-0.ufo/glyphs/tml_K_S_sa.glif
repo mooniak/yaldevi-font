@@ -3,15 +3,6 @@
   <advance width="1367"/>
   <outline>
     <contour>
-      <point x="1171" y="556" type="move" name="MatraIi.alt1"/>
-    </contour>
-    <contour>
-      <point x="1163" y="561" type="move" name="MatraI.alt8"/>
-    </contour>
-    <contour>
-      <point x="733" y="0" type="move" name="virama"/>
-    </contour>
-    <contour>
       <point x="832" y="1" type="line"/>
       <point x="832" y="34" type="line"/>
       <point x="881" y="43" type="line"/>
@@ -92,6 +83,15 @@
       <point x="723" y="-20"/>
       <point x="640" y="-20" type="curve" smooth="yes"/>
     </contour>
-    <component base="tml_Ca" xOffset="10.0001"/>
+    <component base="tml_Ca" xOffset="10"/>
+    <contour>
+      <point x="1171" y="556" type="move" name="MatraIi.alt1"/>
+    </contour>
+    <contour>
+      <point x="1163" y="561" type="move" name="MatraI.alt8"/>
+    </contour>
+    <contour>
+      <point x="733" y="0" type="move" name="virama"/>
+    </contour>
   </outline>
 </glyph>
