@@ -4,6 +4,9 @@
   <unicode hex="0BCD"/>
   <outline>
     <contour>
+      <point x="0" y="0" type="move" name="_virama"/>
+    </contour>
+    <contour>
       <point x="-40" y="636"/>
       <point x="-74" y="670"/>
       <point x="-74" y="710" type="curve" smooth="yes"/>
@@ -17,23 +20,20 @@
       <point x="40" y="636"/>
       <point x="0" y="636" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="0" y="0" type="move" name="_virama"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
+          <key>y</key>
+          <integer>710</integer>
+          <key>x</key>
+          <integer>-183</integer>
           <key>angle</key>
           <integer>0</integer>
           <key>isGlobal</key>
           <false/>
-          <key>x</key>
-          <integer>-183</integer>
-          <key>y</key>
-          <integer>710</integer>
         </dict>
       </array>
     </dict>

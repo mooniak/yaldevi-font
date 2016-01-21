@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_Na" format="1">
-  <advance width="632"/>
+  <advance width="662"/>
   <unicode hex="0BA8"/>
   <outline>
     <contour>
-      <point x="33" y="1" type="line"/>
-      <point x="33" y="560" type="line"/>
-      <point x="482" y="560" type="line"/>
-      <point x="482" y="462" type="line"/>
-      <point x="379" y="462" type="line"/>
-      <point x="379" y="1" type="line"/>
-      <point x="271" y="1" type="line"/>
-      <point x="271" y="462" type="line"/>
-      <point x="140" y="462" type="line"/>
-      <point x="140" y="1" type="line"/>
+      <point x="457" y="560" type="move" name="MatraIi"/>
     </contour>
     <contour>
-      <point x="31" y="-129"/>
-      <point x="73" y="-61"/>
-      <point x="223" y="-61" type="curve" smooth="yes"/>
-      <point x="327" y="-61" type="line" smooth="yes"/>
-      <point x="440" y="-60"/>
-      <point x="504" y="-1"/>
-      <point x="499" y="123" type="curve" smooth="yes"/>
-      <point x="499" y="200"/>
-      <point x="480" y="266"/>
-      <point x="428" y="266" type="curve" smooth="yes"/>
-      <point x="385" y="266"/>
-      <point x="379" y="218"/>
-      <point x="379" y="179" type="curve"/>
-      <point x="310" y="220" type="line"/>
-      <point x="312" y="265"/>
-      <point x="350" y="359"/>
-      <point x="439" y="358" type="curve" smooth="yes"/>
-      <point x="558" y="357"/>
-      <point x="602" y="253"/>
-      <point x="602" y="118" type="curve" smooth="yes"/>
-      <point x="602" y="-46"/>
-      <point x="521" y="-155"/>
-      <point x="333" y="-157" type="curve" smooth="yes"/>
-      <point x="229" y="-158" type="line" smooth="yes"/>
-      <point x="131" y="-159"/>
-      <point x="141" y="-197"/>
-      <point x="140" y="-236" type="curve"/>
-      <point x="30" y="-236" type="line"/>
+      <point x="472" y="560" type="move" name="MatraI.alt1"/>
     </contour>
     <contour>
-      <point x="427" y="560" type="move" name="MatraIi"/>
+      <point x="358" y="0" type="move" name="virama"/>
     </contour>
     <contour>
-      <point x="442" y="560" type="move" name="MatraI.alt1"/>
+      <point x="63" y="1" type="line"/>
+      <point x="63" y="560" type="line"/>
+      <point x="512" y="560" type="line"/>
+      <point x="512" y="462" type="line"/>
+      <point x="409" y="462" type="line"/>
+      <point x="409" y="1" type="line"/>
+      <point x="301" y="1" type="line"/>
+      <point x="301" y="462" type="line"/>
+      <point x="170" y="462" type="line"/>
+      <point x="170" y="1" type="line"/>
     </contour>
     <contour>
-      <point x="328" y="0" type="move" name="virama"/>
+      <point x="61" y="-129"/>
+      <point x="103" y="-61"/>
+      <point x="253" y="-61" type="curve" smooth="yes"/>
+      <point x="357" y="-61" type="line" smooth="yes"/>
+      <point x="470" y="-60"/>
+      <point x="534" y="-1"/>
+      <point x="529" y="123" type="curve" smooth="yes"/>
+      <point x="529" y="200"/>
+      <point x="510" y="266"/>
+      <point x="458" y="266" type="curve" smooth="yes"/>
+      <point x="415" y="266"/>
+      <point x="409" y="218"/>
+      <point x="409" y="179" type="curve"/>
+      <point x="340" y="220" type="line"/>
+      <point x="342" y="265"/>
+      <point x="380" y="359"/>
+      <point x="469" y="358" type="curve" smooth="yes"/>
+      <point x="588" y="357"/>
+      <point x="632" y="253"/>
+      <point x="632" y="118" type="curve" smooth="yes"/>
+      <point x="632" y="-46"/>
+      <point x="551" y="-155"/>
+      <point x="363" y="-157" type="curve" smooth="yes"/>
+      <point x="259" y="-158" type="line" smooth="yes"/>
+      <point x="161" y="-159"/>
+      <point x="171" y="-197"/>
+      <point x="170" y="-236" type="curve"/>
+      <point x="60" y="-236" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -60,14 +60,14 @@
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
+          <key>y</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>150</integer>
           <key>angle</key>
           <integer>90</integer>
           <key>isGlobal</key>
           <false/>
-          <key>x</key>
-          <integer>150</integer>
-          <key>y</key>
-          <integer>1</integer>
         </dict>
       </array>
     </dict>

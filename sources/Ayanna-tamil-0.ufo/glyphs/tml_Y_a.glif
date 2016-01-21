@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_Ya" format="1">
-  <advance width="648"/>
+  <advance width="680"/>
   <unicode hex="0BAF"/>
   <outline>
     <contour>
-      <point x="180" y="-17" type="curve" smooth="yes"/>
-      <point x="88" y="-24"/>
-      <point x="30" y="39"/>
-      <point x="30" y="141" type="curve" smooth="yes"/>
-      <point x="30" y="560" type="line"/>
-      <point x="72" y="560" type="line"/>
-      <point x="72" y="179" type="line" smooth="yes"/>
-      <point x="72" y="141"/>
-      <point x="64" y="25"/>
-      <point x="172" y="25" type="curve" smooth="yes"/>
-      <point x="244" y="25"/>
-      <point x="290" y="76"/>
-      <point x="290" y="170" type="curve"/>
-      <point x="322" y="159" type="line"/>
-      <point x="322" y="32"/>
-      <point x="251" y="-12"/>
+      <point x="608" y="560" type="move" name="MatraIi"/>
     </contour>
     <contour>
-      <point x="303" y="0" type="line"/>
-      <point x="290" y="57" type="line"/>
-      <point x="290" y="560" type="line"/>
-      <point x="332" y="560" type="line"/>
-      <point x="332" y="42" type="line"/>
-      <point x="576" y="42" type="line"/>
-      <point x="576" y="560" type="line"/>
-      <point x="618" y="560" type="line"/>
-      <point x="618" y="0" type="line"/>
+      <point x="589" y="500" type="move" name="MatraI.alt3"/>
     </contour>
     <contour>
-      <point x="596" y="560" type="move" name="MatraIi"/>
+      <point x="325" y="0" type="move" name="virama"/>
     </contour>
     <contour>
-      <point x="577" y="500" type="move" name="MatraI.alt3"/>
+      <point x="588" y="33" type="move" name="MatraU.alt1"/>
     </contour>
     <contour>
-      <point x="313" y="0" type="move" name="virama"/>
+      <point x="192" y="-17" type="curve" smooth="yes"/>
+      <point x="100" y="-24"/>
+      <point x="42" y="39"/>
+      <point x="42" y="141" type="curve" smooth="yes"/>
+      <point x="42" y="560" type="line"/>
+      <point x="84" y="560" type="line"/>
+      <point x="84" y="179" type="line" smooth="yes"/>
+      <point x="84" y="141"/>
+      <point x="76" y="25"/>
+      <point x="184" y="25" type="curve" smooth="yes"/>
+      <point x="256" y="25"/>
+      <point x="302" y="76"/>
+      <point x="302" y="170" type="curve"/>
+      <point x="334" y="159" type="line"/>
+      <point x="334" y="32"/>
+      <point x="263" y="-12"/>
     </contour>
     <contour>
-      <point x="576" y="33" type="move" name="MatraU.alt1"/>
+      <point x="315" y="0" type="line"/>
+      <point x="302" y="57" type="line"/>
+      <point x="302" y="560" type="line"/>
+      <point x="344" y="560" type="line"/>
+      <point x="344" y="42" type="line"/>
+      <point x="588" y="42" type="line"/>
+      <point x="588" y="560" type="line"/>
+      <point x="630" y="560" type="line"/>
+      <point x="630" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

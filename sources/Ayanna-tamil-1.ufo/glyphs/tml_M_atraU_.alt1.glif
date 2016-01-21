@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_MatraU.alt1" format="1">
-  <advance width="169"/>
+  <advance width="0"/>
   <outline>
     <contour>
-      <point x="30" y="-153" type="line"/>
-      <point x="30" y="33" type="line"/>
-      <point x="139" y="33" type="line"/>
-      <point x="139" y="-153" type="line"/>
+      <point x="-169" y="33" type="move" name="_MatraU.alt1"/>
     </contour>
     <contour>
-      <point x="30" y="33" type="move" name="_MatraU.alt1"/>
+      <point x="-169" y="-153" type="line"/>
+      <point x="-169" y="33" type="line"/>
+      <point x="-60" y="33" type="line"/>
+      <point x="-60" y="-153" type="line"/>
     </contour>
   </outline>
 </glyph>

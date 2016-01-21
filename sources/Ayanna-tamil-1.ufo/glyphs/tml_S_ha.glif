@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_Sha" format="1">
-  <advance width="776"/>
+  <advance width="803"/>
   <unicode hex="0BB6"/>
   <outline>
     <contour>
-      <point x="30" y="560" type="line"/>
-      <point x="137" y="560" type="line"/>
-      <point x="137" y="153" type="line" smooth="yes"/>
-      <point x="137" y="108"/>
-      <point x="152" y="83"/>
-      <point x="182" y="83" type="curve" smooth="yes"/>
-      <point x="216" y="83"/>
-      <point x="230" y="105"/>
-      <point x="230" y="153" type="curve" smooth="yes"/>
-      <point x="230" y="560" type="line"/>
-      <point x="337" y="560" type="line"/>
-      <point x="337" y="153" type="line" smooth="yes"/>
-      <point x="337" y="41"/>
-      <point x="282" y="-17"/>
-      <point x="180" y="-17" type="curve" smooth="yes"/>
-      <point x="83" y="-17"/>
-      <point x="30" y="46"/>
-      <point x="30" y="153" type="curve" smooth="yes"/>
+      <point x="607.991" y="558" type="move" name="MatraI.alt1"/>
     </contour>
     <contour>
-      <point x="230" y="462" type="line"/>
-      <point x="230" y="560" type="line"/>
-      <point x="552" y="560" type="line"/>
-      <point x="561" y="462" type="line"/>
+      <point x="401.991" y="0" type="move" name="virama"/>
     </contour>
     <contour>
-      <point x="504" y="-15"/>
-      <point x="425" y="15"/>
-      <point x="425" y="143" type="curve" smooth="yes"/>
-      <point x="425" y="545" type="line"/>
-      <point x="530" y="545" type="line"/>
-      <point x="530" y="143" type="line" smooth="yes"/>
-      <point x="530" y="95"/>
-      <point x="561" y="86"/>
-      <point x="578" y="86" type="curve" smooth="yes"/>
-      <point x="623" y="86"/>
-      <point x="645" y="156"/>
-      <point x="645" y="284" type="curve" smooth="yes"/>
-      <point x="645" y="427"/>
-      <point x="618" y="463"/>
-      <point x="556" y="462" type="curve"/>
-      <point x="547" y="560" type="line"/>
-      <point x="669" y="560"/>
-      <point x="750" y="521"/>
-      <point x="749" y="284" type="curve" smooth="yes"/>
-      <point x="748" y="96"/>
-      <point x="685" y="-15"/>
-      <point x="575" y="-15" type="curve" smooth="yes"/>
+      <point x="662.991" y="542" type="move" name="MatraIi.alt3"/>
     </contour>
     <contour>
-      <point x="596" y="558" type="move" name="MatraI.alt1"/>
+      <point x="571.991" y="560" type="move" name="MatraU"/>
     </contour>
     <contour>
-      <point x="390" y="0" type="move" name="virama"/>
+      <point x="571.991" y="560" type="move" name="MatraUu"/>
     </contour>
     <contour>
-      <point x="651" y="542" type="move" name="MatraIi.alt3"/>
+      <point x="41.9912" y="560" type="line"/>
+      <point x="148.991" y="560" type="line"/>
+      <point x="148.991" y="153" type="line" smooth="yes"/>
+      <point x="148.991" y="108"/>
+      <point x="163.991" y="83"/>
+      <point x="193.991" y="83" type="curve" smooth="yes"/>
+      <point x="227.991" y="83"/>
+      <point x="241.991" y="105"/>
+      <point x="241.991" y="153" type="curve" smooth="yes"/>
+      <point x="241.991" y="560" type="line"/>
+      <point x="348.991" y="560" type="line"/>
+      <point x="348.991" y="153" type="line" smooth="yes"/>
+      <point x="348.991" y="41"/>
+      <point x="293.991" y="-17"/>
+      <point x="191.991" y="-17" type="curve" smooth="yes"/>
+      <point x="94.9912" y="-17"/>
+      <point x="41.9912" y="46"/>
+      <point x="41.9912" y="153" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="560" y="560" type="move" name="MatraU"/>
+      <point x="241.991" y="462" type="line"/>
+      <point x="241.991" y="560" type="line"/>
+      <point x="563.991" y="560" type="line"/>
+      <point x="572.991" y="462" type="line"/>
     </contour>
     <contour>
-      <point x="560" y="560" type="move" name="MatraUu"/>
+      <point x="515.991" y="-15"/>
+      <point x="436.991" y="15"/>
+      <point x="436.991" y="143" type="curve" smooth="yes"/>
+      <point x="436.991" y="545" type="line"/>
+      <point x="541.991" y="545" type="line"/>
+      <point x="541.991" y="143" type="line" smooth="yes"/>
+      <point x="541.991" y="95"/>
+      <point x="572.991" y="86"/>
+      <point x="589.991" y="86" type="curve" smooth="yes"/>
+      <point x="634.991" y="86"/>
+      <point x="656.991" y="156"/>
+      <point x="656.991" y="284" type="curve" smooth="yes"/>
+      <point x="656.991" y="427"/>
+      <point x="629.991" y="463"/>
+      <point x="567.991" y="462" type="curve"/>
+      <point x="558.991" y="560" type="line"/>
+      <point x="680.991" y="560"/>
+      <point x="761.991" y="521"/>
+      <point x="760.991" y="284" type="curve" smooth="yes"/>
+      <point x="759.991" y="96"/>
+      <point x="696.991" y="-15"/>
+      <point x="586.991" y="-15" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

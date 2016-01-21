@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_Four" format="1">
-  <advance width="697"/>
+  <advance width="731"/>
   <unicode hex="0BEA"/>
   <outline>
     <contour>
-      <point x="586" y="341" type="line"/>
-      <point x="586" y="560" type="line"/>
-      <point x="677" y="560" type="line"/>
-      <point x="677" y="243" type="line"/>
-      <point x="459" y="243" type="line"/>
-      <point x="459" y="341" type="line"/>
+      <point x="598" y="341" type="line"/>
+      <point x="598" y="560" type="line"/>
+      <point x="689" y="560" type="line"/>
+      <point x="689" y="243" type="line"/>
+      <point x="471" y="243" type="line"/>
+      <point x="471" y="341" type="line"/>
     </contour>
-    <component base="tml_Ca"/>
+    <component base="tml_Ca" xOffset="12"/>
   </outline>
 </glyph>

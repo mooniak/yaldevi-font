@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_NUu" format="1">
-  <advance width="1371"/>
+  <advance width="1363"/>
   <outline>
     <contour>
-      <point x="1341" y="573" type="line"/>
-      <point x="1341" y="531" type="line"/>
-      <point x="1241" y="531" type="line"/>
-      <point x="1241" y="-13" type="line"/>
-      <point x="1199" y="-13" type="line"/>
-      <point x="1199" y="531" type="line"/>
-      <point x="1019" y="531" type="line"/>
-      <point x="1019" y="573" type="line"/>
+      <point x="1353" y="573" type="line"/>
+      <point x="1353" y="531" type="line"/>
+      <point x="1253" y="531" type="line"/>
+      <point x="1253" y="-13" type="line"/>
+      <point x="1211" y="-13" type="line"/>
+      <point x="1211" y="531" type="line"/>
+      <point x="1031" y="531" type="line"/>
+      <point x="1031" y="573" type="line"/>
     </contour>
-    <component base="tml_NU"/>
+    <component base="tml_NU" xOffset="12"/>
   </outline>
 </glyph>

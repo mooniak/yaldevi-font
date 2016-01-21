@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_CU" format="1">
-  <advance width="638"/>
+  <advance width="650"/>
   <outline>
     <contour>
       <point x="524" y="307" type="line"/>
@@ -14,6 +14,6 @@
       <point x="512" y="299" type="line"/>
       <point x="512" y="341" type="line"/>
     </contour>
-    <component base="tml_Ca"/>
+    <component base="tml_Ca" xOffset="0.000189808"/>
   </outline>
 </glyph>

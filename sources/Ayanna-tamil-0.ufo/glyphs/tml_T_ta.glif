@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_Tta" format="1">
-  <advance width="599"/>
+  <advance width="601"/>
   <unicode hex="0B9F"/>
   <outline>
     <contour>
-      <point x="45" y="1" type="line"/>
-      <point x="45" y="560" type="line"/>
-      <point x="87" y="560" type="line"/>
-      <point x="87" y="43" type="line"/>
-      <point x="554" y="43" type="line"/>
-      <point x="554" y="1" type="line"/>
+      <point x="324" y="0" type="move" name="virama"/>
     </contour>
     <contour>
-      <point x="319" y="0" type="move" name="virama"/>
+      <point x="50" y="1" type="line"/>
+      <point x="50" y="560" type="line"/>
+      <point x="92" y="560" type="line"/>
+      <point x="92" y="43" type="line"/>
+      <point x="559" y="43" type="line"/>
+      <point x="559" y="1" type="line"/>
     </contour>
   </outline>
 </glyph>

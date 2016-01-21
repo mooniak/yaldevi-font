@@ -3,15 +3,15 @@
   <advance width="1132"/>
   <outline>
     <contour>
-      <point x="1102" y="560" type="line"/>
-      <point x="1102" y="518" type="line"/>
-      <point x="1002" y="518" type="line"/>
-      <point x="1002" y="-13" type="line"/>
-      <point x="960" y="-13" type="line"/>
-      <point x="960" y="518" type="line"/>
-      <point x="780" y="518" type="line"/>
-      <point x="780" y="560" type="line"/>
+      <point x="1122" y="560" type="line"/>
+      <point x="1122" y="518" type="line"/>
+      <point x="1022" y="518" type="line"/>
+      <point x="1022" y="-13" type="line"/>
+      <point x="980" y="-13" type="line"/>
+      <point x="980" y="518" type="line"/>
+      <point x="800" y="518" type="line"/>
+      <point x="800" y="560" type="line"/>
     </contour>
-    <component base="tml_RrU"/>
+    <component base="tml_RrU" xOffset="20"/>
   </outline>
 </glyph>
