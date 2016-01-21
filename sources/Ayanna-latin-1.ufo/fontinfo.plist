@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>Ayanna Narrow</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/08/24 16:04:41</string>
+	<string>2015/08/24 17:04:41</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>http://www.mooniak.com/typography</string>
 	<key>openTypeNameManufacturer</key>
@@ -59,12 +59,10 @@
 		<integer>133</integer>
 		<integer>140</integer>
 	</array>
-	<key>styleMapFamilyName</key>
-	<string>Ayanna Narrow Extra Light</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Extra Light</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>vendorID</key>

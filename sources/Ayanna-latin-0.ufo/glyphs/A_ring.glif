@@ -6,4 +6,19 @@
     <component base="A"/>
     <component base="ring" xOffset="67" yOffset="115"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ring</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

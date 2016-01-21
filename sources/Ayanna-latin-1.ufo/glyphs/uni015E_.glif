@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni015E" format="1">
-  <advance width="491"/>
+  <advance width="497"/>
   <unicode hex="015E"/>
   <outline>
     <component base="S"/>
     <component base="cedilla" xOffset="31"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>cedilla</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>
