@@ -1,11 +1,11 @@
 SplineFontDB: 3.0
-FontName: AyannaNarrowBeta
-FullName: AyannaNarrowBeta
-FamilyName: AyannaNarrowBeta
-Weight: Regular
-Copyright: Copyright (c) 2015, Pathum,,,
+FontName: Ayanna-Light
+FullName: Ayanna
+FamilyName: Ayanna
+Weight: Light
+Copyright: Copyright (c) 2015 mooniak (http://mooniak.com) 
 UComments: "2015-3-5: Created with FontForge (http://fontforge.org)"
-Version: pre
+Version: 1.000
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -18,16 +18,22 @@ Layer: 1 0 "Fore" 0
 Layer: 2 0 "Back 2" 1
 Layer: 3 0 "Back 3" 1
 XUID: [1021 417 1726274797 7187508]
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425560291
-ModificationTime: 1449502492
+ModificationTime: 1453591916
+PfmFamily: 17
+TTFWeight: 200
+TTFWidth: 5
+LineGap: 92
+VLineGap: 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
 OS2TypoDOffset: 1
-OS2TypoLinegap: 0
+OS2TypoLinegap: 92
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
@@ -41,6 +47,7 @@ OS2XHeight: 0
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
+LangName: 1033
 Encoding: Custom
 UnicodeInterp: none
 NameList: sinhala
@@ -84,6 +91,7 @@ Grid
 -1024 3 m 0
  2048 3 l 1024
 EndSplineSet
+TeXData: 1 0 0 305152 152576 101717 0 1048576 101717 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 565 566
 
 StartChar: si_Tta
@@ -37270,7 +37278,7 @@ StartChar: mooniak
 Encoding: 564 -1 565
 Width: 952
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 4
 Back
 Fore

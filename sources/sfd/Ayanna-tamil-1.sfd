@@ -1,12 +1,12 @@
 SplineFontDB: 3.0
-FontName: AyannaNarrowTamil-ExtraBold
-FullName: AyannaNarrow
-FamilyName: ayanna-tamil
+FontName: Ayanna-ExtraBold
+FullName: Ayanna
+FamilyName: Ayanna
 OS2FamilyName: "ayanna-tamil tamil"
 OS2StyleName: "regular"
-Weight: Regular
-Copyright: Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
-Version: 2.5
+Weight: Bold
+Copyright: Copyright (c) 2015 mooniak (http://mooniak.com)
+Version: 
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -24,8 +24,8 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1453380055
-ModificationTime: 1453588231
-PfmFamily: 16
+ModificationTime: 1453592020
+PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
@@ -61,8 +61,9 @@ OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80108003.00002042.00000000.00000000
 Lookup: 260 0 0 "blwmBelowBaseMarkinTamillookup1" { "blwmBelowBaseMarkinTamillookup1 subtable"  } ['blwm' ('taml' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 260 0 0 "abvmAboveBaseMarkinTamillookup0" { "abvmAboveBaseMarkinTamillookup0 subtable"  } ['abvm' ('taml' <'dflt' > 'DFLT' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "Licensed under the SIL Open Font License 1.1 (see file OFL.txt)" "" "" "" "" "Version 2.5.0" "" "" "" "" "" "" "" "" "" "" "ayanna-tamil" "regular"
+LangName: 1033
 PickledDataWithLists: "(dp1
 S'public.glyphOrder'
 p2
@@ -5013,7 +5014,7 @@ GlifName: tml_O_m
 Width: 726
 VWidth: 0
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 Fore

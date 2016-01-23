@@ -1,12 +1,12 @@
 SplineFontDB: 3.0
-FontName: AyannaNarrowTamil-ExtraBold
-FullName: AyannaNarrow
-FamilyName: ayanna-tamil
+FontName: Ayanna-ExtraBold
+FullName: Ayanna
+FamilyName: Ayanna
 OS2FamilyName: "ayanna-tamil tamil"
 OS2StyleName: "regular"
-Weight: Regular
-Copyright: Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
-Version: 2.5
+Weight: Bold
+Copyright: Copyright (c) 2015 mooniak (http://mooniak.com)
+Version: 
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1453375929
-ModificationTime: 1453589069
+ModificationTime: 1453592070
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -61,8 +61,9 @@ OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80108003.00002042.00000000.00000000
 Lookup: 260 0 0 "blwmBelowBaseMarkinTamillookup1" { "blwmBelowBaseMarkinTamillookup1 subtable"  } ['blwm' ('taml' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 260 0 0 "abvmAboveBaseMarkinTamillookup0" { "abvmAboveBaseMarkinTamillookup0 subtable"  } ['abvm' ('taml' <'dflt' > 'DFLT' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "Licensed under the SIL Open Font License 1.1 (see file OFL.txt)" "" "" "" "" "Version 2.5.0" "" "" "" "" "" "" "" "" "" "" "ayanna-tamil" "regular"
+LangName: 1033
 PickledDataWithLists: "(dp1
 S'public.glyphOrder'
 p2
@@ -409,263 +410,263 @@ p157
 ssS'com.schriftgestaltung.useNiceNames'
 p159
 I0
-sS'com.schriftgestaltung.weightValue'
-p160
-I0
 sS'com.schriftgestaltung.glyphOrder'
-p161
-(lp162
+p160
+(lp161
 S'tml_A'
-p163
+p162
 aS'tml_Aa'
-p164
+p163
 aS'tml_I'
-p165
+p164
 aS'tml_Ii'
-p166
+p165
 aS'tml_U'
-p167
+p166
 aS'tml_Uu'
-p168
+p167
 aS'tml_E'
-p169
+p168
 aS'tml_Ee'
-p170
+p169
 aS'tml_Ai'
-p171
+p170
 aS'tml_O'
-p172
+p171
 aS'tml_Oo'
-p173
+p172
 aS'tml_Au'
-p174
+p173
 aS'tml_Ka'
-p175
+p174
 aS'tml_Nga'
-p176
+p175
 aS'tml_Ca'
-p177
+p176
 aS'tml_Ja'
-p178
+p177
 aS'tml_Nya'
-p179
+p178
 aS'tml_Tta'
-p180
+p179
 aS'tml_Nna'
-p181
+p180
 aS'tml_Ta'
-p182
+p181
 aS'tml_Na'
-p183
+p182
 aS'tml_Nnna'
-p184
+p183
 aS'tml_Pa'
-p185
+p184
 aS'tml_Ma'
-p186
+p185
 aS'tml_Ya'
-p187
+p186
 aS'tml_Ra'
-p188
+p187
 aS'tml_Rra'
-p189
+p188
 aS'tml_La'
-p190
+p189
 aS'tml_Lla'
-p191
+p190
 aS'tml_Llla'
-p192
+p191
 aS'tml_Va'
-p193
+p192
 aS'tml_Sha'
-p194
+p193
 aS'tml_Ssa'
-p195
+p194
 aS'tml_Sa'
-p196
+p195
 aS'tml_Ha'
-p197
+p196
 aS'tml_Om'
-p198
+p197
 aS'tml_Visarga'
-p199
+p198
 aS'tml_Ten'
-p200
+p199
 aS'tml_Hundred'
-p201
+p200
 aS'tml_Thousand'
-p202
+p201
 aS'tml_Zero'
-p203
+p202
 aS'tml_One'
-p204
+p203
 aS'tml_Two'
-p205
+p204
 aS'tml_Three'
-p206
+p205
 aS'tml_Four'
-p207
+p206
 aS'tml_Five'
-p208
+p207
 aS'tml_Six'
-p209
+p208
 aS'tml_Seven'
-p210
+p209
 aS'tml_Eight'
-p211
+p210
 aS'tml_Nine'
-p212
+p211
 aS'space'
-p213
+p212
 aS'tml_Rupee'
-p214
+p213
 aS'tml_Day'
-p215
+p214
 aS'tml_Month'
-p216
+p215
 aS'tml_Year'
-p217
+p216
 aS'tml_Debit'
-p218
+p217
 aS'tml_Credit'
-p219
+p218
 aS'tml_Above'
-p220
+p219
 aS'tml_Number'
-p221
+p220
 aS'tml_MatraIi'
-p222
+p221
 aS'tml_Virama'
-p223
+p222
 aS'tml_Anusvara'
-p224
+p223
 aS'tml_MatraAa'
-p225
+p224
 aS'tml_MatraI'
-p226
+p225
 aS'tml_MatraU'
-p227
+p226
 aS'tml_MatraUu'
-p228
+p227
 aS'tml_MatraE'
-p229
+p228
 aS'tml_MatraEe'
-p230
+p229
 aS'tml_MatraAi'
-p231
+p230
 aS'tml_MatraO'
-p232
+p231
 aS'tml_MatraOo'
-p233
+p232
 aS'tml_MatraAu'
-p234
+p233
 aS'tml_AuLengthmark'
-p235
+p234
 aS'tml_CUu'
-p236
+p235
 aS'tml_CU'
-p237
+p236
 aS'tml_KSsa'
-p238
+p237
 aS'tml_KU'
-p239
+p238
 aS'tml_KUu'
-p240
+p239
 aS'tml_LllU'
-p241
+p240
 aS'tml_LllUu'
-p242
+p241
 aS'tml_LlUu'
-p243
+p242
 aS'tml_LlU'
-p244
+p243
 aS'tml_LU'
-p245
+p244
 aS'tml_LUu'
-p246
+p245
 aS'tml_MatraAi.alt'
-p247
+p246
 aS'tml_MatraI.alt1'
-p248
+p247
 aS'tml_MatraI.alt2'
-p249
+p248
 aS'tml_MatraI.alt3'
-p250
+p249
 aS'tml_MatraI.alt4'
-p251
+p250
 aS'tml_MatraI.alt5'
-p252
+p251
 aS'tml_MatraI.alt6'
-p253
+p252
 aS'tml_MatraI.stylalt1'
-p254
+p253
 aS'tml_MatraIi.alt1'
-p255
+p254
 aS'tml_MatraU.alt1'
-p256
+p255
 aS'tml_MatraIi.stylalt1'
-p257
+p256
 aS'tml_MU'
-p258
+p257
 aS'tml_MUu'
-p259
+p258
 aS'tml_NgUu'
-p260
+p259
 aS'tml_NnAa.alt'
-p261
+p260
 aS'tml_NnnAa.alt'
-p262
+p261
 aS'tml_NnnUu'
-p263
+p262
 aS'tml_NnnU'
-p264
+p263
 aS'tml_NnU'
-p265
+p264
 aS'tml_NnUu'
-p266
+p265
 aS'tml_NU'
-p267
+p266
 aS'tml_NUu'
-p268
+p267
 aS'tml_NyUu'
-p269
+p268
 aS'tml_NyU'
-p270
+p269
 aS'tml_PUu'
-p271
+p270
 aS'tml_RrAa.alt'
-p272
+p271
 aS'tml_RrUu'
-p273
+p272
 aS'tml_RrU'
-p274
+p273
 aS'tml_RU'
-p275
+p274
 aS'tml_RUu'
-p276
+p275
 aS'tml_Shree'
-p277
+p276
 aS'tml_TtI'
-p278
+p277
 aS'tml_TtU'
-p279
+p278
 aS'tml_TtIi'
-p280
+p279
 aS'tml_TU'
-p281
+p280
 aS'tml_TUu'
-p282
+p281
 aS'tml_TtUu'
-p283
+p282
 aS'tml_YUu'
-p284
+p283
 aS'tml_A.001'
-p285
+p284
 aS'tml_MatraIi.alt2'
-p286
+p285
 aS'newGlyph.001'
+p286
+asS'com.schriftgestaltung.weightValue'
 p287
-asS'com.schriftgestaltung.weight'
+I0
+sS'com.schriftgestaltung.weight'
 p288
 S'Light'
 p289
@@ -6145,7 +6146,7 @@ GlifName: tml_O_m
 Width: 706
 VWidth: 0
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 Fore
