@@ -1,18 +1,21 @@
 FONTLOG for Ayanna
 -------------------
 
-This file provides detailed information on the Ayanna font sowtware.
-This information should be distributed along with the Ayanna fonts
-and any derivative works.
+This file provides detailed information on the STICK NO BILLS™ font software.
+This information should be distributed along with the  STICK NO BILLS™ fonts and any derivative works.
+
+Please see https://github.com/mooniak/ayanna-font for documentation,development plans, contribution guidelines and all past releases. 
 
 
-Basic Font Information
---------------------------
+ChangeLog
+----------
 
+7 December 2015 (mooniak) Ayanna PRE RELEASE rc1-v0.900
+- Full Sinhala support
+- Full Latin Support
 
+For external testing purposes
 
-Security and Integrity
--------------------------
 
 
 
@@ -28,30 +31,4 @@ contribute to the project or make your own version of the font.
 
 See the project website for the current trunk and the various branches:
 
-https://github.com/mooniak/ayanna-narrow/
-
-
-ChangeLog
-----------
-
-
-
-
-
-
-Acknowledgements
--------------------------
-
-When you make modifications, be sure to add your name (N), email (E),
-web-address (W) and description (D). This list is sorted by last name in
-alphabetical order.
-
-N: Denzil Rajitha
-E: rajitha@mooniak.com
-W: http://mooniak.com
-D: Designer - Sinhala
-
-N: Pathum Egodawatta
-E: pathum@mooniak.com
-W: http://mooniak.com
-D: Designer - Tamil/Sinhala
+http://mooniak.com/ayanna-font/

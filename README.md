@@ -1,27 +1,25 @@
-|  WORK IN PROGRESS      |
-| ------------- |:-------------:|
-| This repo is the active devleopment repo of the project. So files move here and the sometimes. See [Repository Structure](#repository-structure) before downloading any files.       |
-
-
 Ayanna Narrow Font
 ===================
 
-Ayanna, is a slightly narrow font intended for titles and short texts and quotes in the web, with Sinhala Tamil and Latin support.
-This project was initiated as a benchmark project that can be used as a starting point for many other Sinhala type design projects. And the name ‘Ayanna’ stands for the start since ‘Ayanna’ අ is the first letter of the Sinhala alphabet. The font has grown from this favourable plateau to be recognized as an overall widely used allrounder for the various purposes of printing and web industry.
+Ayanna is a narrow font intended for titles and short texts in the web, with support for Sinhala Tamil and Latin.
 
-With a slightly narrow forms, Ayanna will give you a slight introspective nature with its ingredients. With Tamil and Latin glyph sets, the font provides a complete solution for Sinhala Tamil and English trilingual design. Ayanna, vertically extended and horizontally packed, hence present you the low space consumerism. Ayanna Sinhala has its peculiarities and experimental shapes that make it perform well as a display face while belonging in the formal category of fonts. Make sure you check out all these features before using it.
+With Tamil and Latin languages support, this Ayanna provides a complete solution for Sinhala Tamil and English trilingual design. Slightly condensed shapes and dimensions make it possible to fit more text in a line. The x-height of Latin and body height of Sinhala and Tamil is generous, and has short ascenders and descenders, increasing the space efficiency. It has a neutral design style with a touch of soft and smooth curves. Ayanna will perform well when used in headlines, subheads and shorter text blocks such as pull quotes. Tamil glyph set also designed to cater the same typographic needs, has open counters and a friendly feel. Ayanna Sinhala has its peculiarities and experimental shapes that make it perform well as a display face while belonging in the formal category of fonts. Make sure you check out all these features before using it. Ayanna comes in four weights, and the extra light weight is pleasingly beautiful and stylish for headlines.
 
-Ayanna Latin glyph set is intended to be a companion to Ayanna Sinhala, harmonizing  in proportions and style. It is slightly condensed and proportions seek to gain space in height and width. The x-height is generous and it has short ascenders and descenders.
-It has a neutral design style with a warm touch of soft and smooth curves. Ayanna is offered in four styles, and the extra light weight is pleasingly graceful and stylish for headlines.
+This project is a benchmark project for Sinhala type design projects by Mooniak. The research, learnings, and tools developed along the way are documented and shared under open and free licenses. The name ‘Ayanna’ comes from the name of the first letter of Sinhala alphabet–අ.
 
-The project was funded by Google, being led by Mooniak, a collaborative collective of designers based in Colombo, Sri Lanka. Sinhala designed by Rajitha Manamperi, Tamil designed by Kosala Senevirathne, and Latin by Sol Matas. Pathum Egodawatta and Ayantha Randika and contributed to the project in consulting, managing and Opentype engineering.See [Milestones](https://github.com/mooniak/ayanna-narrow/milestones)
+The project is led by designers of Mooniak, the collaborative collective of creatives based in Colombo, Sri Lanka. With Sol Matas contributing with Latin design. Intial release of the font is funded by Google Fonts.
+
 
 අඩුවෙන් ඉඩ අයත්කරගන්නා, අන්තර්ගතයන්ට මෙන්ම අභිධානයන්ටද එකලෙස යෙදිය හැකි සිංහල දෙමළ මෙන්ම ඉංග්‍රීසි භාෂාවේ අකුරු වලිනුත් සමන්විත ‘අයන්න’ ශ්‍රී ලාංකීය ජාතියේ උන්නතිය අරමුණු කොටගෙන ඔබේ අත්ලට පිරිනමන අපගේ අලුත්ම ෆොන්ට නිකුතුවයි.
+
+See the web specimen page [here](http://mooniak.com/ayanna-font/).
+See [/documentation](https://github.com/mooniak/ayanna-font/tree/master/documentation) for notes information on development of the project.
+Report any issues or bugs in [issues](https://github.com/mooniak/ayanna-font/issues/new).
+
 
 ## Repository Structure
 
 - See [Realases](https://github.com/mooniak/ayanna-font/releases) to Download released clean font versions, sources and specimens at the relase point.
-
 - See `/fonts` in `gh-pages` branch contains draft fonts which are dirty, generated for design testing.
 - See `/sources/` contains dirty and incomplete `.ufo` files which opens in all major font editors. These files are generated in intervals in between development. See [Realases](https://github.com/mooniak/ayanna-font/releases) for clean sources.
 - See `/sources/sfd` contains source `.sfd` files which opens in [FontForge](http://fontforge.github.io/en-US/). These files are under active developemnt.
@@ -60,18 +58,11 @@ See FONTLOG.md for details on contributions.
 - Pathum Egodawatta (@pathumego) of mooniak
 
 
-
 ## License
 
-Ayanna™ will be released under the  [SIL Open Font License](http://scripts.sil.org/OFL)
+Ayanna is released under the  [SIL Open Font License](http://scripts.sil.org/OFL)
 
 For information on what you're allowed to change or modify, consult the
-OFL-1.1.txt and OFL-FAQ.txt files. The OFL-FAQ also gives a very general
+OFL.txt and OFL-FAQ.txt files. The OFL-FAQ also gives a very general
 rationale and various recommendations regarding why you would want to
 contribute to the project or make your own version of the font.
-
-
-***
-
-|   This repository follows the [Unified Font Repository](https://github.com/raphaelbastide/Unified-Font-Repository) v2.0, a standard way to organize font project source files.           |
-| ------------- |:
