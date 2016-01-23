@@ -18,12 +18,13 @@ UFODescent: -200
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
+PreferredKerning: 4
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1453375929
-ModificationTime: 1453393169
+ModificationTime: 1453589069
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -408,263 +409,263 @@ p157
 ssS'com.schriftgestaltung.useNiceNames'
 p159
 I0
-sS'com.schriftgestaltung.glyphOrder'
+sS'com.schriftgestaltung.weightValue'
 p160
-(lp161
-S'tml_A'
-p162
-aS'tml_Aa'
-p163
-aS'tml_I'
-p164
-aS'tml_Ii'
-p165
-aS'tml_U'
-p166
-aS'tml_Uu'
-p167
-aS'tml_E'
-p168
-aS'tml_Ee'
-p169
-aS'tml_Ai'
-p170
-aS'tml_O'
-p171
-aS'tml_Oo'
-p172
-aS'tml_Au'
-p173
-aS'tml_Ka'
-p174
-aS'tml_Nga'
-p175
-aS'tml_Ca'
-p176
-aS'tml_Ja'
-p177
-aS'tml_Nya'
-p178
-aS'tml_Tta'
-p179
-aS'tml_Nna'
-p180
-aS'tml_Ta'
-p181
-aS'tml_Na'
-p182
-aS'tml_Nnna'
-p183
-aS'tml_Pa'
-p184
-aS'tml_Ma'
-p185
-aS'tml_Ya'
-p186
-aS'tml_Ra'
-p187
-aS'tml_Rra'
-p188
-aS'tml_La'
-p189
-aS'tml_Lla'
-p190
-aS'tml_Llla'
-p191
-aS'tml_Va'
-p192
-aS'tml_Sha'
-p193
-aS'tml_Ssa'
-p194
-aS'tml_Sa'
-p195
-aS'tml_Ha'
-p196
-aS'tml_Om'
-p197
-aS'tml_Visarga'
-p198
-aS'tml_Ten'
-p199
-aS'tml_Hundred'
-p200
-aS'tml_Thousand'
-p201
-aS'tml_Zero'
-p202
-aS'tml_One'
-p203
-aS'tml_Two'
-p204
-aS'tml_Three'
-p205
-aS'tml_Four'
-p206
-aS'tml_Five'
-p207
-aS'tml_Six'
-p208
-aS'tml_Seven'
-p209
-aS'tml_Eight'
-p210
-aS'tml_Nine'
-p211
-aS'space'
-p212
-aS'tml_Rupee'
-p213
-aS'tml_Day'
-p214
-aS'tml_Month'
-p215
-aS'tml_Year'
-p216
-aS'tml_Debit'
-p217
-aS'tml_Credit'
-p218
-aS'tml_Above'
-p219
-aS'tml_Number'
-p220
-aS'tml_MatraIi'
-p221
-aS'tml_Virama'
-p222
-aS'tml_Anusvara'
-p223
-aS'tml_MatraAa'
-p224
-aS'tml_MatraI'
-p225
-aS'tml_MatraU'
-p226
-aS'tml_MatraUu'
-p227
-aS'tml_MatraE'
-p228
-aS'tml_MatraEe'
-p229
-aS'tml_MatraAi'
-p230
-aS'tml_MatraO'
-p231
-aS'tml_MatraOo'
-p232
-aS'tml_MatraAu'
-p233
-aS'tml_AuLengthmark'
-p234
-aS'tml_CUu'
-p235
-aS'tml_CU'
-p236
-aS'tml_KSsa'
-p237
-aS'tml_KU'
-p238
-aS'tml_KUu'
-p239
-aS'tml_LllU'
-p240
-aS'tml_LllUu'
-p241
-aS'tml_LlUu'
-p242
-aS'tml_LlU'
-p243
-aS'tml_LU'
-p244
-aS'tml_LUu'
-p245
-aS'tml_MatraAi.alt'
-p246
-aS'tml_MatraI.alt1'
-p247
-aS'tml_MatraI.alt2'
-p248
-aS'tml_MatraI.alt3'
-p249
-aS'tml_MatraI.alt4'
-p250
-aS'tml_MatraI.alt5'
-p251
-aS'tml_MatraI.alt6'
-p252
-aS'tml_MatraI.stylalt1'
-p253
-aS'tml_MatraIi.alt1'
-p254
-aS'tml_MatraU.alt1'
-p255
-aS'tml_MatraIi.stylalt1'
-p256
-aS'tml_MU'
-p257
-aS'tml_MUu'
-p258
-aS'tml_NgUu'
-p259
-aS'tml_NnAa.alt'
-p260
-aS'tml_NnnAa.alt'
-p261
-aS'tml_NnnUu'
-p262
-aS'tml_NnnU'
-p263
-aS'tml_NnU'
-p264
-aS'tml_NnUu'
-p265
-aS'tml_NU'
-p266
-aS'tml_NUu'
-p267
-aS'tml_NyUu'
-p268
-aS'tml_NyU'
-p269
-aS'tml_PUu'
-p270
-aS'tml_RrAa.alt'
-p271
-aS'tml_RrUu'
-p272
-aS'tml_RrU'
-p273
-aS'tml_RU'
-p274
-aS'tml_RUu'
-p275
-aS'tml_Shree'
-p276
-aS'tml_TtI'
-p277
-aS'tml_TtU'
-p278
-aS'tml_TtIi'
-p279
-aS'tml_TU'
-p280
-aS'tml_TUu'
-p281
-aS'tml_TtUu'
-p282
-aS'tml_YUu'
-p283
-aS'tml_A.001'
-p284
-aS'tml_MatraIi.alt2'
-p285
-aS'newGlyph.001'
-p286
-asS'com.schriftgestaltung.weightValue'
-p287
 I0
-sS'com.schriftgestaltung.weight'
+sS'com.schriftgestaltung.glyphOrder'
+p161
+(lp162
+S'tml_A'
+p163
+aS'tml_Aa'
+p164
+aS'tml_I'
+p165
+aS'tml_Ii'
+p166
+aS'tml_U'
+p167
+aS'tml_Uu'
+p168
+aS'tml_E'
+p169
+aS'tml_Ee'
+p170
+aS'tml_Ai'
+p171
+aS'tml_O'
+p172
+aS'tml_Oo'
+p173
+aS'tml_Au'
+p174
+aS'tml_Ka'
+p175
+aS'tml_Nga'
+p176
+aS'tml_Ca'
+p177
+aS'tml_Ja'
+p178
+aS'tml_Nya'
+p179
+aS'tml_Tta'
+p180
+aS'tml_Nna'
+p181
+aS'tml_Ta'
+p182
+aS'tml_Na'
+p183
+aS'tml_Nnna'
+p184
+aS'tml_Pa'
+p185
+aS'tml_Ma'
+p186
+aS'tml_Ya'
+p187
+aS'tml_Ra'
+p188
+aS'tml_Rra'
+p189
+aS'tml_La'
+p190
+aS'tml_Lla'
+p191
+aS'tml_Llla'
+p192
+aS'tml_Va'
+p193
+aS'tml_Sha'
+p194
+aS'tml_Ssa'
+p195
+aS'tml_Sa'
+p196
+aS'tml_Ha'
+p197
+aS'tml_Om'
+p198
+aS'tml_Visarga'
+p199
+aS'tml_Ten'
+p200
+aS'tml_Hundred'
+p201
+aS'tml_Thousand'
+p202
+aS'tml_Zero'
+p203
+aS'tml_One'
+p204
+aS'tml_Two'
+p205
+aS'tml_Three'
+p206
+aS'tml_Four'
+p207
+aS'tml_Five'
+p208
+aS'tml_Six'
+p209
+aS'tml_Seven'
+p210
+aS'tml_Eight'
+p211
+aS'tml_Nine'
+p212
+aS'space'
+p213
+aS'tml_Rupee'
+p214
+aS'tml_Day'
+p215
+aS'tml_Month'
+p216
+aS'tml_Year'
+p217
+aS'tml_Debit'
+p218
+aS'tml_Credit'
+p219
+aS'tml_Above'
+p220
+aS'tml_Number'
+p221
+aS'tml_MatraIi'
+p222
+aS'tml_Virama'
+p223
+aS'tml_Anusvara'
+p224
+aS'tml_MatraAa'
+p225
+aS'tml_MatraI'
+p226
+aS'tml_MatraU'
+p227
+aS'tml_MatraUu'
+p228
+aS'tml_MatraE'
+p229
+aS'tml_MatraEe'
+p230
+aS'tml_MatraAi'
+p231
+aS'tml_MatraO'
+p232
+aS'tml_MatraOo'
+p233
+aS'tml_MatraAu'
+p234
+aS'tml_AuLengthmark'
+p235
+aS'tml_CUu'
+p236
+aS'tml_CU'
+p237
+aS'tml_KSsa'
+p238
+aS'tml_KU'
+p239
+aS'tml_KUu'
+p240
+aS'tml_LllU'
+p241
+aS'tml_LllUu'
+p242
+aS'tml_LlUu'
+p243
+aS'tml_LlU'
+p244
+aS'tml_LU'
+p245
+aS'tml_LUu'
+p246
+aS'tml_MatraAi.alt'
+p247
+aS'tml_MatraI.alt1'
+p248
+aS'tml_MatraI.alt2'
+p249
+aS'tml_MatraI.alt3'
+p250
+aS'tml_MatraI.alt4'
+p251
+aS'tml_MatraI.alt5'
+p252
+aS'tml_MatraI.alt6'
+p253
+aS'tml_MatraI.stylalt1'
+p254
+aS'tml_MatraIi.alt1'
+p255
+aS'tml_MatraU.alt1'
+p256
+aS'tml_MatraIi.stylalt1'
+p257
+aS'tml_MU'
+p258
+aS'tml_MUu'
+p259
+aS'tml_NgUu'
+p260
+aS'tml_NnAa.alt'
+p261
+aS'tml_NnnAa.alt'
+p262
+aS'tml_NnnUu'
+p263
+aS'tml_NnnU'
+p264
+aS'tml_NnU'
+p265
+aS'tml_NnUu'
+p266
+aS'tml_NU'
+p267
+aS'tml_NUu'
+p268
+aS'tml_NyUu'
+p269
+aS'tml_NyU'
+p270
+aS'tml_PUu'
+p271
+aS'tml_RrAa.alt'
+p272
+aS'tml_RrUu'
+p273
+aS'tml_RrU'
+p274
+aS'tml_RU'
+p275
+aS'tml_RUu'
+p276
+aS'tml_Shree'
+p277
+aS'tml_TtI'
+p278
+aS'tml_TtU'
+p279
+aS'tml_TtIi'
+p280
+aS'tml_TU'
+p281
+aS'tml_TUu'
+p282
+aS'tml_TtUu'
+p283
+aS'tml_YUu'
+p284
+aS'tml_A.001'
+p285
+aS'tml_MatraIi.alt2'
+p286
+aS'newGlyph.001'
+p287
+asS'com.schriftgestaltung.weight'
 p288
 S'Light'
 p289
@@ -678,7 +679,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 100 10 5
+WinInfo: 70 10 5
 BeginPrivate: 1
 BlueShift 1 0
 EndPrivate
@@ -6144,33 +6145,12 @@ GlifName: tml_O_m
 Width: 706
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Back
 Fore
 SplineSet
-177 146 m 256
- 88 146 42 211 42 307 c 256
- 42 483 169 610 365 610 c 256
- 528 610 664 501 664 340 c 256
- 664 226 599 152 512 152 c 256
- 422 152 388 230 388 299 c 257
- 430 299 l 257
- 430 269 440 194 512 194 c 256
- 584 194 622 256 622 345 c 256
- 622 495 479 568 365 568 c 256
- 192 568 84 443 84 290 c 256
- 84 236 114 188 173 188 c 256
- 225 188 262 231 262 285 c 256
- 262 336 232 380 177 380 c 256
- 116 380 84 341 84 290 c 257
- 52 293 l 257
- 52 366 100 422 180 422 c 256
- 250 422 304 364 304 285 c 256
- 304 204 247 146 177 146 c 256
-  PathStart: -2
-333 -164 m 256
- 226 -164 129 -85 129 23 c 257
+129 23 m 257
  171 23 l 257
  171 -40 233 -122 333 -122 c 256
  423 -122 500 -58 500 42 c 257
@@ -6185,6 +6165,7 @@ SplineSet
  522 31 l 257
  541 36 l 257
  541 -78 449 -164 333 -164 c 256
+ 226 -164 129 -85 129 23 c 257
   PathStart: -2
 278 -76 m 257
  278 50 l 257
@@ -6204,11 +6185,31 @@ SplineSet
  359 30 354 26 354 17 c 258
  354 -64 l 257
  331 -64 l 257
-354 83 m 256
- 354 95 345 104 334 104 c 256
- 323 104 316 95 316 83 c 256
- 316 72 323 65 334 65 c 256
- 345 65 354 72 354 83 c 256
+316 83 m 256
+ 316 95 323 104 334 104 c 256
+ 345 104 354 95 354 83 c 256
+ 354 72 345 65 334 65 c 256
+ 323 65 316 72 316 83 c 256
+  PathStart: -2
+42 307 m 256
+ 42 483 169 610 365 610 c 256
+ 528 610 664 501 664 340 c 256
+ 664 226 599 152 512 152 c 256
+ 422 152 388 230 388 299 c 257
+ 430 299 l 257
+ 430 269 440 194 512 194 c 256
+ 584 194 622 256 622 345 c 256
+ 622 495 479 568 365 568 c 256
+ 192 568 84 443 84 290 c 256
+ 84 236 114 188 173 188 c 256
+ 225 188 262 231 262 285 c 256
+ 262 336 232 380 177 380 c 256
+ 116 380 84 341 84 290 c 257
+ 52 293 l 257
+ 52 366 100 422 180 422 c 256
+ 250 422 304 364 304 285 c 256
+ 304 204 247 146 177 146 c 256
+ 88 146 42 211 42 307 c 256
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp1
