@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
@@ -7,29 +7,35 @@
 	<key>capHeight</key>
 	<integer>675</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2015, mooniak</string>
+	<string>Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)</string>
 	<key>descender</key>
 	<integer>-205</integer>
 	<key>familyName</key>
-	<string>Ayanna Narrow</string>
+	<string>Ayanna</string>
+	<key>guidelines</key>
+	<array/>
 	<key>openTypeHeadCreated</key>
 	<string>2015/08/24 17:04:41</string>
+	<key>openTypeNameDesigner</key>
+	<string>Denzil Rajitha, Sol Matas, Kosala Senevirathne and Pathum Egodawatta  </string>
 	<key>openTypeNameDesignerURL</key>
-	<string>http://www.mooniak.com/typography</string>
+	<string>http://www.mooniak.com/type</string>
 	<key>openTypeNameManufacturer</key>
-	<string>mooniak PLC.</string>
+	<string>Mooniak</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>https://github.com/mooniak/</string>
+	<string>http://www.mooniak.com/</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Ayanna Narrow</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Extra Light</string>
+	<string>Ayanna</string>
+	<key>openTypeOS2Type</key>
+	<array/>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>819</integer>
 	<key>openTypeOS2TypoDescender</key>
 	<integer>-205</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>92</integer>
+	<key>openTypeOS2VendorID</key>
+	<string></string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>250</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -45,6 +51,10 @@
 		<integer>725</integer>
 		<integer>732</integer>
 	</array>
+	<key>postscriptFamilyBlues</key>
+	<array/>
+	<key>postscriptFamilyOtherBlues</key>
+	<array/>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-212</integer>
@@ -72,11 +82,9 @@
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Light</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
-	<key>vendorID</key>
-	<string>PfEd</string>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>

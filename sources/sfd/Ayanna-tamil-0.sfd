@@ -1,12 +1,12 @@
 SplineFontDB: 3.0
-FontName: AyannaNarrowTamil-ExtraBold
-FullName: AyannaNarrow
-FamilyName: ayanna-tamil
+FontName: Ayanna-ExtraBold
+FullName: Ayanna
+FamilyName: Ayanna
 OS2FamilyName: "ayanna-tamil tamil"
 OS2StyleName: "regular"
-Weight: Regular
-Copyright: Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
-Version: 2.5
+Weight: Bold
+Copyright: Copyright (c) 2015 mooniak (http://mooniak.com)
+Version: 
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -18,12 +18,13 @@ UFODescent: -200
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
+PreferredKerning: 4
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1453375929
-ModificationTime: 1453393169
+ModificationTime: 1453592070
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -60,8 +61,9 @@ OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80108003.00002042.00000000.00000000
 Lookup: 260 0 0 "blwmBelowBaseMarkinTamillookup1" { "blwmBelowBaseMarkinTamillookup1 subtable"  } ['blwm' ('taml' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 260 0 0 "abvmAboveBaseMarkinTamillookup0" { "abvmAboveBaseMarkinTamillookup0 subtable"  } ['abvm' ('taml' <'dflt' > 'DFLT' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "Licensed under the SIL Open Font License 1.1 (see file OFL.txt)" "" "" "" "" "Version 2.5.0" "" "" "" "" "" "" "" "" "" "" "ayanna-tamil" "regular"
+LangName: 1033
 PickledDataWithLists: "(dp1
 S'public.glyphOrder'
 p2
@@ -678,7 +680,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 100 10 5
+WinInfo: 70 10 5
 BeginPrivate: 1
 BlueShift 1 0
 EndPrivate
@@ -6149,28 +6151,7 @@ LayerCount: 2
 Back
 Fore
 SplineSet
-177 146 m 256
- 88 146 42 211 42 307 c 256
- 42 483 169 610 365 610 c 256
- 528 610 664 501 664 340 c 256
- 664 226 599 152 512 152 c 256
- 422 152 388 230 388 299 c 257
- 430 299 l 257
- 430 269 440 194 512 194 c 256
- 584 194 622 256 622 345 c 256
- 622 495 479 568 365 568 c 256
- 192 568 84 443 84 290 c 256
- 84 236 114 188 173 188 c 256
- 225 188 262 231 262 285 c 256
- 262 336 232 380 177 380 c 256
- 116 380 84 341 84 290 c 257
- 52 293 l 257
- 52 366 100 422 180 422 c 256
- 250 422 304 364 304 285 c 256
- 304 204 247 146 177 146 c 256
-  PathStart: -2
-333 -164 m 256
- 226 -164 129 -85 129 23 c 257
+129 23 m 257
  171 23 l 257
  171 -40 233 -122 333 -122 c 256
  423 -122 500 -58 500 42 c 257
@@ -6185,6 +6166,7 @@ SplineSet
  522 31 l 257
  541 36 l 257
  541 -78 449 -164 333 -164 c 256
+ 226 -164 129 -85 129 23 c 257
   PathStart: -2
 278 -76 m 257
  278 50 l 257
@@ -6204,11 +6186,31 @@ SplineSet
  359 30 354 26 354 17 c 258
  354 -64 l 257
  331 -64 l 257
-354 83 m 256
- 354 95 345 104 334 104 c 256
- 323 104 316 95 316 83 c 256
- 316 72 323 65 334 65 c 256
- 345 65 354 72 354 83 c 256
+316 83 m 256
+ 316 95 323 104 334 104 c 256
+ 345 104 354 95 354 83 c 256
+ 354 72 345 65 334 65 c 256
+ 323 65 316 72 316 83 c 256
+  PathStart: -2
+42 307 m 256
+ 42 483 169 610 365 610 c 256
+ 528 610 664 501 664 340 c 256
+ 664 226 599 152 512 152 c 256
+ 422 152 388 230 388 299 c 257
+ 430 299 l 257
+ 430 269 440 194 512 194 c 256
+ 584 194 622 256 622 345 c 256
+ 622 495 479 568 365 568 c 256
+ 192 568 84 443 84 290 c 256
+ 84 236 114 188 173 188 c 256
+ 225 188 262 231 262 285 c 256
+ 262 336 232 380 177 380 c 256
+ 116 380 84 341 84 290 c 257
+ 52 293 l 257
+ 52 366 100 422 180 422 c 256
+ 250 422 304 364 304 285 c 256
+ 304 204 247 146 177 146 c 256
+ 88 146 42 211 42 307 c 256
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp1
