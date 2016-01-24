@@ -25,6 +25,15 @@ Report any issues or bugs in [issues](https://github.com/mooniak/ayanna-font/iss
 - See `/sources/sfd` contains source `.sfd` files which opens in [FontForge](http://fontforge.github.io/en-US/). These files are under active developemnt.
 -  See `/sources/glyphs` contains source `.glyphs` files which opens in [Glyphs](https://glyphsapp.com/). These files are under active developemnt.
 
+## How to contribute
+
+This project is a Libre/Open project. There are many different ways you can help us.
+
+- Share, copy and spread the fonts, tell your friends.
+- Help us test fonts and report any issues you see in fonts.
+- There are small things in the design that 
+- If you are interested in designing type, you can help us add more glyphs and language support.
+- Get in touch if you would like specific features implemented.
 
 ## How To Build
 
