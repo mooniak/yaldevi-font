@@ -10,12 +10,19 @@ Please see https://github.com/mooniak/ayanna-font for documentation,development 
 ChangeLog
 ----------
 
+24 January 2016 (mooniak) Ayanna Major Release v1.000
+- Full Sinhala Coverage
+- Full Tamil Coverage
+- Full Adobe Latin 3 coverage 
+
+Known issue in build system: Matra I varients of Tamil is set to counter clockwise direction on source files due to a bug in build system which reverse the direction. See issue [#46](https://github.com/mooniak/ayanna-font/issues/46) on GitHub.
+
+
 7 December 2015 (mooniak) Ayanna PRE RELEASE rc1-v0.900
 - Full Sinhala support
 - Full Latin Support
 
 For external testing purposes
-
 
 
 
