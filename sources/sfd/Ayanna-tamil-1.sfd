@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1453642220
-ModificationTime: 1453642220
+ModificationTime: 1453657899
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -690,7 +690,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 8 2
+WinInfo: 56 8 2
 BeginPrivate: 1
 BlueShift 1 0
 EndPrivate
@@ -3846,23 +3846,23 @@ GlifName: tml_M_atraI_.stylalt1
 Width: 154
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HWO
 AnchorPoint: "MatraI.stylalt1" -533 275 mark 0
 LayerCount: 2
 Back
 Fore
 SplineSet
 -600 192 m 257
- -645 226 -710 305 -710 441 c 256
- -710 630 -569 800 -321 800 c 256
- -34 800 104 611 104 328 c 257
- 104 -14 l 257
+ -533 275 l 257
+ -581 314 -602 354 -602 441 c 256
+ -602 593 -485 688 -321 690 c 256
+ -144 692 -5 596 -5 337 c 257
  -5 -13 l 257
- -5 337 l 257
- -5 596 -144 692 -321 690 c 256
- -485 688 -602 593 -602 441 c 256
- -602 354 -581 314 -533 275 c 257
- -600 192 l 257
+ 104 -14 l 257
+ 104 328 l 257
+ 104 611 -34 800 -321 800 c 256
+ -569 800 -710 630 -710 441 c 256
+ -710 305 -645 226 -600 192 c 257
 EndSplineSet
 PickledDataWithLists: "(dp1
 S'com.typemytype.robofont.guides'
