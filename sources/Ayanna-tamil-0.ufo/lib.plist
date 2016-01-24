@@ -207,8 +207,6 @@
     </dict>
     <key>com.schriftgestaltung.useNiceNames</key>
     <integer>0</integer>
-    <key>com.schriftgestaltung.weightValue</key>
-    <integer>0</integer>
     <key>com.schriftgestaltung.glyphOrder</key>
     <array>
       <string>tml_A</string>
@@ -337,6 +335,8 @@
       <string>tml_MatraIi.alt2</string>
       <string>newGlyph.001</string>
     </array>
+    <key>com.schriftgestaltung.weightValue</key>
+    <integer>0</integer>
     <key>com.schriftgestaltung.weight</key>
     <string>Light</string>
     <key>com.schriftgestaltung.widthValue</key>
