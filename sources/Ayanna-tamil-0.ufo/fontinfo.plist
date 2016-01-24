@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>familyName</key>
-    <string>ayanna-tamil</string>
+    <string>Ayanna</string>
     <key>styleName</key>
     <string>ExtraBold</string>
     <key>styleMapFamilyName</key>
@@ -11,11 +11,9 @@
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>versionMajor</key>
-    <integer>2</integer>
-    <key>versionMinor</key>
-    <integer>5</integer>
+    <integer>0</integer>
     <key>copyright</key>
-    <string>Licensed under the SIL Open Font License 1.1 (see file OFL.txt)</string>
+    <string>Copyright (c) 2015 mooniak (http://mooniak.com)</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>capHeight</key>
@@ -31,7 +29,7 @@
     <key>note</key>
     <string></string>
     <key>openTypeHeadCreated</key>
-    <string>2016/01/21 11:32:09</string>
+    <string>2016/01/24 13:30:51</string>
     <key>openTypeHheaAscender</key>
     <integer>954</integer>
     <key>openTypeHheaDescender</key>
@@ -39,11 +37,7 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameVersion</key>
-    <string>Version 2.5.0</string>
-    <key>openTypeNamePreferredFamilyName</key>
-    <string>ayanna-tamil</string>
-    <key>openTypeNamePreferredSubfamilyName</key>
-    <string>regular</string>
+    <string>Version </string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>2</integer>
@@ -116,11 +110,11 @@
       <integer>0</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>AyannaNarrowTamil-ExtraBold</string>
+    <string>Ayanna-ExtraBold</string>
     <key>postscriptFullName</key>
-    <string>AyannaNarrow</string>
+    <string>Ayanna</string>
     <key>postscriptWeightName</key>
-    <string>Regular</string>
+    <string>Bold</string>
     <key>postscriptUnderlineThickness</key>
     <integer>0</integer>
     <key>postscriptUnderlinePosition</key>

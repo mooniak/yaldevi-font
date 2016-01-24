@@ -3,13 +3,17 @@
 <plist version="1.0">
   <dict>
     <key>familyName</key>
-    <string>AyannaNarrowBeta</string>
+    <string>Ayanna</string>
     <key>styleName</key>
-    <string>Regular</string>
+    <string>Light</string>
     <key>styleMapFamilyName</key>
-    <string>AyannaNarrowBeta</string>
+    <string>Ayanna</string>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
     <key>copyright</key>
-    <string>Copyright (c) 2015, Pathum,,,</string>
+    <string>Copyright (c) 2015 mooniak (http://mooniak.com) </string>
     <key>unitsPerEm</key>
     <integer>1024</integer>
     <key>ascender</key>
@@ -27,15 +31,38 @@
     <key>openTypeHheaDescender</key>
     <integer>-281</integer>
     <key>openTypeHheaLineGap</key>
-    <integer>0</integer>
+    <integer>92</integer>
     <key>openTypeNameVersion</key>
-    <string>Version </string>
+    <string>Version 1.000</string>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>200</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>PfEd</string>
+    <key>openTypeOS2FamilyClass</key>
+    <array>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>819</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-205</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>92</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>864</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>281</integer>
     <key>postscriptFontName</key>
-    <string>AyannaNarrowBeta</string>
+    <string>Ayanna-Light</string>
     <key>postscriptFullName</key>
-    <string>AyannaNarrowBeta</string>
+    <string>Ayanna</string>
     <key>postscriptWeightName</key>
-    <string>Regular</string>
+    <string>Light</string>
     <key>postscriptUnderlineThickness</key>
     <integer>0</integer>
     <key>postscriptUnderlinePosition</key>
