@@ -11,7 +11,7 @@ See [Milestones](https://github.com/mooniak/ayanna-narrow/milestones) and [Timel
 
 ## Repository Structure
 
-- See [Realases](https://github.com/mooniak/stick-no-bills-font/releases) to Download released clean font versions, sources and specimens at the relase point.
+- See [Releases](https://github.com/mooniak/stick-no-bills-font/releases) to Download released clean font versions, sources and specimens at the relase point.
 
 - See `/sources/draft-fonts` contains draft fonts which are dirty, generated for design testing.
 
