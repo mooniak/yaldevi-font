@@ -1,11 +1,10 @@
 FONTLOG for Ayanna
 -------------------
 
-This file provides detailed information on the STICK NO BILLS™ font software.
-This information should be distributed along with the  STICK NO BILLS™ fonts and any derivative works.
+This file provides detailed information on the Ayanna Narrow font software.
+This information should be distributed along with the Ayanna Narrow fonts and any derivative works.
 
-Please see https://github.com/mooniak/ayanna-font for documentation,development plans, contribution guidelines and all past releases. 
-
+Please see https://github.com/mooniak/ayanna-font for documentation, development plans, contribution guidelines and all past releases. 
 
 ChangeLog
 ----------
