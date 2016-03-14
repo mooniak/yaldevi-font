@@ -8,7 +8,7 @@ kit.confirm_version('0.2.1')
 
 family = kit.Family(
     trademark = 'Ayanna',
-    script = 'Sinhala',
+    script = 'Tamil',
     hide_script_name = True,
 )
 
@@ -64,4 +64,4 @@ builder.generate_designspace()
 builder.generate_fmndb()
 
 builder.build()
-subprocess.call(['python', 'scripts/ttfbuild.py', 't', "Ayanna"])
+subprocess.call(['python', 'scripts/ttfbuild.py', 't', "Ayanna Yalpanam"])
