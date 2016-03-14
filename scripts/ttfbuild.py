@@ -22,7 +22,7 @@ INFO='''<?xml version="1.0" encoding="UTF-8"?>
 for file in file_list:
     path='instances/'+file+'/font.ufo'
     print "[INFO] Checking out lines and resetting UFO"
-    subprocess.call(['checkOutlinesUFO', '-wd', path])
+    subprocess.call(['checkOutlinesUFO', '-wd', '-e', path])
 
     for item in os.listdir(path):
         if os.path.isfile(path+'/'+item) and not item=="lib.plist":
