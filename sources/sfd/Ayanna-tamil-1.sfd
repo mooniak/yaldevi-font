@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1453642220
-ModificationTime: 1453657899
+ModificationTime: 1459500471
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -690,7 +690,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 56 8 2
+WinInfo: 84 7 6
 BeginPrivate: 1
 BlueShift 1 0
 EndPrivate
@@ -3664,23 +3664,23 @@ GlifName: tml_M_atraI_.alt2
 Width: 182
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HWO
 AnchorPoint: "MatraI.alt2" -102 560 mark 0
 LayerCount: 2
 Back
 Fore
 SplineSet
--120 482 m 257
- -102 560 l 257
- -124 560 -148 564 -148 595 c 256
- -148 624 -121 650 -76 650 c 256
- 10 650 33 582 33 491 c 258
- 34 1 l 257
- 142 1 l 257
- 140 487 l 258
- 139 656 71 758 -72 758 c 256
- -158 758 -250 706 -250 597 c 256
- -250 525 -184 482 -120 482 c 257
+-120 482 m 261
+ -184 482 -250 525 -250 597 c 260
+ -250 706 -158 758 -72 758 c 260
+ 71 758 139 656 140 487 c 262
+ 142 1 l 261
+ 34 1 l 261
+ 33 491 l 262
+ 33 582 10 650 -76 650 c 260
+ -121 650 -148 624 -148 595 c 260
+ -148 564 -124 560 -102 560 c 261
+ -120 482 l 261
 EndSplineSet
 EndChar
 
@@ -3846,7 +3846,7 @@ GlifName: tml_M_atraI_.stylalt1
 Width: 154
 VWidth: 0
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 AnchorPoint: "MatraI.stylalt1" -533 275 mark 0
 LayerCount: 2
 Back
@@ -6244,7 +6244,7 @@ GlifName: tml_R_I_.alt
 Width: 771
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HWO
 LayerCount: 2
 Back
 Fore
@@ -6261,7 +6261,7 @@ SplineSet
  167 1 l 257
  60 1 l 257
 EndSplineSet
-Refer: 50 -1 N 1 0 0 1 569 0 2
+Refer: 50 -1 S 1 0 0 1 569 0 2
 EndChar
 
 StartChar: tml_RIi.alt
