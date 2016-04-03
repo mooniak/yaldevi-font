@@ -29,9 +29,9 @@ Report any issues or bugs in [issues](https://github.com/mooniak/ayanna-font/iss
 
 ## Repository Structure
 
-- See [Realases](https://github.com/mooniak/ayanna-font/releases) to Download released clean font versions, sources and specimens at the relase point.
+- See [Releases](https://github.com/mooniak/ayanna-font/releases) to Download released clean font versions, sources and specimens at the relase point.
 - See `/fonts` in `gh-pages` branch contains draft fonts which are dirty, generated for design testing.
-- See `/sources/` contains dirty and incomplete `.ufo` files which opens in all major font editors. These files are generated in intervals in between development. See [Realases](https://github.com/mooniak/ayanna-font/releases) for clean sources.
+- See `/sources/` contains dirty and incomplete `.ufo` files which opens in all major font editors. These files are generated in intervals in between development. See [Releases](https://github.com/mooniak/ayanna-font/releases) for clean sources.
 - See `/sources/sfd` contains source `.sfd` files which opens in [FontForge](http://fontforge.github.io/en-US/). These files are under active developemnt.
 -  See `/sources/glyphs` contains source `.glyphs` files which opens in [Glyphs](https://glyphsapp.com/). These files are under active developemnt.
 
