@@ -61,9 +61,14 @@ $vagrant up
 $vagrant ssh
 ```
 
-- Run builder script.
+- Run builder script to build OTF fonts.
 ```shell
 $cd /vagrant/scripts && sh builder.sh
+```
+
+- Run gf-builder script to build Google fonts compatible TTF fonts.
+```shell
+$cd /vagrant/scripts && sh gfbuilder.sh
 ```
 
 ## Credits
