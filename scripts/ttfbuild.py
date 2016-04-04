@@ -5,6 +5,8 @@ from shutil import copyfile
 file_list=os.listdir("instances")
 lang=sys.argv[1]
 family_name=sys.argv[2]
+full_font_name=sys.argv[3]
+font_name=sys.argv[4]
 FEATURES = '''\
 table head {
   FontRevision 1.000;
@@ -23,7 +25,7 @@ for file in file_list:
     path='instances/'+file+'/font.ufo'
     print "[INFO] Checking out lines and resetting UFO"
     subprocess.call(['checkOutlinesUFO', '-e', '-all','-wd', path])
-	
+
     for item in os.listdir(path):
         if os.path.isfile(path+'/'+item) and not item=="lib.plist" and not item=="metainfo.plist":
             os.remove(path+'/'+item)
@@ -48,8 +50,8 @@ for file in file_list:
 
     font = fontforge.open(path)
     font.familyname=family_name
-    font.fontname=family_name+"-"+file
-    font.fullname=family_name+" "+file
+    font.fontname=font_name+"-"+file
+    font.fullname=full_font_name+" "+file
     if not os.path.exists("ttf-build"):
         os.mkdir("ttf-build")
     if lang=="s" and not os.path.exists("ttf-build/Sinhala"):
@@ -58,6 +60,6 @@ for file in file_list:
         os.mkdir("ttf-build/Tamil")
     print "[INFO] Generating ttf font"
     if lang=="s":
-        font.generate("ttf-build/Sinhala/"+family_name+"-"+file+".ttf")
+        font.generate("ttf-build/Sinhala/"+full_font_name+"-"+file+".ttf")
     else:
-        font.generate("ttf-build/Tamil/"+family_name+"-"+file+".ttf")
+        font.generate("ttf-build/Tamil/"+full_font_name+"-"+file+".ttf")

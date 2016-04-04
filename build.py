@@ -7,7 +7,7 @@ kit.confirm_version('0.2.1')
 # - - -
 
 family = kit.Family(
-    trademark = 'Ayanna',
+    trademark = 'Yaldevi',
     script = 'Sinhala',
     hide_script_name = True,
 )
@@ -20,7 +20,7 @@ family.set_masters(
         # 'devanagari_matra_i_variants',
     ],
 )
-family.masters[0]._file_name = 'Ayanna-Bold.ufo'
+family.masters[0]._file_name = 'Yaldevi-Bold.ufo'
 
 family.set_styles([
     ('Bold',       100, 900),
@@ -57,10 +57,10 @@ builder.generate_designspace()
 builder.generate_fmndb()
 
 builder.build()
-os.rename("build/Ayanna-Bold.otf","Ayanna-Bold.otf")
+os.rename("build/Yaldevi-Bold.otf","Yaldevi-Bold.otf")
 
-family.masters[0]._file_name = 'Ayanna-Regular.ufo'
-family.masters[1]._file_name = 'Ayanna-ExtraBold.ufo'
+family.masters[0]._file_name = 'Yaldevi-Regular.ufo'
+family.masters[1]._file_name = 'Yaldevi-ExtraBold.ufo'
 
 family.set_styles([
     ('ExtraLight',     0.0, 400),
@@ -102,5 +102,5 @@ builder.generate_designspace()
 builder.generate_fmndb()
 
 builder.build()
-os.remove("build/Ayanna-Bold1.otf")
-os.rename("Ayanna-Bold.otf", "build/Ayanna-Bold.otf")
+os.remove("build/Yaldevi-Bold1.otf")
+os.rename("Yaldevi-Bold.otf", "build/Yaldevi-Bold.otf")

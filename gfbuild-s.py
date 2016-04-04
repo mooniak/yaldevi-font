@@ -7,7 +7,7 @@ kit.confirm_version('0.2.1')
 # - - -
 
 family = kit.Family(
-    trademark = 'Ayanna',
+    trademark = 'Yaldevi Colombo',
     script = 'Sinhala',
     hide_script_name = True,
 )
@@ -20,7 +20,7 @@ family.set_masters(
         # 'devanagari_matra_i_variants',
     ],
 )
-family.masters[0]._file_name = 'Ayanna-Bold.ufo'
+family.masters[0]._file_name = 'Yaldevi Colombo-Bold.ufo'
 
 family.set_styles([
     ('Bold',       100, 900),
@@ -57,10 +57,10 @@ builder.generate_designspace()
 builder.generate_fmndb()
 
 builder.build()
-subprocess.call(['python', 'scripts/ttfbuild.py', 's', "Ayanna"])
+subprocess.call(['python', 'scripts/ttfbuild.py', 's', "Yaldevi Colombo", "YaldeviColombo"])
 
-family.masters[0]._file_name = 'Ayanna-Regular.ufo'
-family.masters[1]._file_name = 'Ayanna-ExtraBold.ufo'
+family.masters[0]._file_name = 'Yaldevi-Regular.ufo'
+family.masters[1]._file_name = 'Yaldevi-ExtraBold.ufo'
 
 family.set_styles([
     ('ExtraLight',     0.0, 400),
@@ -102,5 +102,5 @@ builder.generate_designspace()
 builder.generate_fmndb()
 
 builder.build()
-subprocess.call(['python', 'scripts/ttfbuild.py', 's', "Ayanna"])
-os.remove("ttf-build/Sinhala/Ayanna-Bold1.ttf")
+subprocess.call(['python', 'scripts/ttfbuild.py', 's', "Yaldevi Colombo", "YaldeviColombo", "YaldeviColombo"])
+os.remove("ttf-build/Sinhala/YaldeviColombo-Bold1.ttf")
