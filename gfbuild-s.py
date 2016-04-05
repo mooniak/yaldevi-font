@@ -34,7 +34,7 @@ family.set_styles([
 
 builder = kit.Builder(family)
 
-builder.fontrevision = '0.900'
+builder.fontrevision = '1.001'
 
 builder.set_options([
 
@@ -79,7 +79,7 @@ family.set_styles([
 
 builder = kit.Builder(family)
 
-builder.fontrevision = '0.900'
+builder.fontrevision = '1.001'
 
 builder.set_options([
 
@@ -103,4 +103,4 @@ builder.generate_fmndb()
 
 builder.build()
 subprocess.call(['python', 'scripts/ttfbuild.py', 's', "Yaldevi Colombo", "YaldeviColombo", "YaldeviColombo"])
-os.remove("ttf-build/Sinhala/YaldeviColombo-Bold1.ttf")
+os.rename("ttf-build/Sinhala/YaldeviColombo-Bold1.ttf", "ttf-build/Sinhala/YaldeviColombo-Bold.ttf")
