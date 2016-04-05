@@ -1,4 +1,4 @@
-Ayanna Font Brief
+Yaldevi Font Brief (previously Ayanna)
 ==============
 
 Following is the intial email posted on Google Fonts discussion list outlining the project.
