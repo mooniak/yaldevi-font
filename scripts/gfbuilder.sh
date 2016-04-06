@@ -27,16 +27,16 @@ python ../../scripts/fontconvert Ayanna-tamil-1-temp.sfd ../../sources --ufo
 cd ../../scripts
 rm -R -f ../ttf-build
 rm -R -f ../masters/*.ufo
-python merger.py ../masters/Ayanna-Regular.ufo ../sources/Ayanna-sinhala-0-temp.ufo ../sources/Ayanna-latin-0.ufo
-python merger.py ../masters/Ayanna-ExtraBold.ufo ../sources/Ayanna-sinhala-1-temp.ufo ../sources/Ayanna-latin-1.ufo
-python merger.py ../masters/Ayanna-Bold.ufo ../sources/Ayanna-sinhala-1-opt-temp.ufo ../sources/Ayanna-latin-1.ufo
+python merger.py ../masters/Yaldevi-Regular.ufo ../sources/Ayanna-sinhala-0-temp.ufo ../sources/Ayanna-latin-0.ufo
+python merger.py ../masters/Yaldevi-ExtraBold.ufo ../sources/Ayanna-sinhala-1-temp.ufo ../sources/Ayanna-latin-1.ufo
+python merger.py ../masters/Yaldevi\ Colombo-Bold.ufo ../sources/Ayanna-sinhala-1-opt-temp.ufo ../sources/Ayanna-latin-1.ufo
 cd ../
 python gfbuild-s.py
 
 cd scripts
 rm -R -f ../masters/*.ufo
-python merger.py ../masters/Ayanna-Regular.ufo ../sources/Ayanna-tamil-0-temp.ufo ../sources/Ayanna-latin-0.ufo
-python merger.py ../masters/Ayanna-ExtraBold.ufo ../sources/Ayanna-tamil-1-temp.ufo ../sources/Ayanna-latin-1.ufo
+python merger.py ../masters/Yaldevi-Regular.ufo ../sources/Ayanna-tamil-0-temp.ufo ../sources/Ayanna-latin-0.ufo
+python merger.py ../masters/Yaldevi-ExtraBold.ufo ../sources/Ayanna-tamil-1-temp.ufo ../sources/Ayanna-latin-1.ufo
 cd ../
 python gfbuild-t.py
 

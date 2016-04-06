@@ -7,7 +7,7 @@ kit.confirm_version('0.2.1')
 # - - -
 
 family = kit.Family(
-    trademark = 'Ayanna',
+    trademark = 'Yaldevi Jaffna',
     script = 'Tamil',
     hide_script_name = True,
 )
@@ -21,8 +21,8 @@ family.set_masters(
     ],
 )
 
-family.masters[0]._file_name = 'Ayanna-Regular.ufo'
-family.masters[1]._file_name = 'Ayanna-ExtraBold.ufo'
+family.masters[0]._file_name = 'Yaldevi-Regular.ufo'
+family.masters[1]._file_name = 'Yaldevi-ExtraBold.ufo'
 
 family.set_styles([
     ('ExtraLight',     0.0, 400),
@@ -41,7 +41,7 @@ family.set_styles([
 
 builder = kit.Builder(family)
 
-builder.fontrevision = '0.900'
+builder.fontrevision = '1.001'
 
 builder.set_options([
 
@@ -64,4 +64,4 @@ builder.generate_designspace()
 builder.generate_fmndb()
 
 builder.build()
-subprocess.call(['python', 'scripts/ttfbuild.py', 't', "Ayanna Yalpanam"])
+subprocess.call(['python', 'scripts/ttfbuild.py', 't', "Yaldevi Jaffna", "YaldeviJaffna", "YaldeviJaffna"])

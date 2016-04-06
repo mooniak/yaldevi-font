@@ -1,1 +1,0 @@
-Ayanna is trademarks of Mooniak Pvt. Ltd
