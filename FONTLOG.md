@@ -9,9 +9,9 @@ Please see https://github.com/mooniak/yaldevi-font for documentation, developmen
 ChangeLog
 ----------
 
-5 April 2016 (mooniak) Yaldevi Fonts v1.001
+6 April 2016 (mooniak) Yaldevi Fonts v1.010
 - Renamed family to Yaldevi
-- Seperate hinted ttf families for Sinhala and Tamil
+- Separate hinted ttf families for Sinhala and Tamil
 - New ttf build: The ttf build works smoothly, but custom to this project.
 
 
