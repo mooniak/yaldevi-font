@@ -8,11 +8,14 @@ Please see https://github.com/mooniak/yaldevi-font for documentation, developmen
 
 ChangeLog
 ----------
+17 July 2017 (mooniak) Yaldevi v1.030
+- Fixing misplaced Tamil glyphs (Reported #65)
+- Minor design fixes
 
-16 February 2016 (mooniakk) Yaldevi v1.020
+16 February 2017 (mooniak) Yaldevi v1.020
 - Glyph revisions
    - Si_Ii -(ඊ)
-   - Si_E/Ee/Ai -(එ/ඒ/එෙ) 
+   - Si_E/Ee/Ai -(එ/ඒ/එෙ)
    - Si_ka -(ක)
    - Si_Ttha/Tthi/Tthii/Tth.halant/Tthu/Tthuu -(ඨ/ඨි/ඨී/ඨ්/ඨු/ඨූ)
    - Si_Ddha/Ddhi/Ddhii/Ddh.halant/Ddhu/Ddhuu -(ඪ/ඪි/ඪී/ඪ්/ඪු/ඪූ)
@@ -24,7 +27,7 @@ ChangeLog
    - Si_MatraE -(ෙ)
 - Various Spacing adjustments
 
-  
+
 6 April 2016 (mooniak) Yaldevi Fonts v1.010
 - Renamed family to Yaldevi
 - Separate hinted ttf families for Sinhala and Tamil
