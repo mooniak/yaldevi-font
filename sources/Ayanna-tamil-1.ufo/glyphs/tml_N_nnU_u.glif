@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tml_NnnUu" format="1">
-  <advance width="1743"/>
+  <advance width="1448"/>
   <outline>
     <contour>
-      <point x="1743" y="573" type="line"/>
-      <point x="1743" y="476" type="line"/>
-      <point x="1643" y="476" type="line"/>
-      <point x="1643" y="-13" type="line"/>
-      <point x="1536" y="-13" type="line"/>
-      <point x="1536" y="476" type="line"/>
-      <point x="1421" y="476" type="line"/>
-      <point x="1421" y="573" type="line"/>
+      <point x="1403" y="573" type="line"/>
+      <point x="1403" y="476" type="line"/>
+      <point x="1303" y="476" type="line"/>
+      <point x="1303" y="-13" type="line"/>
+      <point x="1196" y="-13" type="line"/>
+      <point x="1196" y="476" type="line"/>
+      <point x="1081" y="476" type="line"/>
+      <point x="1081" y="573" type="line"/>
     </contour>
     <component base="tml_NnnU" xOffset="12"/>
   </outline>

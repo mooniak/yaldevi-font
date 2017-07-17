@@ -4,8 +4,8 @@
   <unicode hex="0BF6"/>
   <outline>
     <contour>
-      <point x="540" y="-184"/>
-      <point x="473" y="-342"/>
+      <point x="550" y="-184"/>
+      <point x="480.362" y="-342"/>
       <point x="286" y="-342" type="curve" smooth="yes"/>
       <point x="148" y="-342"/>
       <point x="42" y="-286"/>
@@ -24,10 +24,10 @@
       <point x="84" y="-253"/>
       <point x="160" y="-300"/>
       <point x="284" y="-300" type="curve" smooth="yes"/>
-      <point x="452" y="-300"/>
-      <point x="497" y="-155"/>
-      <point x="497" y="4" type="curve"/>
-      <point x="540" y="2" type="line"/>
+      <point x="459.887" y="-300"/>
+      <point x="507" y="-155"/>
+      <point x="507" y="4" type="curve"/>
+      <point x="550" y="2" type="line"/>
     </contour>
     <component base="tml_Pa" xOffset="50"/>
   </outline>
