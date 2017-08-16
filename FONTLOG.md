@@ -8,6 +8,9 @@ Please see https://github.com/mooniak/yaldevi-font for documentation, developmen
 
 ChangeLog
 ----------
+16 August 2017 (mooniak) Yaldevi v1.040
+- Fixing nbspace advance width (Reported #66)
+
 17 July 2017 (mooniak) Yaldevi v1.030
 - Fixing misplaced Tamil glyphs (Reported #65)
 - Minor design fixes
