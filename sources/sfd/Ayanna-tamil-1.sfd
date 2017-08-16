@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1453642220
-ModificationTime: 1500294465
+ModificationTime: 1502854105
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -690,17 +690,17 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 9 7
+WinInfo: 0 8 2
 BeginPrivate: 1
 BlueShift 1 0
 EndPrivate
-AnchorClass2: "MatraU.alt1" "blwmBelowBaseMarkinTamillookup1 subtable" "MatraIi.alt3" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt4" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt3" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt5" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.alt2" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraAi.alt" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt8" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt7" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraUu" "blwmBelowBaseMarkinTamillookup1 subtable" "MatraU" "blwmBelowBaseMarkinTamillookup1 subtable" "MatraI.alt6" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.alt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.stylalt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt2" "abvmAboveBaseMarkinTamillookup0 subtable" "virama" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.stylalt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi" "abvmAboveBaseMarkinTamillookup0 subtable" 
+AnchorClass2: "MatraU.alt1" "blwmBelowBaseMarkinTamillookup1 subtable" "MatraIi.alt3" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt4" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt3" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt5" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.alt2" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraAi.alt" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt8" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt7" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraUu" "blwmBelowBaseMarkinTamillookup1 subtable" "MatraU" "blwmBelowBaseMarkinTamillookup1 subtable" "MatraI.alt6" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.alt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.stylalt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt2" "abvmAboveBaseMarkinTamillookup0 subtable" "virama" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.stylalt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi" "abvmAboveBaseMarkinTamillookup0 subtable"
 BeginChars: 144 138
 
 StartChar: space
 Encoding: 0 32 0
 GlifName: space
-Width: 260
+Width: 200
 VWidth: 0
 GlyphClass: 2
 Flags: HW

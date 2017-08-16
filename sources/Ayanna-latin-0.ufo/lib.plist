@@ -47,6 +47,10 @@
 			<integer>35</integer>
 		</dict>
 	</dict>
+	<key>UFOFormat</key>
+	<integer>3</integer>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>angle</key>
@@ -87,7 +91,7 @@
 		<string>uni0049</string>
 	</array>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<integer>0</integer>
+	<false/>
 	<key>com.schriftgestaltung.weight</key>
 	<string>Light</string>
 	<key>com.schriftgestaltung.weightValue</key>
@@ -315,13 +319,13 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>onesuperior</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
 		<string>fraction</string>
 		<string>onehalf</string>
 		<string>onequarter</string>
 		<string>threequarters</string>
-		<string>onesuperior</string>
-		<string>twosuperior</string>
-		<string>threesuperior</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>
@@ -371,49 +375,49 @@
 		<string>uni20BA</string>
 		<string>uni20BD</string>
 		<string>yen</string>
-		<string>approxequal</string>
-		<string>asciitilde</string>
-		<string>divide</string>
-		<string>equal</string>
-		<string>greater</string>
-		<string>greaterequal</string>
-		<string>infinity</string>
-		<string>integral</string>
-		<string>less</string>
-		<string>lessequal</string>
-		<string>logicalnot</string>
+		<string>plus</string>
 		<string>minus</string>
 		<string>multiply</string>
+		<string>divide</string>
+		<string>equal</string>
 		<string>notequal</string>
-		<string>partialdiff</string>
-		<string>percent</string>
-		<string>perthousand</string>
-		<string>plus</string>
+		<string>greater</string>
+		<string>less</string>
+		<string>greaterequal</string>
+		<string>lessequal</string>
 		<string>plusminus</string>
-		<string>product</string>
-		<string>radical</string>
-		<string>summation</string>
-		<string>uni00B5</string>
+		<string>approxequal</string>
+		<string>asciitilde</string>
+		<string>logicalnot</string>
+		<string>infinity</string>
+		<string>integral</string>
 		<string>uni2126</string>
 		<string>uni2206</string>
+		<string>product</string>
+		<string>summation</string>
+		<string>radical</string>
+		<string>partialdiff</string>
+		<string>uni00B5</string>
+		<string>percent</string>
+		<string>perthousand</string>
 		<string>uni2215</string>
 		<string>uni2219</string>
 		<string>lozenge</string>
-		<string>bar</string>
-		<string>brokenbar</string>
 		<string>at</string>
 		<string>ampersand</string>
 		<string>paragraph</string>
+		<string>section</string>
 		<string>copyright</string>
 		<string>registered</string>
-		<string>section</string>
 		<string>trademark</string>
 		<string>degree</string>
-		<string>estimated</string>
-		<string>uni2113</string>
-		<string>asciicircum</string>
+		<string>bar</string>
+		<string>brokenbar</string>
 		<string>dagger</string>
+		<string>uni2113</string>
 		<string>daggerdbl</string>
+		<string>estimated</string>
+		<string>asciicircum</string>
 		<string>uni02C9</string>
 		<string>acute</string>
 		<string>breve</string>

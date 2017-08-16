@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni00A0" format="1">
-  <advance width="190"/>
+  <advance width="200"/>
   <unicode hex="00A0"/>
   <outline>
   </outline>
@@ -8,6 +8,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-16 03:26:04 +0000</string>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
     </dict>

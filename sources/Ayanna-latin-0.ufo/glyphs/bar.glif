@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bar" format="1">
-  <advance width="317"/>
-  <unicode hex="007C"/>
-  <outline>
-    <contour>
-      <point x="142" y="725" type="line"/>
-      <point x="140" y="-70" type="line"/>
-      <point x="177" y="-70" type="line"/>
-      <point x="177" y="725" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-    </dict>
-  </lib>
+<glyph name="bar" format="2">
+	<advance width="317"/>
+	<unicode hex="007C"/>
+	<outline>
+		<contour>
+			<point x="142" y="725" type="line"/>
+			<point x="140" y="-70" type="line"/>
+			<point x="177" y="-70" type="line"/>
+			<point x="177" y="725" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+			<integer>1</integer>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-08-16 03:25:27 +0000</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
 </glyph>

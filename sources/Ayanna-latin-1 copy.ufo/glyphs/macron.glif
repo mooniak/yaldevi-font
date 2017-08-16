@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="380"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="50" y="694" type="line"/>
+      <point x="50" y="594" type="line"/>
+      <point x="330" y="594" type="line"/>
+      <point x="330" y="694" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="500" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>50</integer>
+          <key>y</key>
+          <integer>696</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>50</integer>
+          <key>y</key>
+          <integer>592</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

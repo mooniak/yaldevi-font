@@ -12,8 +12,6 @@
 	<integer>-205</integer>
 	<key>familyName</key>
 	<string>Ayanna</string>
-	<key>guidelines</key>
-	<array/>
 	<key>openTypeHeadCreated</key>
 	<string>2015/08/24 17:04:41</string>
 	<key>openTypeNameDesigner</key>
@@ -26,8 +24,11 @@
 	<string>http://www.mooniak.com/</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Ayanna</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Light</string>
 	<key>openTypeOS2Type</key>
-	<array/>
+	<array>
+	</array>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>819</integer>
 	<key>openTypeOS2TypoDescender</key>
@@ -51,10 +52,8 @@
 		<integer>725</integer>
 		<integer>732</integer>
 	</array>
-	<key>postscriptFamilyBlues</key>
-	<array/>
-	<key>postscriptFamilyOtherBlues</key>
-	<array/>
+	<key>postscriptFontName</key>
+	<string>Ayanna-Light</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-212</integer>
@@ -79,6 +78,8 @@
 	<integer>-102</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>51</integer>
+	<key>styleMapFamilyName</key>
+	<string>Ayanna Light</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>

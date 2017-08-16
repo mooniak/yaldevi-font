@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="scaron" format="1">
-  <advance width="397"/>
-  <unicode hex="0161"/>
-  <outline>
-    <component base="s"/>
-    <component base="caron" xOffset="-7"/>
-  </outline>
-  <lib>
-    <dict>
+<glyph name="scaron" format="2">
+	<advance width="397"/>
+	<unicode hex="0161"/>
+	<outline>
+		<component base="s"/>
+		<component base="caron" xOffset="-7"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-08-16 03:25:27 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>caron</string>
-        </dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>caron</string>
+				</dict>
       </array>
-    </dict>
-  </lib>
+		</dict>
+	</lib>
 </glyph>

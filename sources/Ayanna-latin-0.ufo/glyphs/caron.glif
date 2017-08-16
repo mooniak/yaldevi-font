@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caron" format="1">
-  <advance width="445"/>
-  <unicode hex="02C7"/>
-  <outline>
-    <contour>
-      <point x="221" y="575" type="line"/>
-      <point x="345" y="682" type="line"/>
-      <point x="324" y="708" type="line"/>
-      <point x="220" y="626" type="line"/>
-      <point x="228" y="626" type="line"/>
-      <point x="122" y="709" type="line"/>
-      <point x="100" y="680" type="line"/>
-    </contour>
-    <contour>
-      <point x="223" y="500" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>x</key>
-          <integer>104</integer>
-          <key>y</key>
-          <integer>585</integer>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
+<glyph name="caron" format="2">
+	<advance width="445"/>
+	<unicode hex="02C7"/>
+	<outline>
+		<contour>
+			<point x="221" y="575" type="line"/>
+			<point x="345" y="682" type="line"/>
+			<point x="324" y="708" type="line"/>
+			<point x="220" y="626" type="line"/>
+			<point x="228" y="626" type="line"/>
+			<point x="122" y="709" type="line"/>
+			<point x="100" y="680" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="223" y="500"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+			<integer>3</integer>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-08-16 03:25:27 +0000</string>
+			<key>com.typemytype.robofont.guides</key>
+			<array>
+				<dict>
+					<key>angle</key>
+					<integer>0</integer>
+					<key>isGlobal</key>
+					<false/>
+					<key>x</key>
+					<integer>104</integer>
+					<key>y</key>
+					<integer>585</integer>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.97,1,0,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Icircumflex" format="1">
-  <advance width="209"/>
-  <unicode hex="00CE"/>
-  <outline>
-    <contour>
-      <point x="109" y="854" type="line"/>
-      <point x="-5" y="747" type="line"/>
-      <point x="16" y="721" type="line"/>
-      <point x="110" y="803" type="line"/>
-      <point x="102" y="803" type="line"/>
-      <point x="198" y="720" type="line"/>
-      <point x="220" y="749" type="line"/>
-    </contour>
-    <component base="I"/>
-  </outline>
+<glyph name="Icircumflex" format="2">
+	<advance width="209"/>
+	<unicode hex="00CE"/>
+	<outline>
+		<contour>
+			<point x="109" y="854" type="line"/>
+			<point x="-5" y="747" type="line"/>
+			<point x="16" y="721" type="line"/>
+			<point x="110" y="803" type="line"/>
+			<point x="102" y="803" type="line"/>
+			<point x="198" y="720" type="line"/>
+			<point x="220" y="749" type="line"/>
+		</contour>
+		<component base="I"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-08-16 03:25:27 +0000</string>
+		</dict>
+	</lib>
 </glyph>

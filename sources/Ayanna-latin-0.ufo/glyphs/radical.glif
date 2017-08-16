@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="radical" format="1">
-  <advance width="624"/>
-  <unicode hex="221A"/>
-  <outline>
-    <contour>
-      <point x="268" y="-120" type="line"/>
-      <point x="482" y="710" type="line"/>
-      <point x="475" y="704" type="line"/>
-      <point x="624" y="704" type="line"/>
-      <point x="624" y="739" type="line"/>
-      <point x="449" y="739" type="line"/>
-      <point x="250" y="-69" type="line"/>
-      <point x="261" y="-69" type="line"/>
-      <point x="98" y="377" type="line"/>
-      <point x="0" y="339" type="line"/>
-      <point x="12" y="307" type="line"/>
-      <point x="79" y="332" type="line"/>
-      <point x="71" y="337" type="line"/>
-      <point x="238" y="-120" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-    </dict>
-  </lib>
+<glyph name="radical" format="2">
+	<advance width="624"/>
+	<unicode hex="221A"/>
+	<outline>
+		<contour>
+			<point x="268" y="-120" type="line"/>
+			<point x="482" y="710" type="line"/>
+			<point x="475" y="704" type="line"/>
+			<point x="624" y="704" type="line"/>
+			<point x="624" y="739" type="line"/>
+			<point x="449" y="739" type="line"/>
+			<point x="250" y="-69" type="line"/>
+			<point x="261" y="-69" type="line"/>
+			<point x="98" y="377" type="line"/>
+			<point x="0" y="339" type="line"/>
+			<point x="12" y="307" type="line"/>
+			<point x="79" y="332" type="line"/>
+			<point x="71" y="337" type="line"/>
+			<point x="238" y="-120" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+			<integer>1</integer>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-08-16 03:25:27 +0000</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
 </glyph>

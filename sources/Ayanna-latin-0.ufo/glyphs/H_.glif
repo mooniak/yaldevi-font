@@ -1,33 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="H" format="1">
-  <advance width="601"/>
-  <unicode hex="0048"/>
-  <outline>
-    <contour>
-      <point x="474" y="359" type="line"/>
-      <point x="487" y="369" type="line"/>
-      <point x="114" y="369" type="line"/>
-      <point x="127" y="359" type="line"/>
-      <point x="127" y="675" type="line"/>
-      <point x="85" y="675" type="line"/>
-      <point x="85" y="0" type="line"/>
-      <point x="127" y="0" type="line"/>
-      <point x="127" y="344" type="line"/>
-      <point x="114" y="334" type="line"/>
-      <point x="487" y="334" type="line"/>
-      <point x="474" y="344" type="line"/>
-      <point x="474" y="0" type="line"/>
-      <point x="516" y="0" type="line"/>
-      <point x="516" y="675" type="line"/>
-      <point x="474" y="675" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
+<glyph name="H" format="2">
+	<advance width="601"/>
+	<unicode hex="0048"/>
+	<outline>
+		<contour>
+			<point x="474" y="359" type="line"/>
+			<point x="487" y="369" type="line"/>
+			<point x="114" y="369" type="line"/>
+			<point x="127" y="359" type="line"/>
+			<point x="127" y="675" type="line"/>
+			<point x="85" y="675" type="line"/>
+			<point x="85" y="0" type="line"/>
+			<point x="127" y="0" type="line"/>
+			<point x="127" y="344" type="line"/>
+			<point x="114" y="334" type="line"/>
+			<point x="487" y="334" type="line"/>
+			<point x="474" y="344" type="line"/>
+			<point x="474" y="0" type="line"/>
+			<point x="516" y="0" type="line"/>
+			<point x="516" y="675" type="line"/>
+			<point x="474" y="675" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+			<integer>3</integer>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-08-16 03:25:27 +0000</string>
+			<key>public.markColor</key>
+			<string>0.97,1,0,1</string>
+		</dict>
+	</lib>
 </glyph>

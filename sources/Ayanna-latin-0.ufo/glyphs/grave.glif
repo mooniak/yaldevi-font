@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="grave" format="1">
-  <advance width="345"/>
-  <unicode hex="0060"/>
-  <outline>
-    <component base="acute" xOffset="367" xScale="-1"/>
-    <contour>
-      <point x="193" y="500" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
+<glyph name="grave" format="2">
+	<advance width="345"/>
+	<unicode hex="0060"/>
+	<outline>
+		<component base="acute" xOffset="367" xScale="-1"/>
+	</outline>
+	<anchor name="_top" x="193" y="500"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+			<integer>3</integer>
+			<key>public.markColor</key>
+			<string>0.97,1,0,1</string>
+		</dict>
+	</lib>
 </glyph>

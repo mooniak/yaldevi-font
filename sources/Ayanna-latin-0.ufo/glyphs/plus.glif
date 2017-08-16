@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="plus" format="1">
-  <advance width="454"/>
-  <unicode hex="002B"/>
-  <outline>
-    <contour>
-      <point x="248" y="65" type="line"/>
-      <point x="248" y="450" type="line"/>
-      <point x="207" y="450" type="line"/>
-      <point x="207" y="65" type="line"/>
-    </contour>
-    <contour>
-      <point x="424" y="239" type="line"/>
-      <point x="424" y="276" type="line"/>
-      <point x="30" y="276" type="line"/>
-      <point x="30" y="239" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-    </dict>
-  </lib>
+<glyph name="plus" format="2">
+	<advance width="454"/>
+	<unicode hex="002B"/>
+	<outline>
+		<contour>
+			<point x="248" y="65" type="line"/>
+			<point x="248" y="450" type="line"/>
+			<point x="207" y="450" type="line"/>
+			<point x="207" y="65" type="line"/>
+		</contour>
+		<contour>
+			<point x="424" y="239" type="line"/>
+			<point x="424" y="276" type="line"/>
+			<point x="30" y="276" type="line"/>
+			<point x="30" y="239" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+			<integer>1</integer>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-08-16 03:25:27 +0000</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
 </glyph>

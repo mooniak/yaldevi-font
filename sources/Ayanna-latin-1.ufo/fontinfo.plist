@@ -24,6 +24,8 @@
 	<string>Ayanna Narrow</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Extra Light</string>
+	<key>openTypeOS2VendorID</key>
+	<string>PfEd</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>250</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -39,6 +41,8 @@
 		<integer>725</integer>
 		<integer>740</integer>
 	</array>
+	<key>postscriptFontName</key>
+	<string>AyannaNarrow-ExtraLight</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-215</integer>
@@ -59,14 +63,14 @@
 		<integer>133</integer>
 		<integer>140</integer>
 	</array>
+	<key>styleMapFamilyName</key>
+	<string>Ayanna Narrow Extra Light</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Extra Light</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
-	<key>vendorID</key>
-	<string>PfEd</string>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
