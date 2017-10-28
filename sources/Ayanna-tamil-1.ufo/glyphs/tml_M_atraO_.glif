@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tml_MatraO" format="1">
-  <advance width="1185"/>
-  <unicode hex="0BCA"/>
-  <outline>
-    <component base="tml_MatraE" xOffset="14"/>
-    <component base="tml_MatraAa" xOffset="625"/>
-  </outline>
-</glyph>
