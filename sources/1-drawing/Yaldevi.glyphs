@@ -19,7 +19,12 @@ DisplayStrings = (
 "/sinKha/sinKha.touch",
 "/taMa",
 "/taHalant",
-"/taYa"
+"/taYa",
+"/taKa/taNga/taCa/taJa/taNya/taTta/taNna/taTa/taNa/taNnna/taPa/taMa/taYa/taRa/taRa.alt/taRra/taLa/taLla/taLlla/taVa/taSha/taSsa/taSa/taHa",
+"/taKa/taNga/taCa/taJa/taNya/taTta/taNna/taTa/taNa/taNnna/taPa/taMa/taYa/taRa/taRa.alt/taRra/taLa/taLla/taLlla/taVa/taSha/taSsa/taSa/taHa",
+"/taTta/taTa/taNa/taNnna/taPa/taMa/taRa/taRra/taLa/taLla/taLlla/taVa/taSha/taSsa/taSa/taHa",
+"/taKa",
+"/taKa/taNga/taCa/taJa/taNya/taTta/taNna/taTa/taNa/taNnna/taPa/taMa/taYa/taRa/taRa.alt/taRra/taLa/taLla/taLlla/taVa/taSha/taSsa/taSa/taHa"
 );
 copyright = "Copyright (c) 2015-2018, Yaldevi Fonts Project Authours <https://github.com/mooniak/yaldevi-fonts>";
 customParameters = (
@@ -73,7 +78,7 @@ code = "#---- --AKHN ------------\012\012lookup sinakhands {\012  sub sinKa sinH
 name = Prefix;
 },
 {
-code = "\012\012@TA_MATRA_U_1 = [ taNga taPa taYa taVa ];\012\012@TA_MATRA_I_1 = [ taSsa taKSsa ];\012\012@TA_MATRA_I_2 = [ taJa taMa taRra taLlla taSha taHa ];\012\012@TA_MATRA_I_3 = [ taLa taSa ];\012\012@TA_MATRA_I_4 = [ taCa ];\012\012@TA_MATRA_I_5 = [ taKa taTa ];\012\012@TA_MATRA_I_6 = [ taNya taNa ];\012\012@TA_MATRA_I_7 = [ taNga taPa taYa taVa ];\012\012@TA_MATRA_Ii_1 = [ taLa taSa ];\012\012#---- AKHN ----\012\012lookup akhands {\012    sub taKa taHalant taSsa by taKSsa;\012    sub taSha taHalant taRa taMatraIi by taShree;\012    sub taSa taHalant taRa taMatraIi by taShree;\012} akhands;\012\012#---- ABVS ----\012\012lookup above_base_sub_1 {\012    sub taTta taMatraI by taTtI;\012    sub taTta taMatraIi by taTtIi;\012} above_base_sub_1;\012\012lookup above_base_sub_2 {\012    sub @TA_MATRA_Ii_1 taMatraIi' by taMatraIi.alt1;\012 } above_base_sub_2;\012\012#---- PSTS ----\012\012lookup post_base_sub_1 {\012    sub taKa taMatraU by taKU;\012    sub taCa taMatraU by taCU;\012    sub taNya taMatraU by taNyU;\012    sub taTta taMatraU by taTtU;\012    sub taNna taMatraU by taNnU;\012    sub taTa taMatraU by taTU;\012    sub taNa taMatraU by taNU;\012    sub taNnna taMatraU by taNnnU;\012    sub taMa taMatraU by taMU;\012    sub taRa taMatraU by taRU;\012    sub taRra taMatraU by taRrU;\012    sub taLa taMatraU by taLU;\012    sub taLla taMatraU by taLlU;\012    sub taLlla taMatraU by taLllU;\012} post_base_sub_1;\012\012lookup post_base_sub_2 {\012    sub taKa taMatraUu by taKUu;\012    sub taNga taMatraUu by taNgUu;\012    sub taCa taMatraUu by taCUu;\012    sub taNya taMatraUu by taNyUu;\012    sub taTta taMatraUu by taTtUu;\012    sub taNna taMatraUu by taNnUu;\012    sub taTa taMatraUu by taTUu;\012    sub taNa taMatraUu by taNUu;\012    sub taNnna taMatraUu by taNnnUu;\012    sub taPa taMatraUu by taPUu;\012    sub taYa taMatraUu by taYUu;\012    sub taMa taMatraUu by taMUu;\012    sub taRa taMatraUu by taRUu;\012    sub taRra taMatraUu by taRrUu;\012    sub taLa taMatraUu by taLUu;\012    sub taLla taMatraUu by taLlUu;\012    sub taLlla taMatraUu by taLllUu;\012    sub taVa taMatraUu by taVUu;\012 } post_base_sub_2;\012\012lookup post_base_sub_3 {\012    sub @TA_MATRA_I_1 taMatraI' by taMatraI.alt1;\012 } post_base_sub_3;\012\012lookup post_base_sub_4 {\012    sub @TA_MATRA_I_2 taMatraI' by taMatraI.alt2;\012 } post_base_sub_4;\012\012lookup post_base_sub_5 {\012    sub @TA_MATRA_I_3 taMatraI' by taMatraI.alt3;\012 } post_base_sub_5;\012\012lookup post_base_sub_6 {\012    sub @TA_MATRA_I_4 taMatraI' by taMatraI.alt4;\012 } post_base_sub_6;\012\012lookup post_base_sub_7 {\012    sub @TA_MATRA_I_5 taMatraI' by taMatraI.alt5;\012 } post_base_sub_7;\012\012lookup post_base_sub_8{\012    sub @TA_MATRA_I_6 taMatraI' by taMatraI.alt6;\012 } post_base_sub_8;\012\012lookup post_base_sub_9{\012    sub @TA_MATRA_I_7 taMatraI' by taMatraI.alt7;\012 } post_base_sub_9;\012\012lookup post_base_sub_10{\012    sub @TA_MATRA_U_1 taMatraU' by taMatraU.alt1;\012 } post_base_sub_10;\012\012#---- SALT ----\012\012lookup ta_stylistic_alternates_1 {\012    sub taRa' taHalant by taMatraAa;\012    sub taRa' taAnusvara by taMatraAa;\012    sub taRa' taMatraI by taMatraAa;\012    sub taRa' taMatraIi by taMatraAa;\012} ta_stylistic_alternates_1;\012\012lookup ta_stylistic_alternates_2 {\012    sub taNna taMatraAa by taNnAa.alt;\012    sub taNnna taMatraAa by taNnnAa.alt;\012    sub taRra taMatraAa by taRrAa.alt;\012} ta_stylistic_alternates_2;\012\012lookup ta_stylistic_alternates_3 {\012    sub taKa taMatraI' by taMatraI.stylalt1;\012    sub taTa taMatraI' by taMatraI.stylalt1;\012    sub taCa taMatraI' by taMatraI.stylalt1;\012    sub taKa taMatraI.alt5' by taMatraI.stylalt1;\012    sub taTa taMatraI.alt5' by taMatraI.stylalt1;\012    sub taCa taMatraI.alt4' by taMatraI.stylalt1;\012    sub taKa taMatraIi' by taMatraIi.stylalt1;\012    sub taTa taMatraIi' by taMatraIi.stylalt1;\012    sub taCa taMatraIi' by taMatraIi.stylalt1;\012} ta_stylistic_alternates_3;\012\012lookup ta_stylistic_alternates_4 {\012    sub taMatraAi' taNna by taMatraAi.alt;\012    sub taMatraAi' taNnna by taMatraAi.alt;\012    sub taMatraAi' taLa by taMatraAi.alt;\012    sub taMatraAi' taLla by taMatraAi.alt;\012} ta_stylistic_alternates_4;\012\012\012";
+code = "@TA_MATRA_U_1 = [ taNga taPa taYa taVa ];\012\012@TA_MATRA_I_1 = [ taSsa taKSsa ];\012\012@TA_MATRA_I_2 = [ taJa taMa taRra taLlla taSha taHa ];\012\012@TA_MATRA_I_3 = [ taLa taSa ];\012\012@TA_MATRA_I_4 = [ taCa ];\012\012@TA_MATRA_I_5 = [ taKa taTa ];\012\012@TA_MATRA_I_6 = [ taNya taNa ];\012\012@TA_MATRA_I_7 = [ taNga taPa taYa taVa ];\012\012@TA_MATRA_Ii_1 = [ taLa taSa ];\012\012#---- AKHN ----\012\012lookup akhands {\012    sub taKa taHalant taSsa by taKSsa;\012    sub taSha taHalant taRa taMatraIi by taShree;\012    sub taSa taHalant taRa taMatraIi by taShree;\012} akhands;\012\012#---- ABVS ----\012\012lookup above_base_sub_1 {\012    sub taTta taMatraI by taTtI;\012    sub taTta taMatraIi by taTtIi;\012} above_base_sub_1;\012\012lookup above_base_sub_2 {\012    sub @TA_MATRA_Ii_1 taMatraIi' by taMatraIi.alt1;\012 } above_base_sub_2;\012\012#---- PSTS ----\012\012lookup post_base_sub_1 {\012    sub taKa taMatraU by taKU;\012    sub taCa taMatraU by taCU;\012    sub taNya taMatraU by taNyU;\012    sub taTta taMatraU by taTtU;\012    sub taNna taMatraU by taNnU;\012    sub taTa taMatraU by taTU;\012    sub taNa taMatraU by taNU;\012    sub taNnna taMatraU by taNnnU;\012    sub taMa taMatraU by taMU;\012    sub taRa taMatraU by taRU;\012    sub taRra taMatraU by taRrU;\012    sub taLa taMatraU by taLU;\012    sub taLla taMatraU by taLlU;\012    sub taLlla taMatraU by taLllU;\012} post_base_sub_1;\012\012lookup post_base_sub_2 {\012    sub taKa taMatraUu by taKUu;\012    sub taNga taMatraUu by taNgUu;\012    sub taCa taMatraUu by taCUu;\012    sub taNya taMatraUu by taNyUu;\012    sub taTta taMatraUu by taTtUu;\012    sub taNna taMatraUu by taNnUu;\012    sub taTa taMatraUu by taTUu;\012    sub taNa taMatraUu by taNUu;\012    sub taNnna taMatraUu by taNnnUu;\012    sub taPa taMatraUu by taPUu;\012    sub taYa taMatraUu by taYUu;\012    sub taMa taMatraUu by taMUu;\012    sub taRa taMatraUu by taRUu;\012    sub taRra taMatraUu by taRrUu;\012    sub taLa taMatraUu by taLUu;\012    sub taLla taMatraUu by taLlUu;\012    sub taLlla taMatraUu by taLllUu;\012    sub taVa taMatraUu by taVUu;\012 } post_base_sub_2;\012\012lookup post_base_sub_3 {\012    sub @TA_MATRA_I_1 taMatraI' by taMatraI.alt1;\012 } post_base_sub_3;\012\012lookup post_base_sub_4 {\012    sub @TA_MATRA_I_2 taMatraI' by taMatraI.alt2;\012 } post_base_sub_4;\012\012lookup post_base_sub_5 {\012    sub @TA_MATRA_I_3 taMatraI' by taMatraI.alt3;\012 } post_base_sub_5;\012\012lookup post_base_sub_6 {\012    sub @TA_MATRA_I_4 taMatraI' by taMatraI.alt4;\012 } post_base_sub_6;\012\012lookup post_base_sub_7 {\012    sub @TA_MATRA_I_5 taMatraI' by taMatraI.alt5;\012 } post_base_sub_7;\012\012lookup post_base_sub_8{\012    sub @TA_MATRA_I_6 taMatraI' by taMatraI.alt6;\012 } post_base_sub_8;\012\012lookup post_base_sub_9{\012    sub @TA_MATRA_I_7 taMatraI' by taMatraI.alt7;\012 } post_base_sub_9;\012\012lookup post_base_sub_10{\012    sub @TA_MATRA_U_1 taMatraU' by taMatraU.alt1;\012 } post_base_sub_10;\012\012#---- SALT ----\012\012lookup ta_stylistic_alternates_1 {\012    sub taRa' taHalant by taMatraAa;\012    sub taRa' taAnusvara by taMatraAa;\012    sub taRa' taMatraI by taMatraAa;\012    sub taRa' taMatraIi by taMatraAa;\012} ta_stylistic_alternates_1;\012\012lookup ta_stylistic_alternates_2 {\012    sub taNna taMatraAa by taNnAa.alt;\012    sub taNnna taMatraAa by taNnnAa.alt;\012    sub taRra taMatraAa by taRrAa.alt;\012} ta_stylistic_alternates_2;\012\012lookup ta_stylistic_alternates_3 {\012    sub taKa taMatraI' by taMatraI.stylalt1;\012    sub taTa taMatraI' by taMatraI.stylalt1;\012    sub taCa taMatraI' by taMatraI.stylalt1;\012    sub taKa taMatraI.alt5' by taMatraI.stylalt1;\012    sub taTa taMatraI.alt5' by taMatraI.stylalt1;\012    sub taCa taMatraI.alt4' by taMatraI.stylalt1;\012    sub taKa taMatraIi' by taMatraIi.stylalt1;\012    sub taTa taMatraIi' by taMatraIi.stylalt1;\012    sub taCa taMatraIi' by taMatraIi.stylalt1;\012} ta_stylistic_alternates_3;\012\012lookup ta_stylistic_alternates_4 {\012    sub taMatraAi' taNna by taMatraAi.alt;\012    sub taMatraAi' taNnna by taMatraAi.alt;\012    sub taMatraAi' taLa by taMatraAi.alt;\012    sub taMatraAi' taLla by taMatraAi.alt;\012} ta_stylistic_alternates_4;\012\012\012";
 name = prefix;
 }
 );
@@ -44168,7 +44173,7 @@ unicode = 0B94;
 },
 {
 glyphname = taKa;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:44:38 +0000";
 layers = (
 {
 anchors = (
@@ -44193,8 +44198,8 @@ name = MatraIi.stylalt1;
 position = "{136, 280}";
 },
 {
-name = virama;
-position = "{380, 0}";
+name = tm_halant;
+position = "{375, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -44276,8 +44281,8 @@ name = MatraIi.stylalt1;
 position = "{121, 304}";
 },
 {
-name = virama;
-position = "{385, 0}";
+name = tm_halant;
+position = "{375, 643}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -44341,7 +44346,7 @@ unicode = 0B95;
 },
 {
 glyphname = taNga;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:45:00 +0000";
 layers = (
 {
 anchors = (
@@ -44358,8 +44363,8 @@ name = MatraU.alt1;
 position = "{641, 33}";
 },
 {
-name = virama;
-position = "{380, 0}";
+name = tm_halant;
+position = "{355, 674}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -44440,8 +44445,8 @@ name = MatraU.alt1;
 position = "{649, 33}";
 },
 {
-name = virama;
-position = "{370, 0}";
+name = tm_halant;
+position = "{385, 645}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -44512,7 +44517,7 @@ unicode = 0B99;
 },
 {
 glyphname = taCa;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:45:13 +0000";
 layers = (
 {
 anchors = (
@@ -44533,8 +44538,8 @@ name = MatraIi.stylalt1;
 position = "{127, 280}";
 },
 {
-name = virama;
-position = "{384, 0}";
+name = tm_halant;
+position = "{365, 674}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -44598,8 +44603,8 @@ name = MatraIi.stylalt1;
 position = "{121, 304}";
 },
 {
-name = virama;
-position = "{379, 0}";
+name = tm_halant;
+position = "{375, 643}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -44649,7 +44654,7 @@ unicode = 0B9A;
 },
 {
 glyphname = taJa;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:45:20 +0000";
 layers = (
 {
 anchors = (
@@ -44670,8 +44675,8 @@ name = MatraUu;
 position = "{561, 581}";
 },
 {
-name = virama;
-position = "{408, 0}";
+name = tm_halant;
+position = "{385, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -44800,8 +44805,8 @@ name = MatraUu;
 position = "{575, 581}";
 },
 {
-name = virama;
-position = "{403, 0}";
+name = tm_halant;
+position = "{385, 655}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -44916,7 +44921,7 @@ unicode = 0B9C;
 },
 {
 glyphname = taNya;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:45:30 +0000";
 layers = (
 {
 anchors = (
@@ -44929,8 +44934,8 @@ name = MatraIi;
 position = "{783, 560}";
 },
 {
-name = virama;
-position = "{602, 0}";
+name = tm_halant;
+position = "{525, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -44938,6 +44943,8 @@ paths = (
 {
 closed = 1;
 nodes = (
+"572 53 OFFCURVE",
+"515 -24 OFFCURVE",
 "421 -24 CURVE SMOOTH",
 "316 -24 OFFCURVE",
 "254 90 OFFCURVE",
@@ -44967,9 +44974,7 @@ nodes = (
 "433 362 CURVE SMOOTH",
 "506 362 OFFCURVE",
 "572 297 OFFCURVE",
-"572 174 CURVE SMOOTH",
-"572 53 OFFCURVE",
-"515 -24 OFFCURVE"
+"572 174 CURVE SMOOTH"
 );
 },
 {
@@ -45036,8 +45041,8 @@ name = MatraIi;
 position = "{721, 560}";
 },
 {
-name = virama;
-position = "{532, 0}";
+name = tm_halant;
+position = "{495, 650}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -45045,6 +45050,8 @@ paths = (
 {
 closed = 1;
 nodes = (
+"483 55 OFFCURVE",
+"431 -24 OFFCURVE",
 "350 -24 CURVE SMOOTH",
 "257 -24 OFFCURVE",
 "209 82 OFFCURVE",
@@ -45074,9 +45081,7 @@ nodes = (
 "356 350 CURVE SMOOTH",
 "423 350 OFFCURVE",
 "483 287 OFFCURVE",
-"483 167 CURVE SMOOTH",
-"483 55 OFFCURVE",
-"431 -24 OFFCURVE"
+"483 167 CURVE SMOOTH"
 );
 },
 {
@@ -45137,13 +45142,13 @@ unicode = 0B9E;
 },
 {
 glyphname = taTta;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:36:39 +0000";
 layers = (
 {
 anchors = (
 {
-name = virama;
-position = "{360, 0}";
+name = tm_halant;
+position = "{325, 635}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -45165,8 +45170,8 @@ width = 637;
 {
 anchors = (
 {
-name = virama;
-position = "{324, 0}";
+name = tm_halant;
+position = "{325, 635}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -45190,7 +45195,7 @@ unicode = 0B9F;
 },
 {
 glyphname = taNna;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:45:40 +0000";
 layers = (
 {
 anchors = (
@@ -45207,8 +45212,8 @@ name = MatraIi;
 position = "{1259, 561}";
 },
 {
-name = virama;
-position = "{712, 0}";
+name = tm_halant;
+position = "{675, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -45216,6 +45221,8 @@ paths = (
 {
 closed = 1;
 nodes = (
+"360 50 OFFCURVE",
+"300 -24 OFFCURVE",
 "213 -24 CURVE SMOOTH",
 "104 -24 OFFCURVE",
 "42 91 OFFCURVE",
@@ -45299,9 +45306,7 @@ nodes = (
 "222 362 CURVE SMOOTH",
 "294 362 OFFCURVE",
 "360 298 OFFCURVE",
-"360 171 CURVE SMOOTH",
-"360 50 OFFCURVE",
-"300 -24 OFFCURVE"
+"360 171 CURVE SMOOTH"
 );
 }
 );
@@ -45322,8 +45327,8 @@ name = MatraIi;
 position = "{1218, 561}";
 },
 {
-name = virama;
-position = "{707, 0}";
+name = tm_halant;
+position = "{665, 665}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -45331,6 +45336,8 @@ paths = (
 {
 closed = 1;
 nodes = (
+"311 59 OFFCURVE",
+"264 -20 OFFCURVE",
 "183 -20 CURVE SMOOTH",
 "90 -20 OFFCURVE",
 "42 86 OFFCURVE",
@@ -45414,9 +45421,7 @@ nodes = (
 "189 354 CURVE SMOOTH",
 "256 354 OFFCURVE",
 "311 291 OFFCURVE",
-"311 171 CURVE SMOOTH",
-"311 59 OFFCURVE",
-"264 -20 OFFCURVE"
+"311 171 CURVE SMOOTH"
 );
 }
 );
@@ -45427,7 +45432,7 @@ unicode = 0BA3;
 },
 {
 glyphname = taTa;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:45:45 +0000";
 layers = (
 {
 anchors = (
@@ -45452,8 +45457,8 @@ name = MatraIi.stylalt1;
 position = "{130, 280}";
 },
 {
-name = virama;
-position = "{380, 0}";
+name = tm_halant;
+position = "{375, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -45541,8 +45546,8 @@ name = MatraIi.stylalt1;
 position = "{121, 304}";
 },
 {
-name = virama;
-position = "{379, 0}";
+name = tm_halant;
+position = "{385, 655}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -45612,7 +45617,7 @@ unicode = 0BA4;
 },
 {
 glyphname = taNa;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:45:51 +0000";
 layers = (
 {
 anchors = (
@@ -45625,8 +45630,8 @@ name = MatraIi;
 position = "{457, 560}";
 },
 {
-name = virama;
-position = "{358, 0}";
+name = tm_halant;
+position = "{345, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -45693,8 +45698,8 @@ name = MatraIi;
 position = "{398, 560}";
 },
 {
-name = virama;
-position = "{303, 0}";
+name = tm_halant;
+position = "{295, 645}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -45765,7 +45770,7 @@ y = 1;
 },
 {
 glyphname = taNnna;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:48:10 +0000";
 layers = (
 {
 anchors = (
@@ -45779,7 +45784,7 @@ position = "{875, 561}";
 },
 {
 name = MatraI.alt5;
-position = "{584, 573}";
+position = "{584, 543}";
 },
 {
 name = MatraIi;
@@ -45787,11 +45792,11 @@ position = "{920, 561}";
 },
 {
 name = MatraIi.alt2;
-position = "{601, 584}";
+position = "{601, 554}";
 },
 {
-name = virama;
-position = "{498, 0}";
+name = tm_halant;
+position = "{485, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -45894,7 +45899,7 @@ position = "{864, 561}";
 },
 {
 name = MatraI.alt5;
-position = "{584, 573}";
+position = "{584, 543}";
 },
 {
 name = MatraIi;
@@ -45902,11 +45907,11 @@ position = "{874, 561}";
 },
 {
 name = MatraIi.alt2;
-position = "{601, 584}";
+position = "{601, 554}";
 },
 {
-name = virama;
-position = "{507, 0}";
+name = tm_halant;
+position = "{495, 655}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -46002,7 +46007,7 @@ unicode = 0BA9;
 },
 {
 glyphname = taPa;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:46:15 +0000";
 layers = (
 {
 anchors = (
@@ -46019,8 +46024,8 @@ name = MatraU.alt1;
 position = "{401, 33}";
 },
 {
-name = virama;
-position = "{292, 0}";
+name = tm_halant;
+position = "{275, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -46056,8 +46061,8 @@ name = MatraU.alt1;
 position = "{458, 33}";
 },
 {
-name = virama;
-position = "{278, 0}";
+name = tm_halant;
+position = "{265, 654}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -46083,7 +46088,7 @@ unicode = 0BAA;
 },
 {
 glyphname = taMa;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:46:24 +0000";
 layers = (
 {
 anchors = (
@@ -46096,8 +46101,8 @@ name = MatraIi.alt1;
 position = "{517.99, 552}";
 },
 {
-name = virama;
-position = "{329.99, 0}";
+name = tm_halant;
+position = "{365, 665}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -46154,8 +46159,8 @@ name = MatraIi.alt1;
 position = "{470.99, 556}";
 },
 {
-name = virama;
-position = "{267.99, 0}";
+name = tm_halant;
+position = "{335, 655}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -46206,7 +46211,7 @@ unicode = 0BAE;
 },
 {
 glyphname = taYa;
-lastChange = "2018-02-04 17:56:55 +0000";
+lastChange = "2018-02-04 18:46:31 +0000";
 layers = (
 {
 anchors = (
@@ -46223,8 +46228,8 @@ name = MatraU.alt1;
 position = "{551, 33}";
 },
 {
-name = virama;
-position = "{342, 618}";
+name = tm_halant;
+position = "{335, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -46232,6 +46237,8 @@ paths = (
 {
 closed = 1;
 nodes = (
+"334 68 OFFCURVE",
+"299 -17 OFFCURVE",
 "194 -17 CURVE SMOOTH",
 "106 -17 OFFCURVE",
 "42 33 OFFCURVE",
@@ -46245,9 +46252,7 @@ nodes = (
 "258 83 OFFCURVE",
 "283 121 OFFCURVE",
 "283 178 CURVE",
-"339 159 LINE",
-"334 68 OFFCURVE",
-"299 -17 OFFCURVE"
+"339 159 LINE"
 );
 },
 {
@@ -46282,8 +46287,8 @@ name = MatraU.alt1;
 position = "{588, 42}";
 },
 {
-name = virama;
-position = "{325, 665}";
+name = tm_halant;
+position = "{325, 655}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -46291,6 +46296,8 @@ paths = (
 {
 closed = 1;
 nodes = (
+"334 32 OFFCURVE",
+"263 -12 OFFCURVE",
 "192 -17 CURVE SMOOTH",
 "100 -24 OFFCURVE",
 "42 39 OFFCURVE",
@@ -46304,9 +46311,7 @@ nodes = (
 "256 25 OFFCURVE",
 "302 76 OFFCURVE",
 "302 170 CURVE",
-"334 159 LINE",
-"334 32 OFFCURVE",
-"263 -12 OFFCURVE"
+"334 159 LINE"
 );
 },
 {
@@ -46331,7 +46336,7 @@ unicode = 0BAF;
 },
 {
 glyphname = taRa;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:46:47 +0000";
 layers = (
 {
 anchors = (
@@ -46344,8 +46349,8 @@ name = MatraIi;
 position = "{474, 560}";
 },
 {
-name = virama;
-position = "{285, 0}";
+name = tm_halant;
+position = "{265, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -46388,8 +46393,8 @@ name = MatraIi;
 position = "{429, 560}";
 },
 {
-name = virama;
-position = "{250, 0}";
+name = tm_halant;
+position = "{211, 655}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -46474,7 +46479,7 @@ width = 499;
 },
 {
 glyphname = taRra;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:47:00 +0000";
 layers = (
 {
 anchors = (
@@ -46487,8 +46492,8 @@ name = MatraIi.alt1;
 position = "{559, 552}";
 },
 {
-name = virama;
-position = "{339, 0}";
+name = tm_halant;
+position = "{330, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -46570,8 +46575,8 @@ name = MatraIi.alt1;
 position = "{545, 556}";
 },
 {
-name = virama;
-position = "{333, 0}";
+name = tm_halant;
+position = "{325, 655}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -46647,7 +46652,7 @@ unicode = 0BB1;
 },
 {
 glyphname = taLa;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:47:11 +0000";
 layers = (
 {
 anchors = (
@@ -46664,8 +46669,8 @@ name = MatraIi.alt2;
 position = "{636, 584}";
 },
 {
-name = virama;
-position = "{422, 0}";
+name = tm_halant;
+position = "{365, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -46726,7 +46731,7 @@ nodes = (
 "143 377 OFFCURVE",
 "192 476 OFFCURVE",
 "292 476 CURVE SMOOTH",
-"344 476 OFFCURVE",
+"354 476 OFFCURVE",
 "408 425 OFFCURVE",
 "409 335 CURVE SMOOTH",
 "409 293 OFFCURVE",
@@ -46755,8 +46760,8 @@ name = MatraIi.alt2;
 position = "{601, 584}";
 },
 {
-name = virama;
-position = "{402, 0}";
+name = tm_halant;
+position = "{355, 655}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -46836,7 +46841,7 @@ unicode = 0BB2;
 },
 {
 glyphname = taLla;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:47:18 +0000";
 layers = (
 {
 anchors = (
@@ -46853,8 +46858,8 @@ name = MatraIi;
 position = "{835, 560}";
 },
 {
-name = virama;
-position = "{488, 0}";
+name = tm_halant;
+position = "{465, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -46862,6 +46867,8 @@ paths = (
 {
 closed = 1;
 nodes = (
+"362 53 OFFCURVE",
+"305 -24 OFFCURVE",
 "209 -24 CURVE SMOOTH",
 "104 -24 OFFCURVE",
 "42 90 OFFCURVE",
@@ -46897,9 +46904,7 @@ nodes = (
 "219 362 CURVE SMOOTH",
 "294 362 OFFCURVE",
 "362 297 OFFCURVE",
-"362 174 CURVE SMOOTH",
-"362 53 OFFCURVE",
-"305 -24 OFFCURVE"
+"362 174 CURVE SMOOTH"
 );
 },
 {
@@ -46937,8 +46942,8 @@ name = MatraIi;
 position = "{794, 560}";
 },
 {
-name = virama;
-position = "{453, 0}";
+name = tm_halant;
+position = "{445, 655}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -46946,6 +46951,8 @@ paths = (
 {
 closed = 1;
 nodes = (
+"316 59 OFFCURVE",
+"264 -20 OFFCURVE",
 "183 -20 CURVE SMOOTH",
 "90 -20 OFFCURVE",
 "42 86 OFFCURVE",
@@ -46981,9 +46988,7 @@ nodes = (
 "189 354 CURVE SMOOTH",
 "256 354 OFFCURVE",
 "316 291 OFFCURVE",
-"316 171 CURVE SMOOTH",
-"316 59 OFFCURVE",
-"264 -20 OFFCURVE"
+"316 171 CURVE SMOOTH"
 );
 },
 {
@@ -47011,7 +47016,7 @@ unicode = 0BB3;
 },
 {
 glyphname = taLlla;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:47:29 +0000";
 layers = (
 {
 anchors = (
@@ -47024,8 +47029,8 @@ name = MatraIi.alt1;
 position = "{505.671, 552}";
 },
 {
-name = virama;
-position = "{291.671, 0}";
+name = tm_halant;
+position = "{305, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -47033,6 +47038,8 @@ paths = (
 {
 closed = 1;
 nodes = (
+"452 -197 OFFCURVE",
+"378 -293 OFFCURVE",
 "250.671 -293 CURVE SMOOTH",
 "129.671 -293 OFFCURVE",
 "45.671 -206 OFFCURVE",
@@ -47083,9 +47090,7 @@ nodes = (
 "424.671 -179 LINE",
 "424.671 -179 OFFCURVE",
 "451.671 -163 OFFCURVE",
-"451.671 -166 CURVE SMOOTH",
-"451.671 -197 OFFCURVE",
-"377.671 -293 OFFCURVE"
+"451.671 -166 CURVE SMOOTH"
 );
 }
 );
@@ -47102,8 +47107,8 @@ name = MatraIi.alt1;
 position = "{477.99, 556}";
 },
 {
-name = virama;
-position = "{265.99, 0}";
+name = tm_halant;
+position = "{305, 675}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -47111,6 +47116,8 @@ paths = (
 {
 closed = 1;
 nodes = (
+"423 -177 OFFCURVE",
+"369 -293 OFFCURVE",
 "241.99 -293 CURVE SMOOTH",
 "120.99 -293 OFFCURVE",
 "41.99 -206 OFFCURVE",
@@ -47161,9 +47168,7 @@ nodes = (
 "395.99 -159 LINE",
 "395.99 -159 OFFCURVE",
 "422.99 -143 OFFCURVE",
-"422.99 -146 CURVE SMOOTH",
-"422.99 -177 OFFCURVE",
-"368.99 -293 OFFCURVE"
+"422.99 -146 CURVE SMOOTH"
 );
 }
 );
@@ -47174,7 +47179,7 @@ unicode = 0BB4;
 },
 {
 glyphname = taVa;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:47:39 +0000";
 layers = (
 {
 anchors = (
@@ -47191,8 +47196,8 @@ name = MatraU.alt1;
 position = "{603, 33}";
 },
 {
-name = virama;
-position = "{425, 1}";
+name = tm_halant;
+position = "{375, 669}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -47276,8 +47281,8 @@ name = MatraU.alt1;
 position = "{627, 33}";
 },
 {
-name = virama;
-position = "{392, 0}";
+name = tm_halant;
+position = "{365, 646}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -47352,7 +47357,7 @@ unicode = 0BB5;
 },
 {
 glyphname = taSha;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:47:42 +0000";
 layers = (
 {
 anchors = (
@@ -47373,8 +47378,8 @@ name = MatraUu;
 position = "{571.991, 560}";
 },
 {
-name = virama;
-position = "{401.991, 0}";
+name = tm_halant;
+position = "{375, 655}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -47460,8 +47465,8 @@ name = MatraUu;
 position = "{565.99, 560}";
 },
 {
-name = virama;
-position = "{399.99, 0}";
+name = tm_halant;
+position = "{385, 635}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -47533,7 +47538,7 @@ unicode = 0BB6;
 },
 {
 glyphname = taSsa;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:37:56 +0000";
 layers = (
 {
 anchors = (
@@ -47546,8 +47551,8 @@ name = MatraIi.alt1;
 position = "{777, 552}";
 },
 {
-name = virama;
-position = "{562, 0}";
+name = tm_halant;
+position = "{535, 635}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -47660,8 +47665,8 @@ name = MatraIi.alt1;
 position = "{718, 556}";
 },
 {
-name = virama;
-position = "{527, 0}";
+name = tm_halant;
+position = "{505, 635}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -47768,13 +47773,13 @@ unicode = 0BB7;
 },
 {
 glyphname = taSa;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:38:03 +0000";
 layers = (
 {
 anchors = (
 {
-name = virama;
-position = "{462, 0}";
+name = tm_halant;
+position = "{445, 635}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -47869,8 +47874,8 @@ width = 1018;
 {
 anchors = (
 {
-name = virama;
-position = "{452, 0}";
+name = tm_halant;
+position = "{455, 635}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -47967,7 +47972,7 @@ unicode = 0BB8;
 },
 {
 glyphname = taHa;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:38:09 +0000";
 layers = (
 {
 anchors = (
@@ -47988,8 +47993,8 @@ name = MatraUu;
 position = "{1026, 573}";
 },
 {
-name = virama;
-position = "{642, 0}";
+name = tm_halant;
+position = "{635, 635}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -47997,6 +48002,8 @@ paths = (
 {
 closed = 1;
 nodes = (
+"360 53 OFFCURVE",
+"303 -24 OFFCURVE",
 "209 -24 CURVE SMOOTH",
 "104 -24 OFFCURVE",
 "42 90 OFFCURVE",
@@ -48038,9 +48045,7 @@ nodes = (
 "221 362 CURVE SMOOTH",
 "294 362 OFFCURVE",
 "360 297 OFFCURVE",
-"360 174 CURVE SMOOTH",
-"360 53 OFFCURVE",
-"303 -24 OFFCURVE"
+"360 174 CURVE SMOOTH"
 );
 },
 {
@@ -48140,8 +48145,8 @@ name = MatraUu;
 position = "{1050, 573}";
 },
 {
-name = virama;
-position = "{612, 0}";
+name = tm_halant;
+position = "{625, 635}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -48149,6 +48154,8 @@ paths = (
 {
 closed = 1;
 nodes = (
+"316 59 OFFCURVE",
+"264 -20 OFFCURVE",
 "183 -20 CURVE SMOOTH",
 "90 -20 OFFCURVE",
 "42 86 OFFCURVE",
@@ -48190,9 +48197,7 @@ nodes = (
 "189 354 CURVE SMOOTH",
 "256 354 OFFCURVE",
 "316 291 OFFCURVE",
-"316 171 CURVE SMOOTH",
-"316 59 OFFCURVE",
-"264 -20 OFFCURVE"
+"316 171 CURVE SMOOTH"
 );
 },
 {
@@ -90171,17 +90176,13 @@ unicode = 0BCC;
 },
 {
 glyphname = taHalant;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 18:32:00 +0000";
 layers = (
 {
 anchors = (
 {
-name = _top;
-position = "{0, 0}";
-},
-{
-name = _virama;
-position = "{0, 0}";
+name = _tm_halant;
+position = "{0, 675}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -90209,12 +90210,8 @@ width = 0;
 {
 anchors = (
 {
-name = _top;
-position = "{0, 0}";
-},
-{
-name = _virama;
-position = "{0, 0}";
+name = _tm_halant;
+position = "{0, 670}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -199591,7 +199588,6 @@ unicode = 0000;
 );
 instances = (
 {
-exports = 0;
 customParameters = (
 {
 name = unicodeRanges;
@@ -199612,7 +199608,6 @@ name = "Extra Light";
 weightClass = ExtraLight;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = unicodeRanges;
@@ -199635,7 +199630,6 @@ weightClass = Light;
 widthClass = SemiCondensed;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = unicodeRanges;
@@ -199682,7 +199676,6 @@ name = Medium;
 weightClass = Medium;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = unicodeRanges;
@@ -199704,7 +199697,6 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = unicodeRanges;
