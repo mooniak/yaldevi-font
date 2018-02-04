@@ -12,15 +12,16 @@ DisplayStrings = (
 "/taMatraAi.alt",
 "/estimated",
 "/sinSa/sinSha/sinSsa/sinTa/taA/sinTha/sinTta/sinTtha/sinU/sinUu/sinVa/sinYa/sinvocalicL/sinvocalicLL/sinvocalicR/taA",
-"i/quoteright s/scommaaccent"
+"i/quoteright s/scommaaccent",
+"/taMatraI.alt3",
+"/taA/taPa a/taAa/taI/taIi/taU/taUu/taE/taEe/taAi/taO/taOo/taAu/taKa/taNga/taCa/taJa/taNya/taTta/taNna/taTa/taNa/taNnna/taPa/taMa/taYa/taRa/taRa.alt/taRra/taLa/taLla/taLlla/taVa/taSha/taSsa/taSa/taHa/taOm/taVisarga/sinTa.reph/sinTa.touch/sinTta.reph/sinTta.touch/taTen/taHundred/taThousand/taZero/taOne/taTwo/taThree/taFour/taFive/taSix/taSeven/taEight/taNine/taRupee/taDay/taMonth/taYear/taDebit/taCredit/taAbove/taNumber/dotaccent/taMatraAa/taMatraI/taMatraI.alt1/taMatraI.alt2/taMatraI.alt3/taMatraI.alt4/taMatraI.alt5/taMatraI.alt6/taMatraI.alt7/taMatraI.alt8/taMatraI.stylalt1/taMatraIi/taMatraIi.alt1/taMatraIi.alt2/taMatraIi.alt3/taMatraIi.stylalt1/taMatraU/taMatraU.alt1/taMatraUu/taMatraE/taMatraEe/taMatraAi/taMatraAi.alt/taMatraO/taMatraOo/taMatraE a/taMatraAu/taHalant/taAuLengthmark/taAnusvara/taCU/taCUu/taKU/taKUu/taLU/taLUu/taLlU/taLlUu/taLllU/taLllUu/taMU/taMUu/taNU/taNUu/taNgUu/taNnU/taNnUu/taNnnU/taNnnUu/taNyU/taNyUu/taPUu/taRU/taRUu/taRrU/taRrUu/taTU/taTUu/taTtI/taTtU/taTtUu/taYUu/taNnAa.alt/taNnnAa.alt/taRrAa.alt/taKSsa/taShree/taTtIi/taKSsU/taKSsUu/taRI.alt/taRIi.alt/taSI/taSIi/taSsU/taSsUu/taSU/taSUu/taVUu",
+"/sinA/sinAa/sinAae/sinAe/sinAi/sinAu/sinBa/sinBha/sinCa/sinCha/sinDa/sinDda/sinDdha/sinDha/sinE/sinEe/sinFa/sinGa/sinGha/sinHa/sinI/sinIi/sinJa/sinJha/sinJnya/sinKa/sinKha/sinLa/sinLla/sinMa/sinMba/sinNa/sinNda/sinNdja/sinNga/sinNna/sinNndda/sinNnga/sinNya/sinOo/sinOs/sinPa/sinPha/sinRa/sinSa/sinSha/sinSsa/sinTa/sinTha/sinTta/sinTtha/sinU/sinUu/sinVa/sinYa/sinvocalicL/sinvocalicLL/sinvocalicR",
+"/sinKha/sinKha.touch",
+"/taMa",
+"/taHalant",
+"/taYa"
 );
-classes = (
-{
-code = "zero one two three four five six seven eight nine";
-name = FIGURES;
-}
-);
-copyright = "Copyright (c) 2015, Yaldevi Fonts Project Authours <https://github.com/mooniak/yaldevi-fonts>";
+copyright = "Copyright (c) 2015-2018, Yaldevi Fonts Project Authours <https://github.com/mooniak/yaldevi-fonts>";
 customParameters = (
 {
 name = Axes;
@@ -57,9 +58,9 @@ name = versionString;
 value = "Version 1.050; DEV";
 }
 );
-date = "2017-10-28 16:22:23 +0000";
+date = "2018-02-04 17:31:57 +0000";
 designer = "Sol Matas, Rajitha Manaperi, Kosala Senevirathne, Pathum Egodawatta";
-designerURL = "http://www.mooniak.com/type";
+designerURL = "http://textual.works";
 disablesNiceNames = 1;
 familyName = Yaldevi;
 featurePrefixes = (
@@ -72,7 +73,7 @@ code = "#---- --AKHN ------------\012\012lookup sinakhands {\012  sub sinKa sinH
 name = Prefix;
 },
 {
-code = "\012\012@TA_MATRA_U_1 = [ taNga taPa taYa taVa ];\012\012@TA_MATRA_I_1 = [ taSsa taKSsa ];\012\012@TA_MATRA_I_2 = [ taJa taMa taRra taLlla taSha taHa ];\012\012@TA_MATRA_I_3 = [ taLa taSa ];\012\012@TA_MATRA_I_4 = [ taCa ];\012\012@TA_MATRA_I_5 = [ taKa taTa ];\012\012@TA_MATRA_I_6 = [ taNya taNa ];\012\012@TA_MATRA_I_7 = [ taNga taPa taYa taVa ];\012\012@TA_MATRA_Ii_1 = [ taLa taSa ];\012\012#---- AKHN ----\012\012lookup akhands {\012    sub taKa taHalant taSsa by taKSsa;\012    sub taSha taHalant taRa taMatraIi by taShree;\012    sub taSa taHalant taRa taMatraIi by taShree;\012} akhands;\012\012#---- ABVS ----\012\012lookup above_base_sub_1 {\012    sub taTta taMatraI by taTtI;\012    sub taTta taMatraIi by taTtIi;\012} above_base_sub_1;\012\012lookup above_base_sub_2 {\012    sub @TA_MATRA_Ii_1 taMatraIi' by taMatraIi.alt1;\012 } above_base_sub_2;\012\012#---- PSTS ----\012\012lookup post_base_sub_1 {\012    sub taKa taMatraU by taKU;\012    sub taCa taMatraU by taCU;\012    sub taNya taMatraU by taNyU;\012    sub taTta taMatraU by taTtU;\012    sub taNna taMatraU by taNnU;\012    sub taTa taMatraU by taTU;\012    sub taNa taMatraU by taNU;\012    sub taNnna taMatraU by taNnnU;\012    sub taMa taMatraU by taMU;\012    sub taRa taMatraU by taRU;\012    sub taRra taMatraU by taRrU;\012    sub taLa taMatraU by taLU;\012    sub taLla taMatraU by taLlU;\012    sub taLlla taMatraU by taLllU;\012} post_base_sub_1;\012\012lookup post_base_sub_2 {\012    sub taKa taMatraUu by taKUu;\012    sub taNga taMatraUu by taNgUu;\012    sub taCa taMatraUu by taCUu;\012    sub taNya taMatraUu by taNyUu;\012    sub taTta taMatraUu by taTtUu;\012    sub taNna taMatraUu by taNnUu;\012    sub taTa taMatraUu by taTUu;\012    sub taNa taMatraUu by taNUu;\012    sub taNnna taMatraUu by taNnnUu;\012    sub taPa taMatraUu by taPUu;\012    sub taYa taMatraUu by taYUu;\012    sub taMa taMatraUu by taMUu;\012    sub taRa taMatraUu by taRUu;\012    sub taRra taMatraUu by taRrUu;\012    sub taLa taMatraUu by taLUu;\012    sub taLla taMatraUu by taLlUu;\012    sub taLlla taMatraUu by taLllUu;\012    sub taVa taMatraUu by taVUu;\012 } post_base_sub_2;\012\012lookup post_base_sub_3 {\012    sub @TA_MATRA_I_1 taMatraI' by taMatraI.alt1;\012 } post_base_sub_3;\012\012lookup post_base_sub_4 {\012    sub @TA_MATRA_I_2 taMatraI' by taMatraI.alt2;\012 } post_base_sub_4;\012\012lookup post_base_sub_5 {\012    sub @TA_MATRA_I_3 taMatraI' by taMatraI.alt3;\012 } post_base_sub_5;\012\012lookup post_base_sub_6 {\012    sub @TA_MATRA_I_4 taMatraI' by taMatraI.alt4;\012 } post_base_sub_6;\012\012lookup post_base_sub_7 {\012    sub @TA_MATRA_I_5 taMatraI' by taMatraI.alt5;\012 } post_base_sub_7;\012\012lookup post_base_sub_8{\012    sub @TA_MATRA_I_6 taMatraI' by taMatraI.alt6;\012 } post_base_sub_8;\012\012lookup post_base_sub_9{\012    sub @TA_MATRA_I_7 taMatraI' by taMatraI.alt7;\012 } post_base_sub_9;\012\012lookup post_base_sub_10{\012    sub @TA_MATRA_U_1 taMatraU' by taMatraU.alt1;\012 } post_base_sub_10;\012\012#---- SALT ----\012\012lookup ta_stylistic_alternates_1 {\012    sub taRa' taHalant by taMatraAa;\012    sub taRa' taAnusvara by taMatraAa;\012    sub taRa' taMatraI by taMatraAa;\012    sub taRa' taMatraIi by taMatraAa;\012} ta_stylistic_alternates_1;\012\012lookup ta_stylistic_alternates_2 {\012    sub taNna taMatraAa by taNnAa.alt;\012    sub taNnna taMatraAa by taNnnAa.alt;\012    sub taRra taMatraAa by taRrAa.alt;\012} ta_stylistic_alternates_2;\012\012lookup ta_stylistic_alternates_3 {\012    sub taKa taMatraI' by taMatraI.stylalt1;\012    sub taTa taMatraI' by taMatraI.stylalt1;\012    sub taCa taMatraI' by taMatraI.stylalt1;\012    sub taKa taMatraI.alt5' by taMatraI.stylalt1;\012    sub taTa taMatraI.alt5' by taMatraI.stylalt1;\012    sub taCa taMatraI.alt4' by taMatraI.stylalt1;\012    sub taKa taMatraIi' by taMatraIi.stylalt1;\012    sub taTa taMatraIi' by taMatraIi.stylalt1;\012    sub taCa taMatraIi' by taMatraIi.stylalt1;\012} ta_stylistic_alternates_3;\012\012lookup ta_stylistic_alternates_4 {\012    sub taMatraAi' taNna by taMatraAi.alt;\012    sub taMatraAi' taNnna by taMatraAi.alt;\012    sub taMatraAi' taLa by taMatraAi.alt;\012    sub taMatraAi' taLla by taMatraAi.alt;\012} ta_stylistic_alternates_4;";
+code = "\012\012@TA_MATRA_U_1 = [ taNga taPa taYa taVa ];\012\012@TA_MATRA_I_1 = [ taSsa taKSsa ];\012\012@TA_MATRA_I_2 = [ taJa taMa taRra taLlla taSha taHa ];\012\012@TA_MATRA_I_3 = [ taLa taSa ];\012\012@TA_MATRA_I_4 = [ taCa ];\012\012@TA_MATRA_I_5 = [ taKa taTa ];\012\012@TA_MATRA_I_6 = [ taNya taNa ];\012\012@TA_MATRA_I_7 = [ taNga taPa taYa taVa ];\012\012@TA_MATRA_Ii_1 = [ taLa taSa ];\012\012#---- AKHN ----\012\012lookup akhands {\012    sub taKa taHalant taSsa by taKSsa;\012    sub taSha taHalant taRa taMatraIi by taShree;\012    sub taSa taHalant taRa taMatraIi by taShree;\012} akhands;\012\012#---- ABVS ----\012\012lookup above_base_sub_1 {\012    sub taTta taMatraI by taTtI;\012    sub taTta taMatraIi by taTtIi;\012} above_base_sub_1;\012\012lookup above_base_sub_2 {\012    sub @TA_MATRA_Ii_1 taMatraIi' by taMatraIi.alt1;\012 } above_base_sub_2;\012\012#---- PSTS ----\012\012lookup post_base_sub_1 {\012    sub taKa taMatraU by taKU;\012    sub taCa taMatraU by taCU;\012    sub taNya taMatraU by taNyU;\012    sub taTta taMatraU by taTtU;\012    sub taNna taMatraU by taNnU;\012    sub taTa taMatraU by taTU;\012    sub taNa taMatraU by taNU;\012    sub taNnna taMatraU by taNnnU;\012    sub taMa taMatraU by taMU;\012    sub taRa taMatraU by taRU;\012    sub taRra taMatraU by taRrU;\012    sub taLa taMatraU by taLU;\012    sub taLla taMatraU by taLlU;\012    sub taLlla taMatraU by taLllU;\012} post_base_sub_1;\012\012lookup post_base_sub_2 {\012    sub taKa taMatraUu by taKUu;\012    sub taNga taMatraUu by taNgUu;\012    sub taCa taMatraUu by taCUu;\012    sub taNya taMatraUu by taNyUu;\012    sub taTta taMatraUu by taTtUu;\012    sub taNna taMatraUu by taNnUu;\012    sub taTa taMatraUu by taTUu;\012    sub taNa taMatraUu by taNUu;\012    sub taNnna taMatraUu by taNnnUu;\012    sub taPa taMatraUu by taPUu;\012    sub taYa taMatraUu by taYUu;\012    sub taMa taMatraUu by taMUu;\012    sub taRa taMatraUu by taRUu;\012    sub taRra taMatraUu by taRrUu;\012    sub taLa taMatraUu by taLUu;\012    sub taLla taMatraUu by taLlUu;\012    sub taLlla taMatraUu by taLllUu;\012    sub taVa taMatraUu by taVUu;\012 } post_base_sub_2;\012\012lookup post_base_sub_3 {\012    sub @TA_MATRA_I_1 taMatraI' by taMatraI.alt1;\012 } post_base_sub_3;\012\012lookup post_base_sub_4 {\012    sub @TA_MATRA_I_2 taMatraI' by taMatraI.alt2;\012 } post_base_sub_4;\012\012lookup post_base_sub_5 {\012    sub @TA_MATRA_I_3 taMatraI' by taMatraI.alt3;\012 } post_base_sub_5;\012\012lookup post_base_sub_6 {\012    sub @TA_MATRA_I_4 taMatraI' by taMatraI.alt4;\012 } post_base_sub_6;\012\012lookup post_base_sub_7 {\012    sub @TA_MATRA_I_5 taMatraI' by taMatraI.alt5;\012 } post_base_sub_7;\012\012lookup post_base_sub_8{\012    sub @TA_MATRA_I_6 taMatraI' by taMatraI.alt6;\012 } post_base_sub_8;\012\012lookup post_base_sub_9{\012    sub @TA_MATRA_I_7 taMatraI' by taMatraI.alt7;\012 } post_base_sub_9;\012\012lookup post_base_sub_10{\012    sub @TA_MATRA_U_1 taMatraU' by taMatraU.alt1;\012 } post_base_sub_10;\012\012#---- SALT ----\012\012lookup ta_stylistic_alternates_1 {\012    sub taRa' taHalant by taMatraAa;\012    sub taRa' taAnusvara by taMatraAa;\012    sub taRa' taMatraI by taMatraAa;\012    sub taRa' taMatraIi by taMatraAa;\012} ta_stylistic_alternates_1;\012\012lookup ta_stylistic_alternates_2 {\012    sub taNna taMatraAa by taNnAa.alt;\012    sub taNnna taMatraAa by taNnnAa.alt;\012    sub taRra taMatraAa by taRrAa.alt;\012} ta_stylistic_alternates_2;\012\012lookup ta_stylistic_alternates_3 {\012    sub taKa taMatraI' by taMatraI.stylalt1;\012    sub taTa taMatraI' by taMatraI.stylalt1;\012    sub taCa taMatraI' by taMatraI.stylalt1;\012    sub taKa taMatraI.alt5' by taMatraI.stylalt1;\012    sub taTa taMatraI.alt5' by taMatraI.stylalt1;\012    sub taCa taMatraI.alt4' by taMatraI.stylalt1;\012    sub taKa taMatraIi' by taMatraIi.stylalt1;\012    sub taTa taMatraIi' by taMatraIi.stylalt1;\012    sub taCa taMatraIi' by taMatraIi.stylalt1;\012} ta_stylistic_alternates_3;\012\012lookup ta_stylistic_alternates_4 {\012    sub taMatraAi' taNna by taMatraAi.alt;\012    sub taMatraAi' taNnna by taMatraAi.alt;\012    sub taMatraAi' taLa by taMatraAi.alt;\012    sub taMatraAi' taLla by taMatraAi.alt;\012} ta_stylistic_alternates_4;\012\012\012";
 name = prefix;
 }
 );
@@ -163,11 +164,11 @@ code = "  script sinh;\012      lookup sinraer;";
 name = psts;
 },
 {
-code = "    script sinh;";
+code = "    script taml;\012";
 name = abvm;
 },
 {
-code = "    script sinh;";
+code = "	script taml;\012 ";
 name = blwm;
 },
 {
@@ -34856,7 +34857,7 @@ unicode = 0D9A;
 },
 {
 glyphname = sinKha;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 17:45:32 +0000";
 layers = (
 {
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -34865,14 +34866,14 @@ paths = (
 closed = 1;
 nodes = (
 "271.76 152 CURVE",
-"331.76 226 LINE",
-"331.76 199.778 OFFCURVE",
-"335.031 179.732 OFFCURVE",
-"340.604 165 CURVE SMOOTH",
-"349.482 141.527 OFFCURVE",
-"364.203 131.539 OFFCURVE",
-"380.841 131.539 CURVE SMOOTH",
-"408.115 131.539 OFFCURVE",
+"326 226 LINE",
+"326 200 OFFCURVE",
+"329 180 OFFCURVE",
+"335 165 CURVE SMOOTH",
+"343 142 OFFCURVE",
+"360 130 OFFCURVE",
+"385 130 CURVE SMOOTH",
+"415 130 OFFCURVE",
 "439 171.641 OFFCURVE",
 "439 293 CURVE SMOOTH",
 "439 522.797 OFFCURVE",
@@ -34934,11 +34935,11 @@ nodes = (
 "128.76 339.788 OFFCURVE",
 "128.76 220 CURVE SMOOTH",
 "128.76 128 OFFCURVE",
-"149.76 106 OFFCURVE",
-"170.76 106 CURVE SMOOTH",
-"190.76 106 OFFCURVE",
-"207.76 120 OFFCURVE",
-"223.76 156 CURVE",
+"150 101 OFFCURVE",
+"171 101 CURVE SMOOTH",
+"191 101 OFFCURVE",
+"208 115 OFFCURVE",
+"224 151 CURVE",
 "279.76 73 LINE",
 "237.649 36.559 OFFCURVE",
 "194.228 3.062 OFFCURVE",
@@ -35026,13 +35027,13 @@ nodes = (
 "70 392.184 OFFCURVE",
 "70 220 CURVE SMOOTH",
 "70 105.193 OFFCURVE",
-"93.655 39 OFFCURVE",
-"148 39 CURVE SMOOTH",
-"199.447 39 OFFCURVE",
-"225.371 96.368 OFFCURVE",
+"94 38 OFFCURVE",
+"153 38 CURVE SMOOTH",
+"199 38 OFFCURVE",
+"225 76 OFFCURVE",
 "233 148 CURVE",
-"258 141 LINE",
-"247.814 67.4 OFFCURVE",
+"251 141 LINE",
+"241 67 OFFCURVE",
 "225.327 3 OFFCURVE",
 "148 3 CURVE SMOOTH",
 "67.877 3 OFFCURVE",
@@ -42202,7 +42203,7 @@ unicode = 0D8D;
 },
 {
 glyphname = taA;
-lastChange = "2018-02-04 13:53:58 +0000";
+lastChange = "2018-02-04 17:42:06 +0000";
 layers = (
 {
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -42233,9 +42234,9 @@ nodes = (
 "300 377 CURVE",
 "246 379 LINE",
 "246 444 OFFCURVE",
-"291 491 OFFCURVE",
-"354 491 CURVE SMOOTH",
-"422 491 OFFCURVE",
+"295 488 OFFCURVE",
+"358 488 CURVE SMOOTH",
+"426 488 OFFCURVE",
 "471 441 OFFCURVE",
 "471 373 CURVE SMOOTH",
 "471 301 OFFCURVE",
@@ -42311,9 +42312,9 @@ nodes = (
 "246 385 CURVE",
 "219 389 LINE",
 "219 455 OFFCURVE",
-"264 511 OFFCURVE",
-"335 511 CURVE SMOOTH",
-"399 511 OFFCURVE",
+"268 506 OFFCURVE",
+"336 506 CURVE SMOOTH",
+"403 506 OFFCURVE",
 "462 464 OFFCURVE",
 "462 381 CURVE SMOOTH",
 "462 304 OFFCURVE",
@@ -42324,7 +42325,7 @@ nodes = (
 "203 385 CURVE SMOOTH",
 "203 489 OFFCURVE",
 "286 573 OFFCURVE",
-"417 573 CURVE SMOOTH",
+"408 573 CURVE SMOOTH",
 "593 573 OFFCURVE",
 "675 420 OFFCURVE",
 "675 256 CURVE SMOOTH",
@@ -42351,9 +42352,9 @@ nodes = (
 "630 256 CURVE SMOOTH",
 "630 371 OFFCURVE",
 "580 531 OFFCURVE",
-"415 531 CURVE SMOOTH",
+"406 531 CURVE SMOOTH",
 "311 531 OFFCURVE",
-"246 468 OFFCURVE",
+"246 478 OFFCURVE",
 "246 385 CURVE SMOOTH"
 );
 }
@@ -42602,7 +42603,7 @@ unicode = 0B86;
 },
 {
 glyphname = taI;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 17:36:24 +0000";
 layers = (
 {
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -42765,9 +42766,9 @@ nodes = (
 "95 25 OFFCURVE",
 "95 362 CURVE SMOOTH",
 "95 610 OFFCURVE",
-"257 754 OFFCURVE",
-"525 754 CURVE SMOOTH",
-"815 754 OFFCURVE",
+"257 756 OFFCURVE",
+"521 756 CURVE SMOOTH",
+"815 756 OFFCURVE",
 "951 586 OFFCURVE",
 "951 239 CURVE SMOOTH",
 "951 0 LINE",
@@ -43712,7 +43713,7 @@ unicode = 0B90;
 },
 {
 glyphname = taO;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 17:43:38 +0000";
 layers = (
 {
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -43845,9 +43846,9 @@ nodes = (
 "84 290 CURVE",
 "52 293 LINE",
 "52 366 OFFCURVE",
-"100 422 OFFCURVE",
-"180 422 CURVE SMOOTH",
-"250 422 OFFCURVE",
+"109 420 OFFCURVE",
+"182 420 CURVE SMOOTH",
+"249 420 OFFCURVE",
 "304 364 OFFCURVE",
 "304 285 CURVE SMOOTH",
 "304 204 OFFCURVE",
@@ -46205,7 +46206,7 @@ unicode = 0BAE;
 },
 {
 glyphname = taYa;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 17:56:55 +0000";
 layers = (
 {
 anchors = (
@@ -46223,7 +46224,7 @@ position = "{551, 33}";
 },
 {
 name = virama;
-position = "{342, 0}";
+position = "{342, 618}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -46278,11 +46279,11 @@ position = "{608, 560}";
 },
 {
 name = MatraU.alt1;
-position = "{588, 33}";
+position = "{588, 42}";
 },
 {
 name = virama;
-position = "{325, 0}";
+position = "{325, 665}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -48277,7 +48278,7 @@ unicode = 0BB9;
 },
 {
 glyphname = taOm;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 17:36:48 +0000";
 layers = (
 {
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -48441,8 +48442,8 @@ nodes = (
 "233 -122 OFFCURVE",
 "333 -122 CURVE SMOOTH",
 "423 -122 OFFCURVE",
-"500 -58 OFFCURVE",
-"500 42 CURVE",
+"503 -58 OFFCURVE",
+"503 42 CURVE",
 "509 33 LINE",
 "435 33 OFFCURVE",
 "388 83 OFFCURVE",
@@ -89475,7 +89476,7 @@ unicode = 0BC2;
 },
 {
 glyphname = taMatraE;
-lastChange = "2018-02-04 13:36:43 +0000";
+lastChange = "2018-02-04 17:37:04 +0000";
 layers = (
 {
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -89543,7 +89544,7 @@ nodes = (
 "30 350 CURVE SMOOTH",
 "30 568 OFFCURVE",
 "117 807 OFFCURVE",
-"338 807 CURVE SMOOTH",
+"318 807 CURVE SMOOTH",
 "540 807 OFFCURVE",
 "537 546 OFFCURVE",
 "537 395 CURVE SMOOTH",
@@ -89552,7 +89553,7 @@ nodes = (
 "494 384 LINE",
 "494 564 OFFCURVE",
 "488 763 OFFCURVE",
-"334 763 CURVE SMOOTH",
+"314 763 CURVE SMOOTH",
 "170 763 OFFCURVE",
 "72 593 OFFCURVE",
 "72 343 CURVE SMOOTH",
@@ -198336,7 +198337,7 @@ width = 538;
 },
 {
 glyphname = sinvocalicRr;
-lastChange = "2018-02-04 13:36:44 +0000";
+lastChange = "2018-02-04 17:53:56 +0000";
 layers = (
 {
 components = (
@@ -198609,6 +198610,7 @@ nodes = (
 width = 1125;
 }
 );
+unicode = 0d8e;
 },
 {
 glyphname = sinYU;
@@ -199665,6 +199667,10 @@ value = (
 20,
 73
 );
+},
+{
+name = "TTFAutohint options";
+value = "--no-info";
 }
 );
 interpolationWeight = 47;
@@ -210859,8 +210865,8 @@ period = -15;
 };
 };
 };
-manufacturer = "Mooniak PLC.";
-manufacturerURL = "http://mooniak.com";
+manufacturer = "Mooniak PLC";
+manufacturerURL = "http://textual.works/fonts";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
