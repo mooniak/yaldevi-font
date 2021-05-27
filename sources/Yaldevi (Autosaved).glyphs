@@ -14,7 +14,9 @@ DisplayStrings = (
 "/taMatraIi.alt1/taMatraIi.alt2/taMatraIi.alt3",
 "/taMatraIi.alt2",
 "/taMatraIi.alt3",
-"/taMatraIi.alt1"
+"/taMatraIi.alt1",
+"/taMatraIi",
+"/taSa"
 );
 copyright = "Copyright (c) 2015-2021, Yaldevi Fonts Project Authours <https://github.com/mooniak/yaldevi-fonts>";
 customParameters = (
@@ -47971,13 +47973,13 @@ unicode = 0BB7;
 },
 {
 glyphname = taSa;
-lastChange = "2021-05-27 03:36:45 +0000";
+lastChange = "2021-05-27 03:40:09 +0000";
 layers = (
 {
 anchors = (
 {
 name = MatraIi;
-position = "{838, 552}";
+position = "{781, 530}";
 },
 {
 name = tm_halant;
@@ -48175,6 +48177,7 @@ width = 981;
 }
 );
 unicode = 0BB8;
+changeCount = 2;
 },
 {
 glyphname = taHa;
@@ -75667,7 +75670,7 @@ unicode = 0BBF;
 },
 {
 glyphname = taMatraIi;
-lastChange = "2021-05-11 06:33:43 +0000";
+lastChange = "2021-05-27 03:39:47 +0000";
 layers = (
 {
 anchors = (
@@ -75781,6 +75784,7 @@ width = 0;
 }
 );
 unicode = 0BC0;
+changeCount = 1;
 },
 {
 glyphname = taMatraU;
