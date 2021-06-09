@@ -192956,7 +192956,6 @@ name = "Extra Light";
 weightClass = ExtraLight;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = unicodeRanges;
@@ -192979,7 +192978,6 @@ weightClass = Light;
 widthClass = SemiCondensed;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = unicodeRanges;
@@ -193001,7 +192999,6 @@ name = Regular;
 widthClass = SemiCondensed;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = unicodeRanges;
@@ -193027,7 +193024,6 @@ name = Medium;
 weightClass = Medium;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = unicodeRanges;
