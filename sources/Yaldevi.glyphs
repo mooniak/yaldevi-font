@@ -783,9 +783,13 @@ sinNDAa.virama.ss01,
 sinDRAa.ss01,
 sinNdRAa.ss01
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
-date = "2021-06-09 01:29:09 +0000";
+date = "2021-06-25 03:22:46 +0000";
 designer = "Sol Matas, Rajitha Manaperi, Kosala Senevirathne";
 designerURL = "http://mooniak.com";
 disablesNiceNames = 1;
@@ -193122,18 +193126,6 @@ rightMetricsKey = "60t";
 );
 instances = (
 {
-customParameters = (
-{
-name = unicodeRanges;
-value = (
-0,
-1,
-2,
-20,
-73
-);
-}
-);
 interpolationWeight = 0;
 instanceInterpolations = {
 "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41" = 1;
@@ -193142,18 +193134,6 @@ name = "Extra Light";
 weightClass = ExtraLight;
 },
 {
-customParameters = (
-{
-name = unicodeRanges;
-value = (
-0,
-1,
-2,
-20,
-73
-);
-}
-);
 interpolationWeight = 13;
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 0.13;
@@ -193161,41 +193141,17 @@ instanceInterpolations = {
 };
 name = Light;
 weightClass = Light;
-widthClass = SemiCondensed;
 },
 {
-customParameters = (
-{
-name = unicodeRanges;
-value = (
-0,
-1,
-2,
-20,
-73
-);
-}
-);
 interpolationWeight = 28;
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 0.28;
 "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41" = 0.72;
 };
 name = Regular;
-widthClass = SemiCondensed;
 },
 {
 customParameters = (
-{
-name = unicodeRanges;
-value = (
-0,
-1,
-2,
-20,
-73
-);
-},
 {
 name = "TTFAutohint options";
 value = "--no-info";
@@ -193210,18 +193166,6 @@ name = Medium;
 weightClass = Medium;
 },
 {
-customParameters = (
-{
-name = unicodeRanges;
-value = (
-0,
-1,
-2,
-20,
-73
-);
-}
-);
 interpolationWeight = 71;
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 0.71;
@@ -193231,18 +193175,6 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
-customParameters = (
-{
-name = unicodeRanges;
-value = (
-0,
-1,
-2,
-20,
-73
-);
-}
-);
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 1;
 };
@@ -193250,7 +193182,6 @@ isBold = 1;
 linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
-widthClass = SemiCondensed;
 }
 );
 kerning = {
@@ -194842,5 +194773,5 @@ tH = 35;
 LWPluginVersion = "1429";
 };
 versionMajor = 1;
-versionMinor = 50;
+versionMinor = 100;
 }
