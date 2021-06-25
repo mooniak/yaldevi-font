@@ -1,7 +1,6 @@
 {
-.appVersion = "1355";
+.appVersion = "1348";
 DisplayStrings = (
-"",
 "/sinMatraE",
 "/sinMatraAae/sinMatraAe",
 "/sinI",
@@ -921,31 +920,27 @@ capHeight = 769;
 customParameters = (
 {
 name = typoAscender;
-value = 932;
+value = 1060;
 },
 {
 name = typoDescender;
-value = -233;
+value = -256;
 },
 {
 name = typoLineGap;
-value = 105;
+value = 0;
 },
 {
 name = underlinePosition;
 value = -116;
 },
 {
-name = underlineThickness;
-value = 58;
-},
-{
 name = winAscent;
-value = 1085;
+value = 1107;
 },
 {
 name = winDescent;
-value = 439;
+value = 450;
 },
 {
 name = typoLineGap;
@@ -953,11 +948,15 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 932;
+value = 1060;
 },
 {
 name = hheaDescender;
-value = -233;
+value = -256;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -233;
@@ -998,31 +997,27 @@ capHeight = 769;
 customParameters = (
 {
 name = typoAscender;
-value = 1108;
+value = 1060;
 },
 {
 name = typoDescender;
-value = -440;
+value = -256;
 },
 {
 name = typoLineGap;
-value = 105;
+value = 0;
 },
 {
 name = underlinePosition;
 value = -116;
 },
 {
-name = underlineThickness;
-value = 58;
-},
-{
 name = winAscent;
-value = 1108;
+value = 1107;
 },
 {
 name = winDescent;
-value = 440;
+value = 450;
 },
 {
 name = typoLineGap;
@@ -1030,11 +1025,15 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1108;
+value = 1060;
 },
 {
 name = hheaDescender;
-value = -440;
+value = -256;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -228;
@@ -194856,6 +194855,7 @@ oV = 43;
 tH = 35;
 };
 };
+LWPluginVersion = "1429";
 };
 versionMajor = 1;
 versionMinor = 50;
