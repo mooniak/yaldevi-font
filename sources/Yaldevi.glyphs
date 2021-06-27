@@ -11,7 +11,9 @@ DisplayStrings = (
 k,
 "mnh\012\012",
 "/sinZerolith",
-"/sinKa.half/sinJha/sinJh/sinJhIi/sinJhU/sinJhUu/sinJhRa/sinJha.reph"
+"/sinKa.half/sinJha/sinJh/sinJhIi/sinJhU/sinJhUu/sinJhRa/sinJha.reph",
+"/sinSevenlith",
+"/sinFivelith"
 );
 copyright = "Copyright 2021 Yaldevi Fonts Project Authours (https://github.com/mooniak/yaldevi-fonts)";
 customParameters = (
@@ -799,7 +801,7 @@ disablesNiceNames = 1;
 familyName = Yaldevi;
 featurePrefixes = (
 {
-code = "languagesystem DFLT dflt;\012languagesystem sinh dflt;\012languagesystem taml dflt;\012languagesystem tml2 dflt;\012\012";
+code = "languagesystem DFLT dflt;\012languagesystem sinh dflt;\012\012\012";
 name = Languagesystems;
 },
 {
