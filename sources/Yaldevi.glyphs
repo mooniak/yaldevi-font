@@ -14,7 +14,8 @@ DisplayStrings = (
 "/sinLUu",
 "/sinVUu",
 "/sinSsUu",
-"/sinKU/sinGU/sinNngU/sinTU/sinDU/sinNdU/sinLU/sinShU/sinKUu/sinGUu/sinNngUu/sinNyUu/sinJnyUu/sinTUu/sinDUu/sinNdUu/sinBhUu/sinRUu/sinLUu/sinLlUu"
+"/sinKU/sinGU/sinNngU/sinTU/sinDU/sinNdU/sinLU/sinShU/sinKUu/sinGUu/sinNngUu/sinNyUu/sinJnyUu/sinTUu/sinDUu/sinNdUu/sinBhUu/sinRUu/sinLUu/sinLlUu",
+"/sinIi"
 );
 copyright = "Copyright 2021 Yaldevi Fonts Project Authours (https://github.com/mooniak/yaldevi-fonts)";
 customParameters = (
@@ -1706,7 +1707,7 @@ unicode = 0D89;
 },
 {
 glyphname = sinIi;
-lastChange = "2021-06-27 09:14:40 +0000";
+lastChange = "2021-06-27 10:05:40 +0000";
 layers = (
 {
 components = (
@@ -1764,23 +1765,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"212 750 OFFCURVE",
-"229 768 OFFCURVE",
-"229 789 CURVE SMOOTH",
-"229 811 OFFCURVE",
-"212 829 OFFCURVE",
-"190 829 CURVE SMOOTH",
-"168 829 OFFCURVE",
-"151 811 OFFCURVE",
-"151 789 CURVE SMOOTH",
-"151 768 OFFCURVE",
-"168 750 OFFCURVE",
-"190 750 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
 "459 660 OFFCURVE",
 "476 678 OFFCURVE",
 "476 699 CURVE SMOOTH",
@@ -1793,6 +1777,23 @@ nodes = (
 "398 678 OFFCURVE",
 "415 660 OFFCURVE",
 "437 660 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"212 750 OFFCURVE",
+"229 768 OFFCURVE",
+"229 789 CURVE SMOOTH",
+"229 811 OFFCURVE",
+"212 829 OFFCURVE",
+"190 829 CURVE SMOOTH",
+"168 829 OFFCURVE",
+"151 811 OFFCURVE",
+"151 789 CURVE SMOOTH",
+"151 768 OFFCURVE",
+"168 750 OFFCURVE",
+"190 750 CURVE SMOOTH"
 );
 }
 );
