@@ -1,5 +1,8 @@
 {
 .appVersion = "1348";
+DisplayStrings = (
+"/sinNgIi"
+);
 copyright = "Copyright 2021 Yaldevi Fonts Project Authours (https://github.com/github.com:mooniak/yaldevi-font)";
 customParameters = (
 {
@@ -887,7 +890,7 @@ value = -116;
 },
 {
 name = winAscent;
-value = 1107;
+value = 1110;
 },
 {
 name = winDescent;
@@ -964,7 +967,7 @@ value = -116;
 },
 {
 name = winAscent;
-value = 1107;
+value = 1110;
 },
 {
 name = winDescent;
@@ -9944,7 +9947,7 @@ unicode = 0DB1;
 },
 {
 glyphname = sinNda;
-lastChange = "2021-06-27 09:30:37 +0000";
+lastChange = "2021-06-27 10:48:04 +0000";
 layers = (
 {
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -10168,7 +10171,7 @@ nodes = (
 );
 }
 );
-width = 645;
+width = 621;
 }
 );
 rightMetricsKey = sinDa;
@@ -46310,7 +46313,7 @@ width = 680;
 },
 {
 glyphname = sinNgIi;
-lastChange = "2021-06-27 09:07:43 +0000";
+lastChange = "2021-06-27 11:25:30 +0000";
 layers = (
 {
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -46337,9 +46340,9 @@ closed = 1;
 nodes = (
 "300 816 CURVE SMOOTH",
 "300 898 OFFCURVE",
-"366 964 OFFCURVE",
-"448 964 CURVE SMOOTH",
-"530 964 OFFCURVE",
+"376 944 OFFCURVE",
+"458 944 CURVE SMOOTH",
+"540 944 OFFCURVE",
 "596 898 OFFCURVE",
 "596 816 CURVE SMOOTH",
 "596 734 OFFCURVE",
@@ -46525,7 +46528,7 @@ nodes = (
 "524 761 OFFCURVE",
 "524 798 CURVE SMOOTH",
 "524 835 OFFCURVE",
-"494 865 OFFCURVE",
+"504 865 OFFCURVE",
 "457 865 CURVE SMOOTH",
 "420 865 OFFCURVE",
 "390 835 OFFCURVE"
@@ -46536,12 +46539,12 @@ closed = 1;
 nodes = (
 "346 798 CURVE SMOOTH",
 "346 859 OFFCURVE",
-"395 908 OFFCURVE",
-"456 908 CURVE SMOOTH",
-"524 908 OFFCURVE",
-"567 848 OFFCURVE",
-"567 798 CURVE SMOOTH",
-"567 737 OFFCURVE",
+"387 905 OFFCURVE",
+"456 905 CURVE SMOOTH",
+"514 905 OFFCURVE",
+"557 848 OFFCURVE",
+"557 798 CURVE SMOOTH",
+"557 737 OFFCURVE",
 "518 687 OFFCURVE",
 "456 687 CURVE SMOOTH",
 "395 687 OFFCURVE",
