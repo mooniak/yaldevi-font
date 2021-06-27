@@ -11,7 +11,7 @@ D: Designer of Sinhala
 N: Kosala Senevirathne  
 E: kosala@mooniak.com  
 W: http://mooniak.com  
-D: Designer of Tamil.  
+D: Designer of Tamil and Sinhala numerals  
 
 N: Sol Matas  
 E:  
@@ -26,4 +26,4 @@ D: Developer Opentype features and engineering.
 N: Pathum Egodawatta  
 E: pathum@mooniak.com  
 W: http://mooniak.com  
-D: Manager /Designer - Tamil/Sinhala  
+D: Project manager
