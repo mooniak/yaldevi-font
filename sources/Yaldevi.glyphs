@@ -898,10 +898,6 @@ name = winDescent;
 value = 450;
 },
 {
-name = typoLineGap;
-value = 0;
-},
-{
 name = hheaAscender;
 value = 1060;
 },
@@ -973,10 +969,6 @@ value = 1110;
 {
 name = winDescent;
 value = 450;
-},
-{
-name = typoLineGap;
-value = 0;
 },
 {
 name = hheaAscender;
