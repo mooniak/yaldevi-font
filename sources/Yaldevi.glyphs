@@ -1,6 +1,6 @@
 {
 .appVersion = "1352";
-copyright = "Copyright 2021 Yaldevi Fonts Project Authours (https://github.com/github.com:mooniak/yaldevi-font)";
+copyright = "Copyright 2021 Yaldevi Fonts Project Authours (https://github.com/mooniak/yaldevi-font)";
 customParameters = (
 {
 name = fsType;
@@ -174606,7 +174606,7 @@ interpolationWeight = 0;
 instanceInterpolations = {
 "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41" = 1;
 };
-name = "Extra Light";
+name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
@@ -174627,12 +174627,6 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--no-info";
-}
-);
 interpolationWeight = 47;
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 0.47;
@@ -174655,7 +174649,6 @@ instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 1;
 };
 isBold = 1;
-linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 }
