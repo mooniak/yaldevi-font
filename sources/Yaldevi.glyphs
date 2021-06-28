@@ -872,6 +872,7 @@ alignmentZones = (
 );
 ascender = 826;
 capHeight = 769;
+custom = Extra;
 customParameters = (
 {
 name = typoAscender;
@@ -920,6 +921,7 @@ horizontalStems = (
 );
 iconName = Light_Condensed;
 id = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+name = ExtraLight;
 userData = {
 angle = 5;
 height = 37;
