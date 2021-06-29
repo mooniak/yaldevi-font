@@ -8,6 +8,19 @@ Please see https://github.com/mooniak/yaldevi-font for documentation, developmen
 
 ChangeLog
 ----------
+
+29 June 2021 (mooniak) Yaldevi v1.100 varible font release
+[IMPORTANAT] This release only contains Latin and Sinhala script support. Yaldevi Colombo and Yaldevi Jaffna is depracated and both Sinhala and Tamil will be released in a Single font family called Yaldevi.
+We are revising the Tamil design and will be added to this family in the upcoming v1.200. If you would like to use the old Tamil font please download the Yaldevi Jaffna fonts from the previous release from https://github.com/mooniak/yaldevi-font/releases/tag/1.040
+
+- Now released as a single variable font file
+- New build with fontmake and gfbuilder
+- Source now in .glyphs format
+- New Opentype layout
+- Added Sinhala numerals and Candrabindu
+- Various improvements to drawings
+
+
 16 August 2017 (mooniak) Yaldevi v1.040
 - Fixing nbspace advance width (Reported #66)
 
