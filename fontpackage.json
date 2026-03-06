@@ -1,0 +1,108 @@
+{
+  "name": "Yaldevi",
+  "id": "yaldevi",
+  "type": "family",
+  "designer": [
+    "Mooniak"
+  ],
+  "scripts": [
+    "Sinh",
+    "Taml",
+    "Latn"
+  ],
+  "description": "A narrow typeface for titles and short texts on the web, with support for Sinhala, Tamil and Latin. Slightly condensed with generous x-height.",
+  "license": "OFL-1.1",
+  "channels": [
+    "release",
+    "dev",
+    "nightly"
+  ],
+  "versions_provider": "tags",
+  "repository": {
+    "url": "https://github.com/mooniak/yaldevi-font",
+    "type": "git"
+  },
+  "homepage_url": "https://src.mooniak.com/yaldevi-font/",
+  "issues_url": "https://github.com/mooniak/yaldevi-font/issues/",
+  "funding_url": "https://opencollective.com/akuruxyz/projects/lanka-font-library",
+  "foundry": {
+    "name": "mooniak",
+    "email": "hello@mooniak.com",
+    "url": "https://mooniak.com/",
+    "vendor_id": "MNIK"
+  },
+  "designers": [
+    {
+      "name": "Denzel Rajitha",
+      "email": "",
+      "url": ""
+    },
+    {
+      "name": "Sol Matas",
+      "email": "solmatas@gmail.com",
+      "url": "https://www.solmatas.com/"
+    },
+    {
+      "name": "Kosala Senevirathne",
+      "email": "",
+      "url": ""
+    },
+    {
+      "name": "Ayantha Randika",
+      "email": "",
+      "url": ""
+    },
+    {
+      "name": "Pathum Egodawatta",
+      "email": "pathum@mooniak.com",
+      "url": "https://pathumego.com/"
+    }
+  ],
+  "maintenance": {
+    "status": "actively-developed",
+    "comment": ""
+  },
+  "tools": "",
+  "progress": {
+    "design": 100,
+    "family_styles": 100,
+    "character_set": 100,
+    "drawing_quality": 100,
+    "spacing": 80,
+    "kerning": 60,
+    "hinting": 80,
+    "opentype_features": 90
+  },
+  "tags": {
+    "style": "display",
+    "contrast": "low",
+    "width": "normal",
+    "body_height": "normal",
+    "intended_usage": "medium",
+    "figures": "normal",
+    "languages": [
+      "si_LK",
+      "ta_LK",
+      "en_US"
+    ],
+    "related_fonts": []
+  },
+  "display_texts": {
+    "en_US": "A narrow typeface for titles and short texts.",
+    "si_LK": "දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ.",
+    "ta_LK": "யாரிடம் கேட்டாலும் அந்த மலை ஏறும் வழி சரியாக சொல்ல மாட்டார்கள்."
+  },
+  "display_images": {
+    "banner": "",
+    "thumbnail": "",
+    "small": "",
+    "medium": "",
+    "large": ""
+  },
+  "links": {
+    "font_in_use": "",
+    "googlefonts": "https://fonts.google.com/specimen/Yaldevi",
+    "fontlibrary_org": "",
+    "typekit": ""
+  }
+}
