@@ -1,0 +1,63 @@
+{
+glyphname = seven.osf;
+layers = (
+{
+guideLines = (
+{
+position = "{248, 540}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"224 62 OFFCURVE",
+"296 272 OFFCURVE",
+"399 507 CURVE",
+"399 540 LINE",
+"37 540 LINE",
+"37 498 LINE",
+"359 498 LINE",
+"354 505 LINE",
+"263 296 OFFCURVE",
+"186 94 OFFCURVE",
+"122 -129 CURVE",
+"168 -140 LINE"
+);
+}
+);
+width = 441;
+},
+{
+guideLines = (
+{
+position = "{4, 541}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"266 52 OFFCURVE",
+"340 249 OFFCURVE",
+"432 455 CURVE",
+"432 541 LINE",
+"20 541 LINE",
+"20 416 LINE",
+"303 416 LINE",
+"301 466 LINE",
+"208 255 OFFCURVE",
+"129 55 OFFCURVE",
+"81 -136 CURVE",
+"219 -134 LINE"
+);
+}
+);
+width = 457;
+}
+);
+leftKerningGroup = seven;
+rightKerningGroup = seven;
+}

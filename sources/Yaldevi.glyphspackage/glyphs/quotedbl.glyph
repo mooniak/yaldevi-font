@@ -1,0 +1,55 @@
+{
+glyphname = quotedbl;
+layers = (
+{
+components = (
+{
+name = quotesingle;
+transform = "{1, 0, 0, 1, 7, 0}";
+},
+{
+name = quotesingle;
+transform = "{1, 0, 0, 1, 199, 0}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 401;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"112 825 LINE",
+"57 825 LINE",
+"67 596 LINE",
+"101 596 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"255 825 LINE",
+"200 825 LINE",
+"211 596 LINE",
+"245 596 LINE"
+);
+}
+);
+};
+components = (
+{
+name = quotesingle;
+},
+{
+name = quotesingle;
+transform = "{1, 0, 0, 1, 143, 0}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 311;
+}
+);
+unicode = 0022;
+}

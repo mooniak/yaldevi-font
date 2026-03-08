@@ -1,0 +1,186 @@
+{
+glyphname = H;
+layers = (
+{
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"470 436 LINE",
+"493 459 LINE",
+"196 459 LINE",
+"218 436 LINE",
+"218 768 LINE",
+"68 768 LINE",
+"68 0 LINE",
+"218 0 LINE",
+"218 356 LINE",
+"196 333 LINE",
+"493 333 LINE",
+"470 356 LINE",
+"470 0 LINE",
+"620 0 LINE",
+"620 768 LINE",
+"470 768 LINE"
+);
+}
+);
+width = 689;
+},
+{
+associatedMasterId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+layerId = "D8CFC724-BFE3-4C0A-80F1-B1627DD68D63";
+name = "Bold fino";
+paths = (
+{
+closed = 1;
+nodes = (
+"68 768 LINE",
+"68 0 LINE",
+"207 0 LINE",
+"207 768 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"634 0 LINE",
+"634 768 LINE",
+"495 768 LINE",
+"495 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"135 337 LINE",
+"563 337 LINE",
+"563 456 LINE",
+"135 456 LINE"
+);
+}
+);
+width = 702;
+},
+{
+associatedMasterId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"97 768 LINE",
+"97 0 LINE",
+"141 0 LINE",
+"141 768 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"604 0 LINE",
+"604 768 LINE",
+"560 768 LINE",
+"560 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"119 382 LINE",
+"582 382 LINE",
+"582 422 LINE",
+"119 422 LINE"
+);
+}
+);
+};
+layerId = "103B1E4B-F5F5-49DC-B8A0-B5A300652377";
+name = "Light Condensed Sep 10 15, 19:37";
+paths = (
+{
+closed = 1;
+nodes = (
+"560 411 LINE",
+"571 422 LINE",
+"130 422 LINE",
+"141 411 LINE",
+"141 768 LINE",
+"97 768 LINE",
+"97 0 LINE",
+"141 0 LINE",
+"141 394 LINE",
+"130 382 LINE",
+"571 382 LINE",
+"560 394 LINE",
+"560 0 LINE",
+"604 0 LINE",
+"604 768 LINE",
+"560 768 LINE"
+);
+}
+);
+width = 701;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"85 768 LINE",
+"85 0 LINE",
+"130 0 LINE",
+"130 768 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"593 0 LINE",
+"593 768 LINE",
+"549 768 LINE",
+"549 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"108 382 LINE",
+"570 382 LINE",
+"570 422 LINE",
+"108 422 LINE"
+);
+}
+);
+};
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"539 409 LINE",
+"554 420 LINE",
+"130 420 LINE",
+"145 409 LINE",
+"145 768 LINE",
+"97 768 LINE",
+"97 0 LINE",
+"145 0 LINE",
+"145 391 LINE",
+"130 380 LINE",
+"554 380 LINE",
+"539 391 LINE",
+"539 0 LINE",
+"587 0 LINE",
+"587 768 LINE",
+"539 768 LINE"
+);
+}
+);
+width = 685;
+}
+);
+unicode = 0048;
+}

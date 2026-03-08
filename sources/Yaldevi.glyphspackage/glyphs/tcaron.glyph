@@ -1,0 +1,32 @@
+{
+glyphname = tcaron;
+layers = (
+{
+components = (
+{
+name = t;
+},
+{
+name = quoteright;
+transform = "{0.752, 0, 0, 0.752, 263, 238}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 406;
+},
+{
+components = (
+{
+name = t;
+},
+{
+name = quoteright;
+transform = "{0.931, 0, 0, 0.931, 211, 30}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 342;
+}
+);
+unicode = 0165;
+}

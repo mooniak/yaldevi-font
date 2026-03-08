@@ -1,0 +1,120 @@
+{
+glyphname = hungarumlaut;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{247, 569}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"325 778 LINE",
+"251 869 LINE",
+"57 703 LINE",
+"116 632 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"569 778 LINE",
+"495 869 LINE",
+"300 703 LINE",
+"360 632 LINE"
+);
+}
+);
+};
+guideLines = (
+{
+position = "{368, 552}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"322 773 LINE",
+"247 864 LINE",
+"56 701 LINE",
+"116 628 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"566 773 LINE",
+"490 864 LINE",
+"299 701 LINE",
+"360 628 LINE"
+);
+}
+);
+width = 604;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{220, 569}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"262 777 LINE",
+"229 817 LINE",
+"74 696 LINE",
+"97 666 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"410 777 LINE",
+"377 817 LINE",
+"222 696 LINE",
+"245 666 LINE"
+);
+}
+);
+};
+guideLines = (
+{
+position = "{368, 580}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"273 783 LINE",
+"236 822 LINE",
+"90 690 LINE",
+"116 660 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"460 783 LINE",
+"422 822 LINE",
+"277 690 LINE",
+"303 660 LINE"
+);
+}
+);
+width = 516;
+}
+);
+unicode = 02DD;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = guillemotright;
+layers = (
+{
+components = (
+{
+name = guillemotleft;
+transform = "{-1, 0, 0, -1, 585, 599}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 597;
+},
+{
+components = (
+{
+name = guillemotleft;
+transform = "{-1, 0, 0, -1, 499, 599}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 521;
+}
+);
+unicode = 00BB;
+}

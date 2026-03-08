@@ -1,0 +1,34 @@
+{
+glyphname = sinAi;
+layers = (
+{
+components = (
+{
+name = sinMatraE;
+},
+{
+name = sinE;
+transform = "{1, 0, 0, 1, 543, 0}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 1191;
+},
+{
+components = (
+{
+alignment = -1;
+name = sinMatraE;
+},
+{
+alignment = -1;
+name = sinE;
+transform = "{1, 0, 0, 1, 501, 0}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 1108;
+}
+);
+unicode = 0D93;
+}

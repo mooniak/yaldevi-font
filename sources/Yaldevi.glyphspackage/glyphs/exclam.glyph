@@ -1,0 +1,60 @@
+{
+glyphname = exclam;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"172 793 LINE",
+"108 793 LINE",
+"121 176 LINE",
+"158 176 LINE"
+);
+}
+);
+};
+components = (
+{
+name = period;
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"226 810 LINE",
+"56 810 LINE",
+"79 233 LINE",
+"204 233 LINE"
+);
+}
+);
+width = 285;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 32, 0}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"162 793 LINE",
+"106 793 LINE",
+"115 176 LINE",
+"152 176 LINE"
+);
+}
+);
+width = 274;
+}
+);
+unicode = 0021;
+}

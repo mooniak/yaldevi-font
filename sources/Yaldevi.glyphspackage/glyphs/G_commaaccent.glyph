@@ -1,0 +1,32 @@
+{
+glyphname = Gcommaaccent;
+layers = (
+{
+components = (
+{
+name = G;
+},
+{
+name = quoteright;
+transform = "{0.87, 0, 0, 0.87, 229, -786}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 665;
+},
+{
+components = (
+{
+name = G;
+},
+{
+name = quoteright;
+transform = "{0.931, 0, 0, 0.931, 238, -825}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 637;
+}
+);
+unicode = 0122;
+}

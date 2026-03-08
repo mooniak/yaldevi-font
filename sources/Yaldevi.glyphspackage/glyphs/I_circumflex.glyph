@@ -1,0 +1,68 @@
+{
+glyphname = Icircumflex;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"149 1029 LINE",
+"-40 889 LINE",
+"19 815 LINE",
+"155 906 LINE",
+"137 906 LINE",
+"272 813 LINE",
+"336 889 LINE"
+);
+}
+);
+};
+components = (
+{
+name = I;
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"147 1029 LINE",
+"-25 889 LINE",
+"34 815 LINE",
+"152 906 LINE",
+"134 906 LINE",
+"253 813 LINE",
+"316 889 LINE"
+);
+}
+);
+width = 286;
+},
+{
+components = (
+{
+name = I;
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"124 972 LINE",
+"-6 850 LINE",
+"18 821 LINE",
+"125 914 LINE",
+"116 914 LINE",
+"225 819 LINE",
+"250 852 LINE"
+);
+}
+);
+width = 238;
+}
+);
+unicode = 00CE;
+}

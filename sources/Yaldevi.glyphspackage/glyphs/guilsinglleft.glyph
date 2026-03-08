@@ -1,0 +1,104 @@
+{
+glyphname = guilsinglleft;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"305 456 LINE",
+"193 531 LINE",
+"30 302 LINE",
+"190 68 LINE",
+"302 145 LINE",
+"188 303 LINE"
+);
+}
+);
+};
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"304 465 LINE",
+"193 543 LINE",
+"30 302 LINE",
+"190 57 LINE",
+"300 135 LINE",
+"188 303 LINE"
+);
+}
+);
+width = 349;
+},
+{
+associatedMasterId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"216 470 LINE",
+"181 497 LINE",
+"32 298 LINE",
+"178 102 LINE",
+"214 131 LINE",
+"84 299 LINE"
+);
+}
+);
+};
+layerId = "D48579F5-271C-41E3-A6E3-5FC855A2CE23";
+name = "Light Condensed Sep 16 15, 08:24";
+paths = (
+{
+closed = 1;
+nodes = (
+"224 469 LINE",
+"192 497 LINE",
+"20 298 LINE",
+"189 102 LINE",
+"222 132 LINE",
+"75 299 LINE"
+);
+}
+);
+width = 277;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"230 470 LINE",
+"195 497 LINE",
+"46 298 LINE",
+"191 102 LINE",
+"228 131 LINE",
+"98 299 LINE"
+);
+}
+);
+};
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"236 469 LINE",
+"206 497 LINE",
+"34 299 LINE",
+"203 102 LINE",
+"233 132 LINE",
+"86 300 LINE"
+);
+}
+);
+width = 282;
+}
+);
+unicode = 2039;
+}

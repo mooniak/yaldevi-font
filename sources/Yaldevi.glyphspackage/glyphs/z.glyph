@@ -1,0 +1,158 @@
+{
+glyphname = z;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{255, 569}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"197 100 LINE",
+"445 495 LINE",
+"445 569 LINE",
+"39 569 LINE",
+"39 470 LINE",
+"286 470 LINE",
+"32 74 LINE",
+"32 0 LINE",
+"451 0 LINE",
+"451 100 LINE"
+);
+}
+);
+};
+guideLines = (
+{
+angle = 90;
+position = "{391, 389}";
+},
+{
+angle = 90;
+position = "{34, 389}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"203 106 LINE",
+"440 492 LINE",
+"440 569 LINE",
+"41 569 LINE",
+"41 464 LINE",
+"266 464 LINE",
+"34 74 LINE",
+"34 0 LINE",
+"446 0 LINE",
+"446 106 LINE"
+);
+}
+);
+width = 483;
+},
+{
+associatedMasterId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"107 34 LINE",
+"465 569 LINE",
+"73 569 LINE",
+"73 534 LINE",
+"396 534 LINE",
+"38 0 LINE",
+"450 0 LINE",
+"450 34 LINE"
+);
+}
+);
+};
+guideLines = (
+{
+angle = 90;
+position = "{408, 389}";
+},
+{
+angle = 90;
+position = "{51, 389}";
+}
+);
+layerId = "0C0A8F3B-B0EE-4089-B489-85D1E75B0F44";
+name = "Bold fino";
+paths = (
+{
+closed = 1;
+nodes = (
+"216 100 LINE",
+"464 495 LINE",
+"464 569 LINE",
+"58 569 LINE",
+"58 470 LINE",
+"305 470 LINE",
+"51 74 LINE",
+"51 0 LINE",
+"470 0 LINE",
+"470 100 LINE"
+);
+}
+);
+width = 521;
+},
+{
+anchors = (
+{
+name = top;
+position = "{244, 569}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"189 100 LINE",
+"439 495 LINE",
+"439 569 LINE",
+"33 569 LINE",
+"33 470 LINE",
+"277 470 LINE",
+"26 74 LINE",
+"26 0 LINE",
+"445 0 LINE",
+"445 100 LINE"
+);
+}
+);
+};
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"100 40 LINE",
+"413 541 LINE",
+"413 569 LINE",
+"49 569 LINE",
+"49 529 LINE",
+"355 529 LINE",
+"38 28 LINE",
+"38 0 LINE",
+"413 0 LINE",
+"413 40 LINE"
+);
+}
+);
+width = 452;
+}
+);
+unicode = 007A;
+}

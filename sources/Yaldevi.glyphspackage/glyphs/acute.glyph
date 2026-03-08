@@ -1,0 +1,61 @@
+{
+glyphname = acute;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{148, 569}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"325 753 LINE",
+"257 848 LINE",
+"51 696 LINE",
+"106 621 LINE"
+);
+}
+);
+};
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"339 761 LINE",
+"267 868 LINE",
+"50 716 LINE",
+"107 628 LINE"
+);
+}
+);
+width = 366;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{175, 569}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"302 772 LINE",
+"267 813 LINE",
+"113 692 LINE",
+"137 660 LINE"
+);
+}
+);
+width = 382;
+}
+);
+unicode = 00B4;
+}

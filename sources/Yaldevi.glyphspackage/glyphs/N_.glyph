@@ -1,0 +1,191 @@
+{
+glyphname = N;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{348, 0}";
+},
+{
+name = top;
+position = "{343, 751}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"628 0 LINE",
+"628 768 LINE",
+"490 768 LINE",
+"490 273 LINE",
+"501 273 LINE",
+"200 778 LINE",
+"68 768 LINE",
+"68 0 LINE",
+"206 0 LINE",
+"206 501 LINE",
+"192 501 LINE",
+"501 -11 LINE"
+);
+}
+);
+};
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"628 0 LINE",
+"628 768 LINE",
+"490 768 LINE",
+"490 262 LINE",
+"501 262 LINE",
+"198 778 LINE",
+"68 768 LINE",
+"68 0 LINE",
+"206 0 LINE",
+"206 512 LINE",
+"192 512 LINE",
+"503 -11 LINE"
+);
+}
+);
+width = 697;
+},
+{
+associatedMasterId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+background = {
+paths = (
+{
+closed = 0;
+nodes = (
+"121 0 LINE",
+"121 751 LINE",
+"575 46 LINE",
+"575 797 LINE"
+);
+}
+);
+};
+layerId = "C9D196EC-DC25-4435-8FC8-77F56CAC2AEC";
+name = "Light Condensed Sep 10 15, 19:39";
+paths = (
+{
+closed = 1;
+nodes = (
+"566 93 LINE",
+"142 776 LINE",
+"97 768 LINE",
+"97 0 LINE",
+"141 0 LINE",
+"141 686 LINE",
+"568 -8 LINE",
+"610 0 LINE",
+"610 768 LINE",
+"566 768 LINE"
+);
+}
+);
+width = 708;
+},
+{
+associatedMasterId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"567 82 LINE",
+"155 805 LINE",
+"109 797 LINE",
+"109 0 LINE",
+"154 0 LINE",
+"154 726 LINE",
+"569 -8 LINE",
+"611 0 LINE",
+"611 797 LINE",
+"567 797 LINE"
+);
+}
+);
+};
+layerId = "CCA1EF63-5055-4239-BE17-C97C95778841";
+name = "Bold fino";
+paths = (
+{
+closed = 1;
+nodes = (
+"505 285 LINE",
+"203 780 LINE",
+"68 768 LINE",
+"68 0 LINE",
+"203 0 LINE",
+"203 484 LINE",
+"505 -11 LINE",
+"640 0 LINE",
+"640 768 LINE",
+"505 768 LINE"
+);
+}
+);
+width = 709;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{348, 0}";
+},
+{
+name = top;
+position = "{343, 734}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"552 89 LINE",
+"552 100 LINE",
+"146 776 LINE",
+"97 768 LINE",
+"97 0 LINE",
+"143 0 LINE",
+"143 679 LINE",
+"552 -8 LINE",
+"599 0 LINE",
+"599 768 LINE",
+"552 768 LINE"
+);
+}
+);
+};
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"599 0 LINE",
+"599 768 LINE",
+"552 768 LINE",
+"552 89 LINE",
+"556 89 LINE",
+"143 776 LINE",
+"97 768 LINE",
+"97 0 LINE",
+"143 0 LINE",
+"143 694 LINE",
+"137 694 LINE",
+"554 -8 LINE"
+);
+}
+);
+width = 696;
+}
+);
+unicode = 004E;
+}

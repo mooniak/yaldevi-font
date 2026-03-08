@@ -1,0 +1,26 @@
+{
+glyphname = quoteright;
+layers = (
+{
+components = (
+{
+name = comma;
+transform = "{0.952, 0, 0, 0.952, -1, 651}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 255;
+},
+{
+components = (
+{
+name = comma;
+transform = "{1, 0, 0, 1, 9, 743}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 198;
+}
+);
+unicode = 2019;
+}

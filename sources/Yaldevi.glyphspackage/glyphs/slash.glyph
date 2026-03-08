@@ -1,0 +1,101 @@
+{
+glyphname = slash;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"365 884 LINE",
+"17 -79 LINE",
+"140 -122 LINE",
+"486 842 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"365 884 LINE",
+"17 -79 LINE",
+"149 -80 LINE",
+"495 884 LINE"
+);
+}
+);
+};
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"344 825 LINE",
+"17 -80 LINE",
+"151 -80 LINE",
+"476 825 LINE"
+);
+}
+);
+width = 482;
+},
+{
+associatedMasterId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"356 884 LINE",
+"8 -79 LINE",
+"131 -122 LINE",
+"477 842 LINE"
+);
+}
+);
+};
+layerId = "EFD1AEDD-5723-4FBA-8A1B-DB6ACAF641A1";
+name = "Bold Condensed Sep 15 15, 10:51";
+paths = (
+{
+closed = 1;
+nodes = (
+"356 884 LINE",
+"8 -79 LINE",
+"131 -122 LINE",
+"477 842 LINE"
+);
+}
+);
+width = 481;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"344 825 LINE",
+"17 -79 LINE",
+"151 -80 LINE",
+"476 825 LINE"
+);
+}
+);
+};
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"362 825 LINE",
+"34 -79 LINE",
+"79 -80 LINE",
+"404 825 LINE"
+);
+}
+);
+width = 427;
+}
+);
+unicode = 002F;
+}

@@ -1,0 +1,40 @@
+{
+glyphname = grave;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{203, 569}";
+}
+);
+components = (
+{
+alignment = -1;
+name = acute;
+transform = "{-1, 0, 0, 1, 389, 0}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 371;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{220, 569}";
+}
+);
+components = (
+{
+alignment = -1;
+name = acute;
+transform = "{-1, 0, 0, 1, 417, 0}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 393;
+}
+);
+unicode = 0060;
+}

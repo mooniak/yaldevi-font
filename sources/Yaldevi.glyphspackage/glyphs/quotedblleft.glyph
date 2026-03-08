@@ -1,0 +1,44 @@
+{
+glyphname = quotedblleft;
+layers = (
+{
+components = (
+{
+name = comma;
+transform = "{-0.952, 0, 0, -0.952, 262, 669}";
+},
+{
+name = comma;
+transform = "{-0.952, 0, 0, -0.952, 474, 670}";
+}
+);
+guideLines = (
+{
+position = "{221, 434}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 472;
+},
+{
+components = (
+{
+name = comma;
+transform = "{-1, 0, 0, -1, 192, 708}";
+},
+{
+name = comma;
+transform = "{-1, 0, 0, -1, 322, 708}";
+}
+);
+guideLines = (
+{
+position = "{154, 549}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 322;
+}
+);
+unicode = 201C;
+}

@@ -1,0 +1,24 @@
+{
+glyphname = uni2219;
+layers = (
+{
+components = (
+{
+name = bullet;
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 394;
+},
+{
+components = (
+{
+name = bullet;
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 388;
+}
+);
+unicode = 2219;
+}

@@ -1,0 +1,68 @@
+{
+glyphname = one.osf;
+layers = (
+{
+guideLines = (
+{
+position = "{220, 540}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"55 432 LINE",
+"41 469 LINE",
+"210 540 LINE",
+"243 540 LINE",
+"243 0 LINE",
+"201 0 LINE",
+"201 509 LINE",
+"215 500 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"83 33 LINE",
+"326 33 LINE",
+"326 0 LINE",
+"83 0 LINE"
+);
+}
+);
+width = 362;
+},
+{
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"67 367 LINE",
+"27 471 LINE",
+"183 540 LINE",
+"306 540 LINE",
+"306 0 LINE",
+"174 0 LINE",
+"174 479 LINE",
+"210 424 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"73 100 LINE",
+"391 100 LINE",
+"391 0 LINE",
+"73 0 LINE"
+);
+}
+);
+width = 416;
+}
+);
+leftKerningGroup = one;
+rightKerningGroup = one;
+}

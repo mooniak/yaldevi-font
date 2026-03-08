@@ -1,0 +1,37 @@
+{
+glyphname = sinLlVocalic;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = sinLVocalic;
+transform = "{1, 0, 0, 1, 13, 0}";
+},
+{
+alignment = -1;
+name = sinMatraLs;
+transform = "{1, 0, 0, 1, 1053, 0}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 1570;
+},
+{
+components = (
+{
+alignment = -1;
+name = sinLVocalic;
+},
+{
+alignment = -1;
+name = sinMatraLs;
+transform = "{1, 0, 0, 1, 979, 0}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 1392;
+}
+);
+unicode = 0D90;
+}

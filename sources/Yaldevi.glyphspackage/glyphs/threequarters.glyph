@@ -1,0 +1,85 @@
+{
+glyphname = threequarters;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"949 1 LINE",
+"949 464 LINE",
+"791 464 LINE",
+"604 162 LINE",
+"617 80 LINE",
+"1007 80 LINE",
+"1007 182 LINE",
+"686 182 LINE",
+"711 148 LINE",
+"851 394 LINE",
+"823 394 LINE",
+"823 1 LINE"
+);
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = threesuperior;
+transform = "{1, 0, 0, 1, -2, 0}";
+},
+{
+name = fraction;
+transform = "{1, 0, 0, 1, 181, 0}";
+},
+{
+name = foursuperior;
+transform = "{1, 0, 0, 1, 588, -307}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 1024;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"803 0 LINE",
+"803 463 LINE",
+"757 463 LINE",
+"541 146 LINE",
+"545 117 LINE",
+"859 118 LINE",
+"859 155 LINE",
+"575 155 LINE",
+"586 146 LINE",
+"773 420 LINE",
+"760 420 LINE",
+"760 0 LINE"
+);
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = threesuperior;
+},
+{
+name = fraction;
+transform = "{1, 0, 0, 1, 175, 0}";
+},
+{
+name = foursuperior;
+transform = "{1, 0, 0, 1, 503, -307}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 894;
+}
+);
+unicode = 00BE;
+}

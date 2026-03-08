@@ -1,0 +1,66 @@
+{
+glyphname = four.osf;
+layers = (
+{
+guideLines = (
+{
+position = "{300, 540}";
+},
+{
+position = "{212, -135}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"384 -135 LINE",
+"384 540 LINE",
+"347 540 LINE",
+"41 78 LINE",
+"48 47 LINE",
+"487 48 LINE",
+"487 85 LINE",
+"83 84 LINE",
+"90 78 LINE",
+"353 478 LINE",
+"342 478 LINE",
+"342 -135 LINE"
+);
+}
+);
+width = 527;
+},
+{
+guideLines = (
+{
+position = "{188, -135}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"423 -135 LINE",
+"423 540 LINE",
+"300 540 LINE",
+"19 99 LINE",
+"36 5 LINE",
+"500 5 LINE",
+"500 115 LINE",
+"95 115 LINE",
+"115 80 LINE",
+"345 437 LINE",
+"291 437 LINE",
+"291 -135 LINE"
+);
+}
+);
+width = 532;
+}
+);
+leftKerningGroup = four;
+rightKerningGroup = four;
+}

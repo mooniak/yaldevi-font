@@ -1,0 +1,32 @@
+{
+glyphname = scommaaccent;
+layers = (
+{
+components = (
+{
+name = s;
+},
+{
+name = quoteright;
+transform = "{0.87, 0, 0, 0.87, 134, -786}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 461;
+},
+{
+components = (
+{
+name = s;
+},
+{
+name = quoteright;
+transform = "{0.931, 0, 0, 0.931, 159, -825}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 428;
+}
+);
+unicode = 0219;
+}

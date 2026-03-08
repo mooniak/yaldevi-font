@@ -1,0 +1,56 @@
+{
+glyphname = dotlessi;
+layers = (
+{
+anchors = (
+{
+name = ogonek;
+position = "{213, 11}";
+},
+{
+name = top;
+position = "{140, 569}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"213 0 LINE",
+"213 569 LINE",
+"65 569 LINE",
+"65 0 LINE"
+);
+}
+);
+width = 279;
+},
+{
+anchors = (
+{
+name = ogonek;
+position = "{141, 6}";
+},
+{
+name = top;
+position = "{119, 569}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"141 0 LINE",
+"141 569 LINE",
+"97 569 LINE",
+"97 0 LINE"
+);
+}
+);
+width = 239;
+}
+);
+unicode = 0131;
+}

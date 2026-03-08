@@ -1,0 +1,86 @@
+{
+glyphname = onequarter;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"935 1 LINE",
+"935 464 LINE",
+"777 464 LINE",
+"591 162 LINE",
+"603 80 LINE",
+"993 80 LINE",
+"993 182 LINE",
+"673 182 LINE",
+"698 148 LINE",
+"838 394 LINE",
+"809 394 LINE",
+"809 1 LINE"
+);
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = onesuperior;
+transform = "{1, 0, 0, 1, -24, 0}";
+},
+{
+name = fraction;
+transform = "{1, 0, 0, 1, 164, 0}";
+},
+{
+name = foursuperior;
+transform = "{1, 0, 0, 1, 574, -307}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 1011;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"762 0 LINE",
+"762 463 LINE",
+"716 463 LINE",
+"500 146 LINE",
+"504 117 LINE",
+"818 118 LINE",
+"818 155 LINE",
+"534 155 LINE",
+"545 146 LINE",
+"732 420 LINE",
+"719 420 LINE",
+"719 0 LINE"
+);
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = onesuperior;
+transform = "{1, 0, 0, 1, -18, 0}";
+},
+{
+name = fraction;
+transform = "{1, 0, 0, 1, 133, 0}";
+},
+{
+name = foursuperior;
+transform = "{1, 0, 0, 1, 462, -307}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 853;
+}
+);
+unicode = 00BC;
+}

@@ -1,0 +1,24 @@
+{
+glyphname = uni02C9;
+layers = (
+{
+components = (
+{
+name = macron;
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 432;
+},
+{
+components = (
+{
+name = macron;
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 404;
+}
+);
+unicode = 02C9;
+}

@@ -1,0 +1,86 @@
+{
+glyphname = I;
+layers = (
+{
+anchors = (
+{
+name = ogonek;
+position = "{218, 11}";
+},
+{
+name = top;
+position = "{143, 751}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"74 768 LINE",
+"74 0 LINE",
+"213 0 LINE",
+"213 768 LINE"
+);
+}
+);
+};
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"68 768 LINE",
+"68 0 LINE",
+"218 0 LINE",
+"218 768 LINE"
+);
+}
+);
+width = 286;
+},
+{
+associatedMasterId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+layerId = "358DDD16-213F-4983-B280-81B3E2E4386A";
+name = "Bold fino";
+paths = (
+{
+closed = 1;
+nodes = (
+"68 768 LINE",
+"68 0 LINE",
+"207 0 LINE",
+"207 768 LINE"
+);
+}
+);
+width = 276;
+},
+{
+anchors = (
+{
+name = ogonek;
+position = "{150, 6}";
+},
+{
+name = top;
+position = "{126, 734}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"102 768 LINE",
+"102 0 LINE",
+"150 0 LINE",
+"150 768 LINE"
+);
+}
+);
+width = 253;
+}
+);
+unicode = 0049;
+}

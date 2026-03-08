@@ -1,0 +1,36 @@
+{
+glyphname = underscore;
+layers = (
+{
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"-1 -114 LINE",
+"-1 -228 LINE",
+"570 -228 LINE",
+"570 -114 LINE"
+);
+}
+);
+width = 570;
+},
+{
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"-1 -196 LINE",
+"-1 -233 LINE",
+"570 -233 LINE",
+"570 -196 LINE"
+);
+}
+);
+width = 570;
+}
+);
+unicode = 005F;
+}

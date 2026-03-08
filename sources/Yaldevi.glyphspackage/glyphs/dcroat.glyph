@@ -1,0 +1,46 @@
+{
+glyphname = dcroat;
+layers = (
+{
+components = (
+{
+name = d;
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"229 743 LINE",
+"229 646 LINE",
+"584 646 LINE",
+"584 743 LINE"
+);
+}
+);
+width = 574;
+},
+{
+components = (
+{
+name = d;
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"216 703 LINE",
+"216 663 LINE",
+"529 663 LINE",
+"529 703 LINE"
+);
+}
+);
+width = 543;
+}
+);
+unicode = 0111;
+}

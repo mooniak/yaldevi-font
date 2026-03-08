@@ -1,0 +1,164 @@
+{
+glyphname = AE;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{521, 745}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"901 0 LINE",
+"901 152 LINE",
+"643 152 LINE",
+"643 322 LINE",
+"885 322 LINE",
+"885 467 LINE",
+"643 467 LINE",
+"643 619 LINE",
+"894 619 LINE",
+"894 768 LINE",
+"380 768 LINE",
+"18 0 LINE",
+"198 0 LINE",
+"269 159 LINE",
+"473 159 LINE",
+"473 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"473 297 LINE",
+"327 297 LINE",
+"403 456 LINE SMOOTH",
+"430 512 OFFCURVE",
+"450 562 OFFCURVE",
+"471 619 CURVE",
+"473 619 LINE"
+);
+}
+);
+};
+components = (
+{
+name = E;
+transform = "{1, 0, 0, 1, 416, 0}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"152 0 LINE",
+"415 528 LINE SMOOTH",
+"445 586 OFFCURVE",
+"470 643 OFFCURVE",
+"495 700 CURVE",
+"485 700 LINE",
+"574 768 LINE",
+"394 768 LINE",
+"-3 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"530 166 LINE",
+"530 280 LINE",
+"204 280 LINE",
+"204 166 LINE"
+);
+}
+);
+width = 946;
+},
+{
+anchors = (
+{
+name = top;
+position = "{533, 723}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"864 0 LINE",
+"864 50 LINE",
+"546 50 LINE",
+"546 372 LINE",
+"839 372 LINE",
+"839 421 LINE",
+"546 421 LINE",
+"546 719 LINE",
+"850 719 LINE",
+"850 768 LINE",
+"455 768 LINE",
+"20 0 LINE",
+"88 0 LINE",
+"199 201 LINE",
+"485 201 LINE",
+"485 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"485 251 LINE",
+"226 251 LINE",
+"402 566 LINE SMOOTH",
+"445 643 OFFCURVE",
+"464 682 OFFCURVE",
+"481 716 CURVE",
+"485 716 LINE"
+);
+}
+);
+};
+components = (
+{
+name = E;
+transform = "{1, 0, 0, 1, 395, 0}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"67 0 LINE",
+"380 538 LINE SMOOTH",
+"419 605 OFFCURVE",
+"456 671 OFFCURVE",
+"495 739 CURVE",
+"492 739 LINE",
+"531 768 LINE",
+"461 768 LINE",
+"11 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"519 206 LINE",
+"519 246 LINE",
+"184 245 LINE",
+"163 205 LINE"
+);
+}
+);
+width = 921;
+}
+);
+leftMetricsKey = A;
+rightMetricsKey = E;
+unicode = 00C6;
+}

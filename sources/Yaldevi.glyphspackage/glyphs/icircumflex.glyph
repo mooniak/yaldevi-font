@@ -1,0 +1,60 @@
+{
+glyphname = icircumflex;
+layers = (
+{
+components = (
+{
+name = dotlessi;
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"143 847 LINE",
+"-26 707 LINE",
+"35 633 LINE",
+"149 724 LINE",
+"131 724 LINE",
+"245 630 LINE",
+"311 707 LINE"
+);
+}
+);
+width = 279;
+},
+{
+background = {
+components = (
+{
+name = circumflex;
+transform = "{1, 0, 0, 1, -114, 0}";
+}
+);
+};
+components = (
+{
+name = dotlessi;
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"125 807 LINE",
+"-7 681 LINE",
+"20 655 LINE",
+"126 749 LINE",
+"117 749 LINE",
+"223 654 LINE",
+"250 684 LINE"
+);
+}
+);
+width = 239;
+}
+);
+unicode = 00EE;
+}

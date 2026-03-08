@@ -1,0 +1,252 @@
+{
+glyphname = T;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{241, 0}";
+},
+{
+name = center;
+position = "{241, 385}";
+},
+{
+name = top;
+position = "{241, 751}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"163 768 LINE",
+"163 0 LINE",
+"313 0 LINE",
+"313 768 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"6 643 LINE",
+"476 643 LINE",
+"476 768 LINE",
+"6 768 LINE"
+);
+}
+);
+};
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"6 768 LINE",
+"6 643 LINE",
+"185 643 LINE",
+"163 666 LINE",
+"163 0 LINE",
+"313 0 LINE",
+"313 666 LINE",
+"290 643 LINE",
+"476 643 LINE",
+"476 768 LINE"
+);
+}
+);
+width = 482;
+},
+{
+associatedMasterId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"-10 768 LINE",
+"-10 0 LINE",
+"34 0 LINE",
+"34 768 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"497 0 LINE",
+"497 768 LINE",
+"453 768 LINE",
+"453 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"13 382 LINE",
+"475 382 LINE",
+"475 422 LINE",
+"13 422 LINE"
+);
+}
+);
+};
+layerId = "BA238F71-CFCB-4386-B2FF-BC55CC59251F";
+name = "Light Condensed Sep 10 15, 19:50";
+paths = (
+{
+closed = 1;
+nodes = (
+"220 768 LINE",
+"220 0 LINE",
+"264 0 LINE",
+"264 768 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"6 729 LINE",
+"479 729 LINE",
+"479 769 LINE",
+"6 769 LINE"
+);
+}
+);
+width = 485;
+},
+{
+associatedMasterId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"226 768 LINE",
+"226 0 LINE",
+"271 0 LINE",
+"271 768 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"35 729 LINE",
+"463 729 LINE",
+"463 769 LINE",
+"35 769 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-35 768 LINE",
+"-35 0 LINE",
+"104 0 LINE",
+"104 768 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"530 0 LINE",
+"530 768 LINE",
+"391 768 LINE",
+"391 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"32 343 LINE",
+"460 343 LINE",
+"460 462 LINE",
+"32 462 LINE"
+);
+}
+);
+};
+layerId = "C1B7FFD2-B27F-4859-B47D-F7C1095DFB88";
+name = "Bold Condensed Sep 10 15, 19:50";
+paths = (
+{
+closed = 1;
+nodes = (
+"180 768 LINE",
+"180 0 LINE",
+"319 0 LINE",
+"319 768 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"6 649 LINE",
+"493 649 LINE",
+"493 768 LINE",
+"6 768 LINE"
+);
+}
+);
+width = 499;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{232, 0}";
+},
+{
+name = center;
+position = "{232, 385}";
+},
+{
+name = top;
+position = "{232, 734}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"209 768 LINE",
+"209 0 LINE",
+"254 0 LINE",
+"254 768 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"6 729 LINE",
+"459 729 LINE",
+"459 769 LINE",
+"6 769 LINE"
+);
+}
+);
+};
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"10 769 LINE",
+"10 727 LINE",
+"221 727 LINE",
+"207 741 LINE",
+"207 0 LINE",
+"255 0 LINE",
+"255 741 LINE",
+"242 727 LINE",
+"452 727 LINE",
+"452 769 LINE"
+);
+}
+);
+width = 464;
+}
+);
+unicode = 0054;
+}

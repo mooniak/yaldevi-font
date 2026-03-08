@@ -1,0 +1,31 @@
+{
+glyphname = guilsinglright;
+layers = (
+{
+components = (
+{
+name = guilsinglleft;
+transform = "{-1, 0, 0, -1, 349, 597}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 349;
+},
+{
+components = (
+{
+name = guilsinglleft;
+transform = "{-1, 0, 0, -1, 282, 599}";
+}
+);
+guideLines = (
+{
+position = "{96, 90}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 282;
+}
+);
+unicode = 203A;
+}
