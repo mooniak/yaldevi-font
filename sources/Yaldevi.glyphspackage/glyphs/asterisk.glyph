@@ -607,6 +607,67 @@ nodes = (
 }
 );
 width = 424;
+},
+{
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"225 684 LINE",
+"248 766 LINE SMOOTH",
+"265 828 OFFCURVE",
+"212 855 OFFCURVE",
+"148 817 CURVE",
+"183 684 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"178 679 LINE",
+"107 727 LINE SMOOTH",
+"53 765 OFFCURVE",
+"11 720 OFFCURVE",
+"27 649 CURVE",
+"165 642 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"167 634 LINE",
+"99 582 LINE SMOOTH",
+"48 542 OFFCURVE",
+"76 488 OFFCURVE",
+"150 481 CURVE",
+"199 610 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"207 609 LINE",
+"237 528 LINE SMOOTH",
+"257 467 OFFCURVE",
+"318 478 OFFCURVE",
+"347 545 CURVE",
+"239 632 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"241 640 LINE",
+"328 642 LINE SMOOTH",
+"393 643 OFFCURVE",
+"401 703 OFFCURVE",
+"346 752 CURVE",
+"230 677 LINE"
+);
+}
+);
+width = 409;
 }
 );
 unicode = 002A;

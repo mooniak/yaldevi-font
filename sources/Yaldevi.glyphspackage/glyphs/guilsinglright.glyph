@@ -25,6 +25,16 @@ position = "{96, 90}";
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
 width = 282;
+},
+{
+components = (
+{
+name = guilsinglleft;
+transform = "{-1, 0, 0, -1, 349, 597}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+width = 349;
 }
 );
 unicode = 203A;

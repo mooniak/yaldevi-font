@@ -58,6 +58,27 @@ nodes = (
 }
 );
 width = 404;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{216, 569}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"57 790 LINE",
+"57 676 LINE",
+"376 676 LINE",
+"376 790 LINE"
+);
+}
+);
+width = 432;
 }
 );
 unicode = 00AF;

@@ -80,6 +80,31 @@ nodes = (
 }
 );
 width = 253;
+},
+{
+anchors = (
+{
+name = ogonek;
+position = "{218, 11}";
+},
+{
+name = top;
+position = "{143, 751}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"68 768 LINE",
+"68 0 LINE",
+"218 0 LINE",
+"218 768 LINE"
+);
+}
+);
+width = 286;
 }
 );
 unicode = 0049;

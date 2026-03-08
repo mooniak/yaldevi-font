@@ -1008,6 +1008,78 @@ verticalStems = (
 );
 weight = Bold;
 xHeight = 570;
+},
+{
+alignmentZones = (
+"{826, 18}",
+"{769, 18}",
+"{570, 18}",
+"{0, -18}",
+"{-228, -18}"
+);
+ascender = 826;
+capHeight = 769;
+customParameters = (
+{
+name = typoAscender;
+value = 1060;
+},
+{
+name = typoDescender;
+value = -256;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = underlinePosition;
+value = -116;
+},
+{
+name = winAscent;
+value = 1110;
+},
+{
+name = winDescent;
+value = 450;
+},
+{
+name = hheaAscender;
+value = 1060;
+},
+{
+name = hheaDescender;
+value = -256;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
+descender = -228;
+horizontalStems = (
+107,
+114,
+119,
+125,
+131
+);
+iconName = Bold_Condensed;
+id = "700B375B-E5F6-4156-8225-245C9DB4E923";
+userData = {
+angle = 5;
+height = 105;
+width = 132;
+};
+verticalStems = (
+148,
+150,
+152,
+160
+);
+weight = Bold;
+xHeight = 570;
 }
 );
 instances = (
@@ -1020,6 +1092,7 @@ name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
+exports = 0;
 interpolationWeight = 13;
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 0.13;
@@ -1029,6 +1102,7 @@ name = Light;
 weightClass = Light;
 },
 {
+exports = 0;
 interpolationWeight = 28;
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 0.28;
@@ -1037,6 +1111,7 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+exports = 0;
 interpolationWeight = 47;
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 0.47;
@@ -1046,6 +1121,7 @@ name = Medium;
 weightClass = Medium;
 },
 {
+exports = 0;
 interpolationWeight = 71;
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 0.71;
@@ -1055,6 +1131,7 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
+exports = 0;
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 1;
 };
@@ -1765,6 +1842,787 @@ u = -7.96603;
 };
 };
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = {
+A = {
+A = 15;
+Abreve = 15;
+C = -15;
+J = 22;
+O = -15;
+Q = -10;
+S = -10;
+T = -30;
+U = -5;
+V = -35;
+W = -40;
+Y = -50;
+};
+B = {
+A = -20;
+J = -15;
+S = -10;
+T = -30;
+V = -20;
+W = -35;
+X = -35;
+Y = -35;
+Z = -10;
+comma = -20;
+period = -20;
+};
+C = {
+A = -10;
+C = -20;
+G = -20;
+K = -20;
+L = -20;
+O = -20;
+Q = -25;
+R = -25;
+S = -15;
+T = -20;
+U = -10;
+V = -15;
+W = -30;
+X = -35;
+Y = -20;
+Z = -20;
+e = -15;
+g = -10;
+o = -15;
+s = -5;
+t = -8;
+x = -10;
+};
+D = {
+A = -20;
+J = -25;
+M = -10;
+T = -35;
+V = -20;
+W = -20;
+X = -35;
+Y = -40;
+Z = -15;
+comma = -20;
+period = -20;
+};
+E = {
+A = -10;
+T = -20;
+V = -10;
+W = -10;
+X = -25;
+Y = -25;
+Z = -20;
+g = -10;
+};
+Euro = {
+four.osf = -20;
+};
+F = {
+A = -55;
+C = -15;
+G = -25;
+H = -20;
+J = -40;
+K = -20;
+M = -30;
+Q = -10;
+R = -20;
+S = -30;
+U = -10;
+V = -15;
+W = -30;
+X = -20;
+Y = -15;
+Z = -20;
+colon = -20;
+comma = -60;
+o = -8;
+period = -60;
+q = -8;
+r = -12;
+slash = -20;
+u = -8;
+v = -15;
+w = -8;
+x = -19;
+y = -14;
+z = -14;
+};
+G = {
+S = -10;
+T = -15;
+V = -15;
+W = -30;
+X = -20;
+Y = -35;
+};
+H = {
+I = 20;
+N = 5;
+T = -10;
+U = 10;
+Y = -20;
+};
+I = {
+E = 20;
+F = 10;
+H = 20;
+I = 20;
+J = -10;
+L = 20;
+N = 20;
+R = 10;
+T = -10;
+U = 20;
+Y = -20;
+Z = -5;
+};
+J = {
+E = 24;
+F = 10;
+I = 15;
+O = 10;
+R = 10;
+U = 15;
+W = -10;
+Y = -20;
+};
+K = {
+A = 5;
+C = -25;
+G = -25;
+I = -10;
+J = 15;
+O = -25;
+Q = -25;
+S = -20;
+T = -10;
+U = -10;
+V = -10;
+W = -20;
+Y = -15;
+Z = -10;
+g = -10;
+o = -10;
+};
+L = {
+C = -30;
+G = -30;
+I = -20;
+J = 10;
+K = -30;
+M = -10;
+O = -40;
+Q = -30;
+R = -15;
+S = -30;
+T = -80;
+U = -20;
+V = -70;
+W = -60;
+Y = -60;
+Z = -10;
+bracketright = -20;
+parenright = -20;
+slash = -20;
+v = -15;
+w = -15;
+};
+M = {
+T = -35;
+U = 5;
+V = -22;
+W = -15;
+X = -25;
+Y = -50;
+Z = -25;
+h = 10;
+i = 10;
+j = 10;
+k = 8;
+l = 8;
+};
+N = {
+E = 10;
+F = 10;
+H = 5;
+I = 20;
+J = -15;
+T = -5;
+U = 7;
+Y = -15;
+};
+O = {
+A = -15;
+H = 10;
+J = -20;
+T = -18;
+V = -15;
+W = -15;
+X = -30;
+Y = -40;
+Z = -20;
+comma = -20;
+period = -40;
+};
+P = {
+A = -45;
+C = -18;
+D = -10;
+G = -20;
+H = -20;
+J = -45;
+L = -15;
+M = -15;
+O = -15;
+Q = -20;
+R = -20;
+S = -20;
+T = -25;
+V = -30;
+W = -32;
+X = -50;
+Y = -45;
+Z = -25;
+a = -10;
+bracketright = -15;
+c = -10;
+colon = -20;
+comma = -90;
+d = -10;
+e = -10;
+g = -20;
+j = -15;
+o = -10;
+period = -90;
+q = -10;
+s = -10;
+u = -10;
+x = -15;
+z = -10;
+};
+Q = {
+A = -10;
+T = -10;
+U = 5;
+V = -15;
+W = -5;
+X = -15;
+Y = -30;
+};
+R = {
+A = -10;
+G = -15;
+L = 5;
+M = -10;
+O = -15;
+Q = -15;
+S = -20;
+T = -30;
+V = -20;
+W = -20;
+X = -18;
+Y = -35;
+Z = -10;
+};
+S = {
+A = -10;
+J = -15;
+T = -20;
+V = -20;
+W = -20;
+X = -30;
+Y = -35;
+Z = -20;
+x = -5;
+};
+T = {
+A = -55;
+B = -10;
+C = -25;
+D = -10;
+G = -25;
+H = -10;
+I = -10;
+J = -35;
+K = -10;
+M = -35;
+O = -25;
+Q = -25;
+R = -15;
+S = -20;
+T = 15;
+U = -7;
+V = 5;
+W = -10;
+X = -10;
+Y = 4;
+Z = -10;
+a = -20;
+bracketright = 10;
+c = -20;
+colon = -50;
+comma = -40;
+d = -20;
+e = -20;
+g = -25;
+j = -20;
+m = -15;
+n = -15;
+o = -20;
+period = -40;
+q = -20;
+question = 20;
+r = -15;
+s = -25;
+t = -10;
+u = -10;
+v = -15;
+w = -15;
+x = -35;
+y = -20;
+z = -10;
+};
+U = {
+A = -10;
+B = 10;
+D = 10;
+E = 10;
+F = 10;
+H = 10;
+I = 20;
+K = 15;
+L = 10;
+M = 5;
+R = 10;
+T = -7;
+V = -10;
+W = -10;
+X = -20;
+Y = -20;
+Z = -20;
+a = 8;
+b = 10;
+v = -10;
+x = -10;
+y = -10;
+};
+V = {
+A = -35;
+C = -5;
+G = -15;
+J = -35;
+K = -15;
+M = -22;
+O = -15;
+Q = -15;
+R = -10;
+S = -30;
+T = 5;
+U = -10;
+Z = -20;
+a = -20;
+c = -20;
+colon = -50;
+comma = -70;
+d = -20;
+e = -15;
+g = -20;
+j = -8;
+n = -10;
+o = -10;
+p = -10;
+period = -70;
+q = -10;
+s = -10;
+u = -10;
+v = -10;
+w = -10;
+x = -20;
+y = -20;
+z = -20;
+};
+W = {
+"@MMK_R_o" = -20;
+A = -40;
+C = -20;
+G = -20;
+J = -40;
+K = -15;
+M = -15;
+O = -20;
+Q = -20;
+R = -10;
+S = -28;
+T = -12;
+U = -10;
+W = -20;
+X = -20;
+Y = -10;
+Z = -20;
+a = -20;
+colon = -40;
+comma = -70;
+d = -20;
+e = -10;
+g = -20;
+period = -70;
+};
+X = {
+A = 10;
+C = -10;
+G = -10;
+J = 20;
+O = -10;
+S = -20;
+T = -5;
+U = -10;
+Z = -5;
+};
+Y = {
+A = -50;
+B = -20;
+C = -35;
+D = -15;
+E = -20;
+G = -35;
+H = -20;
+I = -15;
+J = -55;
+K = -20;
+M = -50;
+N = -10;
+O = -35;
+P = -10;
+Q = -35;
+R = -25;
+S = -35;
+T = 4;
+U = -20;
+Z = -20;
+colon = -55;
+comma = -90;
+period = -90;
+};
+Z = {
+C = -20;
+K = -10;
+M = -25;
+O = -20;
+S = -10;
+T = 5;
+U = -10;
+X = -5;
+o = -10;
+s = -8;
+v = -7;
+w = -8;
+x = -10;
+};
+a = {
+r = 8;
+v = -10;
+y = -10;
+z = -10;
+};
+aogonek = {
+j = 65;
+};
+b = {
+comma = -15;
+period = -20;
+};
+braceleft = {
+j = 60;
+y = 25;
+};
+bracketleft = {
+d = -15;
+j = 50;
+y = 20;
+};
+c = {
+j = -5;
+v = -5;
+w = -5;
+x = -20;
+y = -14;
+};
+comma = {
+four.osf = 10;
+};
+d = {
+h = 10;
+j = 7;
+v = -10;
+};
+dcaron = {
+comma = -20;
+o = -20;
+period = -20;
+question = 35;
+semicolon = -15;
+};
+dollar = {
+four.osf = -20;
+seven.osf = -15;
+};
+eight.osf = {
+cent = 10;
+endash = 20;
+};
+endash = {
+eight.osf = 20;
+five.osf = 20;
+nine.osf = 20;
+six.osf = 15;
+zero.osf = 20;
+};
+exclamdown = {
+j = 40;
+};
+f = {
+a = -25;
+braceright = 25;
+bracketright = 30;
+c = -5;
+colon = -20;
+comma = -40;
+d = -10;
+e = -20;
+g = -18;
+o = -5;
+parenright = 20;
+period = -45;
+q = -5;
+quoteright = 20;
+quotesingle = 40;
+s = -11;
+semicolon = -20;
+u = -10;
+x = -26;
+y = -10;
+z = -7;
+};
+five.osf = {
+comma = 15;
+endash = 10;
+};
+four.osf = {
+comma = 10;
+endash = 10;
+ordfeminine = -15;
+};
+g = {
+u = -8;
+x = -5;
+};
+h = {
+v = -14;
+};
+hyphen = {
+seven.osf = -20;
+};
+j = {
+braceright = 20;
+};
+k = {
+a = -8;
+c = -9;
+e = -9;
+f = -8;
+g = -10;
+o = -10;
+q = -9;
+s = -8;
+v = -7;
+};
+l = {
+bracketright = 10;
+};
+lcaron = {
+a = -20;
+ccaron = -15;
+g = -30;
+m = -10;
+n = -10;
+ncaron = -10;
+o = -20;
+s = -20;
+scaron = -10;
+u = -15;
+uacute = -15;
+};
+nine.osf = {
+cent = 10;
+endash = 20;
+};
+o = {
+comma = -15;
+period = -10;
+};
+one.osf = {
+comma = 10;
+ordfeminine = -15;
+ordmasculine = -15;
+};
+p = {
+comma = -15;
+period = -10;
+};
+parenleft = {
+j = 45;
+y = 25;
+};
+period = {
+Y = -20;
+};
+q = {
+j = 18;
+};
+questiondown = {
+j = 45;
+y = 15;
+};
+quotedblright = {
+space = -70;
+};
+quoteright = {
+A = -70;
+C = -20;
+M = -20;
+O = -15;
+Q = -20;
+c = -40;
+d = -70;
+e = -40;
+g = -70;
+o = -40;
+q = -40;
+space = -70;
+};
+r = {
+a = -13;
+bracketright = -10;
+c = -10;
+colon = -20;
+comma = -40;
+e = -10;
+g = -12;
+o = -10;
+period = -45;
+q = -10;
+semicolon = -20;
+x = -9;
+y = 9;
+};
+seven.osf = {
+comma = -40;
+endash = 10;
+five.osf = -10;
+four.osf = -10;
+ordfeminine = 30;
+period = -35;
+};
+six.osf = {
+cent = 10;
+endash = 15;
+four.osf = -20;
+period = -15;
+seven.osf = -15;
+};
+slash = {
+a = -45;
+b = -20;
+c = -30;
+colon = -35;
+d = -35;
+e = -35;
+g = -40;
+h = -10;
+o = -40;
+q = -40;
+s = -10;
+slash = -40;
+u = -30;
+v = -40;
+w = -40;
+y = -40;
+z = -30;
+};
+space = {
+W = -15;
+};
+tcaron = {
+exclam = 20;
+parenright = 30;
+question = 25;
+quotedbl = 25;
+};
+three.osf = {
+endash = 10;
+period = -15;
+};
+u = {
+bracketright = 10;
+v = 3;
+z = 7;
+};
+v = {
+a = -15;
+colon = -10;
+comma = -40;
+d = -18;
+e = -10;
+g = -15;
+period = -45;
+semicolon = -10;
+u = -10;
+x = -8;
+};
+w = {
+a = -10;
+c = -10;
+colon = -10;
+comma = -40;
+d = -15;
+e = -10;
+g = -12;
+o = -8;
+period = -45;
+semicolon = -10;
+u = -10;
+x = -10;
+};
+y = {
+a = -20;
+bracketright = 10;
+c = -5;
+colon = -10;
+comma = -40;
+d = -10;
+e = -15;
+g = -15;
+o = -5;
+period = -55;
+q = -7;
+semicolon = -10;
+z = -10;
+};
+z = {
+a = -15;
+u = -7;
+v = -10;
+};
+zero.osf = {
+cent = 10;
+endash = 20;
+period = -15;
+};
+};
+"700B375B-E5F6-4156-8225-245C9DB4E923" = {
 A = {
 A = 15;
 Abreve = 15;

@@ -156,6 +156,47 @@ nodes = (
 }
 );
 width = 921;
+},
+{
+anchors = (
+{
+name = top;
+position = "{521, 745}";
+}
+);
+components = (
+{
+name = E;
+transform = "{1, 0, 0, 1, 416, 0}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"152 0 LINE",
+"415 528 LINE SMOOTH",
+"445 586 OFFCURVE",
+"470 643 OFFCURVE",
+"495 700 CURVE",
+"485 700 LINE",
+"574 768 LINE",
+"394 768 LINE",
+"-3 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"530 166 LINE",
+"530 280 LINE",
+"204 280 LINE",
+"204 166 LINE"
+);
+}
+);
+width = 946;
 }
 );
 leftMetricsKey = A;

@@ -176,6 +176,38 @@ nodes = (
 }
 );
 width = 239;
+},
+{
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"213 0 LINE",
+"213 569 LINE",
+"65 569 LINE",
+"65 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"187 635 OFFCURVE",
+"232 669 OFFCURVE",
+"232 735 CURVE SMOOTH",
+"232 800 OFFCURVE",
+"188 832 OFFCURVE",
+"140 832 CURVE SMOOTH",
+"92 832 OFFCURVE",
+"48 800 OFFCURVE",
+"48 735 CURVE SMOOTH",
+"48 668 OFFCURVE",
+"91 635 OFFCURVE",
+"139 635 CURVE SMOOTH"
+);
+}
+);
+width = 279;
 }
 );
 unicode = 0069;

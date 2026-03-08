@@ -56,6 +56,29 @@ nodes = (
 }
 );
 width = 457;
+},
+{
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"266 52 OFFCURVE",
+"340 249 OFFCURVE",
+"432 455 CURVE",
+"432 541 LINE",
+"20 541 LINE",
+"20 416 LINE",
+"303 416 LINE",
+"301 466 LINE",
+"208 255 OFFCURVE",
+"129 55 OFFCURVE",
+"81 -136 CURVE",
+"219 -134 LINE"
+);
+}
+);
+width = 457;
 }
 );
 leftKerningGroup = seven;

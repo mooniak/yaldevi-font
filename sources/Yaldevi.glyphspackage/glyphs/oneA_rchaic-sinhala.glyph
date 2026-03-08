@@ -41,6 +41,27 @@ nodes = (
 }
 );
 width = 830;
+},
+{
+components = (
+{
+name = sinOnelith;
+transform = "{1, 0, 0, 1, -2, 0}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"753 475 LINE",
+"753 -10 LINE",
+"719 -10 LINE",
+"719 475 LINE"
+);
+}
+);
+width = 830;
 }
 );
 unicode = 111E1;

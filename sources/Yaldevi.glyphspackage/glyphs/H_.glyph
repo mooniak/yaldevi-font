@@ -180,6 +180,33 @@ nodes = (
 }
 );
 width = 685;
+},
+{
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"470 436 LINE",
+"493 459 LINE",
+"196 459 LINE",
+"218 436 LINE",
+"218 768 LINE",
+"68 768 LINE",
+"68 0 LINE",
+"218 0 LINE",
+"218 356 LINE",
+"196 333 LINE",
+"493 333 LINE",
+"470 356 LINE",
+"470 0 LINE",
+"620 0 LINE",
+"620 768 LINE",
+"470 768 LINE"
+);
+}
+);
+width = 689;
 }
 );
 unicode = 0048;

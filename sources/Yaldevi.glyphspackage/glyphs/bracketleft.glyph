@@ -55,6 +55,25 @@ nodes = (
 }
 );
 width = 302;
+},
+{
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"345 -212 LINE",
+"345 -75 LINE",
+"223 -75 LINE",
+"223 743 LINE",
+"345 743 LINE",
+"345 880 LINE",
+"85 880 LINE",
+"85 -212 LINE"
+);
+}
+);
+width = 374;
 }
 );
 unicode = 005B;

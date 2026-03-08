@@ -114,6 +114,36 @@ nodes = (
 }
 );
 width = 516;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{247, 569}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"322 773 LINE",
+"247 864 LINE",
+"56 701 LINE",
+"116 628 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"566 773 LINE",
+"490 864 LINE",
+"299 701 LINE",
+"360 628 LINE"
+);
+}
+);
+width = 604;
 }
 );
 unicode = 02DD;

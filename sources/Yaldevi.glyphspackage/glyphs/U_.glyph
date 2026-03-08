@@ -312,6 +312,45 @@ nodes = (
 }
 );
 width = 686;
+},
+{
+anchors = (
+{
+name = ogonek;
+position = "{430, 11}";
+},
+{
+name = top;
+position = "{331, 751}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"489 -17 OFFCURVE",
+"610 76 OFFCURVE",
+"610 294 CURVE SMOOTH",
+"610 768 LINE",
+"460 768 LINE",
+"460 302 LINE SMOOTH",
+"460 163 OFFCURVE",
+"411 114 OFFCURVE",
+"329 114 CURVE SMOOTH",
+"249 114 OFFCURVE",
+"201 157 OFFCURVE",
+"201 287 CURVE SMOOTH",
+"201 768 LINE",
+"51 768 LINE",
+"51 292 LINE SMOOTH",
+"51 77 OFFCURVE",
+"154 -17 OFFCURVE",
+"324 -17 CURVE SMOOTH"
+);
+}
+);
+width = 661;
 }
 );
 unicode = 0055;

@@ -180,6 +180,55 @@ nodes = (
 }
 );
 width = 882;
+},
+{
+anchors = (
+{
+name = top;
+position = "{455, 745}";
+}
+);
+components = (
+{
+name = E;
+transform = "{1, 0, 0, 1, 387, 0}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"171 -11 OFFCURVE",
+"378 -11 CURVE SMOOTH",
+"436 -11 OFFCURVE",
+"500 0 OFFCURVE",
+"552 0 CURVE",
+"475 133 LINE",
+"438 123 OFFCURVE",
+"405 119 OFFCURVE",
+"377 119 CURVE SMOOTH",
+"250 119 OFFCURVE",
+"196 212 OFFCURVE",
+"196 382 CURVE SMOOTH",
+"196 555 OFFCURVE",
+"250 649 OFFCURVE",
+"377 649 CURVE SMOOTH",
+"412 649 OFFCURVE",
+"448 642 OFFCURVE",
+"492 626 CURVE",
+"531 768 LINE",
+"495 768 OFFCURVE",
+"434 780 OFFCURVE",
+"382 780 CURVE SMOOTH",
+"164 780 OFFCURVE",
+"36 651 OFFCURVE",
+"36 381 CURVE SMOOTH",
+"36 101 OFFCURVE"
+);
+}
+);
+width = 917;
 }
 );
 leftMetricsKey = O;

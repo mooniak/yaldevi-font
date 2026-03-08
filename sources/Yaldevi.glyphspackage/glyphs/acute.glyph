@@ -55,6 +55,27 @@ nodes = (
 }
 );
 width = 382;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{148, 569}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"339 761 LINE",
+"267 868 LINE",
+"50 716 LINE",
+"107 628 LINE"
+);
+}
+);
+width = 366;
 }
 );
 unicode = 00B4;

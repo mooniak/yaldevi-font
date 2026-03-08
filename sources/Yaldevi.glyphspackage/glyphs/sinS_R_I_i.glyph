@@ -76,6 +76,44 @@ nodes = (
 }
 );
 width = 680;
+},
+{
+components = (
+{
+name = sinSIi;
+transform = "{1, 0, 0, 1, 6, 0}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"188 -323 OFFCURVE",
+"345 -323 CURVE SMOOTH",
+"502 -323 OFFCURVE",
+"640 -255 OFFCURVE",
+"640 -90 CURVE SMOOTH",
+"640 -18 OFFCURVE",
+"613 63 OFFCURVE",
+"541 90 CURVE",
+"424 82 LINE",
+"449 26 LINE",
+"512 -8 OFFCURVE",
+"515 -42 OFFCURVE",
+"515 -79 CURVE SMOOTH",
+"515 -160 OFFCURVE",
+"449 -203 OFFCURVE",
+"345 -203 CURVE SMOOTH",
+"240 -203 OFFCURVE",
+"174 -158 OFFCURVE",
+"174 -90 CURVE",
+"49 -90 LINE",
+"49 -255 OFFCURVE"
+);
+}
+);
+width = 681;
 }
 );
 }

@@ -90,6 +90,51 @@ nodes = (
 }
 );
 width = 239;
+},
+{
+components = (
+{
+name = dotlessi;
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"74 650 OFFCURVE",
+"114 677 OFFCURVE",
+"114 735 CURVE SMOOTH",
+"114 791 OFFCURVE",
+"75 817 OFFCURVE",
+"38 817 CURVE SMOOTH",
+"-1 817 OFFCURVE",
+"-40 791 OFFCURVE",
+"-40 735 CURVE SMOOTH",
+"-40 677 OFFCURVE",
+"-2 650 OFFCURVE",
+"36 650 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"279 650 OFFCURVE",
+"319 677 OFFCURVE",
+"319 735 CURVE SMOOTH",
+"319 791 OFFCURVE",
+"280 817 OFFCURVE",
+"241 817 CURVE SMOOTH",
+"204 817 OFFCURVE",
+"165 791 OFFCURVE",
+"165 735 CURVE SMOOTH",
+"165 677 OFFCURVE",
+"203 650 OFFCURVE",
+"240 650 CURVE SMOOTH"
+);
+}
+);
+width = 279;
 }
 );
 unicode = 00EF;

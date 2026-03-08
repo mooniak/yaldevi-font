@@ -246,6 +246,41 @@ nodes = (
 }
 );
 width = 464;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{241, 0}";
+},
+{
+name = center;
+position = "{241, 385}";
+},
+{
+name = top;
+position = "{241, 751}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"6 768 LINE",
+"6 643 LINE",
+"185 643 LINE",
+"163 666 LINE",
+"163 0 LINE",
+"313 0 LINE",
+"313 666 LINE",
+"290 643 LINE",
+"476 643 LINE",
+"476 768 LINE"
+);
+}
+);
+width = 482;
 }
 );
 unicode = 0054;

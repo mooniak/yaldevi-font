@@ -20,6 +20,16 @@ transform = "{-1, 0, 0, -1, 274, 572}";
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
 width = 274;
+},
+{
+components = (
+{
+name = exclam;
+transform = "{-1, 0, 0, -1, 285, 570}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+width = 285;
 }
 );
 unicode = 00A1;

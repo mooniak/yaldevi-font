@@ -197,6 +197,50 @@ nodes = (
 }
 );
 width = 584;
+},
+{
+anchors = (
+{
+name = ogonek;
+position = "{637, 11}";
+},
+{
+name = top;
+position = "{327, 751}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"147 0 LINE",
+"266 423 LINE SMOOTH",
+"283 484 OFFCURVE",
+"320 641 OFFCURVE",
+"336 702 CURVE",
+"300 702 LINE",
+"316 642 OFFCURVE",
+"349 489 OFFCURVE",
+"365 430 CURVE SMOOTH",
+"483 0 LINE",
+"637 0 LINE",
+"411 768 LINE",
+"229 768 LINE",
+"-3 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"465 155 LINE",
+"465 269 LINE",
+"155 269 LINE",
+"155 155 LINE"
+);
+}
+);
+width = 634;
 }
 );
 unicode = 0041;

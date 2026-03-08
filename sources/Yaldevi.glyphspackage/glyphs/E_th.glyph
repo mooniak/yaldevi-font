@@ -42,6 +42,27 @@ nodes = (
 }
 );
 width = 639;
+},
+{
+components = (
+{
+name = D;
+transform = "{1, 0, 0, 1, 12, 0}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"3 452 LINE",
+"3 338 LINE",
+"354 338 LINE",
+"354 452 LINE"
+);
+}
+);
+width = 675;
 }
 );
 unicode = 00D0;

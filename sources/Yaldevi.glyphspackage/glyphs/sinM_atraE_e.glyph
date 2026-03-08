@@ -36,6 +36,24 @@ transform = "{1, 0, 0, 1, 456, 0}";
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
 width = 865;
+},
+{
+components = (
+{
+name = sinVirama;
+transform = "{1, 0, 0, 1, 1049, -1}";
+},
+{
+name = sinMatraE;
+},
+{
+alignment = 1;
+name = bullet;
+transform = "{1, 0, 0, 1, 546, 0}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+width = 1144;
 }
 );
 unicode = 0DDA;

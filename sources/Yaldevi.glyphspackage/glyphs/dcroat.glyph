@@ -40,6 +40,26 @@ nodes = (
 }
 );
 width = 543;
+},
+{
+components = (
+{
+name = d;
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"229 743 LINE",
+"229 646 LINE",
+"584 646 LINE",
+"584 743 LINE"
+);
+}
+);
+width = 574;
 }
 );
 unicode = 0111;

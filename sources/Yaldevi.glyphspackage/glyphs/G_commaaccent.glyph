@@ -26,6 +26,19 @@ transform = "{0.931, 0, 0, 0.931, 238, -825}";
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
 width = 637;
+},
+{
+components = (
+{
+name = G;
+},
+{
+name = quoteright;
+transform = "{0.87, 0, 0, 0.87, 229, -786}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+width = 665;
 }
 );
 unicode = 0122;

@@ -98,6 +98,29 @@ nodes = (
 }
 );
 width = 450;
+},
+{
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"361 307 LINE",
+"361 770 LINE",
+"203 770 LINE",
+"17 468 LINE",
+"29 386 LINE",
+"419 386 LINE",
+"419 488 LINE",
+"99 488 LINE",
+"124 454 LINE",
+"264 700 LINE",
+"235 700 LINE",
+"235 307 LINE"
+);
+}
+);
+width = 450;
 }
 );
 leftMetricsKey = four;

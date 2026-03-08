@@ -18,6 +18,15 @@ name = bullet;
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
 width = 388;
+},
+{
+components = (
+{
+name = bullet;
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+width = 394;
 }
 );
 unicode = 2219;

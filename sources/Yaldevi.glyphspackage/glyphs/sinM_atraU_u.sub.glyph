@@ -104,6 +104,58 @@ nodes = (
 }
 );
 width = 324;
+},
+{
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"69 -322 OFFCURVE",
+"44 -249 OFFCURVE",
+"44 -207 CURVE SMOOTH",
+"44 -108 OFFCURVE",
+"139 -68 OFFCURVE",
+"232 -68 CURVE",
+"244 -92 LINE",
+"191 -92 OFFCURVE",
+"133 -127 OFFCURVE",
+"133 -184 CURVE SMOOTH",
+"133 -211 OFFCURVE",
+"146 -229 OFFCURVE",
+"173 -229 CURVE SMOOTH",
+"200 -229 OFFCURVE",
+"212 -208 OFFCURVE",
+"212 -175 CURVE",
+"305 -175 LINE",
+"305 -237 OFFCURVE",
+"280 -322 OFFCURVE",
+"173 -322 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"53 -92 LINE",
+"53 -27 LINE",
+"248 -27 LINE",
+"248 -92 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"31 110 LINE",
+"248 110 LINE",
+"248 36 LINE",
+"170 -27 LINE",
+"53 -27 LINE",
+"125 33 LINE",
+"31 33 LINE"
+);
+}
+);
+width = 324;
 }
 );
 category = Mark;

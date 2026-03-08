@@ -26,6 +26,19 @@ transform = "{1, 0, 0, 1, -22, 165}";
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
 width = 464;
+},
+{
+components = (
+{
+name = T;
+},
+{
+name = caron;
+transform = "{1, 0, 0, 1, -17, 182}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+width = 482;
 }
 );
 unicode = 0164;

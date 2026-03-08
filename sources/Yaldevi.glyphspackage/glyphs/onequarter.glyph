@@ -80,6 +80,25 @@ transform = "{1, 0, 0, 1, 462, -307}";
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
 width = 853;
+},
+{
+components = (
+{
+alignment = -1;
+name = onesuperior;
+transform = "{1, 0, 0, 1, -24, 0}";
+},
+{
+name = fraction;
+transform = "{1, 0, 0, 1, 164, 0}";
+},
+{
+name = foursuperior;
+transform = "{1, 0, 0, 1, 574, -307}";
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+width = 1011;
 }
 );
 unicode = 00BC;

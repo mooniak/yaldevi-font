@@ -34,6 +34,23 @@ name = period;
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
 width = 628;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 262, 0}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 523, 0}";
+},
+{
+name = period;
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+width = 808;
 }
 );
 unicode = 2026;

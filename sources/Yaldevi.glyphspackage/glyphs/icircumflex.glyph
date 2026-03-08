@@ -54,6 +54,29 @@ nodes = (
 }
 );
 width = 239;
+},
+{
+components = (
+{
+name = dotlessi;
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"143 847 LINE",
+"-26 707 LINE",
+"35 633 LINE",
+"149 724 LINE",
+"131 724 LINE",
+"245 630 LINE",
+"311 707 LINE"
+);
+}
+);
+width = 279;
 }
 );
 unicode = 00EE;

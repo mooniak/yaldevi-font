@@ -40,6 +40,26 @@ nodes = (
 }
 );
 width = 239;
+},
+{
+components = (
+{
+name = dotlessi;
+}
+);
+layerId = "700B375B-E5F6-4156-8225-245C9DB4E923";
+paths = (
+{
+closed = 1;
+nodes = (
+"1 790 LINE",
+"1 676 LINE",
+"278 676 LINE",
+"278 790 LINE"
+);
+}
+);
+width = 279;
 }
 );
 unicode = 012B;
