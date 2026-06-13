@@ -1,0 +1,47 @@
+{
+glyphname = "ee-taml";
+layers = (
+{
+components = (
+{
+name = "e-taml";
+transform = "{1, 0, 0, 1, 13, 0}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"224 -184 LINE",
+"485 59 LINE",
+"607 0 LINE",
+"310 -272 LINE"
+);
+}
+);
+width = 735;
+},
+{
+components = (
+{
+name = "e-taml";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"206 -244 LINE",
+"487 19 LINE",
+"534 0 LINE",
+"236 -274 LINE"
+);
+}
+);
+width = 676;
+}
+);
+unicode = 0B8F;
+}

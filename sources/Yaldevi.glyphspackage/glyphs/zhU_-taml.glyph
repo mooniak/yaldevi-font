@@ -1,0 +1,285 @@
+{
+glyphname = "zhU-taml";
+layers = (
+{
+components = (
+{
+name = "ma-taml";
+transform = "{1, 0, 0, 1, 301, 0}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"747 -316 OFFCURVE",
+"831 -265 OFFCURVE",
+"831 -197 CURVE SMOOTH",
+"831 -123 OFFCURVE",
+"766 -127 OFFCURVE",
+"748 -182 CURVE",
+"625 -182 LINE",
+"626 36 LINE",
+"749 38 LINE",
+"749 -69 LINE",
+"783 -36 OFFCURVE",
+"948 -32 OFFCURVE",
+"948 -197 CURVE SMOOTH",
+"948 -308 OFFCURVE",
+"826 -439 OFFCURVE",
+"586 -439 CURVE SMOOTH",
+"228 -438 OFFCURVE",
+"48 -141 OFFCURVE",
+"48 190 CURVE SMOOTH",
+"48 396 OFFCURVE",
+"106 542 OFFCURVE",
+"171 651 CURVE",
+"272 600 LINE",
+"229 517 OFFCURVE",
+"166 398 OFFCURVE",
+"166 190 CURVE SMOOTH",
+"166 -31 OFFCURVE",
+"258 -318 OFFCURVE",
+"587 -316 CURVE SMOOTH"
+);
+}
+);
+width = 1053;
+},
+{
+components = (
+{
+name = "ma-taml";
+transform = "{1, 0, 0, 1, 286, 0}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"690 -391 OFFCURVE",
+"811 -321 OFFCURVE",
+"811 -215 CURVE SMOOTH",
+"811 -91 OFFCURVE",
+"643 -105 OFFCURVE",
+"625 -159 CURVE",
+"577 -159 LINE",
+"578 36 LINE",
+"626 38 LINE",
+"625 -105 LINE",
+"653 -56 OFFCURVE",
+"859 -53 OFFCURVE",
+"859 -214 CURVE SMOOTH",
+"859 -327 OFFCURVE",
+"758 -439 OFFCURVE",
+"550 -439 CURVE SMOOTH",
+"224 -439 OFFCURVE",
+"48 -163 OFFCURVE",
+"48 184 CURVE SMOOTH",
+"48 379 OFFCURVE",
+"104 541 OFFCURVE",
+"171 651 CURVE",
+"215 629 LINE",
+"167 552 OFFCURVE",
+"96 385 OFFCURVE",
+"96 183 CURVE SMOOTH",
+"96 -99 OFFCURVE",
+"236 -391 OFFCURVE",
+"541 -391 CURVE SMOOTH"
+);
+}
+);
+width = 999;
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+x = 1395;
+y = -275;
+}
+);
+com.typemytype.robofont.layerData = {
+background = {
+anchors = (
+);
+components = (
+);
+contours = (
+{
+points = (
+{
+smooth = 0;
+x = 644;
+y = -278;
+},
+{
+smooth = 0;
+x = 718;
+y = -233;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 718;
+y = -173;
+},
+{
+smooth = 0;
+x = 718;
+y = -108;
+},
+{
+smooth = 0;
+x = 661;
+y = -112;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 645;
+y = -160;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 537;
+y = -160;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 538;
+y = 32;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 646;
+y = 33;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 646;
+y = -61;
+},
+{
+smooth = 0;
+x = 676;
+y = -32;
+},
+{
+smooth = 0;
+x = 821;
+y = -28;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 821;
+y = -173;
+},
+{
+smooth = 0;
+x = 821;
+y = -271;
+},
+{
+smooth = 0;
+x = 714;
+y = -386;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 503;
+y = -386;
+},
+{
+smooth = 0;
+x = 158;
+y = -385;
+},
+{
+smooth = 0;
+x = 11;
+y = -84;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 10;
+y = 227;
+},
+{
+smooth = 0;
+x = 10;
+y = 368;
+},
+{
+smooth = 0;
+x = 60;
+y = 477;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 118;
+y = 572;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 207;
+y = 527;
+},
+{
+smooth = 0;
+x = 151;
+y = 434;
+},
+{
+smooth = 0;
+x = 114;
+y = 350;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 114;
+y = 227;
+},
+{
+smooth = 0;
+x = 114;
+y = 13;
+},
+{
+smooth = 0;
+x = 215;
+y = -279;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 504;
+y = -278;
+}
+);
+}
+);
+lib = {
+};
+name = tml_LllU;
+unicodes = (
+);
+width = 920;
+};
+};
+};
+}

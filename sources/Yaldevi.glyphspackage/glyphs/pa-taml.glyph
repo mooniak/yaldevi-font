@@ -1,0 +1,80 @@
+{
+glyphname = "pa-taml";
+layers = (
+{
+anchors = (
+{
+name = MatraI.alt3;
+position = "{457, 603}";
+},
+{
+name = MatraIi;
+position = "{537, 637}";
+},
+{
+name = MatraU.alt1;
+position = "{456, 38}";
+},
+{
+name = tm_halant;
+position = "{313, 768}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"68 1 LINE",
+"68 637 LINE",
+"190 637 LINE",
+"190 113 LINE",
+"457 113 LINE",
+"457 637 LINE",
+"580 637 LINE",
+"580 1 LINE"
+);
+}
+);
+width = 648;
+},
+{
+anchors = (
+{
+name = MatraI.alt3;
+position = "{520, 569}";
+},
+{
+name = MatraIi;
+position = "{542, 637}";
+},
+{
+name = MatraU.alt1;
+position = "{521, 38}";
+},
+{
+name = tm_halant;
+position = "{302, 744}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"57 1 LINE",
+"57 637 LINE",
+"107 637 LINE",
+"107 47 LINE",
+"519 47 LINE",
+"519 637 LINE",
+"569 637 LINE",
+"569 1 LINE"
+);
+}
+);
+width = 627;
+}
+);
+unicode = 0BAA;
+}

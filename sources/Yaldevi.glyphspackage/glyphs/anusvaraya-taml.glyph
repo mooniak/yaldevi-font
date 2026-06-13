@@ -1,0 +1,96 @@
+{
+glyphname = "anusvaraya-taml";
+layers = (
+{
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"-67 678 OFFCURVE",
+"-119 733 OFFCURVE",
+"-119 799 CURVE SMOOTH",
+"-119 865 OFFCURVE",
+"-67 918 OFFCURVE",
+"0 918 CURVE SMOOTH",
+"67 918 OFFCURVE",
+"121 865 OFFCURVE",
+"121 799 CURVE SMOOTH",
+"121 733 OFFCURVE",
+"67 678 OFFCURVE",
+"0 678 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"18 766 OFFCURVE",
+"34 782 OFFCURVE",
+"34 801 CURVE SMOOTH",
+"34 821 OFFCURVE",
+"18 835 OFFCURVE",
+"-1 835 CURVE SMOOTH",
+"-20 835 OFFCURVE",
+"-35 821 OFFCURVE",
+"-35 801 CURVE SMOOTH",
+"-35 782 OFFCURVE",
+"-20 766 OFFCURVE",
+"-1 766 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+},
+{
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"-67 678 OFFCURVE",
+"-119 733 OFFCURVE",
+"-119 799 CURVE SMOOTH",
+"-119 865 OFFCURVE",
+"-67 918 OFFCURVE",
+"0 918 CURVE SMOOTH",
+"67 918 OFFCURVE",
+"121 865 OFFCURVE",
+"121 799 CURVE SMOOTH",
+"121 733 OFFCURVE",
+"67 678 OFFCURVE",
+"0 678 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"41 723 OFFCURVE",
+"76 757 OFFCURVE",
+"76 799 CURVE SMOOTH",
+"76 842 OFFCURVE",
+"41 873 OFFCURVE",
+"-2 873 CURVE SMOOTH",
+"-44 873 OFFCURVE",
+"-76 842 OFFCURVE",
+"-76 799 CURVE SMOOTH",
+"-76 757 OFFCURVE",
+"-44 723 OFFCURVE",
+"-2 723 CURVE SMOOTH"
+);
+}
+);
+width = 1;
+}
+);
+unicode = 0B82;
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+x = 17;
+y = 704;
+}
+);
+};
+}

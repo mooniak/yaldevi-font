@@ -1,0 +1,152 @@
+{
+glyphname = "na-taml";
+layers = (
+{
+anchors = (
+{
+name = MatraI.alt1;
+position = "{537, 637}";
+},
+{
+name = MatraIi;
+position = "{520, 637}";
+},
+{
+name = tm_halant;
+position = "{393, 768}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"72 1 LINE",
+"72 637 LINE",
+"583 637 LINE",
+"583 526 LINE",
+"465 526 LINE",
+"465 1 LINE",
+"343 1 LINE",
+"343 526 LINE",
+"193 526 LINE",
+"193 1 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"69 -147 OFFCURVE",
+"117 -69 OFFCURVE",
+"288 -69 CURVE SMOOTH",
+"406 -69 LINE SMOOTH",
+"535 -68 OFFCURVE",
+"608 -1 OFFCURVE",
+"602 140 CURVE SMOOTH",
+"602 228 OFFCURVE",
+"580 303 OFFCURVE",
+"521 303 CURVE SMOOTH",
+"472 303 OFFCURVE",
+"465 248 OFFCURVE",
+"465 204 CURVE",
+"387 250 LINE",
+"389 302 OFFCURVE",
+"432 409 OFFCURVE",
+"534 407 CURVE SMOOTH",
+"669 406 OFFCURVE",
+"719 288 OFFCURVE",
+"719 134 CURVE SMOOTH",
+"719 -52 OFFCURVE",
+"627 -176 OFFCURVE",
+"413 -179 CURVE SMOOTH",
+"295 -180 LINE SMOOTH",
+"183 -181 OFFCURVE",
+"195 -224 OFFCURVE",
+"193 -269 CURVE",
+"68 -269 LINE"
+);
+}
+);
+width = 753;
+},
+{
+anchors = (
+{
+name = MatraI.alt1;
+position = "{464, 637}";
+},
+{
+name = MatraIi;
+position = "{453, 637}";
+},
+{
+name = tm_halant;
+position = "{336, 734}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"48 1 LINE",
+"48 637 LINE",
+"521 637 LINE",
+"521 589 LINE",
+"366 589 LINE",
+"366 1 LINE",
+"319 1 LINE",
+"319 589 LINE",
+"96 589 LINE",
+"96 1 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"52 -147 OFFCURVE",
+"119 -109 OFFCURVE",
+"195 -109 CURVE SMOOTH",
+"316 -109 LINE SMOOTH",
+"538 -107 OFFCURVE",
+"599 -6 OFFCURVE",
+"599 140 CURVE SMOOTH",
+"599 270 OFFCURVE",
+"571 354 OFFCURVE",
+"475 354 CURVE SMOOTH",
+"415 354 OFFCURVE",
+"366 300 OFFCURVE",
+"366 214 CURVE",
+"325 239 LINE",
+"328 313 OFFCURVE",
+"379 401 OFFCURVE",
+"480 399 CURVE SMOOTH",
+"619 398 OFFCURVE",
+"646 265 OFFCURVE",
+"646 134 CURVE SMOOTH",
+"646 -73 OFFCURVE",
+"527 -154 OFFCURVE",
+"323 -156 CURVE SMOOTH",
+"200 -157 LINE SMOOTH",
+"107 -158 OFFCURVE",
+"100 -224 OFFCURVE",
+"99 -269 CURVE",
+"51 -269 LINE"
+);
+}
+);
+width = 694;
+}
+);
+unicode = 0BA8;
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+x = 150;
+y = 1;
+}
+);
+};
+}

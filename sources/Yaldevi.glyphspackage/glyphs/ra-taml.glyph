@@ -1,0 +1,94 @@
+{
+glyphname = "ra-taml";
+layers = (
+{
+anchors = (
+{
+name = MatraI.alt2;
+position = "{517, 637}";
+},
+{
+name = MatraIi;
+position = "{539, 637}";
+},
+{
+name = tm_halant;
+position = "{302, 768}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"68 0 LINE",
+"68 637 LINE",
+"602 637 LINE",
+"602 525 LINE",
+"485 525 LINE",
+"485 0 LINE",
+"362 0 LINE",
+"362 525 LINE",
+"190 525 LINE",
+"190 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"112 -198 LINE",
+"363 38 LINE",
+"485 0 LINE",
+"187 -274 LINE"
+);
+}
+);
+width = 625;
+},
+{
+anchors = (
+{
+name = MatraI.alt2;
+position = "{488, 637}";
+},
+{
+name = MatraIi;
+position = "{488, 637}";
+},
+{
+name = tm_halant;
+position = "{240, 745}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"68 0 LINE",
+"68 637 LINE",
+"556 637 LINE",
+"556 589 LINE",
+"405 589 LINE",
+"402 0 LINE",
+"351 0 LINE",
+"354 589 LINE",
+"116 589 LINE",
+"116 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"72 -241 LINE",
+"351 19 LINE",
+"402 0 LINE",
+"104 -274 LINE"
+);
+}
+);
+width = 602;
+}
+);
+unicode = 0BB0;
+}

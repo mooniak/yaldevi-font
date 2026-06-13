@@ -1,0 +1,74 @@
+{
+glyphname = "virama-taml";
+layers = (
+{
+anchors = (
+{
+name = _tm_halant;
+position = "{0, 768}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"46 815 OFFCURVE",
+"84 854 OFFCURVE",
+"84 899 CURVE SMOOTH",
+"84 945 OFFCURVE",
+"46 983 OFFCURVE",
+"0 983 CURVE SMOOTH",
+"-46 983 OFFCURVE",
+"-84 945 OFFCURVE",
+"-84 899 CURVE SMOOTH",
+"-84 854 OFFCURVE",
+"-46 815 OFFCURVE",
+"0 815 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _tm_halant;
+position = "{0, 762}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"24 810 OFFCURVE",
+"42 830 OFFCURVE",
+"42 854 CURVE SMOOTH",
+"42 877 OFFCURVE",
+"24 896 OFFCURVE",
+"0 896 CURVE SMOOTH",
+"-24 896 OFFCURVE",
+"-43 877 OFFCURVE",
+"-43 854 CURVE SMOOTH",
+"-43 830 OFFCURVE",
+"-24 810 OFFCURVE",
+"0 810 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+unicode = 0BCD;
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+x = -183;
+y = 710;
+}
+);
+};
+}

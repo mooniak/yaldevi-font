@@ -1,0 +1,88 @@
+{
+glyphname = "signdebit-taml";
+layers = (
+{
+components = (
+{
+name = "pa-taml";
+transform = "{1, 0, 0, 1, 58, 0}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"616 -259 OFFCURVE",
+"495 -397 OFFCURVE",
+"321 -397 CURVE SMOOTH",
+"154 -397 OFFCURVE",
+"48 -298 OFFCURVE",
+"48 -205 CURVE SMOOTH",
+"48 -142 OFFCURVE",
+"94 -73 OFFCURVE",
+"206 -73 CURVE SMOOTH",
+"717 -71 LINE",
+"717 637 LINE",
+"839 637 LINE",
+"839 -181 LINE",
+"222 -180 LINE SMOOTH",
+"187 -180 OFFCURVE",
+"170 -188 OFFCURVE",
+"170 -216 CURVE SMOOTH",
+"170 -253 OFFCURVE",
+"241 -287 OFFCURVE",
+"321 -287 CURVE SMOOTH",
+"426 -287 OFFCURVE",
+"496 -213 OFFCURVE",
+"494 5 CURVE",
+"616 5 LINE"
+);
+}
+);
+width = 907;
+},
+{
+components = (
+{
+name = "pa-taml";
+transform = "{1, 0, 0, 1, 58, 0}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"626 -209 OFFCURVE",
+"547 -389 OFFCURVE",
+"325 -389 CURVE SMOOTH",
+"168 -389 OFFCURVE",
+"48 -325 OFFCURVE",
+"48 -218 CURVE SMOOTH",
+"48 -146 OFFCURVE",
+"99 -121 OFFCURVE",
+"174 -121 CURVE SMOOTH",
+"737 -121 LINE",
+"737 637 LINE",
+"785 637 LINE",
+"785 -168 LINE",
+"173 -168 LINE SMOOTH",
+"129 -168 OFFCURVE",
+"96 -181 OFFCURVE",
+"96 -218 CURVE SMOOTH",
+"96 -288 OFFCURVE",
+"182 -341 OFFCURVE",
+"323 -341 CURVE SMOOTH",
+"523 -341 OFFCURVE",
+"577 -176 OFFCURVE",
+"577 5 CURVE",
+"626 2 LINE"
+);
+}
+);
+width = 834;
+}
+);
+unicode = 0BF6;
+}

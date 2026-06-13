@@ -1,0 +1,55 @@
+{
+glyphname = "usign.alt1-taml";
+layers = (
+{
+anchors = (
+{
+name = _MatraU.alt1;
+position = "{-192, 38}";
+},
+{
+name = anchor;
+position = "{-192, 38}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"-192 -174 LINE",
+"-192 38 LINE",
+"-68 38 LINE",
+"-68 -174 LINE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _MatraU.alt1;
+position = "{-105, 38}";
+},
+{
+name = anchor;
+position = "{-105, 38}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"-105 -174 LINE",
+"-105 38 LINE",
+"-57 38 LINE",
+"-57 -174 LINE"
+);
+}
+);
+width = 0;
+}
+);
+}

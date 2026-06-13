@@ -1,0 +1,55 @@
+{
+glyphname = "rrUu-taml";
+layers = (
+{
+components = (
+{
+name = "rrU-taml";
+transform = "{1, 0, 0, 1, 13, 0}";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+paths = (
+{
+closed = 1;
+nodes = (
+"1322 637 LINE",
+"1322 527 LINE",
+"1209 527 LINE",
+"1209 -15 LINE",
+"1087 -15 LINE",
+"1087 527 LINE",
+"956 527 LINE",
+"956 637 LINE"
+);
+}
+);
+width = 1345;
+},
+{
+components = (
+{
+name = "rrU-taml";
+transform = "{1, 0, 0, 1, 23, 0}";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+paths = (
+{
+closed = 1;
+nodes = (
+"1277 637 LINE",
+"1277 589 LINE",
+"1163 589 LINE",
+"1163 -15 LINE",
+"1115 -15 LINE",
+"1115 589 LINE",
+"910 589 LINE",
+"910 637 LINE"
+);
+}
+);
+width = 1288;
+}
+);
+}

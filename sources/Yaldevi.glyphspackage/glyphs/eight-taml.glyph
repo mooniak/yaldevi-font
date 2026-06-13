@@ -1,0 +1,24 @@
+{
+glyphname = "eight-taml";
+layers = (
+{
+components = (
+{
+name = "a-taml";
+}
+);
+layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
+width = 1044;
+},
+{
+components = (
+{
+name = "a-taml";
+}
+);
+layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+width = 981;
+}
+);
+unicode = 0BEE;
+}
