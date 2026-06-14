@@ -1,0 +1,97 @@
+{
+  "name": "Yaldevi",
+  "id": "yaldevi",
+  "type": "family",
+  "designer": [
+    "Mooniak",
+    "Sol Matas"
+  ],
+  "scripts": [
+    "Sinh",
+    "Taml",
+    "Latn"
+  ],
+  "description": "A narrow trilingual typeface for titles and short text on the web, with Sinhala, Tamil and Latin support.",
+  "license": "OFL-1.1",
+  "channels": [
+    "release",
+    "dev",
+    "nightly"
+  ],
+  "versions_provider": "tags",
+  "repository": {
+    "url": "https://github.com/mooniak/yaldevi-font",
+    "type": "git"
+  },
+  "homepage_url": "https://src.mooniak.com/yaldevi-font/",
+  "issues_url": "https://github.com/mooniak/yaldevi-font/issues/",
+  "funding_url": "https://opencollective.com/akuruxyz/projects/lanka-font-library",
+  "foundry": {
+    "name": "mooniak",
+    "email": "hello@mooniak.com",
+    "url": "https://mooniak.com/",
+    "vendor_id": "MNIK"
+  },
+  "designers": [
+    {
+      "name": "Pathum Egodawatta",
+      "email": "pathum@mooniak.com",
+      "url": "https://pathumego.com/"
+    },
+    {
+      "name": "Sol Matas",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "maintenance": {
+    "status": "actively-developed",
+    "comment": ""
+  },
+  "tools": "",
+  "progress": {
+    "design": 80,
+    "family_styles": 70,
+    "character_set": 70,
+    "drawing_quality": 75,
+    "spacing": 65,
+    "kerning": 40,
+    "hinting": 20,
+    "opentype_features": 60
+  },
+  "tags": {
+    "style": "sans-serif",
+    "contrast": "low",
+    "width": "condensed",
+    "body_height": "tall",
+    "intended_usage": "display",
+    "figures": "normal",
+    "languages": [
+      "si_LK",
+      "ta_LK",
+      "en_US"
+    ],
+    "related_fonts": []
+  },
+  "directory": {
+    "listed": true,
+    "display_texts": {
+      "en_US": "A narrow typeface for trilingual Sri Lanka.",
+      "si_LK": "දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන.",
+      "ta_LK": "யாழ்தேவி ஒரு குறுகிய எழுத்துரு."
+    },
+    "display_images": {
+      "banner": "",
+      "thumbnail": "",
+      "small": "",
+      "medium": "",
+      "large": ""
+    },
+    "links": {
+      "font_in_use": "",
+      "googlefonts": "https://fonts.google.com/specimen/Yaldevi",
+      "fontlibrary_org": "",
+      "typekit": ""
+    }
+  }
+}
