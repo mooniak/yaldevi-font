@@ -1269,7 +1269,7 @@ disablesNiceNames = 1;
 familyName = "Yaldevi DEV";
 featurePrefixes = (
 {
-code = "languagesystem DFLT dflt;\012languagesystem sinh dflt;\012\012\012";
+code = "languagesystem DFLT dflt;\012languagesystem sinh dflt;\012languagesystem taml dflt;";
 name = Languagesystems;
 },
 {
@@ -1277,7 +1277,7 @@ code = "#---- --AKHN ------------\012\012lookup sinakhands {\012  sub ka-sinh vi
 name = Prefix;
 },
 {
-code = "@TA_MATRA_U_1 = [ nga-taml pa-taml ya-taml va-taml ];\012\012@TA_MATRA_I_1 = [ ssa-taml kSsa-taml ];\012\012@TA_MATRA_I_2 = [ ma-taml sha-taml ha-taml ];\012\012@TA_MATRA_I_3 = [ la-taml sa-taml ];\012\012@TA_MATRA_I_4 = [ ca-taml ];\012\012@TA_MATRA_I_5 = [ ka-taml ta-taml ];\012\012@TA_MATRA_I_6 = [ nya-taml na-taml ];\012\012@TA_MATRA_I_7 = [ nga-taml pa-taml va-taml ];\012\012@TA_MATRA_Ii_1 = [ la-taml sa-taml ];\012\012\012\012#---- AKHN ----\012\012lookup akhands {\012    sub ka-taml virama-taml ssa-taml by kSsa-taml;\012    sub sha-taml virama-taml ra-taml iisign-taml by shree-taml;\012    sub sa-taml virama-taml ra-taml iisign-taml by shree-taml;\012} akhands;\012\012#---- ABVS ----\012\012lookup above_base_sub_1 {\012    sub tta-taml isign-taml by ttI-taml;\012    sub rra-taml isign-taml by rrI-taml;\012    sub la-taml isign-taml by lI-taml;\012    sub zha-taml isign-taml by zhI-taml;\012    sub ja-taml isign-taml by jI-taml;\012	sub va-taml isign-taml by vI-taml;\012	sub ya-taml isign-taml by yI-taml;\012	sub nga-taml isign-taml by ngI-taml;\012	sub pa-taml isign-taml by pI-taml;\012\012\012    sub tta-taml iisign-taml by ttIi-taml;\012} above_base_sub_1;\012\012lookup above_base_sub_2 {\012    sub @TA_MATRA_Ii_1 iisign-taml' by iisign.alt1-taml;\012 } above_base_sub_2;\012 \012 \012\012#---- PSTS ----\012\012lookup post_base_sub_1 {\012    sub ka-taml usign-taml by kU-taml;\012    sub ca-taml usign-taml by cU-taml;\012    sub nya-taml usign-taml by nyU-taml;\012    sub tta-taml usign-taml by ttU-taml;\012    sub nna-taml usign-taml by nnU-taml;\012    sub ta-taml usign-taml by tU-taml;\012    sub na-taml usign-taml by nU-taml;\012    sub nnna-taml usign-taml by nnnU-taml;\012    sub ma-taml usign-taml by mU-taml;\012    sub ra-taml usign-taml by rU-taml;\012    sub rra-taml usign-taml by rrU-taml;\012    sub la-taml usign-taml by lU-taml;\012    sub lla-taml usign-taml by llU-taml;\012    sub zha-taml usign-taml by zhU-taml;\012} post_base_sub_1;\012\012lookup post_base_sub_2 {\012    sub ka-taml uusign-taml by kUu-taml;\012    sub nga-taml uusign-taml by ngUu-taml;\012    sub ca-taml uusign-taml by cUu-taml;\012    sub nya-taml uusign-taml by nyUu-taml;\012    sub tta-taml uusign-taml by ttUu-taml;\012    sub nna-taml uusign-taml by nnUu-taml;\012    sub ta-taml uusign-taml by tUu-taml;\012    sub na-taml uusign-taml by nUu-taml;\012    sub nnna-taml uusign-taml by nnnUu-taml;\012    sub pa-taml uusign-taml by pUu-taml;\012    sub ya-taml uusign-taml by yUu-taml;\012    sub ma-taml uusign-taml by mUu-taml;\012    sub ra-taml uusign-taml by rUu-taml;\012    sub rra-taml uusign-taml by rrUu-taml;\012    sub la-taml uusign-taml by lUu-taml;\012    sub lla-taml uusign-taml by llUu-taml;\012    sub zha-taml uusign-taml by zhUu-taml;\012    sub va-taml uusign-taml by vUu-taml;\012 } post_base_sub_2;\012\012lookup post_base_sub_3 {\012    sub @TA_MATRA_I_1 isign-taml' by isign.alt1-taml;\012 } post_base_sub_3;\012\012lookup post_base_sub_4 {\012    sub @TA_MATRA_I_2 isign-taml' by isign.alt2-taml;\012 } post_base_sub_4;\012\012lookup post_base_sub_5 {\012    sub @TA_MATRA_I_3 isign-taml' by isign.alt3-taml;\012 } post_base_sub_5;\012\012lookup post_base_sub_6 {\012    sub @TA_MATRA_I_4 isign-taml' by isign.alt4-taml;\012 } post_base_sub_6;\012\012lookup post_base_sub_7 {\012    sub @TA_MATRA_I_5 isign-taml' by isign.alt5-taml;\012 } post_base_sub_7;\012\012lookup post_base_sub_8{\012    sub @TA_MATRA_I_6 isign-taml' by isign.alt6-taml;\012 } post_base_sub_8;\012\012lookup post_base_sub_9{\012    sub @TA_MATRA_I_7 isign-taml' by isign.alt7-taml;\012 } post_base_sub_9;\012\012lookup post_base_sub_10{\012    sub @TA_MATRA_U_1 usign-taml' by usign.alt1-taml;\012 } post_base_sub_10;\012\012#---- SALT ----\012\012lookup ta_stylistic_alternates_1 {\012    sub ra-taml' virama-taml by aasign-taml;\012    sub ra-taml' anusvaraya-taml by aasign-taml;\012    sub ra-taml' isign-taml by aasign-taml;\012    sub ra-taml' iisign-taml by aasign-taml;\012} ta_stylistic_alternates_1;\012\012lookup ta_stylistic_alternates_2 {\012    sub nna-taml aasign-taml by nnAa.alt-taml;\012    sub nnna-taml aasign-taml by nnnAa-taml.alt;\012    sub rra-taml aasign-taml by rrAa.alt-taml;\012} ta_stylistic_alternates_2;\012\012lookup ta_stylistic_alternates_3 {\012    sub ka-taml isign-taml' by isign.stylalt1-taml;\012    sub ta-taml isign-taml' by isign.stylalt1-taml;\012    sub ca-taml isign-taml' by isign.stylalt1-taml;\012    sub ka-taml isign.alt5-taml' by isign.stylalt1-taml;\012    sub ta-taml isign.alt5-taml' by isign.stylalt1-taml;\012    sub ca-taml isign.alt4-taml' by isign.stylalt1-taml;\012    sub ka-taml iisign-taml' by iisign.stylalt1-taml;\012    sub ta-taml iisign-taml' by iisign.stylalt1-taml;\012    sub ca-taml iisign-taml' by iisign.stylalt1-taml;\012} ta_stylistic_alternates_3;\012\012lookup ta_stylistic_alternates_4 {\012    sub aisign-taml' nna-taml by aisign.alt-taml;\012    sub aisign-taml' nnna-taml by aisign.alt-taml;\012    sub aisign-taml' la-taml by aisign.alt-taml;\012    sub aisign-taml' lla-taml by aisign.alt-taml;\012} ta_stylistic_alternates_4;\012\012\012";
+code = "@TA_MATRA_U_1 = [ nga-taml pa-taml ya-taml va-taml ];\012\012@TA_MATRA_I_1 = [ ssa-taml kSsa-taml ];\012\012@TA_MATRA_I_2 = [ ma-taml sha-taml ha-taml ];\012\012@TA_MATRA_I_3 = [ la-taml sa-taml ];\012\012@TA_MATRA_I_4 = [ ca-taml ];\012\012@TA_MATRA_I_5 = [ ka-taml ta-taml ];\012\012@TA_MATRA_I_6 = [ nya-taml na-taml ];\012\012@TA_MATRA_I_7 = [ nga-taml pa-taml va-taml ];\012\012@TA_MATRA_Ii_1 = [ la-taml sa-taml ];\012\012\012\012#---- AKHN ----\012\012lookup taml-akhands {\012    sub ka-taml virama-taml ssa-taml by kSsa-taml;\012    sub sha-taml virama-taml ra-taml iisign-taml by shree-taml;\012    sub sa-taml virama-taml ra-taml iisign-taml by shree-taml;\012} taml-akhands;\012\012#---- ABVS ----\012\012lookup taml-above_base_sub_1 {\012    sub tta-taml isign-taml by ttI-taml;\012    sub rra-taml isign-taml by rrI-taml;\012    sub la-taml isign-taml by lI-taml;\012    sub zha-taml isign-taml by zhI-taml;\012    sub ja-taml isign-taml by jI-taml;\012	sub va-taml isign-taml by vI-taml;\012	sub ya-taml isign-taml by yI-taml;\012	sub nga-taml isign-taml by ngI-taml;\012	sub pa-taml isign-taml by pI-taml;\012    sub tta-taml iisign-taml by ttIi-taml;\012} taml-above_base_sub_1;\012\012lookup taml-above_base_sub_2 {\012    sub @TA_MATRA_Ii_1 iisign-taml' by iisign.alt1-taml;\012 } taml-above_base_sub_2;\012 \012 \012\012#---- PSTS ----\012\012lookup taml-post_base_sub_1 {\012    sub ka-taml usign-taml by kU-taml;\012    sub ca-taml usign-taml by cU-taml;\012    sub nya-taml usign-taml by nyU-taml;\012    sub tta-taml usign-taml by ttU-taml;\012    sub nna-taml usign-taml by nnU-taml;\012    sub ta-taml usign-taml by tU-taml;\012    sub na-taml usign-taml by nU-taml;\012    sub nnna-taml usign-taml by nnnU-taml;\012    sub ma-taml usign-taml by mU-taml;\012    sub ra-taml usign-taml by rU-taml;\012    sub rra-taml usign-taml by rrU-taml;\012    sub la-taml usign-taml by lU-taml;\012    sub lla-taml usign-taml by llU-taml;\012    sub zha-taml usign-taml by zhU-taml;\012} taml-post_base_sub_1;\012\012lookup taml-post_base_sub_2 {\012    sub ka-taml uusign-taml by kUu-taml;\012    sub nga-taml uusign-taml by ngUu-taml;\012    sub ca-taml uusign-taml by cUu-taml;\012    sub nya-taml uusign-taml by nyUu-taml;\012    sub tta-taml uusign-taml by ttUu-taml;\012    sub nna-taml uusign-taml by nnUu-taml;\012    sub ta-taml uusign-taml by tUu-taml;\012    sub na-taml uusign-taml by nUu-taml;\012    sub nnna-taml uusign-taml by nnnUu-taml;\012    sub pa-taml uusign-taml by pUu-taml;\012    sub ya-taml uusign-taml by yUu-taml;\012    sub ma-taml uusign-taml by mUu-taml;\012    sub ra-taml uusign-taml by rUu-taml;\012    sub rra-taml uusign-taml by rrUu-taml;\012    sub la-taml uusign-taml by lUu-taml;\012    sub lla-taml uusign-taml by llUu-taml;\012    sub zha-taml uusign-taml by zhUu-taml;\012    sub va-taml uusign-taml by vUu-taml;\012 } taml-post_base_sub_2;\012\012lookup taml-post_base_sub_3 {\012    sub @TA_MATRA_I_1 isign-taml' by isign.alt1-taml;\012    sub @TA_MATRA_I_2 isign-taml' by isign.alt2-taml;\012    sub @TA_MATRA_I_3 isign-taml' by isign.alt3-taml;\012    sub @TA_MATRA_I_4 isign-taml' by isign.alt4-taml;\012    sub @TA_MATRA_I_5 isign-taml' by isign.alt5-taml;\012    sub @TA_MATRA_I_6 isign-taml' by isign.alt6-taml;\012    sub @TA_MATRA_I_7 isign-taml' by isign.alt7-taml;\012    sub @TA_MATRA_U_1 usign-taml' by usign.alt1-taml;\012 } taml-post_base_sub_3;\012\012#---- SALT ----\012\012lookup taml-stylistic_alternates_1 {\012    sub ra-taml' virama-taml by aasign-taml;\012    sub ra-taml' anusvaraya-taml by aasign-taml;\012    sub ra-taml' isign-taml by aasign-taml;\012    sub ra-taml' iisign-taml by aasign-taml;\012} taml-stylistic_alternates_1;\012\012lookup taml-stylistic_alternates_2 {\012    sub nna-taml aasign-taml by nnAa.alt-taml;\012    sub nnna-taml aasign-taml by nnnAa-taml.alt;\012    sub rra-taml aasign-taml by rrAa.alt-taml;\012} taml-stylistic_alternates_2;\012\012lookup taml-stylistic_alternates_3 {\012    sub ka-taml isign-taml' by isign.stylalt1-taml;\012    sub ta-taml isign-taml' by isign.stylalt1-taml;\012    sub ca-taml isign-taml' by isign.stylalt1-taml;\012    sub ka-taml isign.alt5-taml' by isign.stylalt1-taml;\012    sub ta-taml isign.alt5-taml' by isign.stylalt1-taml;\012    sub ca-taml isign.alt4-taml' by isign.stylalt1-taml;\012    sub ka-taml iisign-taml' by iisign.stylalt1-taml;\012    sub ta-taml iisign-taml' by iisign.stylalt1-taml;\012    sub ca-taml iisign-taml' by iisign.stylalt1-taml;\012} taml-stylistic_alternates_3;\012\012lookup taml-stylistic_alternates_4 {\012    sub aisign-taml' nna-taml by aisign.alt-taml;\012    sub aisign-taml' nnna-taml by aisign.alt-taml;\012    sub aisign-taml' la-taml by aisign.alt-taml;\012    sub aisign-taml' lla-taml by aisign.alt-taml;\012} taml-stylistic_alternates_4;\012\012\012";
 name = prefix;
 }
 );
@@ -1317,7 +1317,7 @@ code = "script latn;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub sc
 name = locl;
 },
 {
-code = "  script sinh;\012      lookup sinakhands;\012	  lookup sinakhands_reph;\012      lookup sin_touch;";
+code = "  script sinh;\012      lookup sinakhands;\012	  lookup sinakhands_reph;\012      lookup sin_touch;\012      lookup taml-akhands;\012";
 name = akhn;
 },
 {
@@ -1333,7 +1333,7 @@ code = "  script sinh;\012      lookup sinsplit_matra;";
 name = pstf;
 },
 {
-code = "  script sinh;\012      lookup sin_virama;\012      lookup sinabvs_1;\012      lookup sinabvs_2;\012      lookup sinabvs_3;\012";
+code = "  script sinh;\012      lookup sin_virama;\012      lookup sinabvs_1;\012      lookup sinabvs_2;\012      lookup sinabvs_3;\012\012  script taml;\012	  lookup taml-above_base_sub_1;\012	  lookup taml-above_base_sub_2;\012";
 name = abvs;
 },
 {
@@ -1341,7 +1341,7 @@ code = "  script sinh;\012      lookup sinblws_1;\012      lookup sinblws_2;\012
 name = blws;
 },
 {
-code = "  script sinh;\012      lookup sin_psts;";
+code = "  script sinh;\012      lookup sin_psts;\012  script taml;\012	  lookup taml-post_base_sub_1;\012	  lookup taml-post_base_sub_2;\012	  lookup taml-post_base_sub_3;\012";
 name = psts;
 },
 {
@@ -1508,7 +1508,6 @@ name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
-exports = 0;
 interpolationWeight = 13;
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 0.13;
@@ -1518,7 +1517,6 @@ name = Light;
 weightClass = Light;
 },
 {
-exports = 0;
 interpolationWeight = 28;
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 0.28;
@@ -1527,7 +1525,6 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-exports = 0;
 interpolationWeight = 47;
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 0.47;
@@ -1537,7 +1534,6 @@ name = Medium;
 weightClass = Medium;
 },
 {
-exports = 0;
 interpolationWeight = 71;
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 0.71;
@@ -1547,7 +1543,6 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
-exports = 0;
 instanceInterpolations = {
 "6114C541-D024-4A3E-9713-6FAF49EAB318" = 1;
 };
