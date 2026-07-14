@@ -1,0 +1,274 @@
+# buildVariable: Build a variable font from a source file
+rule buildVariable
+  command = $
+      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      -m gftools.builder.jobrunner fontmake --output-path $out -o variable $
+      $fontmake_type $in $args $stamp
+  description = buildVariable
+
+# fix: Run gftools-fix
+rule fix
+  command = $
+      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      -m gftools.builder.jobrunner gftools-fix-font -o $out $args $in $stamp
+  description = fix
+
+# buildStat: Build a STAT table from one or more source files
+rule buildSTAT-operation
+  command = gftools-gen-stat --out $tempdir $args -- $in && mv $finalfile $
+      $out $stamp
+rule buildSTAT-postprocess
+  command = gftools-gen-stat --inplace $args -- $in $stamp
+
+# compress: Compress to webfont
+rule compress
+  command = $
+      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      -m gftools.builder.jobrunner fonttools ttLib.woff2 compress -o $out $
+      $in $stamp
+  description = compress
+
+# instantiateUfo: Create instance UFOs from a Glyphs or designspace file
+rule instantiateUfo
+  command = $
+      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      -m gftools.builder.jobrunner fontmake -i "$instance_name" -o ufo $
+      $fontmake_type $in $args $stamp
+  description = instantiateUfo
+
+# buildTTF: Build a TTF from a source file
+rule buildTTF
+  command = $
+      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      -m gftools.builder.jobrunner fontmake --output-path $out -o ttf $
+      $fontmake_type $in $args $stamp
+  description = buildTTF
+
+# autohint: Run gftools-autohint
+rule autohint
+  command = $
+      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      -m gftools.builder.jobrunner gftools-autohint $args -o $out $in $stamp
+  description = autohint
+
+# copy: Copy a file
+rule copy
+  command = $
+      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      -m gftools.builder.jobrunner cp $in $out $stamp
+  description = copy
+
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpb9nrbr7w
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpb9nrbr7w: $
+    buildVariable Yaldevi.glyphspackage
+  operation = buildVariable
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+# Generating instance_ufos/YaldeviDEV-ExtraLight.ufo.json
+build instance_ufos/YaldeviDEV-ExtraLight.ufo.json: instantiateUfo $
+    Yaldevi.glyphspackage
+  operation = instantiateUfo
+  instance_name = Yaldevi DEV ExtraLight
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/YaldeviDEV-Light.ufo.json
+build instance_ufos/YaldeviDEV-Light.ufo.json: instantiateUfo $
+    Yaldevi.glyphspackage
+  operation = instantiateUfo
+  instance_name = Yaldevi DEV Light
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/YaldeviDEV-Regular.ufo.json
+build instance_ufos/YaldeviDEV-Regular.ufo.json: instantiateUfo $
+    Yaldevi.glyphspackage
+  operation = instantiateUfo
+  instance_name = Yaldevi DEV Regular
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/YaldeviDEV-Medium.ufo.json
+build instance_ufos/YaldeviDEV-Medium.ufo.json: instantiateUfo $
+    Yaldevi.glyphspackage
+  operation = instantiateUfo
+  instance_name = Yaldevi DEV Medium
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/YaldeviDEV-SemiBold.ufo.json
+build instance_ufos/YaldeviDEV-SemiBold.ufo.json: instantiateUfo $
+    Yaldevi.glyphspackage
+  operation = instantiateUfo
+  instance_name = Yaldevi DEV SemiBold
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/YaldeviDEV-Bold.ufo.json
+build instance_ufos/YaldeviDEV-Bold.ufo.json: instantiateUfo $
+    Yaldevi.glyphspackage
+  operation = instantiateUfo
+  instance_name = Yaldevi DEV Bold
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Postprocessing  with BuildSTAT
+build $
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpzs0ozn_s.buildStatstamp: $
+    buildSTAT-postprocess ../fonts/variable/Yaldevi[wght].ttf | $
+    ../fonts/variable/Yaldevi[wght].ttf
+  stamp =  && touch $
+      /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpzs0ozn_s.buildStatstamp
+  postprocess = buildStat
+# Generating ../fonts/webfonts/Yaldevi[wght].woff2
+build ../fonts/webfonts/Yaldevi[wght].woff2: compress $
+    ../fonts/variable/Yaldevi[wght].ttf
+  operation = compress
+# Generating ../fonts/webfonts/YaldeviDEV-ExtraLight.woff2
+build ../fonts/webfonts/YaldeviDEV-ExtraLight.woff2: compress $
+    ../fonts/ttf/YaldeviDEV-ExtraLight.ttf
+  operation = compress
+# Generating ../fonts/webfonts/YaldeviDEV-Light.woff2
+build ../fonts/webfonts/YaldeviDEV-Light.woff2: compress $
+    ../fonts/ttf/YaldeviDEV-Light.ttf
+  operation = compress
+# Generating ../fonts/webfonts/YaldeviDEV-Regular.woff2
+build ../fonts/webfonts/YaldeviDEV-Regular.woff2: compress $
+    ../fonts/ttf/YaldeviDEV-Regular.ttf
+  operation = compress
+# Generating ../fonts/webfonts/YaldeviDEV-Medium.woff2
+build ../fonts/webfonts/YaldeviDEV-Medium.woff2: compress $
+    ../fonts/ttf/YaldeviDEV-Medium.ttf
+  operation = compress
+# Generating ../fonts/webfonts/YaldeviDEV-SemiBold.woff2
+build ../fonts/webfonts/YaldeviDEV-SemiBold.woff2: compress $
+    ../fonts/ttf/YaldeviDEV-SemiBold.ttf
+  operation = compress
+# Generating ../fonts/webfonts/YaldeviDEV-Bold.woff2
+build ../fonts/webfonts/YaldeviDEV-Bold.woff2: compress $
+    ../fonts/ttf/YaldeviDEV-Bold.ttf
+  operation = compress
+# Generating ../fonts/variable/Yaldevi[wght].ttf
+build ../fonts/variable/Yaldevi[wght].ttf: fix $
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpb9nrbr7w
+  operation = fix
+  args = 
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmptvvydis6
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmptvvydis6: $
+    buildTTF instance_ufos/YaldeviDEV-ExtraLight.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp4mmn0ubl
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp4mmn0ubl: $
+    autohint /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmptvvydis6
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/YaldeviDEV-ExtraLight.ttf
+build ../fonts/ttf/YaldeviDEV-ExtraLight.ttf: fix $
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp4mmn0ubl
+  operation = fix
+  args = 
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpv6ps8wzg
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpv6ps8wzg: $
+    buildTTF instance_ufos/YaldeviDEV-Light.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpgva_ix_k
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpgva_ix_k: $
+    autohint /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpv6ps8wzg
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/YaldeviDEV-Light.ttf
+build ../fonts/ttf/YaldeviDEV-Light.ttf: fix $
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpgva_ix_k
+  operation = fix
+  args = 
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpjrkyr5l_
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpjrkyr5l_: $
+    buildTTF instance_ufos/YaldeviDEV-Regular.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp2a2eg0pv
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp2a2eg0pv: $
+    autohint /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpjrkyr5l_
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/YaldeviDEV-Regular.ttf
+build ../fonts/ttf/YaldeviDEV-Regular.ttf: fix $
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp2a2eg0pv
+  operation = fix
+  args = 
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp1a_rhb36
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp1a_rhb36: $
+    buildTTF instance_ufos/YaldeviDEV-Medium.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpni3wicei
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpni3wicei: $
+    autohint /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp1a_rhb36
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/YaldeviDEV-Medium.ttf
+build ../fonts/ttf/YaldeviDEV-Medium.ttf: fix $
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpni3wicei
+  operation = fix
+  args = 
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp0qvrdjnz
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp0qvrdjnz: $
+    buildTTF instance_ufos/YaldeviDEV-SemiBold.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmptrbh2hjh
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmptrbh2hjh: $
+    autohint /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp0qvrdjnz
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/YaldeviDEV-SemiBold.ttf
+build ../fonts/ttf/YaldeviDEV-SemiBold.ttf: fix $
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmptrbh2hjh
+  operation = fix
+  args = 
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpcsaj4psa
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpcsaj4psa: $
+    buildTTF instance_ufos/YaldeviDEV-Bold.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp0d9grp2_
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp0d9grp2_: $
+    autohint /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpcsaj4psa
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/YaldeviDEV-Bold.ttf
+build ../fonts/ttf/YaldeviDEV-Bold.ttf: fix $
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp0d9grp2_
+  operation = fix
+  args = 
+default $
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpzs0ozn_s.buildStatstamp $
+    ../fonts/webfonts/Yaldevi[wght].woff2 $
+    ../fonts/webfonts/YaldeviDEV-ExtraLight.woff2 $
+    ../fonts/webfonts/YaldeviDEV-Light.woff2 $
+    ../fonts/webfonts/YaldeviDEV-Regular.woff2 $
+    ../fonts/webfonts/YaldeviDEV-Medium.woff2 $
+    ../fonts/webfonts/YaldeviDEV-SemiBold.woff2 $
+    ../fonts/webfonts/YaldeviDEV-Bold.woff2

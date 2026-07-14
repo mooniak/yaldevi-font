@@ -1191,7 +1191,7 @@ approxequal,
 asciitilde,
 logicalnot,
 asciicircum,
-infinity,
+"infinity",
 integral,
 Ohm,
 increment,
@@ -1264,7 +1264,7 @@ Tag = wght;
 );
 date = "2021-06-28 04:14:33 +0000";
 designer = "Sol Matas, Rajitha Manaperi, Kosala Senevirathne";
-designerURL = "http://mooniak.com";
+designerURL = "http://www.mooniak.com/";
 disablesNiceNames = 1;
 familyName = "Yaldevi DEV";
 featurePrefixes = (
@@ -1409,7 +1409,6 @@ horizontalStems = (
 );
 iconName = Light_Condensed;
 id = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-name = ExtraLight;
 userData = {
 angle = 5;
 height = 37;
@@ -3034,7 +3033,7 @@ period = -15;
 };
 };
 };
-manufacturer = Mooniak;
+manufacturer = mooniak;
 manufacturerURL = "http://mooniak.com";
 unitsPerEm = 1000;
 userData = {

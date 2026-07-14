@@ -83,5 +83,6 @@ width = 310;
 }
 );
 unicode = 0D82;
-category = Letter;
+category = Mark;
+subCategory = Spacing;
 }
