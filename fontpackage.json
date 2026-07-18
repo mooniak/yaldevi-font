@@ -14,9 +14,9 @@
   "description": "A narrow trilingual typeface for titles and short text on the web, with Sinhala, Tamil and Latin support.",
   "license": "OFL-1.1",
   "channels": [
-    "release",
+    "canary",
     "dev",
-    "nightly"
+    "release"
   ],
   "versions_provider": "tags",
   "repository": {
