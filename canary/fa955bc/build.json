@@ -1,0 +1,194 @@
+{
+  "id": "yaldevi",
+  "family": "Yaldevi",
+  "scripts": [
+    "Sinh",
+    "Taml",
+    "Latn"
+  ],
+  "version": "2.000",
+  "channel": "canary",
+  "commit": "fa955bc4d706911e1c20cea89567e5fd05a58f71",
+  "commit_short": "fa955bc",
+  "ref_name": "dev",
+  "repository": "mooniak/yaldevi-font",
+  "run_url": "https://github.com/mooniak/yaldevi-font/actions/runs/43205096015",
+  "actor": "pathumego",
+  "generated_at": "2026-11-12T11:00:30Z",
+  "qa": {
+    "profile": "googlefonts",
+    "verdict": "fail",
+    "pass_rate": 72,
+    "counts": {
+      "FAIL": 7,
+      "WARN": 24,
+      "SKIP": 62,
+      "INFO": 13,
+      "PASS": 114
+    },
+    "total_checks": 220
+  },
+  "stage": {
+    "n": 10,
+    "name": "Long tail and polish",
+    "cumulative": 110,
+    "total": 110,
+    "gate_met": true,
+    "kernel_checkable_complete": true,
+    "kernel_complete": null,
+    "unverified_kernel_entries": [
+      "classic-conjuncts",
+      "conjunct-i-forms",
+      "ksha",
+      "rakaransaya",
+      "repaya",
+      "yansaya"
+    ]
+  },
+  "files": [
+    {
+      "path": "fonts/ttf/YaldeviCANARY-Bold.ttf",
+      "format": "ttf",
+      "bytes": 506352,
+      "sha256": "d471c177aae3a82b97527569cc0c7d0df53d46eb12f4e597e2c1057d2f1f6d5f",
+      "style": "Bold",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/ttf/YaldeviCANARY-ExtraLight.ttf",
+      "format": "ttf",
+      "bytes": 451232,
+      "sha256": "f77a68570238b43b017e86660edfc3cfdec2c705c7fb6e339302223f4323a2f3",
+      "style": "ExtraLight",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/ttf/YaldeviCANARY-Light.ttf",
+      "format": "ttf",
+      "bytes": 445944,
+      "sha256": "4ebb50daf48953a7eba843755ac825c443d7db43a3d70a069ef2df77da680383",
+      "style": "Light",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/ttf/YaldeviCANARY-Medium.ttf",
+      "format": "ttf",
+      "bytes": 486424,
+      "sha256": "1e2e5c6f7ec91a08b283336a93e1927db1dbe9b4a7097a818844b49362c1aaac",
+      "style": "Medium",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/ttf/YaldeviCANARY-Regular.ttf",
+      "format": "ttf",
+      "bytes": 463008,
+      "sha256": "5a2fab7d05a1403348df04acec9e6314316a036ff46214be87348cd29e80e4f8",
+      "style": "Regular",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/ttf/YaldeviCANARY-SemiBold.ttf",
+      "format": "ttf",
+      "bytes": 501368,
+      "sha256": "73b3c7d37f5772cf5eb07f7d1766533d757350bd8ea252cbfb1dff05efad28d1",
+      "style": "SemiBold",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/variable/YaldeviCANARY[wght].ttf",
+      "format": "ttf",
+      "bytes": 532792,
+      "sha256": "d721d961771427b9035cded22a6e3cf2fb4f20e0a77709d006e254e2e4ce0c48",
+      "style": "Light Extra",
+      "kind": "variable"
+    },
+    {
+      "path": "fonts/webfonts/YaldeviCANARY-Bold.woff2",
+      "format": "woff2",
+      "bytes": 146700,
+      "sha256": "61e370cf4947a320380f67865947bd9b2fc25aca0a7574f6d4d25e0fe77c6170",
+      "style": "Bold",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/webfonts/YaldeviCANARY-ExtraLight.woff2",
+      "format": "woff2",
+      "bytes": 134376,
+      "sha256": "a506f1d4f8a051f4ce908d56607b194ab76e32ba5135a6a8cbf28c7adff0bb63",
+      "style": "ExtraLight",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/webfonts/YaldeviCANARY-Light.woff2",
+      "format": "woff2",
+      "bytes": 144452,
+      "sha256": "e9d457c441f386b333f6064edf23eb4eb78662b2d33fb04a487bc13c05c029a8",
+      "style": "Light",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/webfonts/YaldeviCANARY-Medium.woff2",
+      "format": "woff2",
+      "bytes": 149336,
+      "sha256": "1d479a668b459fc26e669c02bf3742de0e9860ec0721fd614f82e239d7cf6502",
+      "style": "Medium",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/webfonts/YaldeviCANARY-Regular.woff2",
+      "format": "woff2",
+      "bytes": 147548,
+      "sha256": "141e6868e27aba41f1fb2d3992446651879d33bee94e5bcf428591d3e46cff20",
+      "style": "Regular",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/webfonts/YaldeviCANARY-SemiBold.woff2",
+      "format": "woff2",
+      "bytes": 150788,
+      "sha256": "a8efe286cf9ae2bdaa5010ce4c375dce13b5b03d6a57fe66b06720b386dbac49",
+      "style": "SemiBold",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/webfonts/YaldeviCANARY[wght].woff2",
+      "format": "woff2",
+      "bytes": 155756,
+      "sha256": "020d5463c0a3ef8121e2ede1aa8d446af3e7f64cf681a34d777a8ede6e767d4d",
+      "style": "Light Extra",
+      "kind": "variable"
+    }
+  ],
+  "proof_gate": {
+    "stage": 10,
+    "gated": true,
+    "shown": [
+      "classical-texts",
+      "conjuncts",
+      "devanagari-pangram",
+      "display-strings",
+      "indo-arabic-numerals",
+      "kern-pairs",
+      "libreoffice-ui-strings",
+      "marks",
+      "mixed-script",
+      "multiscript",
+      "numerals",
+      "ot-features",
+      "pali-and-sanskrit-words",
+      "prose",
+      "punctuation",
+      "rakar",
+      "shape-groups",
+      "signs-combinations",
+      "sinhala-alphabet",
+      "sinhala-pangram",
+      "spacing_strings",
+      "structured-texts",
+      "tamil-pangram",
+      "test-texts-stages"
+    ],
+    "withheld": [],
+    "missing_for_next": []
+  }
+}

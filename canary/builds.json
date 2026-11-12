@@ -1,0 +1,125 @@
+[
+ {
+  "family": "Yaldevi",
+  "commit": "5a0d46741ab955c85d5e2a441d376f6c340da44f",
+  "commit_short": "5a0d467",
+  "version": "2.000",
+  "generated_at": "2026-11-12T12:09:57Z",
+  "stage": {
+   "n": 10,
+   "name": "Long tail and polish",
+   "cumulative": 110,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": true,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 76,
+   "counts": {
+    "FAIL": 1,
+    "WARN": 24,
+    "SKIP": 62,
+    "INFO": 12,
+    "PASS": 119
+   },
+   "total_checks": 218
+  },
+  "run_url": "https://github.com/mooniak/yaldevi-font/actions/runs/43215135149",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/yaldevi-font"
+ },
+ {
+  "family": "Yaldevi",
+  "commit": "4ebbfed66ae2c1f8c41276c7efc6a5306036f521",
+  "commit_short": "4ebbfed",
+  "version": "2.000",
+  "generated_at": "2026-11-12T11:36:02Z",
+  "stage": {
+   "n": 10,
+   "name": "Long tail and polish",
+   "cumulative": 110,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": true,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 76,
+   "counts": {
+    "FAIL": 1,
+    "WARN": 24,
+    "SKIP": 62,
+    "INFO": 12,
+    "PASS": 119
+   },
+   "total_checks": 218
+  },
+  "run_url": "https://github.com/mooniak/yaldevi-font/actions/runs/43210272356",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/yaldevi-font"
+ },
+ {
+  "family": "Yaldevi",
+  "commit": "fa955bc4d706911e1c20cea89567e5fd05a58f71",
+  "commit_short": "fa955bc",
+  "version": "2.000",
+  "generated_at": "2026-11-12T11:00:30Z",
+  "stage": {
+   "n": 10,
+   "name": "Long tail and polish",
+   "cumulative": 110,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": true,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 72,
+   "counts": {
+    "FAIL": 7,
+    "WARN": 24,
+    "SKIP": 62,
+    "INFO": 13,
+    "PASS": 114
+   },
+   "total_checks": 220
+  },
+  "run_url": "https://github.com/mooniak/yaldevi-font/actions/runs/43205096015",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/yaldevi-font"
+ }
+]
