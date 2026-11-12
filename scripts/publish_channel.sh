@@ -26,6 +26,8 @@ find fonts -type f \( -name '*.ttf' -o -name '*.otf' -o -name '*.woff2' \) -exec
 [ -f out/fontstatus.json ] && cp out/fontstatus.json "$OUT/"          # decision 1: manifest as an asset
 for lic in OFL.txt EULA.txt; do if [ -f "$lic" ]; then cp "$lic" "$OUT/"; fi; done
 [ -f documentation/ARTICLE.en_us.html ] && cp documentation/ARTICLE.en_us.html "$OUT/" || true
+# stage-gated PDF proof books (dev/release channels; written by build_pages.py --pdf)
+for pdf in out/proofs-pdf/*.pdf; do if [ -f "$pdf" ]; then cp "$pdf" "$OUT/"; fi; done
 
 echo "publish_channel: $CHANNEL — assets:"; ls -1 "$OUT"
 

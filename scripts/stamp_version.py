@@ -11,7 +11,6 @@ derivation + OpenFV helpers from the sibling ``build_manifest.py``:
   canary  -> ``Version X.YYY; [<sha7>]-dev``   base = the source version already in the font
   dev     -> ``Version X.YYY; DEV``            base = the ``vX.YYY-dev.N`` tag
   release -> ``Version X.YYY``  (bare)         base = the ``vX.YYY`` tag
-  local   -> no-op (nothing published locally)
 
 Also suffixes the channel onto the **menu-facing** names — family (ID 1/16), full name
 (ID 4), PostScript name (ID 6/25), and any fvar named-instance PostScript names — so a
@@ -20,18 +19,27 @@ canary/dev build doesn't sit name-identical to a release build in the OS font me
 subfamily (ID 2/17) is left untouched. release writes bare names (no suffix), matching
 the same "absence means release" rule as name ID 5.
 
-**License (every build, local included).** If ``fontpackage.json`` declares
+**License (every build).** If ``fontpackage.json`` declares
 ``"tier": "premium"``, name ID 13 is set to the Mooniak Fonts EULA notice and name ID 14
 (license URL) is removed — whatever the source said. A premium binary must never carry an
 OFL grant, so a failure here fails the step (unlike the version stamp, which never does).
 Free fonts are left exactly as built.
 
-Usage (in a repo root, after the build):  python3 scripts/stamp_version.py
+Filenames: with ``--rename-files`` (what ``mnik build`` uses) the channel suffix is also put
+into the built files' names — ``AbhayaLibre-Bold.ttf`` -> ``AbhayaLibreDEV-Bold.ttf``,
+``AbhayaLibre[wght].ttf`` -> ``AbhayaLibreCANARY[wght].ttf`` — matching the PostScript name.
+CI doesn't pass it (its asset names are unchanged).
+
+There is no "local" channel: the channel is always one of canary | dev | release, from the CI
+trigger or ``MNIK_CHANNEL`` (``mnik build`` asks you).
+
+Usage (in a repo root, after the build):  python3 scripts/stamp_version.py [repo] [--rename-files]
 """
 from __future__ import annotations
 
 import json
 import os
+import re
 import sys
 from pathlib import Path
 
@@ -202,16 +210,40 @@ def stamp_font(path: Path, channel: str, tag_base: str | None, sha: str) -> str 
         font.close()
 
 
-def main(argv=None) -> int:
-    argv = argv if argv is not None else sys.argv[1:]
-    env = dict(os.environ)
-    channel = bm._derive_channel(env, env.get("MNIK_CHANNEL") or None)
-    repo = Path(argv[0]) if argv else Path(".")
-    fonts_root = repo / "fonts"
-    fonts = ([p for p in sorted(fonts_root.rglob("*"))
-              if p.is_file() and p.suffix.lower() in bm.FONT_EXTS]
-             if fonts_root.is_dir() else [])
+def channel_filename(name: str, channel: str) -> str:
+    """`AbhayaLibre-Bold.ttf` -> `AbhayaLibreDEV-Bold.ttf` (suffix goes on the family
+    root, before the first `-` or `[`). release / already-suffixed names are unchanged."""
+    suffix = CHANNEL_SUFFIX.get(channel, "")
+    if not suffix:
+        return name
+    m = re.match(r"^([^-\[.]+)(.*)$", name)
+    if not m or m.group(1).endswith(suffix):
+        return name
+    return m.group(1) + suffix + m.group(2)
 
+
+def rename_for_channel(path: Path, channel: str) -> Path:
+    new = path.with_name(channel_filename(path.name, channel))
+    if new != path:
+        path.rename(new)
+    return new
+
+
+def list_fonts(repo: Path) -> list[Path]:
+    root = repo / "fonts"
+    return ([p for p in sorted(root.rglob("*"))
+             if p.is_file() and p.suffix.lower() in bm.FONT_EXTS] if root.is_dir() else [])
+
+
+def stamp_repo(repo: Path, channel: str, sha: str = "", tag_base: str | None = None,
+               rename: bool = False, log=print) -> int:
+    """Stamp every built font in ``repo/fonts``: premium license, then version + names
+    (+ filenames if ``rename``) for ``channel``. Returns the number of fonts stamped.
+    Raises ValueError for an unknown channel; a premium license failure raises RuntimeError.
+    """
+    if channel not in CHANNEL_SUFFIX:
+        raise ValueError(f"unknown channel {channel!r} (use canary | dev | release)")
+    fonts = list_fonts(repo)
     tier = _tier(repo)
     if tier == "premium":
         failed = []
@@ -220,30 +252,45 @@ def main(argv=None) -> int:
                 stamp_license(p)
             except Exception as e:
                 failed.append(f"{p.relative_to(repo)} ({e})")
-        print(f"stamp: premium — Mooniak Fonts EULA license stamped into "
-              f"{len(fonts) - len(failed)} file(s)")
+        log(f"stamp: premium — Mooniak Fonts EULA license stamped into "
+            f"{len(fonts) - len(failed)} file(s)")
         if failed:
-            print("stamp: ERROR — could not stamp the EULA license into: " + ", ".join(failed))
-            return 1
+            raise RuntimeError("could not stamp the EULA license into: " + ", ".join(failed))
     elif tier is None:
-        print("stamp: WARNING — fontpackage.json declares no 'tier' (free|premium); "
-              "license strings left as built")
-
-    if channel == "local":
-        print("stamp: local build — no version to stamp")
-        return 0
-    sha = env.get("GITHUB_SHA") or ""
-    tag_base = _base_from_tag(env) if channel in ("dev", "release") else None
+        log("stamp: WARNING — fontpackage.json declares no 'tier' (free|premium); "
+            "license strings left as built")
     n = 0
     for p in fonts:
         try:
             value = stamp_font(p, channel, tag_base, sha)
             if value:
                 n += 1
-                print(f"  {p.relative_to(repo)} -> {value}")
+                q = rename_for_channel(p, channel) if rename else p
+                log(f"  {q.relative_to(repo)} -> {value}")
         except Exception as e:  # never fail the build on a single font
-            print(f"  {p}: SKIP ({e})")
-    print(f"stamp: channel={channel}, stamped {n} file(s)")
+            log(f"  {p}: SKIP ({e})")
+    log(f"stamp: channel={channel}, stamped {n} file(s)")
+    return n
+
+
+def main(argv=None) -> int:
+    argv = list(argv if argv is not None else sys.argv[1:])
+    rename = "--rename-files" in argv
+    argv = [a for a in argv if a != "--rename-files"]
+    env = dict(os.environ)
+    try:
+        channel = bm._derive_channel(env, env.get("MNIK_CHANNEL") or None)
+    except ValueError as e:
+        print(f"stamp: ERROR — {e}")
+        return 1
+    repo = Path(argv[0]) if argv else Path(".")
+    sha = env.get("GITHUB_SHA") or ""
+    tag_base = _base_from_tag(env) if channel in ("dev", "release") else None
+    try:
+        stamp_repo(repo, channel, sha=sha, tag_base=tag_base, rename=rename)
+    except (ValueError, RuntimeError) as e:
+        print(f"stamp: ERROR — {e}")
+        return 1
     return 0
 
 
