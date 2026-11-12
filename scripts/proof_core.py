@@ -143,11 +143,15 @@ def fallback_section() -> Section:
 
 
 # ── font files ──────────────────────────────────────────────────────────────
-def font_files(repo_path: Path) -> list[Path]:
-    """Binaries to proof for one repo: ttf preferred, else otf, else variable.
-    (A variable font's default instance makes a poor proof target, so statics win.)"""
+def font_files(repo_path: Path, prefer_variable: bool = False) -> list[Path]:
+    """Binaries to proof for one repo.
+
+    Default (local ``mnik proof-pdf``): ttf, else otf, else variable -- a variable font's
+    default instance makes a poor print proof, so statics win. ``prefer_variable`` (the
+    Pages site) flips that: variable, else ttf, else otf, so a build that ships both is
+    proofed once from its variable font rather than once per static instance."""
     root = repo_path / "fonts"
-    for sub in ("ttf", "otf", "variable"):
+    for sub in (("variable", "ttf", "otf") if prefer_variable else ("ttf", "otf", "variable")):
         d = root / sub
         if d.is_dir():
             files = sorted(p for p in d.rglob("*")
