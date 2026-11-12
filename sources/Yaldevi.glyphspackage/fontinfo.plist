@@ -1303,7 +1303,7 @@ disablesNiceNames = 1;
 familyName = Yaldevi;
 featurePrefixes = (
 {
-code = "languagesystem DFLT dflt;\012languagesystem sinh dflt;\012languagesystem taml dflt;";
+code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem sinh dflt;\012languagesystem taml dflt;";
 name = Languagesystems;
 },
 {
@@ -1443,6 +1443,7 @@ horizontalStems = (
 );
 iconName = Light_Condensed;
 id = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
+name = ExtraLight;
 userData = {
 angle = 5;
 height = 37;

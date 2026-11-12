@@ -2,6 +2,12 @@
 glyphname = J;
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{225, 768}";
+}
+);
 background = {
 paths = (
 {
@@ -183,6 +189,12 @@ nodes = (
 width = 330;
 },
 {
+anchors = (
+{
+name = top;
+position = "{203, 768}";
+}
+);
 background = {
 paths = (
 {

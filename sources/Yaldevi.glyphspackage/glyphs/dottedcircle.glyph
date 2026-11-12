@@ -2,6 +2,28 @@
 glyphname = dottedcircle;
 layers = (
 {
+anchors = (
+{
+name = MatraIi;
+position = "{392, 637}";
+},
+{
+name = bottom;
+position = "{392, -29}";
+},
+{
+name = ogonek;
+position = "{392, -29}";
+},
+{
+name = tm_halant;
+position = "{392, 768}";
+},
+{
+name = top;
+position = "{392, 705}";
+}
+);
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
 paths = (
 {
@@ -212,6 +234,28 @@ nodes = (
 width = 784;
 },
 {
+anchors = (
+{
+name = MatraIi;
+position = "{375, 637}";
+},
+{
+name = bottom;
+position = "{375, 0}";
+},
+{
+name = ogonek;
+position = "{375, 0}";
+},
+{
+name = tm_halant;
+position = "{375, 732}";
+},
+{
+name = top;
+position = "{375, 676}";
+}
+);
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
 paths = (
 {
