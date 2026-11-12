@@ -227,7 +227,9 @@ nodes = (
 );
 }
 );
-width = 1163;
+width = 1152;
 }
 );
+leftMetricsKey = "jha-sinh";
+rightMetricsKey = "jha-sinh";
 }

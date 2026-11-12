@@ -243,8 +243,10 @@ nodes = (
 );
 }
 );
-width = 647;
+width = 638;
 }
 );
+leftMetricsKey = "o-sinh";
+rightMetricsKey = "o-sinh";
 unicode = 0DB9;
 }

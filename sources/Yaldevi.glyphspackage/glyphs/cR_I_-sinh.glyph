@@ -37,13 +37,13 @@ nodes = (
 );
 }
 );
-width = 614;
+width = 623;
 },
 {
 components = (
 {
 name = "cI-sinh";
-transform = "{1, 0, 0, 1, 9, 0}";
+transform = "{1, 0, 0, 1, 10, 0}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -51,31 +51,33 @@ paths = (
 {
 closed = 1;
 nodes = (
-"59 -118 CURVE",
-"101 -118 LINE",
-"101 -213 OFFCURVE",
-"188 -278 OFFCURVE",
-"317 -278 CURVE SMOOTH",
-"437 -278 OFFCURVE",
-"518 -213 OFFCURVE",
-"518 -118 CURVE SMOOTH",
-"518 -27 OFFCURVE",
-"485 23 OFFCURVE",
-"426 41 CURVE",
-"410 72 LINE",
-"444 76 LINE",
-"517 51 OFFCURVE",
-"560 -16 OFFCURVE",
-"560 -118 CURVE SMOOTH",
-"560 -243 OFFCURVE",
-"454 -320 OFFCURVE",
-"317 -320 CURVE SMOOTH",
-"171 -320 OFFCURVE",
-"59 -243 OFFCURVE"
+"60 -118 CURVE",
+"102 -118 LINE",
+"102 -213 OFFCURVE",
+"189 -278 OFFCURVE",
+"318 -278 CURVE SMOOTH",
+"438 -278 OFFCURVE",
+"519 -213 OFFCURVE",
+"519 -118 CURVE SMOOTH",
+"519 -27 OFFCURVE",
+"486 23 OFFCURVE",
+"427 41 CURVE",
+"411 72 LINE",
+"445 76 LINE",
+"518 51 OFFCURVE",
+"561 -16 OFFCURVE",
+"561 -118 CURVE SMOOTH",
+"561 -243 OFFCURVE",
+"455 -320 OFFCURVE",
+"318 -320 CURVE SMOOTH",
+"172 -320 OFFCURVE",
+"60 -243 OFFCURVE"
 );
 }
 );
-width = 616;
+width = 618;
 }
 );
+leftMetricsKey = "cRa-sinh";
+rightMetricsKey = "cRa-sinh";
 }

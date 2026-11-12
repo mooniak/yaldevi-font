@@ -365,8 +365,10 @@ nodes = (
 );
 }
 );
-width = 979;
+width = 969;
 }
 );
+leftMetricsKey = "ta-sinh";
+rightMetricsKey = "ga-sinh";
 unicode = 0DAB;
 }

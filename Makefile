@@ -2,6 +2,11 @@ SOURCES=$(shell python3 scripts/read-config.py --sources )
 FAMILY=$(shell python3 scripts/read-config.py --family )
 DRAWBOT_SCRIPTS=$(shell ls documentation/*.py)
 DRAWBOT_OUTPUT=$(shell ls documentation/*.py | sed 's/\.py/.png/g')
+# Distribution tier from fontpackage.json ("free" | "premium"; missing = premium).
+# Free fonts are QA'd against the googlefonts profile (which also enforces OFL);
+# premium fonts against the license-neutral universal profile.
+TIER=$(shell python3 -c "import json;print(json.load(open('fontpackage.json')).get('tier') or 'premium')" 2>/dev/null || echo premium)
+QA_PROFILE=$(if $(filter free,$(TIER)),googlefonts,universal)
 
 help:
 	@echo "###"
@@ -32,7 +37,7 @@ venv/touchfile: requirements.txt
 
 test: build.stamp
 	which fontspector || (echo "fontspector not found. Please install it with 'cargo binstall fontspector'." && exit 1)
-	TOCHECK=$$(find fonts/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/ttf -type f 2>/dev/null); fi ; mkdir -p out/ out/fontspector; fontspector --profile googlefonts -l warn --full-lists --succinct --html out/fontspector/fontspector-report.html --ghmarkdown out/fontspector/fontspector-report.md --badges out/badges $$TOCHECK  || echo '::warning file=sources/config.yaml,title=fontspector failures::The fontspector QA check reported errors in your font. Please check the generated report.'
+	TOCHECK=$$(find fonts/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/ttf -type f 2>/dev/null); fi ; mkdir -p out/ out/fontspector; fontspector --profile $(QA_PROFILE) -l warn --full-lists --succinct --html out/fontspector/fontspector-report.html --ghmarkdown out/fontspector/fontspector-report.md --badges out/badges $$TOCHECK  || echo '::warning file=sources/config.yaml,title=fontspector failures::The fontspector QA check reported errors in your font. Please check the generated report.'
 
 proof: venv build.stamp
 	which diff3proof || (echo "diff3proof not found. Please install it with 'cargo binstall diffenator3'." && exit 1)

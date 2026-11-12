@@ -155,7 +155,7 @@ nodes = (
 );
 }
 );
-width = 874;
+width = 848;
 },
 {
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -311,7 +311,9 @@ nodes = (
 );
 }
 );
-width = 831;
+width = 787;
 }
 );
+leftMetricsKey = "ta-sinh";
+rightMetricsKey = "da-sinh";
 }

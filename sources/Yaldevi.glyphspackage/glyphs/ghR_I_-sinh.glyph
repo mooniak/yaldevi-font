@@ -5,7 +5,7 @@ layers = (
 components = (
 {
 name = "ghI-sinh";
-transform = "{1, 0, 0, 1, 5, 0}";
+transform = "{1, 0, 0, 1, 18, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -13,31 +13,31 @@ paths = (
 {
 closed = 1;
 nodes = (
-"187 -323 OFFCURVE",
-"344 -323 CURVE SMOOTH",
-"501 -323 OFFCURVE",
-"639 -255 OFFCURVE",
-"639 -90 CURVE SMOOTH",
-"639 -18 OFFCURVE",
-"612 63 OFFCURVE",
-"540 90 CURVE",
-"423 82 LINE",
-"448 26 LINE",
-"511 -8 OFFCURVE",
-"514 -42 OFFCURVE",
-"514 -79 CURVE SMOOTH",
-"514 -160 OFFCURVE",
-"448 -203 OFFCURVE",
-"344 -203 CURVE SMOOTH",
-"239 -203 OFFCURVE",
-"173 -158 OFFCURVE",
-"173 -90 CURVE",
-"48 -90 LINE",
-"48 -255 OFFCURVE"
+"200 -323 OFFCURVE",
+"357 -323 CURVE SMOOTH",
+"514 -323 OFFCURVE",
+"652 -255 OFFCURVE",
+"652 -90 CURVE SMOOTH",
+"652 -18 OFFCURVE",
+"625 63 OFFCURVE",
+"553 90 CURVE",
+"436 82 LINE",
+"461 26 LINE",
+"524 -8 OFFCURVE",
+"527 -42 OFFCURVE",
+"527 -79 CURVE SMOOTH",
+"527 -160 OFFCURVE",
+"461 -203 OFFCURVE",
+"357 -203 CURVE SMOOTH",
+"252 -203 OFFCURVE",
+"186 -158 OFFCURVE",
+"186 -90 CURVE",
+"61 -90 LINE",
+"61 -255 OFFCURVE"
 );
 }
 );
-width = 681;
+width = 682;
 },
 {
 components = (
@@ -78,4 +78,6 @@ nodes = (
 width = 680;
 }
 );
+leftMetricsKey = "ghRa-sinh";
+rightMetricsKey = "ghRa-sinh";
 }

@@ -83,7 +83,9 @@ nodes = (
 );
 }
 );
-width = 620;
+width = 610;
 }
 );
+leftMetricsKey = "tha-sinh";
+rightMetricsKey = "tha-sinh";
 }

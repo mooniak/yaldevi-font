@@ -108,4 +108,6 @@ nodes = (
 width = 756;
 }
 );
+leftMetricsKey = "ga-sinh";
+rightMetricsKey = "ga-sinh";
 }

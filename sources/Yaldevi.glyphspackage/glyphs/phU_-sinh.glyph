@@ -83,7 +83,9 @@ nodes = (
 );
 }
 );
-width = 623;
+width = 630;
 }
 );
+leftMetricsKey = "pha-sinh";
+rightMetricsKey = "pha-sinh";
 }

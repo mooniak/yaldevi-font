@@ -51,6 +51,15 @@ jobs:
         shell: bash
         # Set the archive name to repo name + "-fonts" e.g "radiocanadafonts-fonts.zip"
         run: echo "ZIP_NAME=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')-fonts" >> $GITHUB_ENV
+      - name: Read distribution tier
+        id: tier
+        shell: bash
+        # "free" | "premium" from fontpackage.json; anything else counts as premium (fail closed).
+        # Premium fonts never deploy to GitHub Pages, even from a public repo.
+        run: |
+          T=$(python3 -c "import json;print(json.load(open('fontpackage.json')).get('tier') or 'premium')" 2>/dev/null || echo premium)
+          echo "TIER=$T" >> $GITHUB_ENV
+          echo "tier=$T" >> $GITHUB_OUTPUT
 
       # If a new release is cut, use the release tag to auto-bump the source files
       # - name: Bump release
@@ -79,7 +88,7 @@ jobs:
       - name: Set up test result site
         run: cp scripts/index.html out/index.html
       - name: Collect deployment assets
-        if: ${{ github.ref_name == github.event.repository.default_branch && github.event.repository.private == false }}
+        if: ${{ github.ref_name == github.event.repository.default_branch && github.event.repository.private == false && env.TIER == 'free' }}
         uses: actions/upload-pages-artifact@v5
         with:
           path: ./out
@@ -113,10 +122,11 @@ jobs:
           bash scripts/publish_channel.sh "$CH"
     outputs:
       zip_name: ${{ env.ZIP_NAME }}
+      tier: ${{ steps.tier.outputs.tier }}
 
   deploy:
     name: Deploy results to GitHub Pages
-    if: ${{ github.ref_name == github.event.repository.default_branch && github.event.repository.private == false }}
+    if: ${{ github.ref_name == github.event.repository.default_branch && github.event.repository.private == false && needs.build.outputs.tier == 'free' }}
     needs: build
     runs-on: ubuntu-latest
     permissions:

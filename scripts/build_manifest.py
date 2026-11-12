@@ -317,8 +317,9 @@ def _sinhala_coverage(repo: Path, files: list[dict]) -> dict | None:
     """coverage.sinhala_design_stage for Sinhala fonts; None if not applicable/available.
 
     Delegates to the sibling ``sinhala_coverage`` module (also mnik-free, reads its own
-    sibling ``stages.json`` off disk -- no network). See tools/sinhala-design-stages/ for
-    the model's authoring source and docs/tooling-roadmap.md §4 for the design.
+    sibling ``stages.json`` off disk -- no network). The model is authored upstream in
+    mooniak/sinhala-font-tools; tools/sinhala-design-stages/VENDORED.md records the
+    provenance and docs/tooling-roadmap.md §4 the design.
     """
     fp = repo / "fontpackage.json"
     scripts: list = []

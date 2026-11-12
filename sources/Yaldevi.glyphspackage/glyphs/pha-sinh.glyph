@@ -219,8 +219,10 @@ nodes = (
 );
 }
 );
-width = 630;
+width = 631;
 }
 );
+leftMetricsKey = "pa-sinh";
+rightMetricsKey = "ddha-sinh";
 unicode = 0DB5;
 }

@@ -6,32 +6,36 @@ components = (
 {
 alignment = -1;
 name = "esign-sinh";
+transform = "{1, 0, 0, 1, 7, 0}";
 },
 {
 alignment = -1;
 name = "esign-sinh";
-transform = "{1, 0, 0, 1, 543, 0}";
+transform = "{1, 0, 0, 1, 550, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 1121;
+width = 1093;
 },
 {
 components = (
 {
 alignment = -1;
 name = "esign-sinh";
+transform = "{1, 0, 0, 1, -2, 0}";
 },
 {
 alignment = -1;
 name = "esign-sinh";
-transform = "{1, 0, 0, 1, 501, 0}";
+transform = "{1, 0, 0, 1, 499, 0}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 999;
+width = 1030;
 }
 );
+leftMetricsKey = "ga-sinh";
+rightMetricsKey = "esign-sinh";
 unicode = 0DDB;
 script = sinhala;
 category = Mark;

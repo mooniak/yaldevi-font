@@ -153,7 +153,7 @@ nodes = (
 );
 }
 );
-width = 740;
+width = 696;
 },
 {
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -307,9 +307,11 @@ nodes = (
 );
 }
 );
-width = 656;
+width = 622;
 }
 );
+leftMetricsKey = "vocalicrsign-sinh";
+rightMetricsKey = "ga-sinh";
 unicode = 0DF2;
 script = sinhala;
 category = Mark;

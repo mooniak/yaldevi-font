@@ -6,42 +6,46 @@ components = (
 {
 alignment = -1;
 name = "esign-sinh";
+transform = "{1, 0, 0, 1, 7, 0}";
 },
 {
 alignment = -1;
 name = bullet;
-transform = "{1, 0, 0, 1, 502, 0}";
+transform = "{1, 0, 0, 1, 509, 0}";
 },
 {
 alignment = -1;
 name = "vocaliclsign-sinh";
-transform = "{1, 0, 0, 1, 895, 0}";
+transform = "{1, 0, 0, 1, 902, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 1287;
+width = 1419;
 },
 {
 components = (
 {
 alignment = -1;
 name = "esign-sinh";
+transform = "{1, 0, 0, 1, -2, 0}";
 },
 {
 alignment = -1;
 name = bullet;
-transform = "{1, 0, 0, 1, 501, 0}";
+transform = "{1, 0, 0, 1, 499, 0}";
 },
 {
 alignment = -1;
 name = "vocaliclsign-sinh";
-transform = "{1, 0, 0, 1, 886, 0}";
+transform = "{1, 0, 0, 1, 884, 0}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 1209;
+width = 1301;
 }
 );
+leftMetricsKey = "ga-sinh";
+rightMetricsKey = "ga-sinh";
 unicode = 0DDE;
 script = sinhala;
 category = Mark;

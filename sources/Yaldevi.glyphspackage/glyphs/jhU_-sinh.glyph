@@ -103,7 +103,7 @@ nodes = (
 );
 }
 );
-width = 1207;
+width = 1210;
 },
 {
 components = (
@@ -207,7 +207,9 @@ nodes = (
 );
 }
 );
-width = 1162;
+width = 1152;
 }
 );
+leftMetricsKey = "jha-sinh";
+rightMetricsKey = "jha-sinh";
 }

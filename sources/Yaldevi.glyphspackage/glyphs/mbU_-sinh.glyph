@@ -305,7 +305,9 @@ nodes = (
 );
 }
 );
-width = 648;
+width = 647;
 }
 );
+leftMetricsKey = "mba-sinh";
+rightMetricsKey = "mba-sinh";
 }
