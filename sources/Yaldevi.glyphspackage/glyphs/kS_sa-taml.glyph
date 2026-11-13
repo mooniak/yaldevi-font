@@ -8,12 +8,12 @@ name = MatraI.alt8;
 position = "{1429, 580}";
 },
 {
-name = MatraIi.alt1;
+name = MatraIi;
 position = "{1385, 628}";
 },
 {
-name = virama;
-position = "{874, 0}";
+name = tm_halant;
+position = "{1119, 723}";
 }
 );
 components = (
@@ -124,12 +124,12 @@ name = MatraI.alt8;
 position = "{1312, 638}";
 },
 {
-name = MatraIi.alt1;
+name = MatraIi;
 position = "{1321, 633}";
 },
 {
-name = virama;
-position = "{823, 0}";
+name = tm_halant;
+position = "{1079, 723}";
 }
 );
 components = (

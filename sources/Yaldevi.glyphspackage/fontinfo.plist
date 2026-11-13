@@ -1303,7 +1303,7 @@ disablesNiceNames = 1;
 familyName = Yaldevi;
 featurePrefixes = (
 {
-code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem sinh dflt;\012languagesystem taml dflt;";
+code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem sinh dflt;\012languagesystem taml dflt;\012languagesystem tml2 dflt;";
 name = Languagesystems;
 },
 {
@@ -1351,7 +1351,7 @@ code = "script latn;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub sc
 name = locl;
 },
 {
-code = "  script sinh;\012      lookup sinakhands;\012	  lookup sinakhands_reph;\012      lookup sin_touch;\012      lookup taml-akhands;\012";
+code = "  script sinh;\012      lookup sinakhands;\012	  lookup sinakhands_reph;\012      lookup sin_touch;\012\012  script taml;\012      lookup taml-akhands;\012\012  script tml2;\012      lookup taml-akhands;\012";
 name = akhn;
 },
 {
@@ -1367,7 +1367,7 @@ code = "  script sinh;\012      lookup sinsplit_matra;";
 name = pstf;
 },
 {
-code = "  script sinh;\012      lookup sin_virama;\012      lookup sinabvs_1;\012      lookup sinabvs_2;\012      lookup sinabvs_3;\012\012  script taml;\012	  lookup taml-above_base_sub_1;\012	  lookup taml-above_base_sub_2;\012";
+code = "  script sinh;\012      lookup sin_virama;\012      lookup sinabvs_1;\012      lookup sinabvs_2;\012      lookup sinabvs_3;\012\012  script taml;\012	  lookup taml-above_base_sub_1;\012	  lookup taml-above_base_sub_2;\012\012  script tml2;\012	  lookup taml-above_base_sub_1;\012	  lookup taml-above_base_sub_2;\012";
 name = abvs;
 },
 {
@@ -1375,8 +1375,28 @@ code = "  script sinh;\012      lookup sinblws_1;\012      lookup sinblws_2;\012
 name = blws;
 },
 {
-code = "  script sinh;\012      lookup sin_psts;\012  script taml;\012	  lookup taml-post_base_sub_1;\012	  lookup taml-post_base_sub_2;\012	  lookup taml-post_base_sub_3;\012";
+code = "  script sinh;\012      lookup sin_psts;\012  script taml;\012	  lookup taml-post_base_sub_1;\012	  lookup taml-post_base_sub_2;\012	  lookup taml-post_base_sub_3;\012\012  script tml2;\012	  lookup taml-post_base_sub_1;\012	  lookup taml-post_base_sub_2;\012	  lookup taml-post_base_sub_3;\012";
 name = psts;
+},
+{
+code = "  script taml;\012      lookup taml-stylistic_alternates_1;\012      lookup taml-stylistic_alternates_2;\012      lookup taml-stylistic_alternates_3;\012      lookup taml-stylistic_alternates_4;\012\012  script tml2;\012      lookup taml-stylistic_alternates_1;\012      lookup taml-stylistic_alternates_2;\012      lookup taml-stylistic_alternates_3;\012      lookup taml-stylistic_alternates_4;\012";
+name = salt;
+},
+{
+code = "  script taml;\012      lookup taml-stylistic_alternates_1;\012\012  script tml2;\012      lookup taml-stylistic_alternates_1;\012";
+name = ss01;
+},
+{
+code = "  script taml;\012      lookup taml-stylistic_alternates_2;\012\012  script tml2;\012      lookup taml-stylistic_alternates_2;\012";
+name = ss02;
+},
+{
+code = "  script taml;\012      lookup taml-stylistic_alternates_3;\012\012  script tml2;\012      lookup taml-stylistic_alternates_3;\012";
+name = ss03;
+},
+{
+code = "  script taml;\012      lookup taml-stylistic_alternates_4;\012\012  script tml2;\012      lookup taml-stylistic_alternates_4;\012";
+name = ss04;
 },
 {
 code = "  pos touch-sinh <0 0 -110 0>;\012";
