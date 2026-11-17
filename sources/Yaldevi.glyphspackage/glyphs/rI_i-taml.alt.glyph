@@ -1,11 +1,11 @@
 {
-glyphname = "rI.alt-taml";
+glyphname = "rIi-taml.alt";
 layers = (
 {
 components = (
 {
-name = "isign.alt2-taml";
-transform = "{1, 0, 0, 1, 647, 0}";
+name = "iisign-taml";
+transform = "{1, 0, 0, 1, 544, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -26,13 +26,13 @@ nodes = (
 );
 }
 );
-width = 877;
+width = 664;
 },
 {
 components = (
 {
-name = "isign.alt2-taml";
-transform = "{1, 0, 0, 1, 595, 0}";
+name = "iisign-taml";
+transform = "{1, 0, 0, 1, 478, 0}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -53,7 +53,7 @@ nodes = (
 );
 }
 );
-width = 777;
+width = 640;
 }
 );
 }

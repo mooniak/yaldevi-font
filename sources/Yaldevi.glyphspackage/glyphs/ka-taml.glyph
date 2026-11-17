@@ -16,7 +16,7 @@ name = MatraI.stylalt1;
 position = "{150, 313}";
 },
 {
-name = MatraIi;
+name = iisign;
 position = "{541, 637}";
 },
 {
@@ -24,7 +24,7 @@ name = MatraIi.stylalt1;
 position = "{155, 319}";
 },
 {
-name = tm_halant;
+name = virama;
 position = "{427, 768}";
 }
 );
@@ -99,7 +99,7 @@ name = MatraI.stylalt1;
 position = "{138, 346}";
 },
 {
-name = MatraIi;
+name = iisign;
 position = "{551, 637}";
 },
 {
@@ -107,7 +107,7 @@ name = MatraIi.stylalt1;
 position = "{138, 346}";
 },
 {
-name = tm_halant;
+name = virama;
 position = "{427, 732}";
 }
 );

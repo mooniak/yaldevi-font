@@ -1,5 +1,51 @@
 {
 .appVersion = "3532";
+classes = (
+{
+code = "ka-taml ta-taml";
+name = isign_ka;
+},
+{
+code = "ca-taml";
+name = isign_ca;
+},
+{
+code = "nya-taml na-taml";
+name = isign_na;
+},
+{
+code = "nga-taml pa-taml ya-taml va-taml";
+name = isign_pa;
+},
+{
+code = "ja-taml ma-taml rra-taml zha-taml sha-taml ha-taml";
+name = isign_ma;
+},
+{
+code = "la-taml sa-taml";
+name = isign_la;
+},
+{
+code = "ssa-taml kSsa-taml";
+name = isign_ssa;
+},
+{
+code = "la-taml sa-taml";
+name = iisign_la;
+},
+{
+code = "nga-taml pa-taml ya-taml va-taml";
+name = usign_pa;
+},
+{
+code = "nna-taml nnna-taml la-taml lla-taml";
+name = aisign_la;
+},
+{
+code = "virama-taml anusvaraya-taml isign-taml iisign-taml";
+name = ra_alt_next;
+}
+);
 copyright = "Copyright 2026 The Yaldevi Project Authors (https://github.com/mooniak/yaldevi-font)";
 customParameters = (
 {
@@ -824,16 +870,16 @@ value = (
 "zhU-taml",
 "zhUu-taml",
 "aisign-taml.alt",
-"isign.alt1-taml",
-"isign.alt2-taml",
-"isign.alt3-taml",
-"isign.alt4-taml",
-"isign.alt5-taml",
-"isign.alt6-taml",
-"isign.alt7-taml",
+"isign-taml.ssa",
+"isign-taml.ma",
+"isign-taml.la",
+"isign-taml.ca",
+"isign-taml.ka",
+"isign-taml.na",
+"isign-taml.pa",
 "iisign.alt-taml",
-"iisign.alt1-taml",
-"usign.alt1-taml",
+"iisign-taml.la",
+"usign-taml.pa",
 A,
 Aacute,
 Abreve,
@@ -1191,7 +1237,7 @@ approxequal,
 asciitilde,
 logicalnot,
 asciicircum,
-infinity,
+"infinity",
 integral,
 Ohm,
 increment,
@@ -1311,8 +1357,12 @@ code = "#---- --AKHN ------------\012\012lookup sinakhands {\012  sub ka-sinh vi
 name = Prefix;
 },
 {
-code = "@TA_MATRA_U_1 = [ nga-taml pa-taml ya-taml va-taml ];\012\012@TA_MATRA_I_1 = [ ssa-taml kSsa-taml ];\012\012@TA_MATRA_I_2 = [ ma-taml sha-taml ha-taml ];\012\012@TA_MATRA_I_3 = [ la-taml sa-taml ];\012\012@TA_MATRA_I_4 = [ ca-taml ];\012\012@TA_MATRA_I_5 = [ ka-taml ta-taml ];\012\012@TA_MATRA_I_6 = [ nya-taml na-taml ];\012\012@TA_MATRA_I_7 = [ nga-taml pa-taml va-taml ];\012\012@TA_MATRA_Ii_1 = [ la-taml sa-taml ];\012\012\012\012#---- AKHN ----\012\012lookup taml-akhands {\012    sub ka-taml virama-taml ssa-taml by kSsa-taml;\012    sub sha-taml virama-taml ra-taml iisign-taml by shree-taml;\012    sub sa-taml virama-taml ra-taml iisign-taml by shree-taml;\012} taml-akhands;\012\012#---- ABVS ----\012\012lookup taml-above_base_sub_1 {\012    sub tta-taml isign-taml by ttI-taml;\012    sub rra-taml isign-taml by rrI-taml;\012    sub la-taml isign-taml by lI-taml;\012    sub zha-taml isign-taml by zhI-taml;\012    sub ja-taml isign-taml by jI-taml;\012	sub va-taml isign-taml by vI-taml;\012	sub ya-taml isign-taml by yI-taml;\012	sub nga-taml isign-taml by ngI-taml;\012	sub pa-taml isign-taml by pI-taml;\012    sub tta-taml iisign-taml by ttIi-taml;\012} taml-above_base_sub_1;\012\012lookup taml-above_base_sub_2 {\012    sub @TA_MATRA_Ii_1 iisign-taml' by iisign.alt1-taml;\012 } taml-above_base_sub_2;\012 \012 \012\012#---- PSTS ----\012\012lookup taml-post_base_sub_1 {\012    sub ka-taml usign-taml by kU-taml;\012    sub ca-taml usign-taml by cU-taml;\012    sub nya-taml usign-taml by nyU-taml;\012    sub tta-taml usign-taml by ttU-taml;\012    sub nna-taml usign-taml by nnU-taml;\012    sub ta-taml usign-taml by tU-taml;\012    sub na-taml usign-taml by nU-taml;\012    sub nnna-taml usign-taml by nnnU-taml;\012    sub ma-taml usign-taml by mU-taml;\012    sub ra-taml usign-taml by rU-taml;\012    sub rra-taml usign-taml by rrU-taml;\012    sub la-taml usign-taml by lU-taml;\012    sub lla-taml usign-taml by llU-taml;\012    sub zha-taml usign-taml by zhU-taml;\012} taml-post_base_sub_1;\012\012lookup taml-post_base_sub_2 {\012    sub ka-taml uusign-taml by kUu-taml;\012    sub nga-taml uusign-taml by ngUu-taml;\012    sub ca-taml uusign-taml by cUu-taml;\012    sub nya-taml uusign-taml by nyUu-taml;\012    sub tta-taml uusign-taml by ttUu-taml;\012    sub nna-taml uusign-taml by nnUu-taml;\012    sub ta-taml uusign-taml by tUu-taml;\012    sub na-taml uusign-taml by nUu-taml;\012    sub nnna-taml uusign-taml by nnnUu-taml;\012    sub pa-taml uusign-taml by pUu-taml;\012    sub ya-taml uusign-taml by yUu-taml;\012    sub ma-taml uusign-taml by mUu-taml;\012    sub ra-taml uusign-taml by rUu-taml;\012    sub rra-taml uusign-taml by rrUu-taml;\012    sub la-taml uusign-taml by lUu-taml;\012    sub lla-taml uusign-taml by llUu-taml;\012    sub zha-taml uusign-taml by zhUu-taml;\012    sub va-taml uusign-taml by vUu-taml;\012 } taml-post_base_sub_2;\012\012lookup taml-post_base_sub_3 {\012    sub @TA_MATRA_I_1 isign-taml' by isign.alt1-taml;\012    sub @TA_MATRA_I_2 isign-taml' by isign.alt2-taml;\012    sub @TA_MATRA_I_3 isign-taml' by isign.alt3-taml;\012    sub @TA_MATRA_I_4 isign-taml' by isign.alt4-taml;\012    sub @TA_MATRA_I_5 isign-taml' by isign.alt5-taml;\012    sub @TA_MATRA_I_6 isign-taml' by isign.alt6-taml;\012    sub @TA_MATRA_I_7 isign-taml' by isign.alt7-taml;\012    sub @TA_MATRA_U_1 usign-taml' by usign.alt1-taml;\012 } taml-post_base_sub_3;\012\012#---- SALT ----\012\012lookup taml-stylistic_alternates_1 {\012    sub ra-taml' virama-taml by aasign-taml;\012    sub ra-taml' anusvaraya-taml by aasign-taml;\012    sub ra-taml' isign-taml by aasign-taml;\012    sub ra-taml' iisign-taml by aasign-taml;\012} taml-stylistic_alternates_1;\012\012lookup taml-stylistic_alternates_2 {\012    sub nna-taml aasign-taml by nnAa.alt-taml;\012    sub nnna-taml aasign-taml by nnnAa-taml.alt;\012    sub rra-taml aasign-taml by rrAa.alt-taml;\012} taml-stylistic_alternates_2;\012\012lookup taml-stylistic_alternates_3 {\012    sub ka-taml isign-taml' by isign.stylalt1-taml;\012    sub ta-taml isign-taml' by isign.stylalt1-taml;\012    sub ca-taml isign-taml' by isign.stylalt1-taml;\012    sub ka-taml isign.alt5-taml' by isign.stylalt1-taml;\012    sub ta-taml isign.alt5-taml' by isign.stylalt1-taml;\012    sub ca-taml isign.alt4-taml' by isign.stylalt1-taml;\012    sub ka-taml iisign-taml' by iisign.stylalt1-taml;\012    sub ta-taml iisign-taml' by iisign.stylalt1-taml;\012    sub ca-taml iisign-taml' by iisign.stylalt1-taml;\012} taml-stylistic_alternates_3;\012\012lookup taml-stylistic_alternates_4 {\012    sub aisign-taml' nna-taml by aisign.alt-taml;\012    sub aisign-taml' nnna-taml by aisign.alt-taml;\012    sub aisign-taml' la-taml by aisign.alt-taml;\012    sub aisign-taml' lla-taml by aisign.alt-taml;\012} taml-stylistic_alternates_4;\012\012\012";
-name = prefix;
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea\012# lankafea:script tamil\012# Ralex's own Tamil style sets: not derivable from the standard, so authored here and merged\012# by `lankafea generate --inject`. Raw .fea passes through ungated and unscoped, hence the\012# explicit script statements.\012#\012# ss01  ra before a pulli / anusvara / ி ீ drawn as the ா glyph. D6 asks for a real\012#       ra-taml.alt glyph instead (a mark glyph in a base-letter role has the wrong GDEF\012#       class); Ralex has none yet, so this keeps the shipped behaviour until it is drawn.\012# ss03  ka ta ca + ி ீ in the alternate, flatter shape.\012# salt  everything above plus the traditional-orthography rules that lankafea generates for\012#       ss09. A lookup defined inside a feature block cannot be named from another feature, so\012#       the two traditional lookups are repeated here at top level.\012\012lookup Ss01RaAsAa {\012    sub ra-taml' virama-taml by aasign-taml;\012    sub ra-taml' anusvaraya-taml by aasign-taml;\012    sub ra-taml' isign-taml by aasign-taml;\012    sub ra-taml' iisign-taml by aasign-taml;\012} Ss01RaAsAa;\012\012lookup Ss03FlatI {\012    sub ka-taml isign-taml' by isign-taml.stylalt1;\012    sub ta-taml isign-taml' by isign-taml.stylalt1;\012    sub ca-taml isign-taml' by isign-taml.stylalt1;\012    sub ka-taml isign-taml.ka' by isign-taml.stylalt1;\012    sub ta-taml isign-taml.ka' by isign-taml.stylalt1;\012    sub ca-taml isign-taml.ca' by isign-taml.stylalt1;\012    sub ka-taml iisign-taml' by iisign-taml.stylalt1;\012    sub ta-taml iisign-taml' by iisign-taml.stylalt1;\012    sub ca-taml iisign-taml' by iisign-taml.stylalt1;\012} Ss03FlatI;\012\012lookup SaltTraditionalAa {\012    sub nna-taml aasign-taml by nnAa-taml;\012    sub nnna-taml aasign-taml by nnnAa-taml;\012    sub rra-taml aasign-taml by rrAa-taml;\012} SaltTraditionalAa;\012\012lookup SaltTraditionalAi {\012    sub aisign-taml' @aisign_la by aisign-taml.la;\012} SaltTraditionalAi;\012\012feature ss01 {\012    script taml;\012        lookup Ss01RaAsAa;\012    script tml2;\012        lookup Ss01RaAsAa;\012} ss01;\012\012feature ss03 {\012    script taml;\012        lookup Ss03FlatI;\012    script tml2;\012        lookup Ss03FlatI;\012} ss03;\012\012feature salt {\012    script taml;\012        lookup Ss01RaAsAa;\012        lookup SaltTraditionalAa;\012        lookup Ss03FlatI;\012        lookup SaltTraditionalAi;\012    script tml2;\012        lookup Ss01RaAsAa;\012        lookup SaltTraditionalAa;\012        lookup Ss03FlatI;\012        lookup SaltTraditionalAi;\012} salt;\012";
+name = "lankafea-injected-tamil";
+},
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea\012# lankafea:script tamil\012# classes tamil: isign_ka isign_ca isign_na isign_pa isign_ma isign_la isign_ssa iisign_la usign_pa aisign_la ra_alt_next";
+name = "lankafea-manifest";
 }
 );
 features = (
@@ -1351,7 +1401,7 @@ code = "script latn;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub sc
 name = locl;
 },
 {
-code = "  script sinh;\012      lookup sinakhands;\012	  lookup sinakhands_reph;\012      lookup sin_touch;\012\012  script taml;\012      lookup taml-akhands;\012\012  script tml2;\012      lookup taml-akhands;\012";
+code = "  script sinh;\012      lookup sinakhands;\012	  lookup sinakhands_reph;\012      lookup sin_touch;\012\012";
 name = akhn;
 },
 {
@@ -1367,7 +1417,7 @@ code = "  script sinh;\012      lookup sinsplit_matra;";
 name = pstf;
 },
 {
-code = "  script sinh;\012      lookup sin_virama;\012      lookup sinabvs_1;\012      lookup sinabvs_2;\012      lookup sinabvs_3;\012\012  script taml;\012	  lookup taml-above_base_sub_1;\012	  lookup taml-above_base_sub_2;\012\012  script tml2;\012	  lookup taml-above_base_sub_1;\012	  lookup taml-above_base_sub_2;\012";
+code = "  script sinh;\012      lookup sin_virama;\012      lookup sinabvs_1;\012      lookup sinabvs_2;\012      lookup sinabvs_3;\012\012";
 name = abvs;
 },
 {
@@ -1375,32 +1425,28 @@ code = "  script sinh;\012      lookup sinblws_1;\012      lookup sinblws_2;\012
 name = blws;
 },
 {
-code = "  script sinh;\012      lookup sin_psts;\012  script taml;\012	  lookup taml-post_base_sub_1;\012	  lookup taml-post_base_sub_2;\012	  lookup taml-post_base_sub_3;\012\012  script tml2;\012	  lookup taml-post_base_sub_1;\012	  lookup taml-post_base_sub_2;\012	  lookup taml-post_base_sub_3;\012";
+code = "  script sinh;\012      lookup sin_psts;\012";
 name = psts;
-},
-{
-code = "  script taml;\012      lookup taml-stylistic_alternates_1;\012      lookup taml-stylistic_alternates_2;\012      lookup taml-stylistic_alternates_3;\012      lookup taml-stylistic_alternates_4;\012\012  script tml2;\012      lookup taml-stylistic_alternates_1;\012      lookup taml-stylistic_alternates_2;\012      lookup taml-stylistic_alternates_3;\012      lookup taml-stylistic_alternates_4;\012";
-name = salt;
-},
-{
-code = "  script taml;\012      lookup taml-stylistic_alternates_1;\012\012  script tml2;\012      lookup taml-stylistic_alternates_1;\012";
-name = ss01;
-},
-{
-code = "  script taml;\012      lookup taml-stylistic_alternates_2;\012\012  script tml2;\012      lookup taml-stylistic_alternates_2;\012";
-name = ss02;
-},
-{
-code = "  script taml;\012      lookup taml-stylistic_alternates_3;\012\012  script tml2;\012      lookup taml-stylistic_alternates_3;\012";
-name = ss03;
-},
-{
-code = "  script taml;\012      lookup taml-stylistic_alternates_4;\012\012  script tml2;\012      lookup taml-stylistic_alternates_4;\012";
-name = ss04;
 },
 {
 code = "  pos touch-sinh <0 0 -110 0>;\012";
 name = dist;
+},
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea\012# lankafea:script tamil\012script taml;\012# க்ஷ and ஸ்ரீ / ஶ்ரீ\012lookup Akhands {\012    sub ka-taml virama-taml ssa-taml by kSsa-taml;  # ka + pulli + ssa\012    sub sha-taml virama-taml ra-taml iisign-taml by shree-taml;  # sha + pulli + ra + iisign\012    sub sa-taml virama-taml ra-taml iisign-taml by shree-taml;  # sa + pulli + ra + iisign\012} Akhands;\012script tml2;\012lookup Akhands;";
+name = akhn;
+},
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea\012# lankafea:script tamil\012script taml;\012# dedicated consonant + sign glyphs\012lookup SignLigatures_abvs {\012    sub nga-taml isign-taml by ngI-taml;  # nga + isign\012    sub ja-taml isign-taml by jI-taml;  # ja + isign\012    sub tta-taml isign-taml by ttI-taml;  # tta + isign\012    sub tta-taml iisign-taml by ttIi-taml;  # tta + iisign\012    sub pa-taml isign-taml by pI-taml;  # pa + isign\012    sub ya-taml isign-taml by yI-taml;  # ya + isign\012    sub rra-taml isign-taml by rrI-taml;  # rra + isign\012    sub la-taml isign-taml by lI-taml;  # la + isign\012    sub zha-taml isign-taml by zhI-taml;  # zha + isign\012    sub va-taml isign-taml by vI-taml;  # va + isign\012    sub sa-taml isign-taml by sI-taml;  # sa + isign\012    sub sa-taml iisign-taml by sIi-taml;  # sa + iisign\012} SignLigatures_abvs;\012# shape-group sign alternates\012lookup SignAlternates_abvs {\012    sub @isign_ka isign-taml' by isign-taml.ka;  # isign -> isign.ka next to @isign_ka\012    sub @isign_ca isign-taml' by isign-taml.ca;  # isign -> isign.ca next to @isign_ca\012    sub @isign_na isign-taml' by isign-taml.na;  # isign -> isign.na next to @isign_na\012    sub @isign_pa isign-taml' by isign-taml.pa;  # isign -> isign.pa next to @isign_pa\012    sub @isign_ma isign-taml' by isign-taml.ma;  # isign -> isign.ma next to @isign_ma\012    sub @isign_la isign-taml' by isign-taml.la;  # isign -> isign.la next to @isign_la\012    sub @isign_ssa isign-taml' by isign-taml.ssa;  # isign -> isign.ssa next to @isign_ssa\012    sub @iisign_la iisign-taml' by iisign-taml.la;  # iisign -> iisign.la next to @iisign_la\012} SignAlternates_abvs;\012script tml2;\012lookup SignLigatures_abvs;\012lookup SignAlternates_abvs;";
+name = abvs;
+},
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea\012# lankafea:script tamil\012script taml;\012# dedicated consonant + sign glyphs\012lookup SignLigatures_psts {\012    sub ka-taml usign-taml by kU-taml;  # ka + usign\012    sub ka-taml uusign-taml by kUu-taml;  # ka + uusign\012    sub nga-taml uusign-taml by ngUu-taml;  # nga + uusign\012    sub ca-taml usign-taml by cU-taml;  # ca + usign\012    sub ca-taml uusign-taml by cUu-taml;  # ca + uusign\012    sub nya-taml usign-taml by nyU-taml;  # nya + usign\012    sub nya-taml uusign-taml by nyUu-taml;  # nya + uusign\012    sub tta-taml usign-taml by ttU-taml;  # tta + usign\012    sub tta-taml uusign-taml by ttUu-taml;  # tta + uusign\012    sub nna-taml usign-taml by nnU-taml;  # nna + usign\012    sub nna-taml uusign-taml by nnUu-taml;  # nna + uusign\012    sub ta-taml usign-taml by tU-taml;  # ta + usign\012    sub ta-taml uusign-taml by tUu-taml;  # ta + uusign\012    sub na-taml usign-taml by nU-taml;  # na + usign\012    sub na-taml uusign-taml by nUu-taml;  # na + uusign\012    sub nnna-taml usign-taml by nnnU-taml;  # nnna + usign\012    sub nnna-taml uusign-taml by nnnUu-taml;  # nnna + uusign\012    sub pa-taml uusign-taml by pUu-taml;  # pa + uusign\012    sub ma-taml usign-taml by mU-taml;  # ma + usign\012    sub ma-taml uusign-taml by mUu-taml;  # ma + uusign\012    sub ya-taml uusign-taml by yUu-taml;  # ya + uusign\012    sub ra-taml usign-taml by rU-taml;  # ra + usign\012    sub ra-taml uusign-taml by rUu-taml;  # ra + uusign\012    sub rra-taml usign-taml by rrU-taml;  # rra + usign\012    sub rra-taml uusign-taml by rrUu-taml;  # rra + uusign\012    sub la-taml usign-taml by lU-taml;  # la + usign\012    sub la-taml uusign-taml by lUu-taml;  # la + uusign\012    sub lla-taml usign-taml by llU-taml;  # lla + usign\012    sub lla-taml uusign-taml by llUu-taml;  # lla + uusign\012    sub zha-taml usign-taml by zhU-taml;  # zha + usign\012    sub zha-taml uusign-taml by zhUu-taml;  # zha + uusign\012    sub va-taml uusign-taml by vUu-taml;  # va + uusign\012    sub ssa-taml usign-taml by ssU-taml;  # ssa + usign\012    sub ssa-taml uusign-taml by ssUu-taml;  # ssa + uusign\012    sub sa-taml usign-taml by sU-taml;  # sa + usign\012    sub sa-taml uusign-taml by sUu-taml;  # sa + uusign\012    sub kSsa-taml usign-taml by kSsU-taml;  # kSsa + usign\012    sub kSsa-taml uusign-taml by kSsUu-taml;  # kSsa + uusign\012} SignLigatures_psts;\012# shape-group sign alternates\012lookup SignAlternates_psts {\012    sub @usign_pa usign-taml' by usign-taml.pa;  # usign -> usign.pa next to @usign_pa\012} SignAlternates_psts;\012script tml2;\012lookup SignLigatures_psts;\012lookup SignAlternates_psts;";
+name = psts;
+},
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea\012# lankafea:script tamil\012script taml;\012# ணா னா றா\012lookup TraditionalAa {\012    sub nna-taml aasign-taml by nnAa-taml;  # nna + aasign\012    sub nnna-taml aasign-taml by nnnAa-taml;  # nnna + aasign\012    sub rra-taml aasign-taml by rrAa-taml;  # rra + aasign\012} TraditionalAa;\012# ை shaped for ண ன ல ள\012lookup TraditionalAiAlternates {\012    sub aisign-taml' @aisign_la by aisign-taml.la;  # aisign -> aisign.la next to @aisign_la\012} TraditionalAiAlternates;\012# the alternate ர before pulli, anusvara, ி and ீ\012lookup TraditionalRa {\012    sub ra-taml' @ra_alt_next by ra-taml.alt;  # ra -> ra.alt before pulli / anusvara / i / ii\012} TraditionalRa;\012script tml2;\012lookup TraditionalAa;\012lookup TraditionalAiAlternates;\012lookup TraditionalRa;";
+name = ss09;
 }
 );
 fontMaster = (

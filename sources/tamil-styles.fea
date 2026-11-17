@@ -1,0 +1,67 @@
+# Ralex's own Tamil style sets: not derivable from the standard, so authored here and merged
+# by `lankafea generate --inject`. Raw .fea passes through ungated and unscoped, hence the
+# explicit script statements.
+#
+# ss01  ra before a pulli / anusvara / ி ீ drawn as the ா glyph. D6 asks for a real
+#       ra-taml.alt glyph instead (a mark glyph in a base-letter role has the wrong GDEF
+#       class); Ralex has none yet, so this keeps the shipped behaviour until it is drawn.
+# ss03  ka ta ca + ி ீ in the alternate, flatter shape.
+# salt  everything above plus the traditional-orthography rules that lankafea generates for
+#       ss09. A lookup defined inside a feature block cannot be named from another feature, so
+#       the two traditional lookups are repeated here at top level.
+
+lookup Ss01RaAsAa {
+    sub ra-taml' virama-taml by aasign-taml;
+    sub ra-taml' anusvaraya-taml by aasign-taml;
+    sub ra-taml' isign-taml by aasign-taml;
+    sub ra-taml' iisign-taml by aasign-taml;
+} Ss01RaAsAa;
+
+lookup Ss03FlatI {
+    sub ka-taml isign-taml' by isign-taml.stylalt1;
+    sub ta-taml isign-taml' by isign-taml.stylalt1;
+    sub ca-taml isign-taml' by isign-taml.stylalt1;
+    sub ka-taml isign-taml.ka' by isign-taml.stylalt1;
+    sub ta-taml isign-taml.ka' by isign-taml.stylalt1;
+    sub ca-taml isign-taml.ca' by isign-taml.stylalt1;
+    sub ka-taml iisign-taml' by iisign-taml.stylalt1;
+    sub ta-taml iisign-taml' by iisign-taml.stylalt1;
+    sub ca-taml iisign-taml' by iisign-taml.stylalt1;
+} Ss03FlatI;
+
+lookup SaltTraditionalAa {
+    sub nna-taml aasign-taml by nnAa-taml;
+    sub nnna-taml aasign-taml by nnnAa-taml;
+    sub rra-taml aasign-taml by rrAa-taml;
+} SaltTraditionalAa;
+
+lookup SaltTraditionalAi {
+    sub aisign-taml' @aisign_la by aisign-taml.la;
+} SaltTraditionalAi;
+
+feature ss01 {
+    script taml;
+        lookup Ss01RaAsAa;
+    script tml2;
+        lookup Ss01RaAsAa;
+} ss01;
+
+feature ss03 {
+    script taml;
+        lookup Ss03FlatI;
+    script tml2;
+        lookup Ss03FlatI;
+} ss03;
+
+feature salt {
+    script taml;
+        lookup Ss01RaAsAa;
+        lookup SaltTraditionalAa;
+        lookup Ss03FlatI;
+        lookup SaltTraditionalAi;
+    script tml2;
+        lookup Ss01RaAsAa;
+        lookup SaltTraditionalAa;
+        lookup Ss03FlatI;
+        lookup SaltTraditionalAi;
+} salt;

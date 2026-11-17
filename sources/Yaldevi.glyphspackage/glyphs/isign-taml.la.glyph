@@ -1,10 +1,10 @@
 {
-glyphname = "isign.alt3-taml";
+glyphname = "isign-taml.la";
 layers = (
 {
 anchors = (
 {
-name = _MatraI.alt3;
+name = _isign;
 position = "{-167, 603}";
 },
 {
@@ -47,7 +47,7 @@ width = 207;
 {
 anchors = (
 {
-name = _MatraI.alt3;
+name = _isign;
 position = "{-93, 568}";
 },
 {

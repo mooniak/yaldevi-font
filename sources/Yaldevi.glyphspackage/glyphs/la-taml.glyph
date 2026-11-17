@@ -8,7 +8,7 @@ name = MatraAi.alt;
 position = "{50, 278}";
 },
 {
-name = tm_halant;
+name = virama;
 position = "{415, 768}";
 }
 );
@@ -91,7 +91,7 @@ name = MatraAi.alt;
 position = "{51, 216}";
 },
 {
-name = tm_halant;
+name = virama;
 position = "{404, 745}";
 }
 );

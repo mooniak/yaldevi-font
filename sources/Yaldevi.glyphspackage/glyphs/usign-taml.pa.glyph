@@ -1,10 +1,10 @@
 {
-glyphname = "usign.alt1-taml";
+glyphname = "usign-taml.pa";
 layers = (
 {
 anchors = (
 {
-name = _MatraU.alt1;
+name = _usign;
 position = "{-192, 38}";
 },
 {
@@ -29,7 +29,7 @@ width = 0;
 {
 anchors = (
 {
-name = _MatraU.alt1;
+name = _usign;
 position = "{-105, 38}";
 },
 {

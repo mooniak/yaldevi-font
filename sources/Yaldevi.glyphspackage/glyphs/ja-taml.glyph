@@ -4,23 +4,23 @@ layers = (
 {
 anchors = (
 {
-name = MatraI.alt7;
+name = isign;
 position = "{751, 630}";
 },
 {
-name = MatraIi;
+name = iisign;
 position = "{751, 630}";
 },
 {
-name = MatraU;
+name = usign;
 position = "{638, 661}";
 },
 {
-name = MatraUu;
+name = uusign;
 position = "{638, 661}";
 },
 {
-name = tm_halant;
+name = virama;
 position = "{438, 768}";
 }
 );
@@ -134,23 +134,23 @@ width = 889;
 {
 anchors = (
 {
-name = MatraI.alt7;
+name = isign;
 position = "{769, 640}";
 },
 {
-name = MatraIi;
+name = iisign;
 position = "{781, 633}";
 },
 {
-name = MatraU;
+name = usign;
 position = "{675, 661}";
 },
 {
-name = MatraUu;
+name = uusign;
 position = "{675, 661}";
 },
 {
-name = tm_halant;
+name = virama;
 position = "{459, 745}";
 }
 );

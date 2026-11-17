@@ -8,19 +8,19 @@ name = MatraI.alt1;
 position = "{692, 635}";
 },
 {
-name = MatraIi;
+name = iisign;
 position = "{754, 617}";
 },
 {
-name = MatraU;
+name = usign;
 position = "{651, 637}";
 },
 {
-name = MatraUu;
+name = uusign;
 position = "{651, 637}";
 },
 {
-name = tm_halant;
+name = virama;
 position = "{427, 745}";
 }
 );
@@ -95,19 +95,19 @@ name = MatraI.alt1;
 position = "{644, 637}";
 },
 {
-name = MatraIi;
+name = iisign;
 position = "{739, 618}";
 },
 {
-name = MatraU;
+name = usign;
 position = "{644, 637}";
 },
 {
-name = MatraUu;
+name = uusign;
 position = "{633, 637}";
 },
 {
-name = tm_halant;
+name = virama;
 position = "{438, 723}";
 }
 );

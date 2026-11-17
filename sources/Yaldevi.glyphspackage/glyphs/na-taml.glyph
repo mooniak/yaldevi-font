@@ -8,11 +8,11 @@ name = MatraI.alt1;
 position = "{537, 637}";
 },
 {
-name = MatraIi;
+name = iisign;
 position = "{520, 637}";
 },
 {
-name = tm_halant;
+name = virama;
 position = "{393, 768}";
 }
 );
@@ -76,11 +76,11 @@ name = MatraI.alt1;
 position = "{464, 637}";
 },
 {
-name = MatraIi;
+name = iisign;
 position = "{453, 637}";
 },
 {
-name = tm_halant;
+name = virama;
 position = "{336, 734}";
 }
 );

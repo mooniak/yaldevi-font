@@ -1,10 +1,10 @@
 {
-glyphname = "iisign.alt1-taml";
+glyphname = "iisign-taml.la";
 layers = (
 {
 anchors = (
 {
-name = _MatraIi;
+name = _iisign;
 position = "{0, 628}";
 }
 );
@@ -59,7 +59,7 @@ width = 0;
 {
 anchors = (
 {
-name = _MatraIi;
+name = _iisign;
 position = "{0, 633}";
 }
 );

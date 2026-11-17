@@ -4,11 +4,11 @@ layers = (
 {
 anchors = (
 {
-name = MatraIi;
+name = iisign;
 position = "{954, 628}";
 },
 {
-name = tm_halant;
+name = virama;
 position = "{506, 723}";
 }
 );
@@ -104,11 +104,11 @@ width = 1159;
 {
 anchors = (
 {
-name = MatraIi;
+name = iisign;
 position = "{954, 628}";
 },
 {
-name = tm_halant;
+name = virama;
 position = "{518, 723}";
 }
 );
