@@ -1,10 +1,11 @@
-# Ralex's own Tamil style sets: not derivable from the standard, so authored here and merged
+# Yaldevi's own Tamil style sets (the same as Ralex's): not derivable from the standard, so authored here and merged
 # by `lankafea generate --inject`. Raw .fea passes through ungated and unscoped, hence the
 # explicit script statements.
 #
 # ss01  ra before a pulli / anusvara / ி ீ drawn as the ா glyph. D6 asks for a real
 #       ra-taml.alt glyph instead (a mark glyph in a base-letter role has the wrong GDEF
-#       class); Ralex has none yet, so this keeps the shipped behaviour until it is drawn.
+#       class). Yaldevi has a ra-taml.alt, used by the traditional ss09 rules; whether ss01
+#       should use it too is a design decision, so this keeps the shipped behaviour.
 # ss03  ka ta ca + ி ீ in the alternate, flatter shape.
 # salt  everything above plus the traditional-orthography rules that lankafea generates for
 #       ss09. A lookup defined inside a feature block cannot be named from another feature, so
