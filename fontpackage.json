@@ -3,8 +3,9 @@
   "id": "yaldevi",
   "type": "family",
   "designer": [
-    "Mooniak",
-    "Sol Matas"
+    "Rajitha Manamperi",
+    "Sol Matas",
+    "Pathum Egodawatta"
   ],
   "scripts": [
     "Sinh",
@@ -35,14 +36,19 @@
   },
   "designers": [
     {
-      "name": "Pathum Egodawatta",
-      "email": "pathum@mooniak.com",
-      "url": "https://pathumego.com/"
+      "name": "Rajitha Manamperi",
+      "email": "",
+      "url": ""
     },
     {
       "name": "Sol Matas",
       "email": "",
       "url": ""
+    },
+    {
+      "name": "Pathum Egodawatta",
+      "email": "pathum@mooniak.com",
+      "url": "https://pathumego.com/"
     }
   ],
   "maintenance": {
