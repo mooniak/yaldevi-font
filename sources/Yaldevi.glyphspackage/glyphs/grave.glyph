@@ -5,35 +5,35 @@ layers = (
 anchors = (
 {
 name = _top;
-position = "{203, 569}";
+position = "{194, 543}";
 }
 );
 components = (
 {
 alignment = -1;
 name = acute;
-transform = "{-1, 0, 0, 1, 389, 0}";
+transform = "{-1, 0, 0, 1, 371, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 371;
+width = 354;
 },
 {
 anchors = (
 {
 name = _top;
-position = "{220, 569}";
+position = "{210, 543}";
 }
 );
 components = (
 {
 alignment = -1;
 name = acute;
-transform = "{-1, 0, 0, 1, 417, 0}";
+transform = "{-1, 0, 0, 1, 398, 0}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 393;
+width = 375;
 }
 );
 unicode = 0060;

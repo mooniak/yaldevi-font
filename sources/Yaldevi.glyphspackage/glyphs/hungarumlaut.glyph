@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _top;
-position = "{247, 569}";
+position = "{236, 543}";
 }
 );
 background = {
@@ -13,26 +13,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"325 778 LINE",
-"251 869 LINE",
-"57 703 LINE",
-"116 632 LINE"
+"310 743 LINE",
+"240 830 LINE",
+"54 671 LINE",
+"111 603 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"569 778 LINE",
-"495 869 LINE",
-"300 703 LINE",
-"360 632 LINE"
+"543 743 LINE",
+"473 830 LINE",
+"286 671 LINE",
+"344 603 LINE"
 );
 }
 );
 };
 guideLines = (
 {
-position = "{368, 552}";
+position = "{351, 527}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -40,29 +40,29 @@ paths = (
 {
 closed = 1;
 nodes = (
-"322 773 LINE",
-"247 864 LINE",
-"56 701 LINE",
-"116 628 LINE"
+"307 738 LINE",
+"236 825 LINE",
+"53 669 LINE",
+"111 600 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"566 773 LINE",
-"490 864 LINE",
-"299 701 LINE",
-"360 628 LINE"
+"540 738 LINE",
+"468 825 LINE",
+"285 669 LINE",
+"344 600 LINE"
 );
 }
 );
-width = 604;
+width = 577;
 },
 {
 anchors = (
 {
 name = _top;
-position = "{220, 569}";
+position = "{210, 543}";
 }
 );
 background = {
@@ -70,26 +70,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"262 777 LINE",
-"229 817 LINE",
-"74 696 LINE",
-"97 666 LINE"
+"250 742 LINE",
+"219 780 LINE",
+"71 664 LINE",
+"93 636 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"410 777 LINE",
-"377 817 LINE",
-"222 696 LINE",
-"245 666 LINE"
+"391 742 LINE",
+"360 780 LINE",
+"212 664 LINE",
+"234 636 LINE"
 );
 }
 );
 };
 guideLines = (
 {
-position = "{368, 580}";
+position = "{351, 554}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -97,23 +97,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"273 783 LINE",
-"236 822 LINE",
-"90 690 LINE",
-"116 660 LINE"
+"261 748 LINE",
+"225 785 LINE",
+"86 659 LINE",
+"111 630 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"460 783 LINE",
-"422 822 LINE",
-"277 690 LINE",
-"303 660 LINE"
+"439 748 LINE",
+"403 785 LINE",
+"264 659 LINE",
+"289 630 LINE"
 );
 }
 );
-width = 516;
+width = 493;
 }
 );
 unicode = 02DD;

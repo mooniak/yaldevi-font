@@ -8,11 +8,11 @@ name = e;
 },
 {
 name = caron;
-transform = "{1, 0, 0, 1, 31, 0}";
+transform = "{1, 0, 0, 1, 30, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 544;
+width = 519;
 },
 {
 components = (
@@ -25,7 +25,7 @@ transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 493;
+width = 471;
 }
 );
 unicode = 011B;

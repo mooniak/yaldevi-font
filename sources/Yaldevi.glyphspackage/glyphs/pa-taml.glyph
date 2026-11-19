@@ -4,20 +4,20 @@ layers = (
 {
 anchors = (
 {
-name = isign;
-position = "{457, 603}";
+name = iisign;
+position = "{513, 608}";
 },
 {
-name = iisign;
-position = "{537, 637}";
+name = isign;
+position = "{436, 576}";
 },
 {
 name = usign;
-position = "{456, 38}";
+position = "{435, 36}";
 },
 {
 name = virama;
-position = "{313, 768}";
+position = "{299, 733}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -25,36 +25,36 @@ paths = (
 {
 closed = 1;
 nodes = (
-"68 1 LINE",
-"68 637 LINE",
-"190 637 LINE",
-"190 113 LINE",
-"457 113 LINE",
-"457 637 LINE",
-"580 637 LINE",
-"580 1 LINE"
+"65 1 LINE",
+"65 608 LINE",
+"181 608 LINE",
+"181 108 LINE",
+"436 108 LINE",
+"436 608 LINE",
+"554 608 LINE",
+"554 1 LINE"
 );
 }
 );
-width = 648;
+width = 619;
 },
 {
 anchors = (
 {
-name = isign;
-position = "{520, 569}";
+name = iisign;
+position = "{517, 608}";
 },
 {
-name = iisign;
-position = "{542, 637}";
+name = isign;
+position = "{496, 543}";
 },
 {
 name = usign;
-position = "{521, 38}";
+position = "{497, 36}";
 },
 {
 name = virama;
-position = "{302, 744}";
+position = "{288, 710}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -62,18 +62,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"57 1 LINE",
-"57 637 LINE",
-"107 637 LINE",
-"107 47 LINE",
-"519 47 LINE",
-"519 637 LINE",
-"569 637 LINE",
-"569 1 LINE"
+"54 1 LINE",
+"54 608 LINE",
+"102 608 LINE",
+"102 45 LINE",
+"495 45 LINE",
+"495 608 LINE",
+"543 608 LINE",
+"543 1 LINE"
 );
 }
 );
-width = 627;
+width = 599;
 }
 );
 unicode = 0BAA;

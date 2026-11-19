@@ -5,7 +5,7 @@ layers = (
 components = (
 {
 name = "ca-taml";
-transform = "{1, 0, 0, 1, 13, 0}";
+transform = "{1, 0, 0, 1, 12, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -13,23 +13,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"652 287 LINE",
-"652 0 LINE",
-"543 0 LINE",
-"543 287 LINE"
+"622 274 LINE",
+"622 0 LINE",
+"518 0 LINE",
+"518 274 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"709 388 LINE",
-"709 278 LINE",
-"600 278 LINE",
-"600 388 LINE"
+"677 370 LINE",
+"677 265 LINE",
+"573 265 LINE",
+"573 370 LINE"
 );
 }
 );
-width = 756;
+width = 722;
 },
 {
 components = (
@@ -42,23 +42,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"596 349 LINE",
-"596 0 LINE",
-"549 0 LINE",
-"549 349 LINE"
+"569 333 LINE",
+"569 0 LINE",
+"524 0 LINE",
+"524 333 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"692 388 LINE",
-"692 340 LINE",
-"583 340 LINE",
-"583 388 LINE"
+"661 370 LINE",
+"661 325 LINE",
+"557 325 LINE",
+"557 370 LINE"
 );
 }
 );
-width = 740;
+width = 706;
 }
 );
 }

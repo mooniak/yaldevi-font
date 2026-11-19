@@ -5,29 +5,29 @@ layers = (
 components = (
 {
 name = comma;
-transform = "{0.952, 0, 0, 0.952, 227, 651}";
+transform = "{0.952, 0, 0, 0.952, 217, 622}";
 },
 {
 name = comma;
-transform = "{0.952, 0, 0, 0.952, 14, 651}";
+transform = "{0.952, 0, 0, 0.952, 13, 622}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 487;
+width = 465;
 },
 {
 components = (
 {
 name = comma;
-transform = "{1, 0, 0, 1, 156, 743}";
+transform = "{1, 0, 0, 1, 149, 709}";
 },
 {
 name = comma;
-transform = "{1, 0, 0, 1, 25, 743}";
+transform = "{1, 0, 0, 1, 24, 709}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 347;
+width = 331;
 }
 );
 unicode = 201D;

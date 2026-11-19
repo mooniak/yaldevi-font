@@ -12,14 +12,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"364 640 LINE",
-"364 710 LINE",
-"16 710 LINE",
-"16 640 LINE"
+"348 611 LINE",
+"348 678 LINE",
+"15 678 LINE",
+"15 611 LINE"
 );
 }
 );
-width = 597;
+width = 570;
 },
 {
 components = (
@@ -32,14 +32,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"287 650 LINE",
-"287 680 LINE",
-"52 680 LINE",
-"52 650 LINE"
+"274 621 LINE",
+"274 649 LINE",
+"50 649 LINE",
+"50 621 LINE"
 );
 }
 );
-width = 558;
+width = 533;
 }
 );
 unicode = 0127;

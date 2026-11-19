@@ -5,7 +5,7 @@ layers = (
 components = (
 {
 name = comma;
-transform = "{0.952, 0, 0, 0.952, 220, 10}";
+transform = "{0.952, 0, 0, 0.952, 210, 10}";
 },
 {
 name = comma;
@@ -13,20 +13,20 @@ transform = "{0.952, 0, 0, 0.952, 11, 10}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 484;
+width = 462;
 },
 {
 components = (
 {
 name = comma;
-transform = "{1, 0, 0, 1, 136, 0}";
+transform = "{1, 0, 0, 1, 130, 0}";
 },
 {
 name = comma;
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 328;
+width = 313;
 }
 );
 unicode = 201E;

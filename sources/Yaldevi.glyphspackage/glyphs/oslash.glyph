@@ -7,10 +7,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"443 860 LINE",
-"110 -60 LINE",
-"205 -89 LINE",
-"536 832 LINE"
+"423 821 LINE",
+"105 -57 LINE",
+"196 -85 LINE",
+"512 794 LINE"
 );
 }
 );
@@ -22,7 +22,7 @@ name = o;
 );
 guideLines = (
 {
-position = "{68, 259}";
+position = "{65, 247}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -30,14 +30,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"384 684 LINE",
-"110 -72 LINE",
-"198 -100 LINE",
-"470 655 LINE"
+"367 653 LINE",
+"105 -69 LINE",
+"189 -95 LINE",
+"449 625 LINE"
 );
 }
 );
-width = 583;
+width = 557;
 },
 {
 background = {
@@ -45,10 +45,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"384 658 LINE",
-"129 -55 LINE",
-"167 -67 LINE",
-"421 645 LINE"
+"367 628 LINE",
+"123 -53 LINE",
+"159 -64 LINE",
+"402 616 LINE"
 );
 }
 );
@@ -61,7 +61,7 @@ name = o;
 guideLines = (
 {
 angle = 90;
-position = "{40, 325}";
+position = "{38, 310}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -69,14 +69,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"386 663 LINE",
-"125 -66 LINE",
-"164 -79 LINE",
-"423 651 LINE"
+"369 633 LINE",
+"119 -63 LINE",
+"157 -75 LINE",
+"404 622 LINE"
 );
 }
 );
-width = 544;
+width = 519;
 }
 );
 unicode = 00F8;

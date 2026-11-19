@@ -6,16 +6,16 @@ components = (
 {
 alignment = -1;
 name = "eesign-taml";
-transform = "{1, 0, 0, 1, 25, 0}";
+transform = "{1, 0, 0, 1, 24, 0}";
 },
 {
 alignment = -1;
 name = "aasign-taml";
-transform = "{1, 0, 0, 1, 581, 0}";
+transform = "{1, 0, 0, 1, 555, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 1218;
+width = 1163;
 },
 {
 components = (
@@ -26,11 +26,11 @@ name = "eesign-taml";
 {
 alignment = -1;
 name = "aasign-taml";
-transform = "{1, 0, 0, 1, 555, 0}";
+transform = "{1, 0, 0, 1, 530, 0}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 1239;
+width = 1183;
 }
 );
 unicode = 0BCB;

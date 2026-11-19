@@ -5,7 +5,7 @@ layers = (
 components = (
 {
 name = "tU-taml";
-transform = "{1, 0, 0, 1, 13, 0}";
+transform = "{1, 0, 0, 1, 12, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -13,24 +13,24 @@ paths = (
 {
 closed = 1;
 nodes = (
-"1001 -15 LINE",
-"1001 542 LINE",
-"871 542 LINE",
-"871 652 LINE",
-"1237 652 LINE",
-"1237 542 LINE",
-"1123 542 LINE",
-"1123 -15 LINE"
+"956 -14 LINE",
+"956 517 LINE",
+"832 517 LINE",
+"832 622 LINE",
+"1181 622 LINE",
+"1181 517 LINE",
+"1072 517 LINE",
+"1072 -14 LINE"
 );
 }
 );
-width = 1249;
+width = 1192;
 },
 {
 components = (
 {
 name = "tU-taml";
-transform = "{1, 0, 0, 1, 23, 0}";
+transform = "{1, 0, 0, 1, 22, 0}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -38,18 +38,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"1029 -25 LINE",
-"1029 594 LINE",
-"824 594 LINE",
-"824 642 LINE",
-"1190 642 LINE",
-"1190 594 LINE",
-"1077 594 LINE",
-"1077 -25 LINE"
+"982 -24 LINE",
+"982 567 LINE",
+"787 567 LINE",
+"787 613 LINE",
+"1136 613 LINE",
+"1136 567 LINE",
+"1028 567 LINE",
+"1028 -24 LINE"
 );
 }
 );
-width = 1202;
+width = 1148;
 }
 );
 }

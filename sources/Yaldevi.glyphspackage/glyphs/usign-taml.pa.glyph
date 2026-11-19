@@ -5,11 +5,11 @@ layers = (
 anchors = (
 {
 name = _usign;
-position = "{-192, 38}";
+position = "{-183, 36}";
 },
 {
 name = anchor;
-position = "{-192, 38}";
+position = "{-183, 36}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -17,10 +17,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-192 -174 LINE",
-"-192 38 LINE",
-"-68 38 LINE",
-"-68 -174 LINE"
+"-183 -166 LINE",
+"-183 36 LINE",
+"-65 36 LINE",
+"-65 -166 LINE"
 );
 }
 );
@@ -30,11 +30,11 @@ width = 0;
 anchors = (
 {
 name = _usign;
-position = "{-105, 38}";
+position = "{-100, 36}";
 },
 {
 name = anchor;
-position = "{-105, 38}";
+position = "{-100, 36}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -42,10 +42,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-105 -174 LINE",
-"-105 38 LINE",
-"-57 38 LINE",
-"-57 -174 LINE"
+"-100 -166 LINE",
+"-100 36 LINE",
+"-54 36 LINE",
+"-54 -166 LINE"
 );
 }
 );

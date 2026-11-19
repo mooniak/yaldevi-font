@@ -7,20 +7,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"736 801 LINE",
-"736 841 LINE",
-"537 841 LINE",
-"311 -79 LINE",
-"323 -79 LINE",
-"138 429 LINE",
-"26 386 LINE",
-"40 349 LINE",
-"116 378 LINE",
-"107 384 LINE",
-"297 -137 LINE",
-"331 -137 LINE",
-"575 808 LINE",
-"567 801 LINE"
+"703 765 LINE",
+"703 803 LINE",
+"513 803 LINE",
+"297 -75 LINE",
+"308 -75 LINE",
+"132 410 LINE",
+"25 369 LINE",
+"38 333 LINE",
+"111 361 LINE",
+"102 367 LINE",
+"284 -131 LINE",
+"316 -131 LINE",
+"549 771 LINE",
+"541 765 LINE"
 );
 }
 );
@@ -30,24 +30,24 @@ paths = (
 {
 closed = 1;
 nodes = (
-"419 -137 LINE",
-"645 754 LINE",
-"611 723 LINE",
-"758 723 LINE",
-"758 842 LINE",
-"522 842 LINE",
-"325 -8 LINE",
-"370 -8 LINE",
-"213 471 LINE",
-"0 399 LINE",
-"35 283 LINE",
-"134 320 LINE",
-"108 336 LINE",
-"274 -137 LINE"
+"400 -131 LINE",
+"616 720 LINE",
+"583 690 LINE",
+"724 690 LINE",
+"724 804 LINE",
+"498 804 LINE",
+"310 -8 LINE",
+"353 -8 LINE",
+"203 450 LINE",
+"0 381 LINE",
+"33 270 LINE",
+"128 306 LINE",
+"103 321 LINE",
+"262 -131 LINE"
 );
 }
 );
-width = 758;
+width = 724;
 },
 {
 background = {
@@ -55,20 +55,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"721 801 LINE",
-"721 841 LINE",
-"511 841 LINE",
-"281 -79 LINE",
-"294 -79 LINE",
-"102 469 LINE",
-"-9 426 LINE",
-"5 389 LINE",
-"81 418 LINE",
-"72 423 LINE",
-"267 -137 LINE",
-"302 -137 LINE",
-"549 808 LINE",
-"541 801 LINE"
+"688 765 LINE",
+"688 803 LINE",
+"488 803 LINE",
+"268 -75 LINE",
+"281 -75 LINE",
+"97 448 LINE",
+"-9 407 LINE",
+"5 371 LINE",
+"77 399 LINE",
+"69 404 LINE",
+"255 -131 LINE",
+"288 -131 LINE",
+"524 771 LINE",
+"516 765 LINE"
 );
 }
 );
@@ -78,24 +78,24 @@ paths = (
 {
 closed = 1;
 nodes = (
-"305 -137 LINE",
-"549 808 LINE",
-"541 801 LINE",
-"710 801 LINE",
-"710 841 LINE",
-"511 841 LINE",
-"285 -79 LINE",
-"297 -79 LINE",
-"112 429 LINE",
-"0 386 LINE",
-"14 349 LINE",
-"90 378 LINE",
-"81 384 LINE",
-"271 -137 LINE"
+"291 -131 LINE",
+"524 771 LINE",
+"516 765 LINE",
+"678 765 LINE",
+"678 803 LINE",
+"488 803 LINE",
+"272 -75 LINE",
+"284 -75 LINE",
+"107 410 LINE",
+"0 369 LINE",
+"13 333 LINE",
+"86 361 LINE",
+"77 367 LINE",
+"259 -131 LINE"
 );
 }
 );
-width = 711;
+width = 679;
 }
 );
 unicode = 221A;

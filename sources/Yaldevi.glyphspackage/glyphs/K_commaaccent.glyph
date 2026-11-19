@@ -8,11 +8,11 @@ name = K;
 },
 {
 name = quoteright;
-transform = "{0.87, 0, 0, 0.87, 221, -786}";
+transform = "{0.87, 0, 0, 0.87, 211, -750}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 635;
+width = 606;
 },
 {
 components = (
@@ -21,11 +21,11 @@ name = K;
 },
 {
 name = quoteright;
-transform = "{0.931, 0, 0, 0.931, 211, -825}";
+transform = "{0.931, 0, 0, 0.931, 201, -788}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 585;
+width = 558;
 }
 );
 unicode = 0136;

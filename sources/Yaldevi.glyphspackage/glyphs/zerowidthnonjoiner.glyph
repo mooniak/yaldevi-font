@@ -7,10 +7,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-68 -1 LINE",
-"-68 834 LINE",
-"57 834 LINE",
-"57 -1 LINE"
+"-65 -1 LINE",
+"-65 796 LINE",
+"54 796 LINE",
+"54 -1 LINE"
 );
 }
 );
@@ -22,10 +22,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-20 2 LINE",
-"-20 839 LINE",
-"19 839 LINE",
-"19 2 LINE"
+"-19 2 LINE",
+"-19 801 LINE",
+"18 801 LINE",
+"18 2 LINE"
 );
 }
 );

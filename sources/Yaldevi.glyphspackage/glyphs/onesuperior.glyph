@@ -7,23 +7,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"61 620 LINE",
-"27 709 LINE",
-"160 768 LINE",
-"273 768 LINE",
-"273 307 LINE",
-"147 307 LINE",
-"147 716 LINE",
-"184 669 LINE"
+"58 592 LINE",
+"26 677 LINE",
+"153 733 LINE",
+"261 733 LINE",
+"261 293 LINE",
+"140 293 LINE",
+"140 684 LINE",
+"176 639 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"67 407 LINE",
-"339 407 LINE",
-"339 307 LINE",
-"67 307 LINE"
+"64 389 LINE",
+"324 389 LINE",
+"324 293 LINE",
+"64 293 LINE"
 );
 }
 );
@@ -33,27 +33,27 @@ paths = (
 {
 closed = 1;
 nodes = (
-"59 608 LINE",
-"19 708 LINE",
-"160 768 LINE",
-"273 768 LINE",
-"273 307 LINE",
-"147 307 LINE",
-"147 716 LINE",
-"186 657 LINE"
+"56 580 LINE",
+"18 676 LINE",
+"153 733 LINE",
+"261 733 LINE",
+"261 293 LINE",
+"140 293 LINE",
+"140 684 LINE",
+"178 627 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"59 407 LINE",
-"342 407 LINE",
-"342 307 LINE",
-"59 307 LINE"
+"56 389 LINE",
+"327 389 LINE",
+"327 293 LINE",
+"56 293 LINE"
 );
 }
 );
-width = 355;
+width = 339;
 },
 {
 background = {
@@ -61,23 +61,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"51 676 LINE",
-"38 708 LINE",
-"183 768 LINE",
-"211 768 LINE",
-"211 307 LINE",
-"176 307 LINE",
-"176 742 LINE",
-"187 734 LINE"
+"49 645 LINE",
+"36 676 LINE",
+"175 733 LINE",
+"201 733 LINE",
+"201 293 LINE",
+"168 293 LINE",
+"168 708 LINE",
+"179 701 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"75 336 LINE",
-"283 336 LINE",
-"283 307 LINE",
-"75 307 LINE"
+"72 321 LINE",
+"270 321 LINE",
+"270 293 LINE",
+"72 293 LINE"
 );
 }
 );
@@ -87,27 +87,27 @@ paths = (
 {
 closed = 1;
 nodes = (
-"52 671 LINE",
-"38 708 LINE",
-"183 768 LINE",
-"216 768 LINE",
-"216 307 LINE",
-"172 307 LINE",
-"172 742 LINE",
-"188 729 LINE"
+"50 641 LINE",
+"36 676 LINE",
+"175 733 LINE",
+"206 733 LINE",
+"206 293 LINE",
+"164 293 LINE",
+"164 708 LINE",
+"179 696 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"73 343 LINE",
-"285 343 LINE",
-"285 307 LINE",
-"73 307 LINE"
+"70 327 LINE",
+"272 327 LINE",
+"272 293 LINE",
+"70 293 LINE"
 );
 }
 );
-width = 318;
+width = 304;
 }
 );
 leftMetricsKey = one;

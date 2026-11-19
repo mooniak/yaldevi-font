@@ -7,23 +7,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"93 671 LINE",
-"79 708 LINE",
-"224 768 LINE",
-"257 768 LINE",
-"257 307 LINE",
-"213 307 LINE",
-"213 742 LINE",
-"229 729 LINE"
+"89 641 LINE",
+"75 676 LINE",
+"214 733 LINE",
+"245 733 LINE",
+"245 293 LINE",
+"203 293 LINE",
+"203 708 LINE",
+"219 696 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"114 343 LINE",
-"326 343 LINE",
-"326 307 LINE",
-"114 307 LINE"
+"109 327 LINE",
+"311 327 LINE",
+"311 293 LINE",
+"109 293 LINE"
 );
 }
 );
@@ -33,22 +33,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"300 307 LINE",
-"300 770 LINE",
-"254 770 LINE",
-"38 453 LINE",
-"42 424 LINE",
-"356 425 LINE",
-"356 462 LINE",
-"72 462 LINE",
-"83 453 LINE",
-"270 727 LINE",
-"257 727 LINE",
-"257 307 LINE"
+"286 293 LINE",
+"286 735 LINE",
+"242 735 LINE",
+"36 432 LINE",
+"40 405 LINE",
+"340 406 LINE",
+"340 441 LINE",
+"69 441 LINE",
+"79 432 LINE",
+"258 694 LINE",
+"245 694 LINE",
+"245 293 LINE"
 );
 }
 );
-width = 393;
+width = 375;
 },
 {
 background = {
@@ -56,23 +56,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"159 608 LINE",
-"119 708 LINE",
-"260 768 LINE",
-"373 768 LINE",
-"373 307 LINE",
-"247 307 LINE",
-"247 716 LINE",
-"286 657 LINE"
+"152 580 LINE",
+"114 676 LINE",
+"248 733 LINE",
+"356 733 LINE",
+"356 293 LINE",
+"236 293 LINE",
+"236 684 LINE",
+"273 627 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"159 407 LINE",
-"442 407 LINE",
-"442 307 LINE",
-"159 307 LINE"
+"152 389 LINE",
+"422 389 LINE",
+"422 293 LINE",
+"152 293 LINE"
 );
 }
 );
@@ -82,22 +82,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"361 307 LINE",
-"361 770 LINE",
-"203 770 LINE",
-"17 468 LINE",
-"29 386 LINE",
-"419 386 LINE",
-"419 488 LINE",
-"99 488 LINE",
-"124 454 LINE",
-"264 700 LINE",
-"235 700 LINE",
-"235 307 LINE"
+"345 293 LINE",
+"345 735 LINE",
+"194 735 LINE",
+"16 447 LINE",
+"28 369 LINE",
+"400 369 LINE",
+"400 466 LINE",
+"95 466 LINE",
+"118 433 LINE",
+"252 668 LINE",
+"224 668 LINE",
+"224 293 LINE"
 );
 }
 );
-width = 450;
+width = 430;
 }
 );
 leftMetricsKey = four;

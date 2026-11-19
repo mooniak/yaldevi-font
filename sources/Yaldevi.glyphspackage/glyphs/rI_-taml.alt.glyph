@@ -5,7 +5,7 @@ layers = (
 components = (
 {
 name = "isign-taml.ma";
-transform = "{1, 0, 0, 1, 647, 0}";
+transform = "{1, 0, 0, 1, 618, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -13,26 +13,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"68 1 LINE",
-"68 637 LINE",
-"613 637 LINE",
-"613 526 LINE",
-"496 526 LINE",
-"496 1 LINE",
-"373 1 LINE",
-"373 526 LINE",
-"190 526 LINE",
-"190 1 LINE"
+"65 1 LINE",
+"65 608 LINE",
+"585 608 LINE",
+"585 502 LINE",
+"474 502 LINE",
+"474 1 LINE",
+"356 1 LINE",
+"356 502 LINE",
+"181 502 LINE",
+"181 1 LINE"
 );
 }
 );
-width = 877;
+width = 837;
 },
 {
 components = (
 {
 name = "isign-taml.ma";
-transform = "{1, 0, 0, 1, 595, 0}";
+transform = "{1, 0, 0, 1, 568, 0}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -40,20 +40,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"57 0 LINE",
-"57 637 LINE",
-"568 637 LINE",
-"568 589 LINE",
-"417 589 LINE",
-"413 0 LINE",
-"362 0 LINE",
-"365 589 LINE",
-"105 589 LINE",
-"105 0 LINE"
+"54 0 LINE",
+"54 608 LINE",
+"542 608 LINE",
+"542 562 LINE",
+"398 562 LINE",
+"394 0 LINE",
+"346 0 LINE",
+"348 562 LINE",
+"100 562 LINE",
+"100 0 LINE"
 );
 }
 );
-width = 777;
+width = 742;
 }
 );
 }

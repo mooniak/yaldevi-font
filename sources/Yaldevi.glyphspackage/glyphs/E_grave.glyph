@@ -8,11 +8,11 @@ name = E;
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 62, 182}";
+transform = "{1, 0, 0, 1, 59, 174}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 530;
+width = 506;
 },
 {
 components = (
@@ -21,11 +21,11 @@ name = E;
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 58, 165}";
+transform = "{1, 0, 0, 1, 55, 158}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 526;
+width = 502;
 }
 );
 unicode = 00C8;

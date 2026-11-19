@@ -5,26 +5,26 @@ layers = (
 components = (
 {
 name = guilsinglleft;
-transform = "{-1, 0, 0, -1, 349, 597}";
+transform = "{-1, 0, 0, -1, 333, 570}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 349;
+width = 333;
 },
 {
 components = (
 {
 name = guilsinglleft;
-transform = "{-1, 0, 0, -1, 282, 599}";
+transform = "{-1, 0, 0, -1, 269, 572}";
 }
 );
 guideLines = (
 {
-position = "{96, 90}";
+position = "{92, 86}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 282;
+width = 269;
 }
 );
 unicode = 203A;

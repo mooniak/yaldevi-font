@@ -8,11 +8,11 @@ name = "a-sinh";
 },
 {
 name = "aasign-sinh";
-transform = "{1, 0, 0, 1, 646, 0}";
+transform = "{1, 0, 0, 1, 617, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 1003;
+width = 958;
 },
 {
 components = (
@@ -21,11 +21,11 @@ name = "a-sinh";
 },
 {
 name = "aasign-sinh";
-transform = "{1, 0, 0, 1, 631, 0}";
+transform = "{1, 0, 0, 1, 602, 0}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 900;
+width = 859;
 }
 );
 unicode = 0D86;

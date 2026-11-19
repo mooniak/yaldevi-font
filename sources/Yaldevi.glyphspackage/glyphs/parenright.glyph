@@ -5,21 +5,21 @@ layers = (
 components = (
 {
 name = parenleft;
-transform = "{-1, 0, 0, -1, 368, 681}";
+transform = "{-1, 0, 0, -1, 351, 650}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 368;
+width = 351;
 },
 {
 components = (
 {
 name = parenleft;
-transform = "{-1, 0, 0, -1, 299, 681}";
+transform = "{-1, 0, 0, -1, 285, 650}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 294;
+width = 281;
 }
 );
 unicode = 0029;

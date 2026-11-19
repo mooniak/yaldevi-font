@@ -7,22 +7,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"412 379 LINE",
-"135 617 LINE",
-"51 534 LINE",
-"247 378 LINE",
-"234 368 LINE",
-"51 218 LINE",
-"129 134 LINE"
+"393 362 LINE",
+"129 589 LINE",
+"49 510 LINE",
+"236 361 LINE",
+"223 351 LINE",
+"49 208 LINE",
+"123 128 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"402 -11 LINE",
-"402 114 LINE",
-"59 114 LINE",
-"59 -11 LINE"
+"384 -11 LINE",
+"384 109 LINE",
+"56 109 LINE",
+"56 -11 LINE"
 );
 }
 );
@@ -30,11 +30,11 @@ nodes = (
 guideLines = (
 {
 angle = 90;
-position = "{45, 354}";
+position = "{43, 338}";
 },
 {
 angle = 90;
-position = "{365, 354}";
+position = "{348, 338}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -42,26 +42,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"412 379 LINE",
-"140 613 LINE",
-"51 519 LINE",
-"247 363 LINE",
-"247 395 LINE",
-"51 236 LINE",
-"132 138 LINE"
+"393 362 LINE",
+"134 585 LINE",
+"49 495 LINE",
+"236 347 LINE",
+"236 377 LINE",
+"49 225 LINE",
+"126 132 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"402 -11 LINE",
-"402 114 LINE",
-"59 114 LINE",
-"59 -11 LINE"
+"384 -11 LINE",
+"384 109 LINE",
+"56 109 LINE",
+"56 -11 LINE"
 );
 }
 );
-width = 447;
+width = 427;
 },
 {
 background = {
@@ -69,22 +69,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"442 366 LINE",
-"100 600 LINE",
-"75 563 LINE",
-"362 372 LINE",
-"371 365 LINE",
-"74 160 LINE",
-"98 129 LINE"
+"422 349 LINE",
+"95 573 LINE",
+"72 537 LINE",
+"346 355 LINE",
+"354 348 LINE",
+"71 153 LINE",
+"94 123 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"438 34 LINE",
-"438 76 LINE",
-"80 76 LINE",
-"80 34 LINE"
+"418 32 LINE",
+"418 73 LINE",
+"76 73 LINE",
+"76 32 LINE"
 );
 }
 );
@@ -92,7 +92,7 @@ nodes = (
 guideLines = (
 {
 angle = 90;
-position = "{66, 305}";
+position = "{63, 291}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -100,26 +100,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"442 366 LINE",
-"100 600 LINE",
-"75 562 LINE",
-"378 361 LINE",
-"378 371 LINE",
-"74 162 LINE",
-"98 129 LINE"
+"422 349 LINE",
+"95 573 LINE",
+"72 537 LINE",
+"361 345 LINE",
+"361 354 LINE",
+"71 155 LINE",
+"94 123 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"438 34 LINE",
-"438 76 LINE",
-"80 76 LINE",
-"80 34 LINE"
+"418 32 LINE",
+"418 73 LINE",
+"76 73 LINE",
+"76 32 LINE"
 );
 }
 );
-width = 515;
+width = 492;
 }
 );
 unicode = 2265;

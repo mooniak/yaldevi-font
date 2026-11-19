@@ -8,11 +8,11 @@ name = "o-taml";
 },
 {
 name = "lla-taml";
-transform = "{1, 0, 0, 1, 781, 0}";
+transform = "{1, 0, 0, 1, 746, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 1794;
+width = 1713;
 },
 {
 components = (
@@ -21,11 +21,11 @@ name = "o-taml";
 },
 {
 name = "lla-taml";
-transform = "{1, 0, 0, 1, 781, 0}";
+transform = "{1, 0, 0, 1, 746, 0}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 1770;
+width = 1690;
 }
 );
 unicode = 0B94;

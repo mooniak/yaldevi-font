@@ -5,15 +5,15 @@ layers = (
 anchors = (
 {
 name = _top;
-position = "{216, 569}";
+position = "{206, 543}";
 }
 );
 guideLines = (
 {
-position = "{50, 696}";
+position = "{48, 664}";
 },
 {
-position = "{50, 592}";
+position = "{48, 565}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -21,28 +21,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"57 790 LINE",
-"57 676 LINE",
-"376 676 LINE",
-"376 790 LINE"
+"54 754 LINE",
+"54 645 LINE",
+"359 645 LINE",
+"359 754 LINE"
 );
 }
 );
-width = 432;
+width = 412;
 },
 {
 anchors = (
 {
 name = _top;
-position = "{201, 569}";
+position = "{192, 543}";
 }
 );
 guideLines = (
 {
-position = "{50, 661}";
+position = "{48, 631}";
 },
 {
-position = "{50, 627}";
+position = "{48, 599}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -50,14 +50,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"63 753 LINE",
-"63 714 LINE",
-"341 714 LINE",
-"341 753 LINE"
+"60 719 LINE",
+"60 682 LINE",
+"326 682 LINE",
+"326 719 LINE"
 );
 }
 );
-width = 404;
+width = 386;
 }
 );
 unicode = 00AF;

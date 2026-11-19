@@ -8,11 +8,11 @@ name = "u-sinh";
 },
 {
 name = "vocaliclsign-sinh";
-transform = "{1, 0, 0, 1, 612, 0}";
+transform = "{1, 0, 0, 1, 584, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 1129;
+width = 1078;
 },
 {
 components = (
@@ -21,11 +21,11 @@ name = "u-sinh";
 },
 {
 name = "vocaliclsign-sinh";
-transform = "{1, 0, 0, 1, 551, 0}";
+transform = "{1, 0, 0, 1, 526, 0}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 968;
+width = 924;
 }
 );
 unicode = 0D8C;

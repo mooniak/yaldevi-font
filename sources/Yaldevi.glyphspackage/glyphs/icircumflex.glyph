@@ -12,24 +12,24 @@ paths = (
 {
 closed = 1;
 nodes = (
-"143 847 LINE",
-"-26 707 LINE",
-"35 633 LINE",
-"149 724 LINE",
-"131 724 LINE",
-"245 630 LINE",
-"311 707 LINE"
+"137 809 LINE",
+"-25 675 LINE",
+"33 604 LINE",
+"142 691 LINE",
+"125 691 LINE",
+"234 601 LINE",
+"297 675 LINE"
 );
 }
 );
-width = 279;
+width = 266;
 },
 {
 background = {
 components = (
 {
 name = circumflex;
-transform = "{1, 0, 0, 1, -114, 0}";
+transform = "{1, 0, 0, 1, -109, 0}";
 }
 );
 };
@@ -43,17 +43,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"125 807 LINE",
-"-7 681 LINE",
-"20 655 LINE",
-"126 749 LINE",
-"117 749 LINE",
-"223 654 LINE",
-"250 684 LINE"
+"119 770 LINE",
+"-7 650 LINE",
+"19 625 LINE",
+"120 715 LINE",
+"112 715 LINE",
+"213 624 LINE",
+"239 653 LINE"
 );
 }
 );
-width = 239;
+width = 228;
 }
 );
 unicode = 00EE;

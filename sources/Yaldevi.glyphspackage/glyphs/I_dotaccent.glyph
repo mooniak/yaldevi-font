@@ -9,11 +9,11 @@ name = I;
 {
 alignment = -1;
 name = dotaccent;
-transform = "{1, 0, 0, 1, 3, 187}";
+transform = "{1, 0, 0, 1, 3, 179}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 286;
+width = 273;
 },
 {
 background = {
@@ -21,18 +21,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"166 833 OFFCURVE",
-"214 867 OFFCURVE",
-"214 937 CURVE SMOOTH",
-"214 1004 OFFCURVE",
-"167 1037 OFFCURVE",
-"121 1037 CURVE SMOOTH",
-"74 1037 OFFCURVE",
-"27 1004 OFFCURVE",
-"27 937 CURVE SMOOTH",
-"27 866 OFFCURVE",
-"73 833 OFFCURVE",
-"119 833 CURVE SMOOTH"
+"158 795 OFFCURVE",
+"204 828 OFFCURVE",
+"204 895 CURVE SMOOTH",
+"204 959 OFFCURVE",
+"159 990 OFFCURVE",
+"116 990 CURVE SMOOTH",
+"71 990 OFFCURVE",
+"26 959 OFFCURVE",
+"26 895 CURVE SMOOTH",
+"26 827 OFFCURVE",
+"70 795 OFFCURVE",
+"114 795 CURVE SMOOTH"
 );
 }
 );
@@ -44,11 +44,11 @@ name = I;
 {
 alignment = -1;
 name = dotaccent;
-transform = "{1, 0, 0, 1, -21, 125}";
+transform = "{1, 0, 0, 1, -20, 119}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 253;
+width = 242;
 }
 );
 unicode = 0130;

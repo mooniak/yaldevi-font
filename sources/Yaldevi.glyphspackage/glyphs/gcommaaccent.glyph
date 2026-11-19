@@ -8,11 +8,11 @@ name = g;
 },
 {
 name = quoteright;
-transform = "{-0.87, 0, 0, -0.87, 378, 1359}";
+transform = "{-0.87, 0, 0, -0.87, 361, 1297}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 573;
+width = 547;
 },
 {
 components = (
@@ -21,16 +21,16 @@ name = g;
 },
 {
 name = quoteright;
-transform = "{-0.931, 0, 0, -0.931, 334, 1430}";
+transform = "{-0.931, 0, 0, -0.931, 319, 1365}";
 }
 );
 guideLines = (
 {
-position = "{80, 607}";
+position = "{76, 580}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 510;
+width = 487;
 }
 );
 unicode = 0123;

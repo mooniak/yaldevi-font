@@ -8,11 +8,11 @@ name = s;
 },
 {
 name = cedilla;
-transform = "{1, 0, 0, 1, -16, 0}";
+transform = "{1, 0, 0, 1, -15, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 461;
+width = 440;
 },
 {
 components = (
@@ -25,7 +25,7 @@ transform = "{1, 0, 0, 1, 16, 0}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 428;
+width = 409;
 }
 );
 unicode = 015F;

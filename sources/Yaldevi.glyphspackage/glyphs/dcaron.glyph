@@ -9,11 +9,11 @@ name = d;
 },
 {
 name = quoteright;
-transform = "{0.87, 0, 0, 0.87, 530, 89}";
+transform = "{0.87, 0, 0, 0.87, 506, 85}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 696;
+width = 664;
 },
 {
 components = (
@@ -23,11 +23,11 @@ name = d;
 },
 {
 name = quoteright;
-transform = "{0.931, 0, 0, 0.931, 468, 30}";
+transform = "{0.931, 0, 0, 0.931, 447, 29}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 563;
+width = 537;
 }
 );
 leftMetricsKey = d;

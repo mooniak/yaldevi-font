@@ -8,11 +8,11 @@ name = O;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 208, 176}";
+transform = "{1, 0, 0, 1, 199, 168}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 709;
+width = 677;
 },
 {
 components = (
@@ -21,11 +21,11 @@ name = O;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 161, 154}";
+transform = "{1, 0, 0, 1, 154, 147}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 665;
+width = 635;
 }
 );
 unicode = 00D3;

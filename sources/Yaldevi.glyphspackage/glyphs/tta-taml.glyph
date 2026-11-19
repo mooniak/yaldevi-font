@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = virama;
-position = "{370, 723}";
+position = "{353, 690}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
@@ -13,22 +13,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"68 1 LINE",
-"68 637 LINE",
-"190 637 LINE",
-"190 113 LINE",
-"657 113 LINE",
-"657 1 LINE"
+"65 1 LINE",
+"65 608 LINE",
+"181 608 LINE",
+"181 108 LINE",
+"627 108 LINE",
+"627 1 LINE"
 );
 }
 );
-width = 725;
+width = 692;
 },
 {
 anchors = (
 {
 name = virama;
-position = "{370, 723}";
+position = "{353, 690}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -36,16 +36,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"57 1 LINE",
-"57 637 LINE",
-"105 637 LINE",
-"105 49 LINE",
-"636 49 LINE",
-"636 1 LINE"
+"54 1 LINE",
+"54 608 LINE",
+"100 608 LINE",
+"100 47 LINE",
+"607 47 LINE",
+"607 1 LINE"
 );
 }
 );
-width = 685;
+width = 654;
 }
 );
 unicode = 0B9F;

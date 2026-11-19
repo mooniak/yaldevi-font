@@ -5,21 +5,21 @@ layers = (
 components = (
 {
 name = guillemotleft;
-transform = "{-1, 0, 0, -1, 585, 599}";
+transform = "{-1, 0, 0, -1, 558, 572}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 597;
+width = 570;
 },
 {
 components = (
 {
 name = guillemotleft;
-transform = "{-1, 0, 0, -1, 499, 599}";
+transform = "{-1, 0, 0, -1, 476, 572}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 521;
+width = 497;
 }
 );
 unicode = 00BB;

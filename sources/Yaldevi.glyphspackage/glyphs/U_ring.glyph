@@ -8,11 +8,11 @@ name = U;
 },
 {
 name = ring;
-transform = "{1, 0, 0, 1, 102, 182}";
+transform = "{1, 0, 0, 1, 97, 174}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 661;
+width = 631;
 },
 {
 components = (
@@ -21,11 +21,11 @@ name = U;
 },
 {
 name = ring;
-transform = "{1, 0, 0, 1, 129, 165}";
+transform = "{1, 0, 0, 1, 123, 158}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 686;
+width = 655;
 }
 );
 unicode = 016E;

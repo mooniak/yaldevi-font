@@ -9,11 +9,11 @@ name = A;
 {
 alignment = -1;
 name = ring;
-transform = "{1, 0, 0, 1, 96, 136}";
+transform = "{1, 0, 0, 1, 92, 130}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 634;
+width = 605;
 },
 {
 components = (
@@ -23,11 +23,11 @@ name = A;
 {
 alignment = -1;
 name = ring;
-transform = "{1, 0, 0, 1, 76, 131}";
+transform = "{1, 0, 0, 1, 73, 125}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 584;
+width = 558;
 }
 );
 unicode = 00C5;

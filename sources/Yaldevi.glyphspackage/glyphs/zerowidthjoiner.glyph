@@ -7,28 +7,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-57 1 LINE",
-"-57 707 LINE",
-"57 707 LINE",
-"57 1 LINE"
+"-54 1 LINE",
+"-54 675 LINE",
+"54 675 LINE",
+"54 1 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"-142 556 LINE",
-"-215 641 LINE",
-"135 892 LINE",
-"199 813 LINE"
+"-136 531 LINE",
+"-205 612 LINE",
+"129 852 LINE",
+"190 776 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"210 641 LINE",
-"148 556 LINE",
-"-206 813 LINE",
-"-137 892 LINE"
+"200 612 LINE",
+"141 531 LINE",
+"-197 776 LINE",
+"-131 852 LINE"
 );
 }
 );
@@ -40,28 +40,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-22 10 LINE",
-"-22 716 LINE",
-"19 716 LINE",
-"19 10 LINE"
+"-21 10 LINE",
+"-21 684 LINE",
+"18 684 LINE",
+"18 10 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"-164 556 LINE",
-"-190 594 LINE",
-"178 847 LINE",
-"204 810 LINE"
+"-157 531 LINE",
+"-181 567 LINE",
+"170 809 LINE",
+"195 773 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"191 594 LINE",
-"165 556 LINE",
-"-203 810 LINE",
-"-177 848 LINE"
+"182 567 LINE",
+"158 531 LINE",
+"-194 773 LINE",
+"-169 810 LINE"
 );
 }
 );

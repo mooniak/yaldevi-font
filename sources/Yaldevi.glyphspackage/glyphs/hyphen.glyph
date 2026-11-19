@@ -7,14 +7,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"46 364 LINE",
-"46 250 LINE",
-"331 250 LINE",
-"331 364 LINE"
+"44 348 LINE",
+"44 239 LINE",
+"316 239 LINE",
+"316 348 LINE"
 );
 }
 );
-width = 377;
+width = 360;
 },
 {
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -22,14 +22,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"53 324 LINE",
-"53 285 LINE",
-"316 285 LINE",
-"316 324 LINE"
+"51 309 LINE",
+"51 272 LINE",
+"302 272 LINE",
+"302 309 LINE"
 );
 }
 );
-width = 370;
+width = 353;
 }
 );
 unicode = 002D;

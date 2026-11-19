@@ -10,16 +10,16 @@ name = "esign-sinh";
 {
 alignment = -1;
 name = bullet;
-transform = "{1, 0, 0, 1, 502, 0}";
+transform = "{1, 0, 0, 1, 479, 0}";
 },
 {
 alignment = -1;
 name = "aasign-sinh";
-transform = "{1, 0, 0, 1, 895, 0}";
+transform = "{1, 0, 0, 1, 854, 0}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 1252;
+width = 1195;
 },
 {
 components = (
@@ -30,16 +30,16 @@ name = "esign-sinh";
 {
 alignment = -1;
 name = bullet;
-transform = "{1, 0, 0, 1, 501, 0}";
+transform = "{1, 0, 0, 1, 478, 0}";
 },
 {
 alignment = -1;
 name = "aasign-sinh";
-transform = "{1, 0, 0, 1, 886, 0}";
+transform = "{1, 0, 0, 1, 846, 0}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 1155;
+width = 1103;
 }
 );
 leftMetricsKey = "ga-sinh";

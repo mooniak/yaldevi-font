@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _top;
-position = "{148, 569}";
+position = "{141, 543}";
 }
 );
 background = {
@@ -13,10 +13,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"325 753 LINE",
-"257 848 LINE",
-"51 696 LINE",
-"106 621 LINE"
+"310 719 LINE",
+"245 810 LINE",
+"49 664 LINE",
+"101 593 LINE"
 );
 }
 );
@@ -26,20 +26,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"339 761 LINE",
-"267 868 LINE",
-"50 716 LINE",
-"107 628 LINE"
+"324 727 LINE",
+"255 829 LINE",
+"48 684 LINE",
+"102 600 LINE"
 );
 }
 );
-width = 366;
+width = 349;
 },
 {
 anchors = (
 {
 name = _top;
-position = "{175, 569}";
+position = "{167, 543}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
@@ -47,14 +47,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"302 772 LINE",
-"267 813 LINE",
-"113 692 LINE",
-"137 660 LINE"
+"288 737 LINE",
+"255 776 LINE",
+"108 661 LINE",
+"131 630 LINE"
 );
 }
 );
-width = 382;
+width = 365;
 }
 );
 unicode = 00B4;

@@ -8,11 +8,11 @@ name = O;
 },
 {
 name = hungarumlaut;
-transform = "{1, 0, 0, 1, 109, 176}";
+transform = "{1, 0, 0, 1, 104, 168}";
 }
 );
 layerId = "6114C541-D024-4A3E-9713-6FAF49EAB318";
-width = 709;
+width = 677;
 },
 {
 components = (
@@ -21,11 +21,11 @@ name = O;
 },
 {
 name = hungarumlaut;
-transform = "{1, 0, 0, 1, 116, 154}";
+transform = "{1, 0, 0, 1, 111, 147}";
 }
 );
 layerId = "CC11FE7D-5FF0-4B40-9597-DFC61EB94F41";
-width = 665;
+width = 635;
 }
 );
 unicode = 0150;
